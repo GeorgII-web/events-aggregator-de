@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-11-ludwigshafen-weihnachtsmarkt-ludwigshafen@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261224
 SUMMARY:Weihnachtsmarkt Ludwigshafen
@@ -38,7 +38,7 @@ CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-ludwigshafen-der-klassische-flohmarkt@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Der klassische Flohmarkt (unconfirmed)
@@ -55,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-limburgerhof-kunsthandwerkermarkt-limburgerhof@events-searc
  h
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Kunsthandwerkermarkt Limburgerhof (unconfirmed)
@@ -70,7 +70,7 @@ CATEGORIES:craft-market
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-heidelberg-heidelberger-weihnachtsmarkt@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261223
 SUMMARY:Heidelberger Weihnachtsmarkt
@@ -86,7 +86,7 @@ CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-heidelberg-heidelberger-eisbahn@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20270111
 SUMMARY:Heidelberger Eisbahn
@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-mannheim-mannheimer-weihnachtsmarkt-am-wasserturm@events-se
  arch
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261224
 SUMMARY:Mannheimer Weihnachtsmarkt am Wasserturm
@@ -115,7 +115,7 @@ CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-mannheim-weihnachtsmarkt-kapuzinerplanken@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261225
 SUMMARY:Weihnachtsmarkt Kapuzinerplanken (unconfirmed)
@@ -129,7 +129,7 @@ CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-speyer-speyerer-weihnachts-und-neujahrsmarkt@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20270111
 SUMMARY:Speyerer Weihnachts- und Neujahrsmarkt
@@ -147,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-speyer-kunsthandwerkermarkt-im-rathaushof-speyer@events-sea
  rch
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261221
 SUMMARY:Kunsthandwerkermarkt im Rathaushof Speyer
@@ -164,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-schwetzingen-kurfurstlicher-weihnachtsmarkt-schwetzingen@ev
  ents-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261221
 SUMMARY:Kurfürstlicher Weihnachtsmarkt Schwetzingen (no dates yet)
@@ -177,7 +177,7 @@ CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-weinheim-weinheimer-weihnachtsmarkt@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261222
 SUMMARY:Weinheimer Weihnachtsmarkt (unconfirmed)
@@ -192,7 +192,7 @@ CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-bensheim-goldplay-live-coldplay-tribute@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Goldplay.live (Coldplay tribute) (unconfirmed)
@@ -205,7 +205,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-mannheim-big-4-tribute-festival-metallica-slayer-megadeth-a
  nthrax@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Big 4 Tribute Festival (Metallica\, Slayer\, Megadeth\, Anthrax) (
@@ -219,7 +219,7 @@ CATEGORIES:small-concert,tribute-band,metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-beindersheim-mirage-fleetwood-mac-tribute@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;TZID=Europe/Berlin:20261120T200000
 DTEND;TZID=Europe/Berlin:20261120T220000
 SUMMARY:Mirage (Fleetwood Mac tribute) (unconfirmed)
@@ -232,7 +232,7 @@ CATEGORIES:small-concert,tribute-band
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-mannheim-purple-rising-deep-purple-tribute@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Purple Rising (Deep Purple tribute) (unconfirmed)
@@ -246,7 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-lorsch-lorscher-weihnachtsmarkt-das-blaue-weihnachtswunder@
  events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261130
 SUMMARY:Lorscher Weihnachtsmarkt: Das Blaue Weihnachtswunder (unconfirmed)
@@ -262,7 +262,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-heidelberg-heidelberg-castle-classic-guided-tour-de-en@even
  ts-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20270107
 SUMMARY:Heidelberg Castle: classic guided tour (DE / EN)
@@ -279,7 +279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-worms-jewish-cemetery-heiliger-sand-public-tour@events-sear
  ch
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261128
 SUMMARY:Jewish cemetery Heiliger Sand: public tour (unconfirmed)
@@ -296,7 +296,7 @@ CATEGORIES:guided-tour,heritage,unesco
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-worms-wormser-weihnacht@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261224
 SUMMARY:Wormser Weihnacht (unconfirmed)
@@ -312,7 +312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-heidelberg-oratorio-for-all-saints-denn-sie-sollen-getroste
  t-werden@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Oratorio for All Saints: Denn sie sollen getröstet werden (unconf
@@ -327,7 +327,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-ludwigshafen-daniel-ottensamer-signum-quartett@events-searc
  h
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Daniel Ottensamer & Signum Quartett (unconfirmed)
@@ -342,7 +342,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-ludwigshafen-3-abo-konzert-deutsche-staatsphilharmonie@even
  ts-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:3. Abo-Konzert: Deutsche Staatsphilharmonie (unconfirmed)
@@ -358,7 +358,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-mannheim-rammstein-symphonic-tribute-herzfeuer@events-searc
  h
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Rammstein Symphonic Tribute: Herzfeuer (unconfirmed)
@@ -371,7 +371,7 @@ CATEGORIES:tribute-band,orchestra
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-mannheim-gospel-concert-preacherman-s-friends@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Gospel concert: Preacherman's Friends (unconfirmed)
@@ -385,7 +385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-heidelberg-royal-concertgebouw-orchestra-klaus-makela-heide
  lberger-fruhling@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Royal Concertgebouw Orchestra\, Klaus Mäkelä (Heidelberger Früh
@@ -401,7 +401,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-mannheim-1-finestclassics-arcadi-volodos-piano@events-searc
  h
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:1. FinestClassics: Arcadi Volodos (piano) (unconfirmed)
@@ -416,7 +416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-mannheim-mozart-gala-soloists-of-the-musikhochschule-mannhe
  im@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Mozart-Gala: soloists of the Musikhochschule Mannheim (unconfirmed
@@ -432,7 +432,7 @@ CATEGORIES:classical,student-concert,orchestra
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-heidelberg-de-profundis-1-bachchor-konzert@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:De Profundis: 1. Bachchor-Konzert (unconfirmed)
@@ -446,7 +446,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-speyer-internationaler-orgelzyklus-orgelkonzert-viii-marcel
  -eliasch@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;TZID=Europe/Berlin:20261114T193000
 DTEND;TZID=Europe/Berlin:20261114T213000
 SUMMARY:Internationaler Orgelzyklus: Orgelkonzert VIII\, Marcel Eliasch (u
@@ -462,7 +462,7 @@ CATEGORIES:classical,church-concert,organ
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-heidelberg-espressione-1-kammerkonzert@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Espressione: 1. Kammerkonzert (unconfirmed)
@@ -476,7 +476,7 @@ CATEGORIES:classical,chamber
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-ludwigshafen-berliner-solisten-sextett@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Berliner Solisten Sextett (unconfirmed)
@@ -490,7 +490,7 @@ CATEGORIES:classical,chamber
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-mannheim-kammermusik-in-den-rem-3-konzert@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Kammermusik in den REM: 3. Konzert (unconfirmed)
@@ -504,7 +504,7 @@ CATEGORIES:classical,chamber
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-mannheim-royal-scottish-national-orchestra@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Royal Scottish National Orchestra (unconfirmed)
@@ -518,7 +518,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-heidelberg-mozart-grosse-messe-c-moll-bach-kantate-131@even
  ts-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Mozart: Große Messe c-Moll; Bach: Kantate 131 (unconfirmed)
@@ -533,7 +533,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-ludwigshafen-musik-aus-der-stille-deutsche-staatsphilharmon
  ie@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Musik aus der Stille: Deutsche Staatsphilharmonie (unconfirmed)
@@ -548,7 +548,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-heidelberg-chorkonzert-am-ewigkeitssonntag-mendelssohn-elia
  s@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;TZID=Europe/Berlin:20261122T170000
 DTEND;TZID=Europe/Berlin:20261122T190000
 SUMMARY:Chorkonzert am Ewigkeitssonntag: Mendelssohn\, Elias (unconfirmed)
@@ -562,7 +562,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-mannheim-hommage-an-ludovico-einaudi-burak-cebi@events-sear
  ch
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Hommage an Ludovico Einaudi: Burak Çebi (unconfirmed)
@@ -575,7 +575,7 @@ CATEGORIES:classical,piano
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-heidelberg-amarcord-vocal-ensemble@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:amarcord (vocal ensemble) (unconfirmed)
@@ -589,7 +589,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-heidelberg-wachet-auf-advent-concert-choir-cello-poetry@eve
  nts-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;TZID=Europe/Berlin:20261128T190000
 DTEND;TZID=Europe/Berlin:20261128T210000
 SUMMARY:Wachet auf! Advent concert (choir\, cello\, poetry) (unconfirmed)
@@ -605,7 +605,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-mannheim-celebration-gospel-choir-handel-s-messiah@events-s
  earch
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Celebration Gospel Choir: Handel's Messiah (unconfirmed)
@@ -618,7 +618,7 @@ CATEGORIES:classical,choir,oratorio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-heidelberg-memento-odesa@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Memento Odesa (unconfirmed)
@@ -632,7 +632,7 @@ CATEGORIES:classical,chamber
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-heidelberg-tosca-puccini@events-search
-DTSTAMP:20261101T135643Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20270410
 SUMMARY:Tosca (Puccini) (unconfirmed)
