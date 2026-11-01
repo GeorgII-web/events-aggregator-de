@@ -31,8 +31,8 @@ Facts are as of the "Checked" date on the page; always confirm on the event link
 
 ## How it is made
 
-`index.html` and `events.ics` are generated, committed and pushed by
+The site files (`index.html`, `event.html`, `events.ics`, `e/`) are generated, committed and pushed by
 [events-aggregator](https://github.com/GeorgII-web/events-aggregator), an agent skill with scripts that searches,
 verifies and stores the events. Every push to `main` runs the workflow `.github/workflows/pages.yml`, which deploys
-both files to GitHub Pages. Do not edit them here; changes are overwritten by the next update.
+them to GitHub Pages. Do not edit them here; changes are overwritten by the next update.
 To build a feed for your own region and taste, clone events-aggregator and follow its README.
