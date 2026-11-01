@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-12-mannheim-moscow-death-brigade",
+ "name": "Moscow Death Brigade",
+ "description": "punk and hip-hop crew known for masked live shows",
+ "start": "2026-11-12",
+ "end": "2026-11-12",
+ "hours": "n/a",
+ "place": "7er Club",
+ "address": "Industriestraße 7, 68169 Mannheim",
+ "city": "Mannheim",
+ "price": "from 28.80 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "rating": "4.7",
+ "tags": [
+  "punk"
+ ],
+ "details": "Moscow Death Brigade mix hip-hop, punk and electronic beats and play in balaclavas; energetic, political club shows. Date and price from the mvp.de listing; check the venue page before buying tickets.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T15:59:33.815Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Moscow+Death+Brigade&dates=20261112%2F20261113&details=punk+and+hip-hop+crew+known+for+masked+live+shows%0AHours%3A+n%2Fa%0APrice%3A+from+28.80+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
+ "priceValue": 28.8
+}

@@ -1,0 +1,35 @@
+{
+ "id": "2026-12-12-neckargemund-dilsberger-weihnachtsmeile",
+ "name": "Dilsberger Weihnachtsmeile",
+ "description": "Christmas market inside a hilltop fortress",
+ "start": "2026-12-12",
+ "end": "2026-12-13",
+ "dateNote": "2026 date not out; usually the 3rd Advent weekend",
+ "hours": "n/a",
+ "place": "Burgfeste Dilsberg",
+ "address": "n/a",
+ "city": "Neckargemünd",
+ "price": "free",
+ "size": "small",
+ "status": "no dates yet",
+ "link": "https://freizeitmonster.de/aktivitaeten/veranstaltungen/dilsberger-weihnachtsmeile-2025-324985",
+ "source": "freizeitmonster.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "christmas-market",
+  "castle"
+ ],
+ "details": "Christmas market in the lanes of the walled hilltop village and fortress of Dilsberg above the Neckar. The 2026 date is not published yet; in 2025 it was on the third Advent weekend, so the date here is an estimate.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T15:59:33.868Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "christmas",
+  "castle"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dilsberger+Weihnachtsmeile&dates=20261212%2F20261214&details=Christmas+market+inside+a+hilltop+fortress%0ADates%3A+2026+date+not+out%3B+usually+the+3rd+Advent+weekend%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+no+dates+yet+%28freizeitmonster.de%29%0Ahttps%3A%2F%2Ffreizeitmonster.de%2Faktivitaeten%2Fveranstaltungen%2Fdilsberger-weihnachtsmeile-2025-324985&location=Burgfeste+Dilsberg%2C+Neckargem%C3%BCnd&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Burgfeste%20Dilsberg%2C%20Neckargem%C3%BCnd",
+ "priceValue": 0
+}

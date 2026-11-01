@@ -24,6 +24,151 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-04-mannheim-murphy-s-law-jawless@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Murphy's Law + Jawless (unconfirmed)
+DESCRIPTION:New York hardcore punk veterans with a UK support band\nHours:
+  n/a\nPrice: from 29.37 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mv
+ p.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:punk,hardcore
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-mannheim-shakra-just-live-loud-tour-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Shakra: Just Live Loud Tour 2026 (unconfirmed)
+DESCRIPTION:Swiss hard rock band on tour\nHours: n/a\nPrice: from 36.20 EU
+ R\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltun
+ gen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:hard-rock,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-mannheim-moscow-death-brigade@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Moscow Death Brigade (unconfirmed)
+DESCRIPTION:punk and hip-hop crew known for masked live shows\nHours: n/a\
+ nPrice: from 28.80 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/
+ mannheim/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:punk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-mannheim-atrophy@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Atrophy (unconfirmed)
+DESCRIPTION:US thrash metal band from Texas\nHours: n/a\nPrice: from 27.10
+  EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstal
+ tungen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:metal,thrash
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-mannheim-health-conflict-europe-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:HEALTH: Conflict Europe 2026 (unconfirmed)
+DESCRIPTION:noise rock / industrial band from Los Angeles\nHours: n/a\nPri
+ ce: from 41 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannhei
+ m/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:Alte Feuerwache\, Brückenstraße 2\, 68167 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:rock,industrial
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-mannheim-soen-reliance-tour@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:SOEN: Reliance Tour (unconfirmed)
+DESCRIPTION:Swedish progressive metal band\nHours: n/a\nPrice: from 42.50 
+ EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstalt
+ ungen/konzert-metal-hard-rock/
+LOCATION:Alte Feuerwache\, Brückenstraße 2\, 68167 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:metal,progressive
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-mannheim-chelsea-wolfe-the-dark-world-tour@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Chelsea Wolfe: The Dark World Tour (unconfirmed)
+DESCRIPTION:US singer between doom\, goth rock and dark folk\nHours: n/a\n
+ Price: from 47.90 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/m
+ annheim/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:Capitol\, Waldhofstraße 2\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:rock,doom,goth
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-mannheim-wednesday-13-cursed-blessings-tour@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Wednesday 13: Cursed Blessings Tour (unconfirmed)
+DESCRIPTION:US horror punk / metal singer and band\nHours: n/a\nPrice: fro
+ m 46 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veran
+ staltungen/konzert-metal-hard-rock/
+LOCATION:MS Connexion Complex\, Angelstraße 33\, 68199 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:punk,metal,horror-punk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-mannheim-mystic-prophecy-iron-savior-heavy-metal-mania-tour
+ -2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Mystic Prophecy & Iron Savior: Heavy Metal Mania Tour 2026 (unconf
+ irmed)
+DESCRIPTION:double bill of two German power metal bands\nHours: n/a\nPrice
+ : from 34.20 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannhe
+ im/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:metal,power-metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-heidelberg-the-end-of-music-ahab@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:The End of Music: Ahab (unconfirmed)
+DESCRIPTION:German funeral doom metal band\nHours: n/a\nPrice: from 32.90 
+ EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/heidelberg/veransta
+ ltungen/konzert-metal-hard-rock/
+LOCATION:Karlstorbahnhof\, Marlene-Dietrich-Platz 3\, 69126 Heidelberg
+URL:https://www.mvp.de/heidelberg/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:metal,doom
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-mannheim-christmas-metal-bash-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Christmas Metal Bash 2026 (unconfirmed)
+DESCRIPTION:metal club night between Christmas and New Year\nHours: n/a\nP
+ rice: from 25.40 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/ma
+ nnheim/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:metal
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-11-ludwigshafen-weihnachtsmarkt-ludwigshafen@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261111
@@ -176,21 +321,6 @@ LOCATION:Schloss Ehrenhof and Schlossplatz\, Schlossplatz\, 68723 Schwetzi
 CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-05-weinheim-weinheimer-weihnachtsmarkt@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261222
-SUMMARY:Weinheimer Weihnachtsmarkt (unconfirmed)
-DESCRIPTION:town Christmas market on the market square\nDates: dates confl
- ict between listings\nHours: Fri 16-21\, Sat-Sun 13-21 (aggregator)\nPric
- e: free\nStatus: unconfirmed (festivalsindeutschland.de)\nhttps://www.fes
- tivalsindeutschland.de/festival/weinheimer-weihnachtsmarkt
-LOCATION:Marktplatz\, Weinheim
-URL:https://www.festivalsindeutschland.de/festival/weinheimer-weihnachtsma
- rkt
-CATEGORIES:christmas-market
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-13-bensheim-goldplay-live-coldplay-tribute@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261113
@@ -275,24 +405,6 @@ LOCATION:Schloss Heidelberg\, Schlosshof 1\, 69117 Heidelberg
 URL:https://www.schloesser-und-gaerten.de/en/events/detail-1/klassische-sc
  hlossfuehrung/3846/1
 CATEGORIES:guided-tour,heritage
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-01-worms-jewish-cemetery-heiliger-sand-public-tour@events-sear
- ch
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261128
-SUMMARY:Jewish cemetery Heiliger Sand: public tour (unconfirmed)
-DESCRIPTION:guided walk through Europe's oldest Jewish cemetery\nUNESCO Sc
- hUM\, max 6 people\, tickets via ticket-regional.de\nDates: weekly\, last
-  27 Nov\nHours: 14:00\nPrice: n/a\nStatus: unconfirmed (festivalsindeutsc
- hland.de)\nhttps://www.festivalsindeutschland.de/festival/oeffentliche-fu
- ehrungen-juedischer-friedhof-heiliger-sand-saison
-LOCATION:Jüdischer Friedhof Heiliger Sand\, Willy-Brandt-Ring 21\, 67547 
- Worms
-URL:https://www.festivalsindeutschland.de/festival/oeffentliche-fuehrungen
- -juedischer-friedhof-heiliger-sand-saison
-CATEGORIES:guided-tour,heritage,unesco
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-worms-wormser-weihnacht@events-search
@@ -644,5 +756,291 @@ LOCATION:Marguerre-Saal\, Theater Heidelberg\, Theaterstraße 10\, 69117 H
  eidelberg
 URL:https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
 CATEGORIES:classical,opera
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-mannheim-stahlzeit-zeitlos-20-anniversary-tour@events-searc
+ h
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Stahlzeit: ZEITLOS 20 anniversary tour (unconfirmed)
+DESCRIPTION:Rammstein tribute show with pyrotechnics\nHours: n/a\nPrice: f
+ rom 53.90 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/
+ veranstaltungen/konzert-metal-hard-rock/
+LOCATION:Maimarkt Club\, Xaver-Fuhr-Straße 101\, 68163 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:tribute-band,small-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-mannheim-x-mas-rocks-2026-tribute-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:X-MAS Rocks! 2026: Tribute Festival (unconfirmed)
+DESCRIPTION:tribute band festival between Christmas and New Year\nHours: n
+ /a\nPrice: from 30.90 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.
+ de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:tribute-band,small-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-schriesheim-majers-weihnachtsscheuer@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Majers Weihnachtsscheuer (unconfirmed)
+DESCRIPTION:Christmas market in a barn\nHours: n/a\nPrice: free\nStatus: u
+ nconfirmed (freizeitmonster.de)\nhttps://freizeitmonster.de/blog/weihnach
+ tsmaerkte-schriesheim
+LOCATION:Majers\, Schriesheim
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-hemsbach-weihnachtsmarkt-hemsbach@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:Weihnachtsmarkt Hemsbach (unconfirmed)
+DESCRIPTION:40th town Christmas market\nHours: n/a\nPrice: free\nStatus: u
+ nconfirmed (freizeitmonster.de)\nhttps://freizeitmonster.de/blog/weihnach
+ tsmaerkte-schriesheim
+LOCATION:Town centre\, Hemsbach
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-morlenbach-morlenbacher-adventsmarkt@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:Mörlenbacher Adventsmarkt (unconfirmed)
+DESCRIPTION:Advent market in the Weschnitz valley\nHours: n/a\nPrice: free
+ \nStatus: unconfirmed (freizeitmonster.de)\nhttps://freizeitmonster.de/bl
+ og/weihnachtsmaerkte-schriesheim
+LOCATION:Town centre\, Mörlenbach
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-weinheim-weihnachtsmarkt-in-weinheim@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261221
+SUMMARY:Weihnachtsmarkt in Weinheim (unconfirmed)
+DESCRIPTION:town Christmas market on the market square\nDates: another lis
+ ting says 5-21 Dec\nHours: n/a\nPrice: free\nStatus: unconfirmed (freizei
+ tmonster.de)\nhttps://freizeitmonster.de/blog/weihnachtsmaerkte-schrieshe
+ im
+LOCATION:Marktplatz\, Weinheim
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-leimen-leimener-weihnachtsmarkt@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Leimener Weihnachtsmarkt (unconfirmed)
+DESCRIPTION:town Christmas market\nHours: n/a\nPrice: free\nStatus: unconf
+ irmed (freizeitmonster.de)\nhttps://freizeitmonster.de/blog/weihnachtsmae
+ rkte-schriesheim
+LOCATION:Town centre\, Leimen
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-wilhelmsfeld-wilhelmsfelder-weihnachtsmarkt@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Wilhelmsfelder Weihnachtsmarkt (unconfirmed)
+DESCRIPTION:village Christmas market in the Odenwald\nHours: n/a\nPrice: f
+ ree\nStatus: unconfirmed (freizeitmonster.de)\nhttps://freizeitmonster.de
+ /blog/weihnachtsmaerkte-schriesheim
+LOCATION:Village centre\, Wilhelmsfeld
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-hirschberg-an-der-bergstrasse-weihnachtsmarkt-hirschberg-le
+ utershausen@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Weihnachtsmarkt Hirschberg-Leutershausen (unconfirmed)
+DESCRIPTION:village Christmas market on the Bergstraße\nHours: n/a\nPrice
+ : free\nStatus: unconfirmed (freizeitmonster.de)\nhttps://freizeitmonster
+ .de/blog/weihnachtsmaerkte-schriesheim
+LOCATION:Leutershausen\, Hirschberg an der Bergstraße
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-schriesheim-schriesheimer-weihnachtsdorf@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261214
+SUMMARY:Schriesheimer Weihnachtsdorf (unconfirmed)
+DESCRIPTION:Christmas village in the old town\nHours: n/a\nPrice: free\nSt
+ atus: unconfirmed (freizeitmonster.de)\nhttps://freizeitmonster.de/blog/w
+ eihnachtsmaerkte-schriesheim
+LOCATION:Old town\, Schriesheim
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-ladenburg-sternenglanz-und-huttenzauber@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Sternenglanz und Hüttenzauber (unconfirmed)
+DESCRIPTION:Christmas market in the Roman old town\nHours: n/a\nPrice: fre
+ e\nStatus: unconfirmed (freizeitmonster.de)\nhttps://freizeitmonster.de/b
+ log/weihnachtsmaerkte-schriesheim
+LOCATION:Old town\, Ladenburg
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-dossenheim-adventsmarkt-dossenheim@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Adventsmarkt Dossenheim (unconfirmed)
+DESCRIPTION:village Advent market\nHours: n/a\nPrice: free\nStatus: unconf
+ irmed (freizeitmonster.de)\nhttps://freizeitmonster.de/blog/weihnachtsmae
+ rkte-schriesheim
+LOCATION:Village centre\, Dossenheim
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-schonau-steinachtaler-weihnachtsmarkt@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Steinachtaler Weihnachtsmarkt (unconfirmed)
+DESCRIPTION:Christmas market in the monastery town\nHours: n/a\nPrice: fre
+ e\nStatus: unconfirmed (freizeitmonster.de)\nhttps://freizeitmonster.de/b
+ log/weihnachtsmaerkte-schriesheim
+LOCATION:Town centre\, Schönau
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-mannheim-weihnachtsmarkt-am-rathaus-friedrichsfeld@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Weihnachtsmarkt am Rathaus Friedrichsfeld (unconfirmed)
+DESCRIPTION:neighbourhood Christmas market\nHours: n/a\nPrice: free\nStatu
+ s: unconfirmed (freizeitmonster.de)\nhttps://freizeitmonster.de/blog/weih
+ nachtsmaerkte-schriesheim
+LOCATION:Rathaus Friedrichsfeld\, Mannheim
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-birkenau-birkenauer-weihnachtsmarkt@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Birkenauer Weihnachtsmarkt (unconfirmed)
+DESCRIPTION:Christmas market in the Weschnitz valley\nHours: n/a\nPrice: f
+ ree\nStatus: unconfirmed (freizeitmonster.de)\nhttps://freizeitmonster.de
+ /blog/weihnachtsmaerkte-schriesheim
+LOCATION:Town centre\, Birkenau
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-heiligkreuzsteinach-39-weihnachtsmarkt-heiligkreuzsteinach@
+ events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:39. Weihnachtsmarkt Heiligkreuzsteinach (unconfirmed)
+DESCRIPTION:village Christmas market in the Odenwald\nHours: n/a\nPrice: f
+ ree\nStatus: unconfirmed (freizeitmonster.de)\nhttps://freizeitmonster.de
+ /blog/weihnachtsmaerkte-schriesheim
+LOCATION:Village centre\, Heiligkreuzsteinach
+URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-neckargemund-dilsberger-weihnachtsmeile@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Dilsberger Weihnachtsmeile (no dates yet)
+DESCRIPTION:Christmas market inside a hilltop fortress\nDates: 2026 date n
+ ot out; usually the 3rd Advent weekend\nHours: n/a\nPrice: free\nStatus: 
+ no dates yet (freizeitmonster.de)\nhttps://freizeitmonster.de/aktivitaete
+ n/veranstaltungen/dilsberger-weihnachtsmeile-2025-324985
+LOCATION:Burgfeste Dilsberg\, Neckargemünd
+URL:https://freizeitmonster.de/aktivitaeten/veranstaltungen/dilsberger-wei
+ hnachtsmeile-2025-324985
+CATEGORIES:christmas-market,castle
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-27-hockenheim-dmv-1-000-km-hockenheim@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:DMV 1.000 km Hockenheim
+DESCRIPTION:long-distance race on the Hockenheimring\nHours: n/a\nPrice: n
+ /a\nStatus: ok (official)\nhttps://www.hockenheimring.de/en/events/
+LOCATION:Hockenheimring Baden-Württemberg\, Am Motodrom 1\, 68766 Hockenh
+ eim
+URL:https://www.hockenheimring.de/en/events/
+CATEGORIES:motorsport,racing
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-16-hockenheim-veterama-hockenheim-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270419
+SUMMARY:VETERAMA Hockenheim 2027 (no dates yet)
+DESCRIPTION:huge classic car and parts market at the Hockenheimring\nDates
+ : not announced yet; one listing says 16-18 Apr\nHours: n/a\nPrice: n/a\n
+ Status: no dates yet (veterama.de)\nhttps://veterama.de/en
+LOCATION:Hockenheimring Baden-Württemberg\, Am Motodrom 1\, 68766 Hockenh
+ eim
+URL:https://veterama.de/en
+CATEGORIES:oldtimer,classic-cars,flea-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-07-hockenheim-hockenheim-historic-the-jim-clark-revival@events
+ -search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270510
+SUMMARY:Hockenheim Historic: The Jim Clark Revival (unconfirmed)
+DESCRIPTION:historic motor racing festival\nDates: another listing says 8-
+ 10 May\nHours: n/a\nPrice: n/a\nStatus: unconfirmed (heidelberg24.de)\nht
+ tps://www.heidelberg24.de/region/hockenheim-historic-begeistert-motorspor
+ t-fans-termin-2027-fix-94260550.html
+LOCATION:Hockenheimring Baden-Württemberg\, Am Motodrom 1\, 68766 Hockenh
+ eim
+URL:https://www.heidelberg24.de/region/hockenheim-historic-begeistert-moto
+ rsport-fans-termin-2027-fix-94260550.html
+CATEGORIES:motorsport,racing,oldtimer,classic-cars
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-08-hockenheim-dtm-2027-season-finale@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271011
+SUMMARY:DTM 2027 season finale
+DESCRIPTION:final race weekend of the DTM touring car series\nHours: n/a\n
+ Price: n/a\nStatus: ok (official)\nhttps://www.hockenheimring.de/en/?p=33
+ 954
+LOCATION:Hockenheimring Baden-Württemberg\, Am Motodrom 1\, 68766 Hockenh
+ eim
+URL:https://www.hockenheimring.de/en/?p=33954
+CATEGORIES:motorsport,racing
 END:VEVENT
 END:VCALENDAR

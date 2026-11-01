@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-19-mannheim-atrophy",
+ "name": "Atrophy",
+ "description": "US thrash metal band from Texas",
+ "start": "2026-11-19",
+ "end": "2026-11-19",
+ "hours": "n/a",
+ "place": "7er Club",
+ "address": "Industriestraße 7, 68169 Mannheim",
+ "city": "Mannheim",
+ "price": "from 27.10 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "rating": "4.7",
+ "tags": [
+  "metal",
+  "thrash"
+ ],
+ "details": "Atrophy are a thrash metal band from the US (Texas) with roots in the late 1980s scene. Date and price from the mvp.de listing; check the venue page before buying tickets.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T15:59:33.815Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atrophy&dates=20261119%2F20261120&details=US+thrash+metal+band+from+Texas%0AHours%3A+n%2Fa%0APrice%3A+from+27.10+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
+ "priceValue": 27.1
+}

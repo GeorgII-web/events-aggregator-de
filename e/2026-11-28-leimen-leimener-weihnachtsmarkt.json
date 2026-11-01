@@ -1,0 +1,32 @@
+{
+ "id": "2026-11-28-leimen-leimener-weihnachtsmarkt",
+ "name": "Leimener Weihnachtsmarkt",
+ "description": "town Christmas market",
+ "start": "2026-11-28",
+ "end": "2026-11-29",
+ "hours": "n/a",
+ "place": "Town centre",
+ "address": "n/a",
+ "city": "Leimen",
+ "price": "free",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim",
+ "source": "freizeitmonster.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "christmas-market"
+ ],
+ "details": "Christmas market in Leimen over the first Advent weekend. Dates from the freizeitmonster.de overview; opening hours not published there, check the town's page before going.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T15:59:33.868Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "christmas"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Leimener+Weihnachtsmarkt&dates=20261128%2F20261130&details=town+Christmas+market%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+unconfirmed+%28freizeitmonster.de%29%0Ahttps%3A%2F%2Ffreizeitmonster.de%2Fblog%2Fweihnachtsmaerkte-schriesheim&location=Town+centre%2C+Leimen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Town%20centre%2C%20Leimen",
+ "priceValue": 0
+}

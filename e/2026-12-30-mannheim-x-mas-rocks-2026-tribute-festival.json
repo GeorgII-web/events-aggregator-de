@@ -1,0 +1,34 @@
+{
+ "id": "2026-12-30-mannheim-x-mas-rocks-2026-tribute-festival",
+ "name": "X-MAS Rocks! 2026: Tribute Festival",
+ "description": "tribute band festival between Christmas and New Year",
+ "start": "2026-12-30",
+ "end": "2026-12-30",
+ "hours": "n/a",
+ "place": "7er Club",
+ "address": "Industriestraße 7, 68169 Mannheim",
+ "city": "Mannheim",
+ "price": "from 30.90 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "rating": "4.7",
+ "tags": [
+  "tribute-band",
+  "small-concert"
+ ],
+ "details": "A club festival of tribute bands between the holidays; the line-up is not given in the listing. Date and price from the mvp.de listing; check the venue page before buying tickets.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T15:59:33.868Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "live"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=X-MAS+Rocks%21+2026%3A+Tribute+Festival&dates=20261230%2F20261231&details=tribute+band+festival+between+Christmas+and+New+Year%0AHours%3A+n%2Fa%0APrice%3A+from+30.90+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
+ "priceValue": 30.9
+}

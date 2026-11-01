@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-27-weinheim-weihnachtsmarkt-in-weinheim",
+ "name": "Weihnachtsmarkt in Weinheim",
+ "description": "town Christmas market on the market square",
+ "start": "2026-11-27",
+ "end": "2026-12-20",
+ "hours": "n/a",
+ "place": "Marktplatz",
+ "address": "n/a",
+ "city": "Weinheim",
+ "price": "free",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim",
+ "source": "freizeitmonster.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "christmas-market"
+ ],
+ "details": "Christmas market on Weinheim's historic market square below the two castles. Dates from the freizeitmonster.de overview; opening hours not published there, check the town's page before going.",
+ "dateNote": "another listing says 5-21 Dec",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T15:59:33.868Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "christmas"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Weihnachtsmarkt+in+Weinheim&dates=20261127%2F20261221&details=town+Christmas+market+on+the+market+square%0ADates%3A+another+listing+says+5-21+Dec%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+unconfirmed+%28freizeitmonster.de%29%0Ahttps%3A%2F%2Ffreizeitmonster.de%2Fblog%2Fweihnachtsmaerkte-schriesheim&location=Marktplatz%2C+Weinheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marktplatz%2C%20Weinheim",
+ "priceValue": 0
+}

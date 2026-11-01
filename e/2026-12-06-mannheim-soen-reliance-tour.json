@@ -1,0 +1,34 @@
+{
+ "id": "2026-12-06-mannheim-soen-reliance-tour",
+ "name": "SOEN: Reliance Tour",
+ "description": "Swedish progressive metal band",
+ "start": "2026-12-06",
+ "end": "2026-12-06",
+ "hours": "n/a",
+ "place": "Alte Feuerwache",
+ "address": "Brückenstraße 2, 68167 Mannheim",
+ "city": "Mannheim",
+ "price": "from 42.50 EUR",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "rating": "4.5",
+ "tags": [
+  "metal",
+  "progressive"
+ ],
+ "details": "Soen are a progressive metal band from Sweden with melodic, heavy songs, here on the 'Reliance' tour in the hall of the Alte Feuerwache. Date and price from the mvp.de listing; check the venue page before buying tickets.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T15:59:33.815Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SOEN%3A+Reliance+Tour&dates=20261206%2F20261207&details=Swedish+progressive+metal+band%0AHours%3A+n%2Fa%0APrice%3A+from+42.50+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=Alte+Feuerwache%2C+Br%C3%BCckenstra%C3%9Fe+2%2C+68167+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Br%C3%BCckenstra%C3%9Fe%202%2C%2068167%20Mannheim",
+ "priceValue": 42.5
+}

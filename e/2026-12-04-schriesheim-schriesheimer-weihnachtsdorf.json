@@ -1,0 +1,32 @@
+{
+ "id": "2026-12-04-schriesheim-schriesheimer-weihnachtsdorf",
+ "name": "Schriesheimer Weihnachtsdorf",
+ "description": "Christmas village in the old town",
+ "start": "2026-12-04",
+ "end": "2026-12-13",
+ "hours": "n/a",
+ "place": "Old town",
+ "address": "n/a",
+ "city": "Schriesheim",
+ "price": "free",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim",
+ "source": "freizeitmonster.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "christmas-market"
+ ],
+ "details": "A Christmas 'village' of huts in Schriesheim's old town on the Bergstraße, over two weekends. Dates from the freizeitmonster.de overview; opening hours not published there, check the town's page before going.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T15:59:33.868Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "christmas"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Schriesheimer+Weihnachtsdorf&dates=20261204%2F20261214&details=Christmas+village+in+the+old+town%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+unconfirmed+%28freizeitmonster.de%29%0Ahttps%3A%2F%2Ffreizeitmonster.de%2Fblog%2Fweihnachtsmaerkte-schriesheim&location=Old+town%2C+Schriesheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Old%20town%2C%20Schriesheim",
+ "priceValue": 0
+}

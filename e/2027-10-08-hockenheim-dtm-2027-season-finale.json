@@ -1,0 +1,34 @@
+{
+ "id": "2027-10-08-hockenheim-dtm-2027-season-finale",
+ "name": "DTM 2027 season finale",
+ "description": "final race weekend of the DTM touring car series",
+ "start": "2027-10-08",
+ "end": "2027-10-10",
+ "hours": "n/a",
+ "place": "Hockenheimring Baden-Württemberg",
+ "address": "Am Motodrom 1, 68766 Hockenheim",
+ "city": "Hockenheim",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.hockenheimring.de/en/?p=33954",
+ "source": "official",
+ "checked": "2026-11-01",
+ "rating": "4.5",
+ "tags": [
+  "motorsport",
+  "racing"
+ ],
+ "details": "The final two races of the 2027 DTM season on the Grand Prix circuit, where the champions are decided. Timetable and tickets are not published yet.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T15:59:33.868Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "motorsport"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DTM+2027+season+finale&dates=20271008%2F20271011&details=final+race+weekend+of+the+DTM+touring+car+series%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.hockenheimring.de%2Fen%2F%3Fp%3D33954&location=Hockenheimring+Baden-W%C3%BCrttemberg%2C+Am+Motodrom+1%2C+68766+Hockenheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Am%20Motodrom%201%2C%2068766%20Hockenheim",
+ "priceValue": null
+}
