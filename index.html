@@ -1387,7 +1387,7 @@ body{background:var(--bs-tertiary-bg)}
 </div></div>
 <div class="list-group-item text-center text-body-secondary py-4 empty d-none"><i class="bi bi-funnel"></i> No events match the filters.</div>
 </div></div></section>
-<p class="small text-body-secondary mb-5"><i class="bi bi-info-circle"></i> "unconfirmed" = seen on an aggregator only, check the event page before going.</p>
+<p class="small text-body-secondary mb-5 d-flex flex-wrap align-items-baseline column-gap-3 row-gap-1"><span><i class="bi bi-info-circle"></i> "unconfirmed" = <span class="d-none d-sm-inline">seen on an </span>aggregator only<span class="d-none d-sm-inline">, check the event page before going</span>.</span><button type="button" class="btn btn-link btn-sm p-0 text-body-secondary text-decoration-none text-nowrap" id="cookieset"><i class="bi bi-cookie"></i> <span class="d-sm-none">Cookies</span><span class="d-none d-sm-inline">Cookie settings</span></button></p>
 </main>
 <script>
 const $=id=>document.getElementById(id), F={from:$('from'),to:$('to'),city:$('city'),free:$('free'),min:$('min'),max:$('max'),unk:$('unk'),nw:$('newonly'),fav:$('favonly'),txt:$('txt')};
@@ -1499,8 +1499,7 @@ const hideAll=x=>tt.forEach(t=>{if(t!==x)t.hide()});
 document.addEventListener('show.bs.tooltip',e=>hideAll(bootstrap.Tooltip.getInstance(e.target)));
 ['click','scroll','touchstart'].forEach(ev=>addEventListener(ev,()=>hideAll(),{passive:true,capture:true}))}
 addEventListener('DOMContentLoaded',initTips);
-</script><div class="container small mb-4"><button type="button" class="btn btn-link btn-sm p-0 text-body-secondary text-decoration-none" id="cookieset"><i class="bi bi-cookie"></i> Cookie settings</button></div>
-<div class="position-fixed bottom-0 start-0 end-0 p-3 d-none" id="consent" style="z-index:1090" role="dialog" aria-label="Cookie consent"><div class="card shadow-lg mx-auto" style="max-width:38rem"><div class="card-body">
+</script><div class="position-fixed bottom-0 start-0 end-0 p-3 d-none" id="consent" style="z-index:1090" role="dialog" aria-label="Cookie consent"><div class="card shadow-lg mx-auto" style="max-width:38rem"><div class="card-body">
 <h2 class="h6"><i class="bi bi-cookie"></i> Cookies and sign-in</h2>
 <p class="small mb-2">Your favorites, saved filters and this choice are kept in cookies in this browser only; the site needs them for these features. No tracking, no ads.</p>
 <p class="small mb-3">With <b>Accept</b> you can also sign in with Google: your name, e-mail, picture, favorites and saved filters are then stored in Google Firebase to sync them between devices. <b>Necessary only</b> keeps everything in this browser and turns sign-in off. Change it any time under "Cookie settings" at the bottom of the page.</p>
