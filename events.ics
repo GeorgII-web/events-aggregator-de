@@ -169,19 +169,6 @@ URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
 CATEGORIES:metal
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-11-ludwigshafen-weihnachtsmarkt-ludwigshafen@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261224
-SUMMARY:Weihnachtsmarkt Ludwigshafen
-DESCRIPTION:city Christmas market with light decorations\n60 huts\nDates: 
- closed 15 + 22 Nov\nHours: Sun-Thu 12-21\, Fri-Sat 12-21:30\nPrice: free\
- nStatus: ok (official)\nhttps://www.lukom.com/events/weihnachtsmarkt
-LOCATION:Berliner Platz\, 67059 Ludwigshafen am Rhein
-URL:https://www.lukom.com/events/weihnachtsmarkt
-CATEGORIES:christmas-market
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-ludwigshafen-der-klassische-flohmarkt@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -212,113 +199,6 @@ LOCATION:Limburgerhof\, Limburgerhof
 URL:https://www.festivalsindeutschland.de/festival/limburgerhof-kunsthandw
  erkermarkt
 CATEGORIES:craft-market
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-23-heidelberg-heidelberger-weihnachtsmarkt@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261223
-SUMMARY:Heidelberger Weihnachtsmarkt
-DESCRIPTION:big Christmas market across the old town squares\n6 squares: M
- arktplatz\, Karlsplatz\, Bismarckplatz\, Universitätsplatz\, Kornmarkt\,
-  Anatomiegarten\nHours: Sun-Fri 11-21\, Sat 11-22\nPrice: free\nStatus: o
- k (official)\nhttps://www.heidelberg-marketing.de/veranstaltung/heidelber
- ger-weihnachtsmarkt-a2ab1639bd
-LOCATION:Altstadt\, Marktplatz 5\, 69117 Heidelberg
-URL:https://www.heidelberg-marketing.de/veranstaltung/heidelberger-weihnac
- htsmarkt-a2ab1639bd
-CATEGORIES:christmas-market
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-23-heidelberg-heidelberger-eisbahn@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20270111
-SUMMARY:Heidelberger Eisbahn
-DESCRIPTION:open-air ice rink below the castle\nHours: daily 10-22 (press)
- \nPrice: about 5 EUR adults\, 3 EUR children (press)\nStatus: ok (officia
- l)\nhttps://www.heidelberg-marketing.de/veranstaltung/heidelberger-eisbah
- n-c20623a7c2
-LOCATION:Karlsplatz\, 69117 Heidelberg
-URL:https://www.heidelberg-marketing.de/veranstaltung/heidelberger-eisbahn
- -c20623a7c2
-CATEGORIES:ice-rink,seasonal
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-23-mannheim-mannheimer-weihnachtsmarkt-am-wasserturm@events-se
- arch
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261224
-SUMMARY:Mannheimer Weihnachtsmarkt am Wasserturm
-DESCRIPTION:main Mannheim Christmas market at the water tower\nHours: dail
- y 11-21\nPrice: free\nStatus: ok (official)\nhttps://www.weihnachtsmarkt-
- mannheim.de/
-LOCATION:Wasserturm\, Friedrichsplatz\, Friedrichsplatz 3\, 68165 Mannheim
-URL:https://www.weihnachtsmarkt-mannheim.de/
-CATEGORIES:christmas-market
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-23-mannheim-weihnachtsmarkt-kapuzinerplanken@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261225
-SUMMARY:Weihnachtsmarkt Kapuzinerplanken (unconfirmed)
-DESCRIPTION:small Christmas market on a shopping street\nHours: n/a\nPrice
- : free\nStatus: unconfirmed (festivalsindeutschland.de)\nhttps://www.fest
- ivalsindeutschland.de/festival/weihnachtsmarkt-kapuzinerplanken-mannheim
-LOCATION:Kapuzinerplanken O5/O6\, Kapuzinerplanken\, 68161 Mannheim
-URL:https://www.festivalsindeutschland.de/festival/weihnachtsmarkt-kapuzin
- erplanken-mannheim
-CATEGORIES:christmas-market
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-23-speyer-speyerer-weihnachts-und-neujahrsmarkt@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20270111
-SUMMARY:Speyerer Weihnachts- und Neujahrsmarkt
-DESCRIPTION:Christmas and New Year market between gate tower and cathedral
- \n3D video show on the Altpörtel 18:00 + 20:00 (Fri/Sat also 21:00)\, ic
- e rink\nDates: opening Mon 23 Nov 18:00\nHours: stalls 11-20\, food Sun-T
- hu 11-21\, Fri-Sat 11-22\nPrice: free\nStatus: ok (official)\nhttps://www
- .speyer.de/de/veranstaltungen/messen-maerkte-und-veranstaltungen/weihnach
- ts-neujahrsmarkt/
-LOCATION:Altpörtel to the Dom\, Maximilianstraße 54\, 67346 Speyer
-URL:https://www.speyer.de/de/veranstaltungen/messen-maerkte-und-veranstalt
- ungen/weihnachts-neujahrsmarkt/
-CATEGORIES:christmas-market
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-27-speyer-kunsthandwerkermarkt-im-rathaushof-speyer@events-sea
- rch
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261221
-SUMMARY:Kunsthandwerkermarkt im Rathaushof Speyer
-DESCRIPTION:Advent craft market in the town hall courtyards\nRavenna partn
- er-city stalls 28-29 Nov\nDates: Advent weekends only\nHours: Fri 16-20\,
-  Sat-Sun 11-20\nPrice: free\nStatus: ok (official)\nhttps://www.speyer.de
- /de/veranstaltungen/messen-maerkte-und-veranstaltungen/weihnachts-neujahr
- smarkt/
-LOCATION:Historisches Rathaus\, Maximilianstraße 13\, 67346 Speyer
-URL:https://www.speyer.de/de/veranstaltungen/messen-maerkte-und-veranstalt
- ungen/weihnachts-neujahrsmarkt/
-CATEGORIES:craft-market,christmas-market
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-26-schwetzingen-kurfurstlicher-weihnachtsmarkt-schwetzingen@ev
- ents-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261221
-SUMMARY:Kurfürstlicher Weihnachtsmarkt Schwetzingen (no dates yet)
-DESCRIPTION:Christmas market in front of the palace\nDates: 2026 dates not
-  out\, 2025 pattern Thu-Sat\nHours: n/a\nPrice: free\nStatus: no dates ye
- t (heidelberg24.de)
-LOCATION:Schloss Ehrenhof and Schlossplatz\, Schlossplatz\, 68723 Schwetzi
- ngen
-CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-bensheim-goldplay-live-coldplay-tribute@events-search
@@ -388,38 +268,6 @@ LOCATION:Karolingerplatz and Klosterwiese\, Karolingerplatz\, 64653 Lorsch
 URL:https://www.festivalsindeutschland.de/festival/lorscher-weihnachtsmark
  t
 CATEGORIES:christmas-market,heritage
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-02-heidelberg-heidelberg-castle-classic-guided-tour-de-en@even
- ts-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20270107
-SUMMARY:Heidelberg Castle: classic guided tour (DE / EN)
-DESCRIPTION:1-hour tour of the castle interiors\, German or English\nmax 2
- 0 people\nDates: winter schedule\nHours: daily 11-15 hourly (DE)\, 11:15-
- 15:15 (EN)\nPrice: 6 EUR + castle ticket\nStatus: ok (official)\nhttps://
- www.schloesser-und-gaerten.de/en/events/detail-1/klassische-schlossfuehru
- ng/3846/1
-LOCATION:Schloss Heidelberg\, Schlosshof 1\, 69117 Heidelberg
-URL:https://www.schloesser-und-gaerten.de/en/events/detail-1/klassische-sc
- hlossfuehrung/3846/1
-CATEGORIES:guided-tour,heritage
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-worms-wormser-weihnacht@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261224
-SUMMARY:Wormser Weihnacht (unconfirmed)
-DESCRIPTION:Christmas market in Worms old town\nDates: closed 22 Nov\nHour
- s: n/a\nPrice: free\nStatus: unconfirmed (regioactive.de)\nhttps://www.re
- gioactive.de/markt/wormser-weihnacht-weihnachtsmarkt-im-herzen-der-nibelu
- ngenstadt-worms-innenstadt-2026-11-20-SVglClZ1F3
-LOCATION:Innenstadt\, Obermarkt\, 67547 Worms
-URL:https://www.regioactive.de/markt/wormser-weihnacht-weihnachtsmarkt-im-
- herzen-der-nibelungenstadt-worms-innenstadt-2026-11-20-SVglClZ1F3
-CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-heidelberg-oratorio-for-all-saints-denn-sie-sollen-getroste
@@ -743,21 +591,6 @@ URL:https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
 CATEGORIES:classical,chamber
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-02-heidelberg-tosca-puccini@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20270410
-SUMMARY:Tosca (Puccini) (unconfirmed)
-DESCRIPTION:Puccini opera\, staged by Theater Heidelberg\nDates: several d
- ates until 9 Apr\nHours: n/a\nPrice: from 25.60 EUR\nStatus: unconfirmed 
- (mvp.de)\nhttps://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-m
- usik/
-LOCATION:Marguerre-Saal\, Theater Heidelberg\, Theaterstraße 10\, 69117 H
- eidelberg
-URL:https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
-CATEGORIES:classical,opera
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-mannheim-stahlzeit-zeitlos-20-anniversary-tour@events-searc
  h
 DTSTAMP:20261101T000000Z
@@ -824,20 +657,6 @@ URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
 CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-27-weinheim-weihnachtsmarkt-in-weinheim@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261221
-SUMMARY:Weihnachtsmarkt in Weinheim (unconfirmed)
-DESCRIPTION:town Christmas market on the market square\nDates: another lis
- ting says 5-21 Dec\nHours: n/a\nPrice: free\nStatus: unconfirmed (freizei
- tmonster.de)\nhttps://freizeitmonster.de/blog/weihnachtsmaerkte-schrieshe
- im
-LOCATION:Marktplatz\, Weinheim
-URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
-CATEGORIES:christmas-market
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-28-leimen-leimener-weihnachtsmarkt@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261128
@@ -874,19 +693,6 @@ DESCRIPTION:village Christmas market on the Bergstraße\nHours: n/a\nPrice
  : free\nStatus: unconfirmed (freizeitmonster.de)\nhttps://freizeitmonster
  .de/blog/weihnachtsmaerkte-schriesheim
 LOCATION:Leutershausen\, Hirschberg an der Bergstraße
-URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
-CATEGORIES:christmas-market
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-04-schriesheim-schriesheimer-weihnachtsdorf@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261214
-SUMMARY:Schriesheimer Weihnachtsdorf (unconfirmed)
-DESCRIPTION:Christmas village in the old town\nHours: n/a\nPrice: free\nSt
- atus: unconfirmed (freizeitmonster.de)\nhttps://freizeitmonster.de/blog/w
- eihnachtsmaerkte-schriesheim
-LOCATION:Old town\, Schriesheim
 URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
 CATEGORIES:christmas-market
 END:VEVENT
@@ -1044,37 +850,6 @@ URL:https://www.hockenheimring.de/en/?p=33954
 CATEGORIES:motorsport,racing
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-07-ludwigshafen-wilhelm-hack-museum-free-saturdays@events-sear
- ch
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20270131
-SUMMARY:Wilhelm-Hack-Museum: free Saturdays
-DESCRIPTION:modern art museum\, free entry every Saturday\nMondrian to Vas
- arely\, Miró wall\nDates: Saturdays only\nHours: Sat 10-18\nPrice: free\
- nStatus: ok (official)\nhttps://www.wilhelmhack.museum/de/besuch/tickets-
- und-oeffnungszeiten
-LOCATION:Wilhelm-Hack-Museum\, Berliner Straße 23\, 67059 Ludwigshafen am
-  Rhein
-URL:https://www.wilhelmhack.museum/de/besuch/tickets-und-oeffnungszeiten
-CATEGORIES:museum,free-entry,exhibition
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-01-ludwigshafen-rudolf-scharpf-galerie@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20270201
-SUMMARY:Rudolf-Scharpf-Galerie
-DESCRIPTION:small contemporary art gallery\, always free\nDates: Fri-Sun a
- nd holidays; closed 24 + 31 Dec\nHours: Fri-Sun 11-18\nPrice: free\nStatu
- s: ok (official)\nhttps://www.wilhelmhack.museum/de/besuch/tickets-und-oe
- ffnungszeiten
-LOCATION:Rudolf-Scharpf-Galerie\, Hemshofstraße 54\, 67063 Ludwigshafen a
- m Rhein
-URL:https://www.wilhelmhack.museum/de/besuch/tickets-und-oeffnungszeiten
-CATEGORIES:museum,free-entry,exhibition
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-04-mannheim-kunsthalle-mannheim-mvv-kunstabend@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;TZID=Europe/Berlin:20261104T180000
@@ -1135,49 +910,6 @@ URL:https://www.marchivum.de/de/veranstaltungen/sonntagsoeffnung-kz-gedenk
 CATEGORIES:museum,free-entry,exhibition,guided-tour
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-24-mannheim-port25-heimspiel@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20270208
-SUMMARY:PORT25: HEIMSPIEL
-DESCRIPTION:contemporary art exhibition\, always free\nHours: Wed-Sun 11-1
- 8\nPrice: free\nStatus: ok (official)\nhttps://www.port25-mannheim.de/aus
- stellungen
-LOCATION:PORT25 – Raum für Gegenwartskunst\, Hafenstraße 25-27\, 68159
-  Mannheim
-URL:https://www.port25-mannheim.de/ausstellungen
-CATEGORIES:museum,free-entry,exhibition
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-01-mannheim-port25-konstantin-voit-mannheimer-kunstpreis@event
- s-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261109
-SUMMARY:PORT25: Konstantin Voit (Mannheimer Kunstpreis)
-DESCRIPTION:contemporary art exhibition\, last days\, free\nDates: running
- \, until 8 Nov\nHours: Wed-Sun 11-18\nPrice: free\nStatus: ok (official)\
- nhttps://www.port25-mannheim.de/ausstellungen
-LOCATION:PORT25 – Raum für Gegenwartskunst\, Hafenstraße 25-27\, 68159
-  Mannheim
-URL:https://www.port25-mannheim.de/ausstellungen
-CATEGORIES:museum,free-entry,exhibition
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-02-mannheim-marchivum-mannheim-im-gepack@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20270308
-SUMMARY:MARCHIVUM: Mannheim im Gepäck
-DESCRIPTION:free exhibition about German division and reunification\nDates
- : closed 24 + 31 Dec\nHours: Tue\, Thu-Sun 10-18\, Wed 10-20\nPrice: free
- \nStatus: ok (official)\nhttps://www.marchivum.de/de/info/ihr-besuch/oeff
- nungszeiten-preise
-LOCATION:MARCHIVUM\, Archivplatz 1\, 68169 Mannheim
-URL:https://www.marchivum.de/de/info/ihr-besuch/oeffnungszeiten-preise
-CATEGORIES:museum,free-entry,exhibition
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-06-mannheim-house-of-maemories-free-tour@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;TZID=Europe/Berlin:20261206T140000
@@ -1204,20 +936,6 @@ URL:https://www.marchivum.de/de/info/ihr-besuch/oeffnungszeiten-preise
 CATEGORIES:museum,free-entry,guided-tour
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-01-ludwigshafen-ernst-bloch-zentrum@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20270201
-SUMMARY:Ernst-Bloch-Zentrum
-DESCRIPTION:free exhibition about the philosopher Ernst Bloch\nHours: Tue/
- Wed 14-17\, Thu 14-20\nPrice: free\nStatus: ok (official)\nhttps://www.bl
- och.de/wer-wir-sind/oeffnungszeiten
-LOCATION:Ernst-Bloch-Zentrum\, Walzmühlstraße 63\, 67061 Ludwigshafen am
-  Rhein
-URL:https://www.bloch.de/wer-wir-sind/oeffnungszeiten
-CATEGORIES:museum,free-entry,exhibition
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-26-ludwigshafen-ernst-bloch-zentrum-talk-by-dorothea-roos-bauh
  aus-dessau@events-search
 DTSTAMP:20261101T000000Z
@@ -1230,34 +948,6 @@ LOCATION:Ernst-Bloch-Zentrum\, Walzmühlstraße 63\, 67061 Ludwigshafen am
   Rhein
 URL:https://www.bloch.de
 CATEGORIES:museum,free-entry,talk
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-01-ludwigshafen-schillerhaus-oggersheim@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20270201
-SUMMARY:Schillerhaus Oggersheim
-DESCRIPTION:Schiller memorial house\, free\nDates: closed 23 Dec - 8 Jan\n
- Hours: Wed 13-20\, Fri 10-12 + 13-17\nPrice: free\nStatus: ok (official)\
- nhttps://ludwigshafen.de/leben/kultur/stadtmuseum
-LOCATION:Schillerhaus Oggersheim\, Schillerstraße 6\, 67071 Ludwigshafen 
- am Rhein
-URL:https://ludwigshafen.de/leben/kultur/stadtmuseum
-CATEGORIES:museum,free-entry,exhibition
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-01-viernheim-museum-viernheim@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20270201
-SUMMARY:Museum Viernheim
-DESCRIPTION:town history museum\, free\nHours: Sun 14-17\, Thu 16-18\nPric
- e: free\nStatus: ok (official)\nhttps://www.viernheim.de/kultur-freizeit-
- sport/museum-und-archiv-viernheim.html
-LOCATION:Museum Viernheim\, Berliner Ring 28\, 68519 Viernheim
-URL:https://www.viernheim.de/kultur-freizeit-sport/museum-und-archiv-viern
- heim.html
-CATEGORIES:museum,free-entry,exhibition
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-speyer-historisches-museum-der-pfalz-nacht-gegen-einsamkeit
@@ -1285,21 +975,6 @@ DESCRIPTION:free introduction to the Sisi exhibition\naudience not shown\n
  e/programm/kalender
 LOCATION:Historisches Museum der Pfalz\, Domplatz 4\, 67346 Speyer
 URL:https://museum.speyer.de/programm/kalender
-CATEGORIES:museum,free-entry,exhibition
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-01-heidelberg-friedrich-ebert-gedenkstatte@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20270201
-SUMMARY:Friedrich-Ebert-Gedenkstätte
-DESCRIPTION:memorial of the first German Reich President\, free\nDates: cl
- osed Mondays\nHours: Tue-Fri 9-17\, Sat-Sun 10-17\nPrice: free\nStatus: o
- k (official)\nhttps://ebert-gedenkstaette.de/ausstellungen/besuchsinforma
- tionen/
-LOCATION:Friedrich-Ebert-Gedenkstätte\, Pfaffengasse 18\, 69117 Heidelber
- g
-URL:https://ebert-gedenkstaette.de/ausstellungen/besuchsinformationen/
 CATEGORIES:museum,free-entry,exhibition
 END:VEVENT
 BEGIN:VEVENT
@@ -1357,86 +1032,6 @@ DESCRIPTION:evening event in the memorial\, registration needed\nregistrat
 LOCATION:Friedrich-Ebert-Gedenkstätte\, Pfaffengasse 18\, 69117 Heidelber
  g
 URL:https://ebert-gedenkstaette.de/veranstaltungen/
-CATEGORIES:museum,free-entry,exhibition
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-01-heidelberg-dokumentationszentrum-deutscher-sinti-und-roma@e
- vents-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20270201
-SUMMARY:Dokumentationszentrum Deutscher Sinti und Roma
-DESCRIPTION:permanent exhibition on the genocide of Sinti and Roma\, free\
- nfree tour Tue 17:00\nDates: closed Mondays and public holidays\nHours: T
- ue 9:30-19:45\, Wed-Fri 9:30-16:30\, Sat-Sun 11-16:30\nPrice: free\nStatu
- s: ok (official)\nhttps://dokuzentrum.sintiundroma.de/zielgruppen/besuche
- r/
-LOCATION:Dokumentations- und Kulturzentrum Deutscher Sinti und Roma\, Brem
- eneckgasse 2\, 69117 Heidelberg
-URL:https://dokuzentrum.sintiundroma.de/zielgruppen/besucher/
-CATEGORIES:museum,free-entry,exhibition
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-01-heidelberg-zoologische-sammlung-timeline-evolution@events-s
- earch
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20270201
-SUMMARY:Zoologische Sammlung: Timeline Evolution
-DESCRIPTION:university zoological collection\, free\nDates: weekdays only\
- nHours: Mon-Fri 8-18\nPrice: free\nStatus: ok (official)\nhttps://www.hei
- collections.uni-heidelberg.de/de/museen-sammlungen/zoologische-sammlung
-LOCATION:Zoologische Sammlung (Centre for Organismal Studies)\, Im Neuenhe
- imer Feld 231\, 69120 Heidelberg
-URL:https://www.heicollections.uni-heidelberg.de/de/museen-sammlungen/zool
- ogische-sammlung
-CATEGORIES:museum,free-entry,exhibition
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-01-heidelberg-museum-fur-geowissenschaften@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20270201
-SUMMARY:Museum für Geowissenschaften
-DESCRIPTION:university geology museum with the Homo heidelbergensis jaw\, 
- free\nDates: weekdays only\nHours: Mon-Fri 9-17\nPrice: free\nStatus: ok 
- (official)\nhttps://www.heicollections.uni-heidelberg.de/de/museen-sammlu
- ngen/museum-und-sammlung-des-instituts-fuer-geowissenschaften
-LOCATION:Museum für Geowissenschaften\, Im Neuenheimer Feld 235\, 69120 H
- eidelberg
-URL:https://www.heicollections.uni-heidelberg.de/de/museen-sammlungen/muse
- um-und-sammlung-des-instituts-fuer-geowissenschaften
-CATEGORIES:museum,free-entry,exhibition
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-01-heidelberg-historische-sammlungen-der-universitatsbibliothe
- k@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20270201
-SUMMARY:Historische Sammlungen der Universitätsbibliothek
-DESCRIPTION:historic library collections\, free\nHours: Mon-Thu 10-16\, Fr
- i 10-15:30 (another page: daily 10-18)\nPrice: free\nStatus: ok (official
- )\nhttps://www.heicollections.uni-heidelberg.de/de/museen-sammlungen/hist
- orische-sammlungen
-LOCATION:Universitätsbibliothek Heidelberg\, Plöck 107-109\, 69117 Heide
- lberg
-URL:https://www.heicollections.uni-heidelberg.de/de/museen-sammlungen/hist
- orische-sammlungen
-CATEGORIES:museum,free-entry,exhibition
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-01-neckargemund-museum-im-alten-rathaus-mit-auge-herz-und-hand
- @events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261123
-SUMMARY:Museum im Alten Rathaus: Mit Auge\, Herz und Hand
-DESCRIPTION:town museum exhibition about reading and writing\, free\nDates
- : running\, until 22 Nov\nHours: Sat 10-16\, Sun 11-17\nPrice: free\nStat
- us: ok (official)\nhttps://www.neckargemuend.de/museum
-LOCATION:Museum im Alten Rathaus\, Hauptstraße 25\, 69151 Neckargemünd
-URL:https://www.neckargemuend.de/museum
 CATEGORIES:museum,free-entry,exhibition
 END:VEVENT
 END:VCALENDAR
