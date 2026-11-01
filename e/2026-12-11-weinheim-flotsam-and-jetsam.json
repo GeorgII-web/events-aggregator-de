@@ -1,0 +1,37 @@
+{
+ "id": "2026-12-11-weinheim-flotsam-and-jetsam",
+ "name": "Flotsam and Jetsam",
+ "description": "US thrash metal band from Phoenix, active since 1981",
+ "start": "2026-12-11",
+ "end": "2026-12-11",
+ "hours": "doors 19:00, start 20:00",
+ "place": "Café Central",
+ "address": "Bahnhofstraße 19, 69469 Weinheim",
+ "city": "Weinheim",
+ "price": "30 EUR (box office)",
+ "size": "small",
+ "status": "ok",
+ "link": "https://cafecentral.de/konzert/flotsam-jetsam/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Flotsam and Jetsam, second-wave US thrash band from Phoenix (Jason Newsted's band before Metallica), play the small Café Central club. Their latest album is \"I Am the Weapon\" (2024).\n\nThe venue lists 30 EUR at the box office and says tickets are available.",
+ "tags": [
+  "metal",
+  "small-concert"
+ ],
+ "bands": [
+  "Flotsam and Jetsam"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.916Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "live",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flotsam+and+Jetsam&dates=20261211T200000%2F20261211T220000&details=US+thrash+metal+band+from+Phoenix%2C+active+since+1981%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+30+EUR+%28box+office%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fcafecentral.de%2Fkonzert%2Fflotsam-jetsam%2F&location=Caf%C3%A9+Central%2C+Bahnhofstra%C3%9Fe+19%2C+69469+Weinheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bahnhofstra%C3%9Fe%2019%2C%2069469%20Weinheim",
+ "priceValue": 30
+}

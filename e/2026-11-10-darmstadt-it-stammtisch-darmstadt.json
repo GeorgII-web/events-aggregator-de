@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-10-darmstadt-it-stammtisch-darmstadt",
+ "name": "IT-Stammtisch Darmstadt",
+ "description": "informal monthly get-together of IT people in a restaurant",
+ "start": "2026-11-10",
+ "end": "2026-11-10",
+ "hours": "from 19:30",
+ "place": "Restaurant Poseidon (am Kennedyplatz)",
+ "address": "Rheinstraße 41, 64283 Darmstadt",
+ "city": "Darmstadt",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.meetup.com/it-stammtisch-darmstadt/events/311975973/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Long-running informal IT regulars' table in Darmstadt, every second Tuesday of the month. Open to IT professionals, career changers and anyone interested in IT; topics range over AI, data, programming and open source.\n\nNo talks, just conversation over dinner; food and drinks are paid by each guest, the group asks for an optional donation for running costs. Next dates 8 Dec 2026 and 12 Jan 2027.",
+ "note": "German; every 2nd Tuesday, next 8 Dec",
+ "tags": [
+  "meetup",
+  "on-site",
+  "programming"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.968Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=IT-Stammtisch+Darmstadt&dates=20261110T193000%2F20261110T213000&details=informal+monthly+get-together+of+IT+people+in+a+restaurant%0AGerman%3B+every+2nd+Tuesday%2C+next+8+Dec%0AHours%3A+from+19%3A30%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meetup.com%2Fit-stammtisch-darmstadt%2Fevents%2F311975973%2F&location=Restaurant+Poseidon+%28am+Kennedyplatz%29%2C+Rheinstra%C3%9Fe+41%2C+64283+Darmstadt&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rheinstra%C3%9Fe%2041%2C%2064283%20Darmstadt",
+ "priceValue": 0
+}

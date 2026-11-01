@@ -1,0 +1,39 @@
+{
+ "id": "2027-04-28-karlsruhe-mastering-ai-2027",
+ "name": "Mastering AI 2027",
+ "description": "AI conference for developers: agentic AI, MCP, LLMs, MLOps (formerly Minds Mastering Machines)",
+ "start": "2027-04-28",
+ "end": "2027-04-29",
+ "hours": "n/a",
+ "place": "IHK Karlsruhe, Haus der Wirtschaft",
+ "address": "Lammstraße 13-17, 76133 Karlsruhe",
+ "city": "Karlsruhe",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://mastering-ai.eu/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Mastering AI is the renamed Minds Mastering Machines (M3), the heise / dpunkt conference on machine learning and AI in practice, held at the IHK Karlsruhe at Friedrichsplatz. The 2027 topics: agentic AI and MCP, GenAI and LLMs, optimizing AI applications, security for and with AI, data protection, experience reports, data engineering and MLOps.\n\nTalks plus full-day workshops; group discount from three people and a discount for students. The call for proposals is open until 19 Nov 2026; ticket prices are not published yet. Nearest tram stop Ettlinger Tor, about five minutes on foot.",
+ "note": "German; CFP until 19 Nov 2026; group discount from 3",
+ "tags": [
+  "conference",
+  "on-site",
+  "ai",
+  "agents",
+  "ml",
+  "security"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.968Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mastering+AI+2027&dates=20270428%2F20270430&details=AI+conference+for+developers%3A+agentic+AI%2C+MCP%2C+LLMs%2C+MLOps+%28formerly+Minds+Mastering+Machines%29%0AGerman%3B+CFP+until+19+Nov+2026%3B+group+discount+from+3%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fmastering-ai.eu%2F&location=IHK+Karlsruhe%2C+Haus+der+Wirtschaft%2C+Lammstra%C3%9Fe+13-17%2C+76133+Karlsruhe&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lammstra%C3%9Fe%2013-17%2C%2076133%20Karlsruhe",
+ "priceValue": null
+}

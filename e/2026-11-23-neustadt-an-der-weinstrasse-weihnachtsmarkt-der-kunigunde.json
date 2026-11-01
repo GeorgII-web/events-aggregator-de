@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-23-neustadt-an-der-weinstrasse-weihnachtsmarkt-der-kunigunde",
+ "name": "Weihnachtsmarkt der Kunigunde",
+ "description": "Neustadt's Christmas market on the historic Marktplatz and in old courtyards",
+ "start": "2026-11-23",
+ "end": "2026-12-22",
+ "hours": "Marktplatz daily 11-20; courtyards Fri 15-20, Sat-Sun 11-20",
+ "place": "Marktplatz, Juliusplatz, Rathausinnenhof, Hof der Vizedomei",
+ "address": "Marktplatz, 67433 Neustadt an der Weinstraße",
+ "city": "Neustadt an der Weinstraße",
+ "price": "free",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.neustadt.eu/Tourismus-Wein/Top-Events-Aktuelles/Weihnachtszeit-in-Neustadt/Weihnachtsmarkt-der-Kunigunde/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "christmas-market",
+  "craft-market"
+ ],
+ "dateNote": "courtyards open only on Advent weekends",
+ "note": "historic carousel, concerts",
+ "details": "The Christmas market of Neustadt an der Weinstraße spreads over the historic Marktplatz and Juliusplatz, with the town hall courtyard and the Hof der Vizedomei as extra venues on the Advent weekends (food and handmade crafts there). The historic horse carousel turns again, and there are Advent market concerts and bigger evening concerts.\n\nMarktplatz and Juliusplatz daily 11-20 from 23 November to 22 December; the courtyards Friday 15-20, Saturday and Sunday 11-20. It opens the day after Totensonntag.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.864Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "christmas",
+  "craft"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Weihnachtsmarkt+der+Kunigunde&dates=20261123%2F20261223&details=Neustadt%27s+Christmas+market+on+the+historic+Marktplatz+and+in+old+courtyards%0Ahistoric+carousel%2C+concerts%0ADates%3A+courtyards+open+only+on+Advent+weekends%0AHours%3A+Marktplatz+daily+11-20%3B+courtyards+Fri+15-20%2C+Sat-Sun+11-20%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.neustadt.eu%2FTourismus-Wein%2FTop-Events-Aktuelles%2FWeihnachtszeit-in-Neustadt%2FWeihnachtsmarkt-der-Kunigunde%2F&location=Marktplatz%2C+Juliusplatz%2C+Rathausinnenhof%2C+Hof+der+Vizedomei%2C+Marktplatz%2C+67433+Neustadt+an+der+Weinstra%C3%9Fe&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marktplatz%2C%2067433%20Neustadt%20an%20der%20Weinstra%C3%9Fe",
+ "priceValue": 0
+}

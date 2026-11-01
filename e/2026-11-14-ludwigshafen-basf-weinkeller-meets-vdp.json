@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-14-ludwigshafen-basf-weinkeller-meets-vdp",
+ "name": "BASF Weinkeller meets VDP",
+ "description": "wine fair: about 30 VDP top estates, 100+ wines to taste",
+ "start": "2026-11-14",
+ "end": "2026-11-14",
+ "hours": "11-17",
+ "place": "BASF Feierabendhaus",
+ "address": "Leuschnerstraße 47, 67063 Ludwigshafen am Rhein",
+ "city": "Ludwigshafen",
+ "price": "35 EUR (tasting included)",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://www.meininger.de/wein/events/BASF-Weinkeller-vdp",
+ "source": "meininger.de",
+ "checked": "2026-11-01",
+ "rating": "4.6",
+ "website": "https://shop.weinkeller.basf.com/de-vdp-messe-2026",
+ "tags": [
+  "wine"
+ ],
+ "details": "The BASF wine cellar invites about 30 estates of the VDP (the association of German top wine estates) from the main German wine regions. They pour more than 100 wines, from estate and village wines up to single-vineyard Grosse Gewächse. Food comes from BASF Gastronomie.\n\nSaturday 11-17 in the BASF Feierabendhaus. Entry 35 EUR including the tasting; tickets in the BASF Weinkeller web shop.\n\nFacts from the wine trade press (Meininger); the shop page exists but its text is not readable without a browser.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.864Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "wine"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BASF+Weinkeller+meets+VDP&dates=20261114%2F20261115&details=wine+fair%3A+about+30+VDP+top+estates%2C+100%2B+wines+to+taste%0AHours%3A+11-17%0APrice%3A+35+EUR+%28tasting+included%29%0AStatus%3A+unconfirmed+%28meininger.de%29%0Ahttps%3A%2F%2Fwww.meininger.de%2Fwein%2Fevents%2FBASF-Weinkeller-vdp&location=BASF+Feierabendhaus%2C+Leuschnerstra%C3%9Fe+47%2C+67063+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Leuschnerstra%C3%9Fe%2047%2C%2067063%20Ludwigshafen%20am%20Rhein",
+ "priceValue": 35
+}

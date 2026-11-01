@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-09-karlsruhe-objektforum-karlsruhe-agent-hijacking",
+ "name": "ObjektForum Karlsruhe: Agent Hijacking",
+ "description": "talk on security risks of hijacked autonomous coding agents",
+ "start": "2026-11-09",
+ "end": "2026-11-09",
+ "hours": "18:00-20:00",
+ "place": "andrena objects ag, training room 4th floor",
+ "address": "Albert-Nestler-Straße 30, 76131 Karlsruhe",
+ "city": "Karlsruhe",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.meetup.com/objektforumka/events/316945653/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Free evening talk of the ObjektForum Karlsruhe, run by andrena objects: \"Agent Hijacking: Wie autonome KI zum Sicherheitsrisiko wird\" by Florian Rauls (Infinity Synaptics). It covers how autonomous coding agents such as Claude Code or Cursor can be manipulated or taken over through prompt injection, memory poisoning and persona engineering, and why classic security concepts fall short.\n\nThe second part shows protective measures, architecture approaches and recommendations for development and security teams. Networking with free food and drinks from 19:00. Seats are limited, registration on the organizer's website; donations go to a local social project.",
+ "note": "German; limited seats, register on andrena.de",
+ "tags": [
+  "meetup",
+  "on-site",
+  "ai",
+  "agents",
+  "security"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.968Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ObjektForum+Karlsruhe%3A+Agent+Hijacking&dates=20261109T180000%2F20261109T200000&details=talk+on+security+risks+of+hijacked+autonomous+coding+agents%0AGerman%3B+limited+seats%2C+register+on+andrena.de%0AHours%3A+18%3A00-20%3A00%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meetup.com%2Fobjektforumka%2Fevents%2F316945653%2F&location=andrena+objects+ag%2C+training+room+4th+floor%2C+Albert-Nestler-Stra%C3%9Fe+30%2C+76131+Karlsruhe&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Albert-Nestler-Stra%C3%9Fe%2030%2C%2076131%20Karlsruhe",
+ "priceValue": 0
+}

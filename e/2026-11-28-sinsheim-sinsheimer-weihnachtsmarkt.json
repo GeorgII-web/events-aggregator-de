@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-28-sinsheim-sinsheimer-weihnachtsmarkt",
+ "name": "Sinsheimer Weihnachtsmarkt",
+ "description": "small charity Christmas market on the Kirchplatz, first Advent",
+ "start": "2026-11-28",
+ "end": "2026-11-29",
+ "hours": "Sat 12-21, Sun 11-19",
+ "place": "Kirchplatz",
+ "address": "Kirchplatz, 74889 Sinsheim",
+ "city": "Sinsheim",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.sinsheim.de/freizeit-kultur/veranstaltungen-feste-maerkte/feste-maerkte/sinsheimer-weihnachtsmarkt",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "christmas-market"
+ ],
+ "note": "mostly charity stalls; Nikolaus visit",
+ "details": "On the first Advent weekend the traditional Christmas market on the Kirchplatz opens the season in Sinsheim, with an Advent market in the Allee. Mostly charity stalls with punch, mulled wine, sweets and hearty food; St. Nicholas visits.\n\nSaturday 12-21, Sunday 11-19. The city says more programme details will follow.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.864Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "christmas"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sinsheimer+Weihnachtsmarkt&dates=20261128%2F20261130&details=small+charity+Christmas+market+on+the+Kirchplatz%2C+first+Advent%0Amostly+charity+stalls%3B+Nikolaus+visit%0AHours%3A+Sat+12-21%2C+Sun+11-19%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.sinsheim.de%2Ffreizeit-kultur%2Fveranstaltungen-feste-maerkte%2Ffeste-maerkte%2Fsinsheimer-weihnachtsmarkt&location=Kirchplatz%2C+74889+Sinsheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kirchplatz%2C%2074889%20Sinsheim",
+ "priceValue": 0
+}

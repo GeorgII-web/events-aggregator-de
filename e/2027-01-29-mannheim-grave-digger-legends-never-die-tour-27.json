@@ -1,0 +1,38 @@
+{
+ "id": "2027-01-29-mannheim-grave-digger-legends-never-die-tour-27",
+ "name": "Grave Digger: Legends Never Die Tour '27",
+ "description": "German heavy metal veterans with Motorjesus and Warwolf",
+ "start": "2027-01-29",
+ "end": "2027-01-29",
+ "hours": "doors 18:00, start 19:00",
+ "place": "Capitol",
+ "address": "Waldhofstraße 2, 68169 Mannheim",
+ "city": "Mannheim",
+ "price": "from 47 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.capitol-mannheim.de/node/2839",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Grave Digger headline a German heavy metal package with a set spanning four decades plus new songs. Special guest Motorjesus (metal and rock 'n' roll), opener Warwolf.\n\nStanding (parterre) 47 EUR, seated (gallery) 58 EUR.",
+ "note": "guest: Motorjesus, opener: Warwolf",
+ "tags": [
+  "metal"
+ ],
+ "bands": [
+  "Grave Digger",
+  "Motorjesus",
+  "Warwolf"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.916Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Grave+Digger%3A+Legends+Never+Die+Tour+%2727&dates=20270129T190000%2F20270129T210000&details=German+heavy+metal+veterans+with+Motorjesus+and+Warwolf%0Aguest%3A+Motorjesus%2C+opener%3A+Warwolf%0AHours%3A+doors+18%3A00%2C+start+19%3A00%0APrice%3A+from+47+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.capitol-mannheim.de%2Fnode%2F2839&location=Capitol%2C+Waldhofstra%C3%9Fe+2%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Waldhofstra%C3%9Fe%202%2C%2068169%20Mannheim",
+ "priceValue": 47
+}

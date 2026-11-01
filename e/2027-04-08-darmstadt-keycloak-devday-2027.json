@@ -1,0 +1,38 @@
+{
+ "id": "2027-04-08-darmstadt-keycloak-devday-2027",
+ "name": "Keycloak DevDay 2027",
+ "description": "community conference on Keycloak identity and access management, plus hackathon day",
+ "start": "2027-04-08",
+ "end": "2027-04-09",
+ "hours": "n/a",
+ "place": "ibis Styles Hotel Darmstadt",
+ "address": "Hilpertstraße 27, 64295 Darmstadt",
+ "city": "Darmstadt",
+ "price": "190 EUR + VAT",
+ "size": "medium",
+ "status": "few tickets",
+ "link": "https://keycloak-day.dev/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "The largest Keycloak community conference, organized by volunteers, returns to Darmstadt for its fourth edition. Thursday 8 April is the conference day with talks and deep dives from the community and Keycloak contributors, followed by an evening event with dinner.\n\nFriday 9 April is an informal community day with a hackathon and an OpenSpace in several breakout sessions. One ticket covers both days and the evening event; seats are strictly limited (the 2026 edition was nearly sold out early). The CFP closed on 24 Oct 2026.",
+ "note": "English; 31 tickets left on 1 Nov; ticket incl. evening dinner",
+ "tags": [
+  "conference",
+  "on-site",
+  "security",
+  "cloud",
+  "java"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.968Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Keycloak+DevDay+2027&dates=20270408%2F20270410&details=community+conference+on+Keycloak+identity+and+access+management%2C+plus+hackathon+day%0AEnglish%3B+31+tickets+left+on+1+Nov%3B+ticket+incl.+evening+dinner%0AHours%3A+n%2Fa%0APrice%3A+190+EUR+%2B+VAT%0AStatus%3A+few+tickets+%28official%29%0Ahttps%3A%2F%2Fkeycloak-day.dev%2F&location=ibis+Styles+Hotel+Darmstadt%2C+Hilpertstra%C3%9Fe+27%2C+64295+Darmstadt&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hilpertstra%C3%9Fe%2027%2C%2064295%20Darmstadt",
+ "priceValue": 190
+}

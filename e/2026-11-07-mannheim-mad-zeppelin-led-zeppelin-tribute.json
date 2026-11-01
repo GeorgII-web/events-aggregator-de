@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-07-mannheim-mad-zeppelin-led-zeppelin-tribute",
+ "name": "Mad Zeppelin (Led Zeppelin tribute)",
+ "description": "long-running Led Zeppelin tribute, over two hours of hits",
+ "start": "2026-11-07",
+ "end": "2026-11-07",
+ "hours": "20:00",
+ "place": "7er Club",
+ "address": "Industriestraße 7, 68169 Mannheim",
+ "city": "Mannheim",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://7er-club.de/show/mad-zeppelin-2026/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "rating": "4.7",
+ "website": "https://7er-club.de/",
+ "tags": [
+  "small-concert",
+  "tribute-band",
+  "rock",
+  "hard-rock"
+ ],
+ "bands": [
+  "Mad Zeppelin"
+ ],
+ "details": "Mad Zeppelin have toured Germany since 2000 and are known as one of the best Led Zeppelin tribute acts in Europe. The five musicians play the band's biggest hits in a show of more than two hours, including the long \"Moby Dick\" drum solo.\n\nSaturday, start 20:00 at the 7er Club in Mannheim. Tickets through Reservix or at the door (cash or card) while the show is not sold out; the club page shows no price.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.864Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "live",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mad+Zeppelin+%28Led+Zeppelin+tribute%29&dates=20261107T200000%2F20261107T220000&details=long-running+Led+Zeppelin+tribute%2C+over+two+hours+of+hits%0AHours%3A+20%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F7er-club.de%2Fshow%2Fmad-zeppelin-2026%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
+ "priceValue": null
+}

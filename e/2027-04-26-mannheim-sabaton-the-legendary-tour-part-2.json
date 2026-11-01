@@ -1,0 +1,36 @@
+{
+ "id": "2027-04-26-mannheim-sabaton-the-legendary-tour-part-2",
+ "name": "Sabaton: The Legendary Tour Part 2",
+ "description": "Swedish power metal band with a big war-history stage show",
+ "start": "2027-04-26",
+ "end": "2027-04-26",
+ "hours": "n/a",
+ "place": "SAP Arena",
+ "address": "An der Arena 1, 68163 Mannheim",
+ "city": "Mannheim",
+ "price": "from 69.90 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.sabaton.net/tour/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Sabaton continue The Legendary Tour with an arena date in Mannheim. The band's tour page lists 26 Apr 2027 with a ticket link (several other dates are sold out); VIP packages are offered too.\n\nNo support acts or times announced yet; price from mvp.de.",
+ "note": "big show outside the 3-month window",
+ "tags": [
+  "metal"
+ ],
+ "bands": [
+  "Sabaton"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.916Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sabaton%3A+The+Legendary+Tour+Part+2&dates=20270426%2F20270427&details=Swedish+power+metal+band+with+a+big+war-history+stage+show%0Abig+show+outside+the+3-month+window%0AHours%3A+n%2Fa%0APrice%3A+from+69.90+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.sabaton.net%2Ftour%2F&location=SAP+Arena%2C+An+der+Arena+1%2C+68163+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=An%20der%20Arena%201%2C%2068163%20Mannheim",
+ "priceValue": 69.9
+}

@@ -1,0 +1,39 @@
+{
+ "id": "2026-11-14-mannheim-stahlzeit-zeitlos-20-jubilaumstour",
+ "name": "Stahlzeit: Zeitlos 20 Jubiläumstour",
+ "description": "Rammstein tribute show with full pyro, 20th anniversary tour",
+ "start": "2026-11-14",
+ "end": "2026-11-14",
+ "hours": "20:00",
+ "place": "Maimarkt Club",
+ "address": "Xaver-Fuhr-Straße 101, 68163 Mannheim",
+ "city": "Mannheim",
+ "price": "from 53.90 EUR",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/stahlzeit-maimarkt-club-mannheim/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "details": "Stahlzeit is one of the biggest Rammstein tribute shows in Europe and celebrates its 20th anniversary with the \"Zeitlos 20\" tour. The listing promises large-scale staging and pyrotechnics in a show of about two and a half hours, with a crew of around 30 people.\n\nTickets are sold via Eventim (https://www.eventim.de/noapp/event/21322127/). The official Stahlzeit and Maimarkt Club sites could not be read, so the date comes from mvp.de only; one reseller names the Maimarkthalle instead of the Maimarkt Club - check the ticket before going.",
+ "note": "Rammstein tribute (favourite band)",
+ "tags": [
+  "metal",
+  "industrial",
+  "tribute-band"
+ ],
+ "bands": [
+  "Stahlzeit"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.916Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "live",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Stahlzeit%3A+Zeitlos+20+Jubil%C3%A4umstour&dates=20261114T200000%2F20261114T220000&details=Rammstein+tribute+show+with+full+pyro%2C+20th+anniversary+tour%0ARammstein+tribute+%28favourite+band%29%0AHours%3A+20%3A00%0APrice%3A+from+53.90+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fstahlzeit-maimarkt-club-mannheim%2F&location=Maimarkt+Club%2C+Xaver-Fuhr-Stra%C3%9Fe+101%2C+68163+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Xaver-Fuhr-Stra%C3%9Fe%20101%2C%2068163%20Mannheim",
+ "priceValue": 53.9
+}

@@ -1,34 +1,41 @@
 {
  "id": "2026-12-30-mannheim-x-mas-rocks-2026-tribute-festival",
  "name": "X-MAS Rocks! 2026: Tribute Festival",
- "description": "tribute band festival between Christmas and New Year",
+ "description": "Ozzy Osbourne, Twisted Sister and Judas Priest tribute bands",
  "start": "2026-12-30",
  "end": "2026-12-30",
- "hours": "n/a",
+ "hours": "doors 18:30, start 19:30",
  "place": "7er Club",
  "address": "Industriestraße 7, 68169 Mannheim",
  "city": "Mannheim",
  "price": "from 30.90 EUR",
  "size": "small",
  "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/x-mas-rocks-2026-tribute-festival-7er-club-mannheim/",
  "source": "mvp.de",
  "checked": "2026-11-01",
- "rating": "4.7",
+ "details": "Between-the-years tribute night with three bands: Ozzyfied (Ozzy Osbourne), Bad Boys of Rock n Roll (Twisted Sister) and Judas Beast (Judas Priest).\n\nTickets via Reservix. The 7er Club's own programme page showed no dates, so this comes from mvp.de only.",
  "tags": [
+  "metal",
+  "hard-rock",
   "tribute-band",
   "small-concert"
  ],
- "details": "A club festival of tribute bands between the holidays; the line-up is not given in the listing. Date and price from the mvp.de listing; check the venue page before buying tickets.",
+ "bands": [
+  "Ozzyfied",
+  "Bad Boys of Rock n Roll",
+  "Judas Beast"
+ ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.868Z",
+ "updatedAt": "2026-11-01T21:57:33.916Z",
  "history": [],
- "topic": "local-events",
+ "topic": "rock-concerts",
  "groups": [
-  "live"
+  "live",
+  "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=X-MAS+Rocks%21+2026%3A+Tribute+Festival&dates=20261230%2F20261231&details=tribute+band+festival+between+Christmas+and+New+Year%0AHours%3A+n%2Fa%0APrice%3A+from+30.90+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=X-MAS+Rocks%21+2026%3A+Tribute+Festival&dates=20261230T193000%2F20261230T213000&details=Ozzy+Osbourne%2C+Twisted+Sister+and+Judas+Priest+tribute+bands%0AHours%3A+doors+18%3A30%2C+start+19%3A30%0APrice%3A+from+30.90+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fx-mas-rocks-2026-tribute-festival-7er-club-mannheim%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
  "priceValue": 30.9
 }

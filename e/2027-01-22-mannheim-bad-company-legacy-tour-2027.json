@@ -1,0 +1,37 @@
+{
+ "id": "2027-01-22-mannheim-bad-company-legacy-tour-2027",
+ "name": "Bad Company: Legacy Tour 2027",
+ "description": "classic rock hits played by former members Robert Hart and Dave Colwell",
+ "start": "2027-01-22",
+ "end": "2027-01-22",
+ "hours": "doors 19:00, start 20:00",
+ "place": "Capitol",
+ "address": "Waldhofstraße 2, 68169 Mannheim",
+ "city": "Mannheim",
+ "price": "from 41.70 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.capitol-mannheim.de/node/2885",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Former Bad Company members Robert Hart (vocals) and Dave Colwell (guitar), with Pat Davey (bass) and John Lingwood (drums), play the band's classic rock hits.\n\nStanding (parterre) 41.70 EUR, seated (gallery) 52.70 EUR; a VRN public transport ticket is included.",
+ "note": "not the original line-up",
+ "tags": [
+  "rock",
+  "hard-rock"
+ ],
+ "bands": [
+  "Bad Company"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.916Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bad+Company%3A+Legacy+Tour+2027&dates=20270122T200000%2F20270122T220000&details=classic+rock+hits+played+by+former+members+Robert+Hart+and+Dave+Colwell%0Anot+the+original+line-up%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+from+41.70+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.capitol-mannheim.de%2Fnode%2F2885&location=Capitol%2C+Waldhofstra%C3%9Fe+2%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Waldhofstra%C3%9Fe%202%2C%2068169%20Mannheim",
+ "priceValue": 41.7
+}

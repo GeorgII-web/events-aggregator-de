@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-17-mannheim-ignite-cancer-bats",
+ "name": "Ignite + Cancer Bats",
+ "description": "punk rock / hardcore package with Californian and Canadian headliners",
+ "start": "2026-11-17",
+ "end": "2026-11-17",
+ "hours": "doors 18:00, start 19:00",
+ "place": "Alte Feuerwache",
+ "address": "Brückenstraße 2, 68167 Mannheim",
+ "city": "Mannheim",
+ "price": "40 EUR (box office)",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://altefeuerwache.com/programm/termin/2026/november/17/ignite/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Orange County melodic hardcore band Ignite headline a punk rock / hardcore evening with Canadian hardcore-punk band Cancer Bats, plus Outspoken and 1000 Löwen unter Feinden.\n\nListed on the Alte Feuerwache programme; the co-promoter Café Central Weinheim names 40 EUR at the box office and says tickets are available.",
+ "note": "with Outspoken and 1000 Löwen unter Feinden",
+ "tags": [
+  "punk",
+  "hardcore"
+ ],
+ "bands": [
+  "Ignite",
+  "Cancer Bats",
+  "Outspoken",
+  "1000 Löwen unter Feinden"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.916Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ignite+%2B+Cancer+Bats&dates=20261117T190000%2F20261117T210000&details=punk+rock+%2F+hardcore+package+with+Californian+and+Canadian+headliners%0Awith+Outspoken+and+1000+L%C3%B6wen+unter+Feinden%0AHours%3A+doors+18%3A00%2C+start+19%3A00%0APrice%3A+40+EUR+%28box+office%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Faltefeuerwache.com%2Fprogramm%2Ftermin%2F2026%2Fnovember%2F17%2Fignite%2F&location=Alte+Feuerwache%2C+Br%C3%BCckenstra%C3%9Fe+2%2C+68167+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Br%C3%BCckenstra%C3%9Fe%202%2C%2068167%20Mannheim",
+ "priceValue": 40
+}

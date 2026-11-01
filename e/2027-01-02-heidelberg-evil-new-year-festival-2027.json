@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-02-heidelberg-evil-new-year-festival-2027",
+ "name": "Evil New Year Festival 2027",
+ "description": "one-day indoor black metal festival, eight bands",
+ "start": "2027-01-02",
+ "end": "2027-01-02",
+ "hours": "doors 14:30, start 15:00",
+ "place": "halle02",
+ "address": "Zollhofgarten 2, 69115 Heidelberg",
+ "city": "Heidelberg",
+ "price": "66.60 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.halle02.de/programm/evil-new-year-festival-jan27/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Second edition of the indoor festival by New Evil Music (the Heidelberg Deathfest organizers), focused on black and post-black metal. Line-up: Antrisch, Groza, Mystic Circle, Nail By Nail, Non Est Deus, The Spirit, Vorga and Waldgeflüster.\n\nRe-entry is allowed until the last band starts. halle02 is cashless (card only, cash only at merch, food and box office).",
+ "tags": [
+  "metal"
+ ],
+ "bands": [
+  "Groza",
+  "Waldgeflüster",
+  "Mystic Circle",
+  "The Spirit",
+  "Non Est Deus",
+  "Antrisch",
+  "Vorga",
+  "Nail By Nail"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.916Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Evil+New+Year+Festival+2027&dates=20270102T150000%2F20270102T170000&details=one-day+indoor+black+metal+festival%2C+eight+bands%0AHours%3A+doors+14%3A30%2C+start+15%3A00%0APrice%3A+66.60+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.halle02.de%2Fprogramm%2Fevil-new-year-festival-jan27%2F&location=halle02%2C+Zollhofgarten+2%2C+69115+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Zollhofgarten%202%2C%2069115%20Heidelberg",
+ "priceValue": 66.6
+}

@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-14-schwetzingen-handmade-love-design-and-handmade-market",
+ "name": "Handmade Love: design and handmade market",
+ "description": "almost 100 makers in the halls of Schwetzingen Palace",
+ "start": "2026-11-14",
+ "end": "2026-11-15",
+ "hours": "11-18 (last entry 17:00)",
+ "place": "Schloss Schwetzingen, Südlicher Zirkelbau",
+ "address": "Schloss Mittelbau, 68723 Schwetzingen",
+ "city": "Schwetzingen",
+ "price": "8 EUR (garden included)",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.schloss-schwetzingen.de/besuchsinformation/veranstaltungen/handmade-love",
+ "source": "official",
+ "checked": "2026-11-01",
+ "website": "https://www.handmadelove.de/",
+ "tags": [
+  "design-market",
+  "craft-market",
+  "heritage"
+ ],
+ "note": "15 Nov is Volkstrauertag",
+ "details": "Handmade Love is a design and handmade market in the three halls of the southern Zirkelbau of Schwetzingen Palace, the former summer residence of the Palatine electors. Almost 100 makers sell one-off pieces: jewellery, fashion, home decor, bags, soaps, paper goods, candles and specialty food. There is food and crafting for children.\n\nSaturday and Sunday 11-18, last entry 17:00. Ticket 8 EUR (6-15 years 3 EUR), entry to the palace garden included, so it combines well with a walk in the park. Dogs only in the garden, on a leash.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.864Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "craft",
+  "castle"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Handmade+Love%3A+design+and+handmade+market&dates=20261114%2F20261116&details=almost+100+makers+in+the+halls+of+Schwetzingen+Palace%0A15+Nov+is+Volkstrauertag%0AHours%3A+11-18+%28last+entry+17%3A00%29%0APrice%3A+8+EUR+%28garden+included%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.schloss-schwetzingen.de%2Fbesuchsinformation%2Fveranstaltungen%2Fhandmade-love&location=Schloss+Schwetzingen%2C+S%C3%BCdlicher+Zirkelbau%2C+Schloss+Mittelbau%2C+68723+Schwetzingen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Schloss%20Mittelbau%2C%2068723%20Schwetzingen",
+ "priceValue": 8
+}

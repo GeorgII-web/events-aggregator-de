@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-27-mannheim-tribute-to-nirvana-mtv-unplugged-1993",
+ "name": "Tribute to Nirvana: MTV Unplugged 1993",
+ "description": "Nirvana's 1993 MTV Unplugged concert recreated on stage",
+ "start": "2026-11-27",
+ "end": "2026-11-27",
+ "hours": "20:00 (doors 19:00)",
+ "place": "7er Club",
+ "address": "Industriestraße 7, 68169 Mannheim",
+ "city": "Mannheim",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://7er-club.de/show/nirvana-unplugged-2026/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "rating": "4.7",
+ "website": "https://7er-club.de/",
+ "tags": [
+  "small-concert",
+  "tribute-band",
+  "rock"
+ ],
+ "details": "A tribute show that brings back Nirvana's legendary 1993 MTV Unplugged concert: faithful arrangements, carefully chosen instruments and a stage set modelled on the original.\n\nFriday, doors 19:00, start 20:00 at the 7er Club in Mannheim. Tickets through Reservix or at the door while not sold out; the club page shows no price.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.864Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "live",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tribute+to+Nirvana%3A+MTV+Unplugged+1993&dates=20261127T200000%2F20261127T220000&details=Nirvana%27s+1993+MTV+Unplugged+concert+recreated+on+stage%0AHours%3A+20%3A00+%28doors+19%3A00%29%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F7er-club.de%2Fshow%2Fnirvana-unplugged-2026%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
+ "priceValue": null
+}

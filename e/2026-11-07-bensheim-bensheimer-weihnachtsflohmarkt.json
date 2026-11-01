@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-07-bensheim-bensheimer-weihnachtsflohmarkt",
+ "name": "Bensheimer Weihnachtsflohmarkt",
+ "description": "the town's indoor Christmas flea market, second-hand only",
+ "start": "2026-11-07",
+ "end": "2026-11-07",
+ "hours": "8-14",
+ "place": "Weststadthalle",
+ "address": "Berliner Ring 87, 64625 Bensheim",
+ "city": "Bensheim",
+ "price": "free",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://bensheim.de/weihnachtsflohmarkt-am-7-november-2026/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "flea-market",
+  "vintage"
+ ],
+ "note": "all stands taken; no new goods",
+ "details": "The Christmas flea market of the town of Bensheim fills the Weststadthalle, the biggest event hall of the Bergstraße district. The city says all stands were taken within a short time again, so there is a big mix of junk, collectibles and nostalgia items; selling new goods is not allowed.\n\nSaturday 8-14, free entry. The TSV Auerbach football section serves coffee, cake, rolls and sausages in the Bürgerraum.\n\nAddress from an event directory (regioactive.de), not from Maps.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.864Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "flea"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bensheimer+Weihnachtsflohmarkt&dates=20261107%2F20261108&details=the+town%27s+indoor+Christmas+flea+market%2C+second-hand+only%0Aall+stands+taken%3B+no+new+goods%0AHours%3A+8-14%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fbensheim.de%2Fweihnachtsflohmarkt-am-7-november-2026%2F&location=Weststadthalle%2C+Berliner+Ring+87%2C+64625+Bensheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Berliner%20Ring%2087%2C%2064625%20Bensheim",
+ "priceValue": 0
+}

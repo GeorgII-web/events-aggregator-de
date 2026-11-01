@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-20-bensheim-fou-fighterz-foo-fighters-tribute",
+ "name": "Fou Fighterz (Foo Fighters tribute)",
+ "description": "Foo Fighters tribute with all the big hits",
+ "start": "2026-11-20",
+ "end": "2026-11-20",
+ "hours": "20:00 (doors 19:00)",
+ "place": "Musiktheater Rex",
+ "address": "Fabrikstraße 10, 64625 Bensheim",
+ "city": "Bensheim",
+ "price": "25 EUR (door 30 EUR)",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.rex-ticketshop.de/tickets/index.php?id=1459",
+ "source": "official",
+ "checked": "2026-11-01",
+ "rating": "4.7",
+ "website": "http://www.musiktheater-rex.de/",
+ "tags": [
+  "small-concert",
+  "tribute-band",
+  "rock"
+ ],
+ "bands": [
+  "Fou Fighterz"
+ ],
+ "details": "Fou Fighterz play the Foo Fighters' hits - The Pretender, Everlong, Best of You, Monkey Wrench and more - close to the original in sound and look. The drummer is Markus Kullmann (Sinner, Voodoo Circle, John Diva).\n\nFriday, doors 19:00, start 20:00. Rex tickets 25 EUR, 30 EUR at the door.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.864Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "live",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fou+Fighterz+%28Foo+Fighters+tribute%29&dates=20261120T200000%2F20261120T220000&details=Foo+Fighters+tribute+with+all+the+big+hits%0AHours%3A+20%3A00+%28doors+19%3A00%29%0APrice%3A+25+EUR+%28door+30+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rex-ticketshop.de%2Ftickets%2Findex.php%3Fid%3D1459&location=Musiktheater+Rex%2C+Fabrikstra%C3%9Fe+10%2C+64625+Bensheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Fabrikstra%C3%9Fe%2010%2C%2064625%20Bensheim",
+ "priceValue": 25
+}

@@ -1,0 +1,37 @@
+{
+ "id": "2027-02-27-karlsruhe-python-barcamp-karlsruhe-2027",
+ "name": "Python Barcamp Karlsruhe 2027",
+ "description": "two-day community barcamp for Python developers, sessions planned on site",
+ "start": "2027-02-27",
+ "end": "2027-02-28",
+ "hours": "Sat 9-18:15, Sun 9-17:30",
+ "place": "DHBW Karlsruhe",
+ "address": "Erzbergerstraße 121, 76133 Karlsruhe",
+ "city": "Karlsruhe",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://barcamps.eu/pythonbarcamp-karlsruhe-2027/events",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Fourth Python Barcamp in Karlsruhe at the DHBW, same venue as the 2026 edition and DevFest Karlsruhe. The programme is made by the participants each morning: talks, discussions and hands-on sessions from Python web and data work to AI tooling.\n\nSaturday 9:00-18:15 with a get-together in the evening (19:00-22:30, place tba), Sunday 9:00-17:30. Tram line 1 stops at the venue; parking garage next door.",
+ "note": "German; barcamp format, evening get-together on Saturday",
+ "tags": [
+  "community-day",
+  "on-site",
+  "python",
+  "programming"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.968Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "community",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Python+Barcamp+Karlsruhe+2027&dates=20270227%2F20270301&details=two-day+community+barcamp+for+Python+developers%2C+sessions+planned+on+site%0AGerman%3B+barcamp+format%2C+evening+get-together+on+Saturday%0AHours%3A+Sat+9-18%3A15%2C+Sun+9-17%3A30%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fbarcamps.eu%2Fpythonbarcamp-karlsruhe-2027%2Fevents&location=DHBW+Karlsruhe%2C+Erzbergerstra%C3%9Fe+121%2C+76133+Karlsruhe&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Erzbergerstra%C3%9Fe%20121%2C%2076133%20Karlsruhe",
+ "priceValue": null
+}

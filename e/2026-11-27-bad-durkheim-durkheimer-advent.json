@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-27-bad-durkheim-durkheimer-advent",
+ "name": "Dürkheimer Advent",
+ "description": "Advent market on four weekends in the Kurpark and old town",
+ "start": "2026-11-27",
+ "end": "2026-12-20",
+ "hours": "Fri 16-21, Sat 12-21, Sun 12-20; from 2nd weekend also Thu 16-21",
+ "place": "Oberer Kurpark, Römerplatz and Stadtplatz",
+ "address": "Römerplatz, 67098 Bad Dürkheim",
+ "city": "Bad Dürkheim",
+ "price": "free",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.bad-duerkheim.de/kultur-tourismus/veranstaltungen-feste/duerkheimer-advent/programm-duerkheimer-advent/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "christmas-market",
+  "craft-market"
+ ],
+ "dateNote": "weekends only: 27-29 Nov, 3-6, 10-13, 17-20 Dec (Thursdays only Römer- and Stadtplatz)",
+ "note": "Pfälzer Krippe, ice stock sport",
+ "details": "The Dürkheimer Advent is open on the four Advent weekends. In the upper Kurpark: a Palatinate nativity scene in the concert shell, light installations and the \"Weihnachtsmanufaktur\" with makers changing every weekend. On the Römerplatz a yurt for children's crafts; in town Advent concerts and Palatinate dialect at the \"Glühschoppen\", ice stock sport, stick bread over the fire, mulled wine and food.\n\nFriday 16-21, Saturday 12-21, Sunday 12-20; from the second weekend also Thursday 16-21 (only Römer- and Stadtplatz, subject to change).",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.864Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "christmas",
+  "craft"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=D%C3%BCrkheimer+Advent&dates=20261127%2F20261221&details=Advent+market+on+four+weekends+in+the+Kurpark+and+old+town%0APf%C3%A4lzer+Krippe%2C+ice+stock+sport%0ADates%3A+weekends+only%3A+27-29+Nov%2C+3-6%2C+10-13%2C+17-20+Dec+%28Thursdays+only+R%C3%B6mer-+and+Stadtplatz%29%0AHours%3A+Fri+16-21%2C+Sat+12-21%2C+Sun+12-20%3B+from+2nd+weekend+also+Thu+16-21%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.bad-duerkheim.de%2Fkultur-tourismus%2Fveranstaltungen-feste%2Fduerkheimer-advent%2Fprogramm-duerkheimer-advent%2F&location=Oberer+Kurpark%2C+R%C3%B6merplatz+and+Stadtplatz%2C+R%C3%B6merplatz%2C+67098+Bad+D%C3%BCrkheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=R%C3%B6merplatz%2C%2067098%20Bad%20D%C3%BCrkheim",
+ "priceValue": 0
+}

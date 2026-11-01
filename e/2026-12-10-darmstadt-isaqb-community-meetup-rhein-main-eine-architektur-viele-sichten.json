@@ -1,0 +1,37 @@
+{
+ "id": "2026-12-10-darmstadt-isaqb-community-meetup-rhein-main-eine-architektur-viele-sichten",
+ "name": "iSAQB Community-Meetup Rhein/Main: Eine Architektur, viele Sichten",
+ "description": "software architecture meetup on consistent architecture views and diagram-as-code tools",
+ "start": "2026-12-10",
+ "end": "2026-12-10",
+ "hours": "18:00-20:30",
+ "place": "ACCSO - Accelerated Solutions GmbH",
+ "address": "Hilpertstraße 12, 64295 Darmstadt",
+ "city": "Darmstadt",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.meetup.com/isaqb-software-architektur-meetup-gruppe-fur-interessierte/events/317142823/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "20th community meetup of the iSAQB software architecture group Rhein/Main, together with JUG Darmstadt. Gerd Aschemann and Falk Sippach (embarc) show how to keep context, building block, runtime and deployment views consistent.\n\nThey compare draw.io, Mermaid, PlantUML, Structurizr and LikeC4, demo a versionable model that generates diagrams and syncs changes both ways, and discuss AI assistants as a source of context. Talk about 18:30-19:30, then networking; ACCSO provides drinks and finger food.",
+ "note": "German; with JUG Darmstadt; same evening as PHPUGMRN",
+ "tags": [
+  "meetup",
+  "on-site",
+  "architecture",
+  "system-design"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.968Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=iSAQB+Community-Meetup+Rhein%2FMain%3A+Eine+Architektur%2C+viele+Sichten&dates=20261210T180000%2F20261210T200000&details=software+architecture+meetup+on+consistent+architecture+views+and+diagram-as-code+tools%0AGerman%3B+with+JUG+Darmstadt%3B+same+evening+as+PHPUGMRN%0AHours%3A+18%3A00-20%3A30%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meetup.com%2Fisaqb-software-architektur-meetup-gruppe-fur-interessierte%2Fevents%2F317142823%2F&location=ACCSO+-+Accelerated+Solutions+GmbH%2C+Hilpertstra%C3%9Fe+12%2C+64295+Darmstadt&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hilpertstra%C3%9Fe%2012%2C%2064295%20Darmstadt",
+ "priceValue": 0
+}

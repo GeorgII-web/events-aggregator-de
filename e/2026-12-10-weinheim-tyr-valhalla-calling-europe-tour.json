@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-10-weinheim-tyr-valhalla-calling-europe-tour",
+ "name": "Týr: Valhalla Calling Europe Tour",
+ "description": "Faroese folk / heavy metal with three power metal support bands",
+ "start": "2026-12-10",
+ "end": "2026-12-10",
+ "hours": "doors 17:00, start 17:30",
+ "place": "Café Central",
+ "address": "Bahnhofstraße 19, 69469 Weinheim",
+ "city": "Weinheim",
+ "price": "43 EUR (box office)",
+ "size": "small",
+ "status": "ok",
+ "link": "https://cafecentral.de/konzert/tyr/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Faroese metal band Týr headline this tour stop with their self-titled 10th album. Support: Twilight Force, Dragonland and Vanaheim, all presenting new albums.\n\nEarly start (doors 17:00, first band 17:30). The venue lists 43 EUR at the box office and says tickets are available.",
+ "note": "with Twilight Force, Dragonland, Vanaheim",
+ "tags": [
+  "metal",
+  "small-concert"
+ ],
+ "bands": [
+  "Týr",
+  "Twilight Force",
+  "Dragonland",
+  "Vanaheim"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.916Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "live",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=T%C3%BDr%3A+Valhalla+Calling+Europe+Tour&dates=20261210T173000%2F20261210T193000&details=Faroese+folk+%2F+heavy+metal+with+three+power+metal+support+bands%0Awith+Twilight+Force%2C+Dragonland%2C+Vanaheim%0AHours%3A+doors+17%3A00%2C+start+17%3A30%0APrice%3A+43+EUR+%28box+office%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fcafecentral.de%2Fkonzert%2Ftyr%2F&location=Caf%C3%A9+Central%2C+Bahnhofstra%C3%9Fe+19%2C+69469+Weinheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bahnhofstra%C3%9Fe%2019%2C%2069469%20Weinheim",
+ "priceValue": 43
+}

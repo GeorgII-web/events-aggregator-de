@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-21-bensheim-bounce-bon-jovi-tribute",
+ "name": "Bounce (Bon Jovi tribute)",
+ "description": "Europe's most-booked Bon Jovi tribute band, 25 years on stage",
+ "start": "2026-11-21",
+ "end": "2026-11-21",
+ "hours": "20:00 (doors 19:00)",
+ "place": "Musiktheater Rex",
+ "address": "Fabrikstraße 10, 64625 Bensheim",
+ "city": "Bensheim",
+ "price": "27.50 EUR (door 33 EUR)",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.rex-ticketshop.de/tickets/index.php?id=1462",
+ "source": "official",
+ "checked": "2026-11-01",
+ "rating": "4.7",
+ "website": "http://www.musiktheater-rex.de/",
+ "tags": [
+  "small-concert",
+  "tribute-band",
+  "rock"
+ ],
+ "bands": [
+  "Bounce"
+ ],
+ "details": "Bounce have played Bon Jovi since 2001, about 90 shows a year, and call themselves the most-booked Bon Jovi tribute band in Europe. Singer Oliver Henrich was runner-up in \"The Voice of Germany\" 2020; the band also took part in the SAT.1 show \"The Tribute\".\n\nSaturday, doors 19:00, start 20:00. Rex tickets 27.50 EUR, 33 EUR at the door.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.864Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "live",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bounce+%28Bon+Jovi+tribute%29&dates=20261121T200000%2F20261121T220000&details=Europe%27s+most-booked+Bon+Jovi+tribute+band%2C+25+years+on+stage%0AHours%3A+20%3A00+%28doors+19%3A00%29%0APrice%3A+27.50+EUR+%28door+33+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rex-ticketshop.de%2Ftickets%2Findex.php%3Fid%3D1462&location=Musiktheater+Rex%2C+Fabrikstra%C3%9Fe+10%2C+64625+Bensheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Fabrikstra%C3%9Fe%2010%2C%2064625%20Bensheim",
+ "priceValue": 27.5
+}

@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-11-karlsruhe-jug-karlsruhe-from-code-to-context",
+ "name": "JUG Karlsruhe: From Code to Context",
+ "description": "talk on AI that understands software systems with their architecture context",
+ "start": "2026-11-11",
+ "end": "2026-11-11",
+ "hours": "18:30-20:30",
+ "place": "1000 Satellites Karlsruhe-Malzwerk, building A, 2nd floor",
+ "address": "Rintheimer Str. 23, 76131 Karlsruhe",
+ "city": "Karlsruhe",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.meetup.com/java-user-group-karlsruhe/events/316709983/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Java User Group Karlsruhe talk \"From Code to Context – Wie KI Softwaresysteme wirklich verstehen kann\" by Alexander Pritzkau, enterprise and solution architect at adorsys.\n\nThe talk combines technical system knowledge from the code with project context such as architecture decisions, requirements and documentation, so that an AI gets a complete model of a software system including the reasons behind it. A live demo shows how the speaker uses this in his daily architecture work, with practical experience and limits. Language-agnostic topic despite the Java group.",
+ "note": "German; demo",
+ "tags": [
+  "meetup",
+  "on-site",
+  "ai",
+  "architecture",
+  "java"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.968Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=JUG+Karlsruhe%3A+From+Code+to+Context&dates=20261111T183000%2F20261111T203000&details=talk+on+AI+that+understands+software+systems+with+their+architecture+context%0AGerman%3B+demo%0AHours%3A+18%3A30-20%3A30%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meetup.com%2Fjava-user-group-karlsruhe%2Fevents%2F316709983%2F&location=1000+Satellites+Karlsruhe-Malzwerk%2C+building+A%2C+2nd+floor%2C+Rintheimer+Str.+23%2C+76131+Karlsruhe&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rintheimer%20Str.%2023%2C%2076131%20Karlsruhe",
+ "priceValue": 0
+}

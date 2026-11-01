@@ -1,0 +1,38 @@
+{
+ "id": "2027-02-20-mannheim-electric-callboy-tanzneid-world-tour",
+ "name": "Electric Callboy: Tanzneid World Tour",
+ "description": "German electronicore / metalcore party band, arena show",
+ "start": "2027-02-20",
+ "end": "2027-02-20",
+ "hours": "19:00",
+ "place": "SAP Arena",
+ "address": "An der Arena 1, 68163 Mannheim",
+ "city": "Mannheim",
+ "price": "from 91.65 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.electriccallboy.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Electric Callboy bring the arena tour for their album \"Tanzneid\" to the SAP Arena. The band's site lists Mannheim on 20.02.27, not sold out (Dortmund is).\n\nTickets via Eventim (https://www.eventim.de/noapp/event/20891141/); price from mvp.de. Avoid resale sites, they list well above face value.",
+ "tags": [
+  "metalcore",
+  "metal",
+  "electronic"
+ ],
+ "bands": [
+  "Electric Callboy"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.916Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "electronic",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Electric+Callboy%3A+Tanzneid+World+Tour&dates=20270220T190000%2F20270220T210000&details=German+electronicore+%2F+metalcore+party+band%2C+arena+show%0AHours%3A+19%3A00%0APrice%3A+from+91.65+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.electriccallboy.com%2F&location=SAP+Arena%2C+An+der+Arena+1%2C+68163+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=An%20der%20Arena%201%2C%2068163%20Mannheim",
+ "priceValue": 91.65
+}

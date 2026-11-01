@@ -1,0 +1,38 @@
+{
+ "id": "2026-12-16-heidelberg-sondaschule-wir-bleiben-wach",
+ "name": "Sondaschule: Wir bleiben wach",
+ "description": "German ska-punk band with UK Oi! support",
+ "start": "2026-12-16",
+ "end": "2026-12-16",
+ "hours": "doors 19:00, start 20:00",
+ "place": "halle02",
+ "address": "Zollhofgarten 2, 69115 Heidelberg",
+ "city": "Heidelberg",
+ "price": "53.20 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.halle02.de/programm/sondaschule/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Ruhr-area ska-punk band Sondaschule bring their \"Wir bleiben wach\" tour to halle02. Support: Grade 2.\n\nAdvance price 53.20 EUR, no sold-out note on the venue page. halle02 is cashless and has no own parking; it is a short walk from Heidelberg Hbf.",
+ "note": "support: Grade 2",
+ "tags": [
+  "punk",
+  "ska"
+ ],
+ "bands": [
+  "Sondaschule",
+  "Grade 2"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.916Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sondaschule%3A+Wir+bleiben+wach&dates=20261216T200000%2F20261216T220000&details=German+ska-punk+band+with+UK+Oi%21+support%0Asupport%3A+Grade+2%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+53.20+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.halle02.de%2Fprogramm%2Fsondaschule%2F&location=halle02%2C+Zollhofgarten+2%2C+69115+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Zollhofgarten%202%2C%2069115%20Heidelberg",
+ "priceValue": 53.2
+}

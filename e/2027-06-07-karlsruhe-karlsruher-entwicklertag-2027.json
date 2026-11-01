@@ -1,0 +1,34 @@
+{
+ "id": "2027-06-07-karlsruhe-karlsruher-entwicklertag-2027",
+ "name": "Karlsruher Entwicklertag 2027",
+ "description": "regional software development conference by andrena objects",
+ "start": "2027-06-07",
+ "end": "2027-06-09",
+ "hours": "n/a",
+ "place": "venue tba",
+ "address": "n/a",
+ "city": "Karlsruhe",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.entwicklertag.de",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "The Karlsruher Entwicklertag is a regional software development conference organised by andrena objects ag (talks, workshops and an Agile Day). It is held every June; the 2026 edition ran 8-10 June 2026.\n\nNo 2027 date was published as of 1 Nov 2026; the date shown here is a placeholder.",
+ "tags": [
+  "conference",
+  "on-site"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:33.968Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Karlsruher+Entwicklertag+2027&dates=20270607%2F20270610&details=regional+software+development+conference+by+andrena+objects%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.entwicklertag.de&location=venue+tba%2C+Karlsruhe&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=venue%20tba%2C%20Karlsruhe",
+ "priceValue": null
+}

@@ -68,21 +68,6 @@ URL:http://www.musiktheater-rex.de/
 CATEGORIES:small-concert,tribute-band
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-14-mannheim-big-4-tribute-festival-metallica-slayer-megadeth-a
- nthrax@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Big 4 Tribute Festival (Metallica\, Slayer\, Megadeth\, Anthrax) (
- unconfirmed)
-DESCRIPTION:club night of four thrash metal tribute bands\nDates: one list
- ing says 13-14 Nov\nHours: n/a\nPrice: n/a\nStatus: unconfirmed (mvp.de)\
- nhttps://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:small-concert,tribute-band,metal
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-20-beindersheim-mirage-fleetwood-mac-tribute@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;TZID=Europe/Berlin:20261120T200000
@@ -1249,6 +1234,177 @@ URL:https://www.bierboerse.com/veranstaltungstermine
 CATEGORIES:beer-festival,craft-beer
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-07-bensheim-bensheimer-weihnachtsflohmarkt@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Bensheimer Weihnachtsflohmarkt
+DESCRIPTION:the town's indoor Christmas flea market\, second-hand only\nal
+ l stands taken; no new goods\nHours: 8-14\nPrice: free\nStatus: ok (offic
+ ial)\nhttps://bensheim.de/weihnachtsflohmarkt-am-7-november-2026/
+LOCATION:Weststadthalle\, Berliner Ring 87\, 64625 Bensheim
+URL:https://bensheim.de/weihnachtsflohmarkt-am-7-november-2026/
+CATEGORIES:flea-market,vintage
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-mannheim-mad-zeppelin-led-zeppelin-tribute@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261107T200000
+DTEND;TZID=Europe/Berlin:20261107T220000
+SUMMARY:Mad Zeppelin (Led Zeppelin tribute)
+DESCRIPTION:long-running Led Zeppelin tribute\, over two hours of hits\nHo
+ urs: 20:00\nPrice: n/a\nStatus: ok (official)\nhttps://7er-club.de/show/m
+ ad-zeppelin-2026/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://7er-club.de/show/mad-zeppelin-2026/
+CATEGORIES:small-concert,tribute-band,rock,hard-rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-bensheim-dio-alive-rainbow-black-sabbath-dio-tribute@events
+ -search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261107T200000
+DTEND;TZID=Europe/Berlin:20261107T220000
+SUMMARY:DIO Alive (Rainbow\, Black Sabbath & Dio tribute)
+DESCRIPTION:tribute to Ronnie James Dio's Rainbow\, Sabbath and solo years
+ \nHours: 20:00 (doors 19:00)\nPrice: 25 EUR (door 30 EUR)\nStatus: ok (of
+ ficial)\nhttps://www.rex-ticketshop.de/tickets/index.php?id=1357
+LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
+URL:https://www.rex-ticketshop.de/tickets/index.php?id=1357
+CATEGORIES:small-concert,tribute-band,hard-rock,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-ludwigshafen-basf-weinkeller-meets-vdp@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:BASF Weinkeller meets VDP (unconfirmed)
+DESCRIPTION:wine fair: about 30 VDP top estates\, 100+ wines to taste\nHou
+ rs: 11-17\nPrice: 35 EUR (tasting included)\nStatus: unconfirmed (meining
+ er.de)\nhttps://www.meininger.de/wein/events/BASF-Weinkeller-vdp
+LOCATION:BASF Feierabendhaus\, Leuschnerstraße 47\, 67063 Ludwigshafen am
+  Rhein
+URL:https://www.meininger.de/wein/events/BASF-Weinkeller-vdp
+CATEGORIES:wine
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-schwetzingen-handmade-love-design-and-handmade-market@event
+ s-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Handmade Love: design and handmade market
+DESCRIPTION:almost 100 makers in the halls of Schwetzingen Palace\n15 Nov 
+ is Volkstrauertag\nHours: 11-18 (last entry 17:00)\nPrice: 8 EUR (garden 
+ included)\nStatus: ok (official)\nhttps://www.schloss-schwetzingen.de/bes
+ uchsinformation/veranstaltungen/handmade-love
+LOCATION:Schloss Schwetzingen\, Südlicher Zirkelbau\, Schloss Mittelbau\,
+  68723 Schwetzingen
+URL:https://www.schloss-schwetzingen.de/besuchsinformation/veranstaltungen
+ /handmade-love
+CATEGORIES:design-market,craft-market,heritage
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-bensheim-forgotten-sons-marillion-acoustic-childhood-show@e
+ vents-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261114T200000
+DTEND;TZID=Europe/Berlin:20261114T220000
+SUMMARY:Forgotten Sons: Marillion Acoustic Childhood Show
+DESCRIPTION:Marillion's Misplaced Childhood acoustic with string quartet\n
+ Hours: 20:00 (doors 19:00)\nPrice: 28.50 EUR (door 32 EUR)\nStatus: ok (o
+ fficial)\nhttps://www.rex-ticketshop.de/tickets/index.php?id=1256
+LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
+URL:https://www.rex-ticketshop.de/tickets/index.php?id=1256
+CATEGORIES:small-concert,tribute-band,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-st-leon-rot-kunsthandwerkermarkt-st-leon-rot@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Kunsthandwerkermarkt St. Leon-Rot (unconfirmed)
+DESCRIPTION:pre-Christmas craft market with 80 makers in the HARRES\n37th 
+ edition; Volkstrauertag\nHours: 11-17\nPrice: 3 EUR\nStatus: unconfirmed 
+ (wochenblatt-reporter.de)\nhttps://www.wochenblatt-reporter.de/wochenblat
+ t-rhein-neckar/c-community/ein-tag-voller-inspirationen_a836141
+LOCATION:HARRES Veranstaltungszentrum\, An der Autobahn 60\, 68789 St. Leo
+ n-Rot
+URL:https://www.wochenblatt-reporter.de/wochenblatt-rhein-neckar/c-communi
+ ty/ein-tag-voller-inspirationen_a836141
+CATEGORIES:craft-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-bensheim-fou-fighterz-foo-fighters-tribute@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261120T200000
+DTEND;TZID=Europe/Berlin:20261120T220000
+SUMMARY:Fou Fighterz (Foo Fighters tribute)
+DESCRIPTION:Foo Fighters tribute with all the big hits\nHours: 20:00 (door
+ s 19:00)\nPrice: 25 EUR (door 30 EUR)\nStatus: ok (official)\nhttps://www
+ .rex-ticketshop.de/tickets/index.php?id=1459
+LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
+URL:https://www.rex-ticketshop.de/tickets/index.php?id=1459
+CATEGORIES:small-concert,tribute-band,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-bensheim-bounce-bon-jovi-tribute@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261121T200000
+DTEND;TZID=Europe/Berlin:20261121T220000
+SUMMARY:Bounce (Bon Jovi tribute)
+DESCRIPTION:Europe's most-booked Bon Jovi tribute band\, 25 years on stage
+ \nHours: 20:00 (doors 19:00)\nPrice: 27.50 EUR (door 33 EUR)\nStatus: ok 
+ (official)\nhttps://www.rex-ticketshop.de/tickets/index.php?id=1462
+LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
+URL:https://www.rex-ticketshop.de/tickets/index.php?id=1462
+CATEGORIES:small-concert,tribute-band,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-mannheim-tribute-to-nirvana-mtv-unplugged-1993@events-searc
+ h
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+DTEND;TZID=Europe/Berlin:20261127T220000
+SUMMARY:Tribute to Nirvana: MTV Unplugged 1993
+DESCRIPTION:Nirvana's 1993 MTV Unplugged concert recreated on stage\nHours
+ : 20:00 (doors 19:00)\nPrice: n/a\nStatus: ok (official)\nhttps://7er-clu
+ b.de/show/nirvana-unplugged-2026/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://7er-club.de/show/nirvana-unplugged-2026/
+CATEGORIES:small-concert,tribute-band,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-sinsheim-sinsheimer-weihnachtsmarkt@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Sinsheimer Weihnachtsmarkt
+DESCRIPTION:small charity Christmas market on the Kirchplatz\, first Adven
+ t\nmostly charity stalls; Nikolaus visit\nHours: Sat 12-21\, Sun 11-19\nP
+ rice: free\nStatus: ok (official)\nhttps://www.sinsheim.de/freizeit-kultu
+ r/veranstaltungen-feste-maerkte/feste-maerkte/sinsheimer-weihnachtsmarkt
+LOCATION:Kirchplatz\, 74889 Sinsheim
+URL:https://www.sinsheim.de/freizeit-kultur/veranstaltungen-feste-maerkte/
+ feste-maerkte/sinsheimer-weihnachtsmarkt
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-03-mannheim-time-warp-germany@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270405
+SUMMARY:Time Warp Germany
+DESCRIPTION:Techno marathon in the Maimarkthalle\, 19 hours on 5 floors\nR
+ hein-Neckar; line-up not out yet\nHours: Sat 19:00 - Sun 14:00\nPrice: n/
+ a (ticket shop shows off-sale\, presale not open yet)\nStatus: ok (offici
+ al)\nhttps://www.time-warp.de/
+LOCATION:Maimarkthalle (Maimarkt grounds)\, Xaver-Fuhr-Straße 101\, 68163
+  Mannheim
+URL:https://www.time-warp.de/
+CATEGORIES:music-festival,electronic,techno,rave
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-04-mannheim-murphy-s-law-jawless@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261104
@@ -1392,6 +1548,231 @@ DESCRIPTION:metal club night between Christmas and New Year\nHours: n/a\nP
 LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
 URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
 CATEGORIES:metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-mannheim-stahlzeit-zeitlos-20-jubilaumstour@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261114T200000
+DTEND;TZID=Europe/Berlin:20261114T220000
+SUMMARY:Stahlzeit: Zeitlos 20 Jubiläumstour (unconfirmed)
+DESCRIPTION:Rammstein tribute show with full pyro\, 20th anniversary tour\
+ nRammstein tribute (favourite band)\nHours: 20:00\nPrice: from 53.90 EUR\
+ nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltunge
+ n/stahlzeit-maimarkt-club-mannheim/
+LOCATION:Maimarkt Club\, Xaver-Fuhr-Straße 101\, 68163 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/stahlzeit-maimarkt-club-ma
+ nnheim/
+CATEGORIES:metal,industrial,tribute-band
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-mannheim-big-4-tribute-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+SUMMARY:Big 4 Tribute Festival (unconfirmed)
+DESCRIPTION:tribute night to Metallica\, Slayer\, Megadeth and Anthrax\nFr
+ i 13 Nov added\, Sat 14 Nov sold out; mixed bill incl. a Metallica tribut
+ e\nHours: doors 18:00\, start 19:00\nPrice: from 32 EUR\nStatus: unconfir
+ med (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltungen/big-4-tribute-f
+ estival-metallica-slayer-megadeth-anthrax/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/big-4-tribute-festival-met
+ allica-slayer-megadeth-anthrax/
+CATEGORIES:metal,tribute-band,small-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-mannheim-ignite-cancer-bats@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261117T190000
+DTEND;TZID=Europe/Berlin:20261117T210000
+SUMMARY:Ignite + Cancer Bats
+DESCRIPTION:punk rock / hardcore package with Californian and Canadian hea
+ dliners\nwith Outspoken and 1000 Löwen unter Feinden\nHours: doors 18:00
+ \, start 19:00\nPrice: 40 EUR (box office)\nStatus: ok (official)\nhttps:
+ //altefeuerwache.com/programm/termin/2026/november/17/ignite/
+LOCATION:Alte Feuerwache\, Brückenstraße 2\, 68167 Mannheim
+URL:https://altefeuerwache.com/programm/termin/2026/november/17/ignite/
+CATEGORIES:punk,hardcore
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-bensheim-nazareth-right-left-centre-tour-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261118T200000
+DTEND;TZID=Europe/Berlin:20261118T220000
+SUMMARY:Nazareth: Right\, Left\, Centre Tour 2026
+DESCRIPTION:Scottish hard rock veterans ("Love Hurts"\, "Hair of the Dog")
+ \nHours: doors 19:00\, start 20:00\nPrice: 46 EUR (box office 50 EUR)\nSt
+ atus: ok (official)\nhttps://www.musiktheater-rex.de/index.php?id=1497
+LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
+URL:https://www.musiktheater-rex.de/index.php?id=1497
+CATEGORIES:hard-rock,rock,small-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-bensheim-john-corabi-friends-european-shuffle-tour-2026@eve
+ nts-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261119T200000
+DTEND;TZID=Europe/Berlin:20261119T220000
+SUMMARY:John Corabi & Friends: European Shuffle Tour 2026
+DESCRIPTION:ex-Mötley Crüe and The Scream singer with band\nsupport: Pie
+ rrock\nHours: doors 19:00\, start 20:00\nPrice: 39.50 EUR (box office 45 
+ EUR)\nStatus: ok (official)\nhttps://www.musiktheater-rex.de/index.php?id
+ =1491
+LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
+URL:https://www.musiktheater-rex.de/index.php?id=1491
+CATEGORIES:hard-rock,rock,small-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-mannheim-combichrist-the-electro-combichristmas-tour-2026@e
+ vents-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Combichrist: The Electro Combichristmas Tour 2026
+DESCRIPTION:Norwegian-American aggrotech / industrial act\, old-school hea
+ dliner set\nHours: n/a\nPrice: from 39.60 EUR\nStatus: ok (official)\nhtt
+ ps://www.msconnexion.com/event/combichrist-electro-combichristmas-tour-20
+ 26.html
+LOCATION:MS Connexion Complex\, Angelstraße 33\, 68199 Mannheim
+URL:https://www.msconnexion.com/event/combichrist-electro-combichristmas-t
+ our-2026.html
+CATEGORIES:industrial,electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-weinheim-tyr-valhalla-calling-europe-tour@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261210T173000
+DTEND;TZID=Europe/Berlin:20261210T193000
+SUMMARY:Týr: Valhalla Calling Europe Tour
+DESCRIPTION:Faroese folk / heavy metal with three power metal support band
+ s\nwith Twilight Force\, Dragonland\, Vanaheim\nHours: doors 17:00\, star
+ t 17:30\nPrice: 43 EUR (box office)\nStatus: ok (official)\nhttps://cafec
+ entral.de/konzert/tyr/
+LOCATION:Café Central\, Bahnhofstraße 19\, 69469 Weinheim
+URL:https://cafecentral.de/konzert/tyr/
+CATEGORIES:metal,small-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-weinheim-flotsam-and-jetsam@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261211T200000
+DTEND;TZID=Europe/Berlin:20261211T220000
+SUMMARY:Flotsam and Jetsam
+DESCRIPTION:US thrash metal band from Phoenix\, active since 1981\nHours: 
+ doors 19:00\, start 20:00\nPrice: 30 EUR (box office)\nStatus: ok (offici
+ al)\nhttps://cafecentral.de/konzert/flotsam-jetsam/
+LOCATION:Café Central\, Bahnhofstraße 19\, 69469 Weinheim
+URL:https://cafecentral.de/konzert/flotsam-jetsam/
+CATEGORIES:metal,small-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-heidelberg-sondaschule-wir-bleiben-wach@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261216T200000
+DTEND;TZID=Europe/Berlin:20261216T220000
+SUMMARY:Sondaschule: Wir bleiben wach
+DESCRIPTION:German ska-punk band with UK Oi! support\nsupport: Grade 2\nHo
+ urs: doors 19:00\, start 20:00\nPrice: 53.20 EUR\nStatus: ok (official)\n
+ https://www.halle02.de/programm/sondaschule/
+LOCATION:halle02\, Zollhofgarten 2\, 69115 Heidelberg
+URL:https://www.halle02.de/programm/sondaschule/
+CATEGORIES:punk,ska
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-mannheim-x-mas-rocks-2026-tribute-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261230T193000
+DTEND;TZID=Europe/Berlin:20261230T213000
+SUMMARY:X-MAS Rocks! 2026: Tribute Festival (unconfirmed)
+DESCRIPTION:Ozzy Osbourne\, Twisted Sister and Judas Priest tribute bands\
+ nHours: doors 18:30\, start 19:30\nPrice: from 30.90 EUR\nStatus: unconfi
+ rmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltungen/x-mas-rocks-20
+ 26-tribute-festival-7er-club-mannheim/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/x-mas-rocks-2026-tribute-f
+ estival-7er-club-mannheim/
+CATEGORIES:metal,hard-rock,tribute-band,small-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-heidelberg-evil-new-year-festival-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270102T150000
+DTEND;TZID=Europe/Berlin:20270102T170000
+SUMMARY:Evil New Year Festival 2027
+DESCRIPTION:one-day indoor black metal festival\, eight bands\nHours: door
+ s 14:30\, start 15:00\nPrice: 66.60 EUR\nStatus: ok (official)\nhttps://w
+ ww.halle02.de/programm/evil-new-year-festival-jan27/
+LOCATION:halle02\, Zollhofgarten 2\, 69115 Heidelberg
+URL:https://www.halle02.de/programm/evil-new-year-festival-jan27/
+CATEGORIES:metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-mannheim-bad-company-legacy-tour-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270122T200000
+DTEND;TZID=Europe/Berlin:20270122T220000
+SUMMARY:Bad Company: Legacy Tour 2027
+DESCRIPTION:classic rock hits played by former members Robert Hart and Dav
+ e Colwell\nnot the original line-up\nHours: doors 19:00\, start 20:00\nPr
+ ice: from 41.70 EUR\nStatus: ok (official)\nhttps://www.capitol-mannheim.
+ de/node/2885
+LOCATION:Capitol\, Waldhofstraße 2\, 68169 Mannheim
+URL:https://www.capitol-mannheim.de/node/2885
+CATEGORIES:rock,hard-rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-mannheim-grave-digger-legends-never-die-tour-27@events-sear
+ ch
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270129T190000
+DTEND;TZID=Europe/Berlin:20270129T210000
+SUMMARY:Grave Digger: Legends Never Die Tour '27
+DESCRIPTION:German heavy metal veterans with Motorjesus and Warwolf\nguest
+ : Motorjesus\, opener: Warwolf\nHours: doors 18:00\, start 19:00\nPrice: 
+ from 47 EUR\nStatus: ok (official)\nhttps://www.capitol-mannheim.de/node/
+ 2839
+LOCATION:Capitol\, Waldhofstraße 2\, 68169 Mannheim
+URL:https://www.capitol-mannheim.de/node/2839
+CATEGORIES:metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-mannheim-electric-callboy-tanzneid-world-tour@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270220T190000
+DTEND;TZID=Europe/Berlin:20270220T210000
+SUMMARY:Electric Callboy: Tanzneid World Tour
+DESCRIPTION:German electronicore / metalcore party band\, arena show\nHour
+ s: 19:00\nPrice: from 91.65 EUR\nStatus: ok (official)\nhttps://www.elect
+ riccallboy.com/
+LOCATION:SAP Arena\, An der Arena 1\, 68163 Mannheim
+URL:https://www.electriccallboy.com/
+CATEGORIES:metalcore,metal,electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-26-mannheim-sabaton-the-legendary-tour-part-2@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Sabaton: The Legendary Tour Part 2
+DESCRIPTION:Swedish power metal band with a big war-history stage show\nbi
+ g show outside the 3-month window\nHours: n/a\nPrice: from 69.90 EUR\nSta
+ tus: ok (official)\nhttps://www.sabaton.net/tour/
+LOCATION:SAP Arena\, An der Arena 1\, 68163 Mannheim
+URL:https://www.sabaton.net/tour/
+CATEGORIES:metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-karlsruhe-knock-out-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Knock Out Festival
+DESCRIPTION:One-day indoor heavy metal festival\nW.A.S.P.\, Queensrÿche\n
+ Hours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.knockout-festi
+ val.de/
+LOCATION:Schwarzwaldhalle\, Hermann-Levi-Platz 1\, 76137 Karlsruhe
+URL:https://www.knockout-festival.de/
+CATEGORIES:music-festival,metal,hard-rock
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-karlsruhe-green-agentic-ai-coding-mit-headroom@events-searc
@@ -1544,17 +1925,139 @@ URL:https://www.meetup.com/phpug-rhein-neckar/events/312782238/
 CATEGORIES:php,meetup,on-site
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-06-01-karlsruhe-karlsruher-entwicklertag-2027@events-search
+UID:2026-11-09-karlsruhe-objektforum-karlsruhe-agent-hijacking@events-sear
+ ch
 DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20270601
-DTEND;VALUE=DATE:20270602
-SUMMARY:Karlsruher Entwicklertag 2027 (no dates yet)
-DESCRIPTION:regional software development conference by andrena objects\nD
- ates: usually June; 2026 was 8-10 Jun\nHours: n/a\nPrice: n/a\nStatus: no
-  dates yet (official)\nhttps://www.conftool.net/entwicklertag2026/about.p
- hp
+DTSTART;TZID=Europe/Berlin:20261109T180000
+DTEND;TZID=Europe/Berlin:20261109T200000
+SUMMARY:ObjektForum Karlsruhe: Agent Hijacking
+DESCRIPTION:talk on security risks of hijacked autonomous coding agents\nG
+ erman; limited seats\, register on andrena.de\nHours: 18:00-20:00\nPrice:
+  free\nStatus: ok (official)\nhttps://www.meetup.com/objektforumka/events
+ /316945653/
+LOCATION:andrena objects ag\, training room 4th floor\, Albert-Nestler-Str
+ aße 30\, 76131 Karlsruhe
+URL:https://www.meetup.com/objektforumka/events/316945653/
+CATEGORIES:meetup,on-site,ai,agents,security
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-darmstadt-it-stammtisch-darmstadt@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261110T193000
+DTEND;TZID=Europe/Berlin:20261110T213000
+SUMMARY:IT-Stammtisch Darmstadt
+DESCRIPTION:informal monthly get-together of IT people in a restaurant\nGe
+ rman; every 2nd Tuesday\, next 8 Dec\nHours: from 19:30\nPrice: free\nSta
+ tus: ok (official)\nhttps://www.meetup.com/it-stammtisch-darmstadt/events
+ /311975973/
+LOCATION:Restaurant Poseidon (am Kennedyplatz)\, Rheinstraße 41\, 64283 D
+ armstadt
+URL:https://www.meetup.com/it-stammtisch-darmstadt/events/311975973/
+CATEGORIES:meetup,on-site,programming
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-karlsruhe-jug-karlsruhe-from-code-to-context@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261111T183000
+DTEND;TZID=Europe/Berlin:20261111T203000
+SUMMARY:JUG Karlsruhe: From Code to Context
+DESCRIPTION:talk on AI that understands software systems with their archit
+ ecture context\nGerman; demo\nHours: 18:30-20:30\nPrice: free\nStatus: ok
+  (official)\nhttps://www.meetup.com/java-user-group-karlsruhe/events/3167
+ 09983/
+LOCATION:1000 Satellites Karlsruhe-Malzwerk\, building A\, 2nd floor\, Rin
+ theimer Str. 23\, 76131 Karlsruhe
+URL:https://www.meetup.com/java-user-group-karlsruhe/events/316709983/
+CATEGORIES:meetup,on-site,ai,architecture,java
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-darmstadt-isaqb-community-meetup-rhein-main-eine-architektu
+ r-viele-sichten@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261210T180000
+DTEND;TZID=Europe/Berlin:20261210T200000
+SUMMARY:iSAQB Community-Meetup Rhein/Main: Eine Architektur\, viele Sichte
+ n
+DESCRIPTION:software architecture meetup on consistent architecture views 
+ and diagram-as-code tools\nGerman; with JUG Darmstadt; same evening as PH
+ PUGMRN\nHours: 18:00-20:30\nPrice: free\nStatus: ok (official)\nhttps://w
+ ww.meetup.com/isaqb-software-architektur-meetup-gruppe-fur-interessierte/
+ events/317142823/
+LOCATION:ACCSO - Accelerated Solutions GmbH\, Hilpertstraße 12\, 64295 Da
+ rmstadt
+URL:https://www.meetup.com/isaqb-software-architektur-meetup-gruppe-fur-in
+ teressierte/events/317142823/
+CATEGORIES:meetup,on-site,architecture,system-design
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-karlsruhe-net-user-group-karlsruhe-december-meetup@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:.NET User Group Karlsruhe: December meetup (unconfirmed)
+DESCRIPTION:monthly .NET user group meetup; topic not announced yet\nGerma
+ n; planned date only\, not on Meetup yet\nHours: n/a\nPrice: free\nStatus
+ : unconfirmed (sessionize.com)\nhttps://sessionize.com/net-usergroup-karl
+ sruhe
+LOCATION:venue tba (recent meetups at bluehands)\, Karlsruhe
+URL:https://sessionize.com/net-usergroup-karlsruhe
+CATEGORIES:meetup,on-site,csharp,dotnet
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-karlsruhe-python-barcamp-karlsruhe-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+SUMMARY:Python Barcamp Karlsruhe 2027
+DESCRIPTION:two-day community barcamp for Python developers\, sessions pla
+ nned on site\nGerman; barcamp format\, evening get-together on Saturday\n
+ Hours: Sat 9-18:15\, Sun 9-17:30\nPrice: n/a\nStatus: ok (official)\nhttp
+ s://barcamps.eu/pythonbarcamp-karlsruhe-2027/events
+LOCATION:DHBW Karlsruhe\, Erzbergerstraße 121\, 76133 Karlsruhe
+URL:https://barcamps.eu/pythonbarcamp-karlsruhe-2027/events
+CATEGORIES:community-day,on-site,python,programming
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-08-darmstadt-keycloak-devday-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270410
+SUMMARY:Keycloak DevDay 2027 (few tickets)
+DESCRIPTION:community conference on Keycloak identity and access managemen
+ t\, plus hackathon day\nEnglish; 31 tickets left on 1 Nov; ticket incl. e
+ vening dinner\nHours: n/a\nPrice: 190 EUR + VAT\nStatus: few tickets (off
+ icial)\nhttps://keycloak-day.dev/
+LOCATION:ibis Styles Hotel Darmstadt\, Hilpertstraße 27\, 64295 Darmstadt
+URL:https://keycloak-day.dev/
+CATEGORIES:conference,on-site,security,cloud,java
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-28-karlsruhe-mastering-ai-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270430
+SUMMARY:Mastering AI 2027
+DESCRIPTION:AI conference for developers: agentic AI\, MCP\, LLMs\, MLOps 
+ (formerly Minds Mastering Machines)\nGerman; CFP until 19 Nov 2026; group
+  discount from 3\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://
+ mastering-ai.eu/
+LOCATION:IHK Karlsruhe\, Haus der Wirtschaft\, Lammstraße 13-17\, 76133 K
+ arlsruhe
+URL:https://mastering-ai.eu/
+CATEGORIES:conference,on-site,ai,agents,ml,security
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-07-karlsruhe-karlsruher-entwicklertag-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270610
+SUMMARY:Karlsruher Entwicklertag 2027
+DESCRIPTION:regional software development conference by andrena objects\nH
+ ours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.entwicklertag.d
+ e
 LOCATION:venue tba\, Karlsruhe
-URL:https://www.conftool.net/entwicklertag2026/about.php
+URL:https://www.entwicklertag.de
 CATEGORIES:conference,on-site
 END:VEVENT
 END:VCALENDAR
