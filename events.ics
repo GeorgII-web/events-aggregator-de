@@ -1,0 +1,648 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//events-search//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Events Rhein-Neckar
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-11-ludwigshafen-weihnachtsmarkt-ludwigshafen@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261224
+SUMMARY:Weihnachtsmarkt Ludwigshafen
+DESCRIPTION:city Christmas market with light decorations\n60 huts\nDates: 
+ closed 15 + 22 Nov\nHours: Sun-Thu 12-21\, Fri-Sat 12-21:30\nPrice: free\
+ nStatus: ok (official)\nhttps://www.lukom.com/events/weihnachtsmarkt
+LOCATION:Berliner Platz\, 67059 Ludwigshafen am Rhein
+URL:https://www.lukom.com/events/weihnachtsmarkt
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-ludwigshafen-der-klassische-flohmarkt@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Der klassische Flohmarkt (unconfirmed)
+DESCRIPTION:indoor/outdoor flea market with breakfast and DJ\nnext 5 Dec\n
+ Hours: 9-13\nPrice: free\nStatus: unconfirmed (regioactive.de)\nhttps://w
+ ww.regioactive.de/markt/der-klassische-flohmarkt-dashaus-ludwigshafen-am-
+ rhein-bahnhofsstrasse-30-2026-11-14-1bCKMtwHJZ
+LOCATION:Kulturzentrum dasHaus\, Bahnhofstraße 30\, 67059 Ludwigshafen am
+  Rhein
+URL:https://www.regioactive.de/markt/der-klassische-flohmarkt-dashaus-ludw
+ igshafen-am-rhein-bahnhofsstrasse-30-2026-11-14-1bCKMtwHJZ
+CATEGORIES:flea-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-limburgerhof-kunsthandwerkermarkt-limburgerhof@events-searc
+ h
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Kunsthandwerkermarkt Limburgerhof (unconfirmed)
+DESCRIPTION:pre-Christmas craft market\, makers sell their own work\nHours
+ : n/a\nPrice: free\nStatus: unconfirmed (festivalsindeutschland.de)\nhttp
+ s://www.festivalsindeutschland.de/festival/limburgerhof-kunsthandwerkerma
+ rkt
+LOCATION:Limburgerhof\, Limburgerhof
+URL:https://www.festivalsindeutschland.de/festival/limburgerhof-kunsthandw
+ erkermarkt
+CATEGORIES:craft-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-heidelberg-heidelberger-weihnachtsmarkt@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261223
+SUMMARY:Heidelberger Weihnachtsmarkt
+DESCRIPTION:big Christmas market across the old town squares\n6 squares: M
+ arktplatz\, Karlsplatz\, Bismarckplatz\, Universitätsplatz\, Kornmarkt\,
+  Anatomiegarten\nHours: Sun-Fri 11-21\, Sat 11-22\nPrice: free\nStatus: o
+ k (official)\nhttps://www.heidelberg-marketing.de/veranstaltung/heidelber
+ ger-weihnachtsmarkt-a2ab1639bd
+LOCATION:Altstadt\, Marktplatz 5\, 69117 Heidelberg
+URL:https://www.heidelberg-marketing.de/veranstaltung/heidelberger-weihnac
+ htsmarkt-a2ab1639bd
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-heidelberg-heidelberger-eisbahn@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20270111
+SUMMARY:Heidelberger Eisbahn
+DESCRIPTION:open-air ice rink below the castle\nHours: daily 10-22 (press)
+ \nPrice: about 5 EUR adults\, 3 EUR children (press)\nStatus: ok (officia
+ l)\nhttps://www.heidelberg-marketing.de/veranstaltung/heidelberger-eisbah
+ n-c20623a7c2
+LOCATION:Karlsplatz\, 69117 Heidelberg
+URL:https://www.heidelberg-marketing.de/veranstaltung/heidelberger-eisbahn
+ -c20623a7c2
+CATEGORIES:ice-rink,seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-mannheim-mannheimer-weihnachtsmarkt-am-wasserturm@events-se
+ arch
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261224
+SUMMARY:Mannheimer Weihnachtsmarkt am Wasserturm
+DESCRIPTION:main Mannheim Christmas market at the water tower\nHours: dail
+ y 11-21\nPrice: free\nStatus: ok (official)\nhttps://www.weihnachtsmarkt-
+ mannheim.de/
+LOCATION:Wasserturm\, Friedrichsplatz\, Friedrichsplatz 3\, 68165 Mannheim
+URL:https://www.weihnachtsmarkt-mannheim.de/
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-mannheim-weihnachtsmarkt-kapuzinerplanken@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261225
+SUMMARY:Weihnachtsmarkt Kapuzinerplanken (unconfirmed)
+DESCRIPTION:small Christmas market on a shopping street\nHours: n/a\nPrice
+ : free\nStatus: unconfirmed (festivalsindeutschland.de)\nhttps://www.fest
+ ivalsindeutschland.de/festival/weihnachtsmarkt-kapuzinerplanken-mannheim
+LOCATION:Kapuzinerplanken O5/O6\, Kapuzinerplanken\, 68161 Mannheim
+URL:https://www.festivalsindeutschland.de/festival/weihnachtsmarkt-kapuzin
+ erplanken-mannheim
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-speyer-speyerer-weihnachts-und-neujahrsmarkt@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20270111
+SUMMARY:Speyerer Weihnachts- und Neujahrsmarkt
+DESCRIPTION:Christmas and New Year market between gate tower and cathedral
+ \n3D video show on the Altpörtel 18:00 + 20:00 (Fri/Sat also 21:00)\, ic
+ e rink\nDates: opening Mon 23 Nov 18:00\nHours: stalls 11-20\, food Sun-T
+ hu 11-21\, Fri-Sat 11-22\nPrice: free\nStatus: ok (official)\nhttps://www
+ .speyer.de/de/veranstaltungen/messen-maerkte-und-veranstaltungen/weihnach
+ ts-neujahrsmarkt/
+LOCATION:Altpörtel to the Dom\, Maximilianstraße 54\, 67346 Speyer
+URL:https://www.speyer.de/de/veranstaltungen/messen-maerkte-und-veranstalt
+ ungen/weihnachts-neujahrsmarkt/
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-speyer-kunsthandwerkermarkt-im-rathaushof-speyer@events-sea
+ rch
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261221
+SUMMARY:Kunsthandwerkermarkt im Rathaushof Speyer
+DESCRIPTION:Advent craft market in the town hall courtyards\nRavenna partn
+ er-city stalls 28-29 Nov\nDates: Advent weekends only\nHours: Fri 16-20\,
+  Sat-Sun 11-20\nPrice: free\nStatus: ok (official)\nhttps://www.speyer.de
+ /de/veranstaltungen/messen-maerkte-und-veranstaltungen/weihnachts-neujahr
+ smarkt/
+LOCATION:Historisches Rathaus\, Maximilianstraße 13\, 67346 Speyer
+URL:https://www.speyer.de/de/veranstaltungen/messen-maerkte-und-veranstalt
+ ungen/weihnachts-neujahrsmarkt/
+CATEGORIES:craft-market,christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-schwetzingen-kurfurstlicher-weihnachtsmarkt-schwetzingen@ev
+ ents-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261221
+SUMMARY:Kurfürstlicher Weihnachtsmarkt Schwetzingen (no dates yet)
+DESCRIPTION:Christmas market in front of the palace\nDates: 2026 dates not
+  out\, 2025 pattern Thu-Sat\nHours: n/a\nPrice: free\nStatus: no dates ye
+ t (heidelberg24.de)
+LOCATION:Schloss Ehrenhof and Schlossplatz\, Schlossplatz\, 68723 Schwetzi
+ ngen
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-weinheim-weinheimer-weihnachtsmarkt@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261222
+SUMMARY:Weinheimer Weihnachtsmarkt (unconfirmed)
+DESCRIPTION:town Christmas market on the market square\nDates: dates confl
+ ict between listings\nHours: Fri 16-21\, Sat-Sun 13-21 (aggregator)\nPric
+ e: free\nStatus: unconfirmed (festivalsindeutschland.de)\nhttps://www.fes
+ tivalsindeutschland.de/festival/weinheimer-weihnachtsmarkt
+LOCATION:Marktplatz\, Weinheim
+URL:https://www.festivalsindeutschland.de/festival/weinheimer-weihnachtsma
+ rkt
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-bensheim-goldplay-live-coldplay-tribute@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Goldplay.live (Coldplay tribute) (unconfirmed)
+DESCRIPTION:tribute band playing Coldplay songs\nHours: n/a\nPrice: n/a\nS
+ tatus: unconfirmed (eventfinder.de)\nhttp://www.musiktheater-rex.de/
+LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
+URL:http://www.musiktheater-rex.de/
+CATEGORIES:small-concert,tribute-band
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-mannheim-big-4-tribute-festival-metallica-slayer-megadeth-a
+ nthrax@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Big 4 Tribute Festival (Metallica\, Slayer\, Megadeth\, Anthrax) (
+ unconfirmed)
+DESCRIPTION:club night of four thrash metal tribute bands\nDates: one list
+ ing says 13-14 Nov\nHours: n/a\nPrice: n/a\nStatus: unconfirmed (mvp.de)\
+ nhttps://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:small-concert,tribute-band,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-beindersheim-mirage-fleetwood-mac-tribute@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;TZID=Europe/Berlin:20261120T200000
+DTEND;TZID=Europe/Berlin:20261120T220000
+SUMMARY:Mirage (Fleetwood Mac tribute) (unconfirmed)
+DESCRIPTION:tribute band playing Fleetwood Mac hits\nHours: 20:00\nPrice: 
+ n/a\nStatus: unconfirmed (eventfinder.de)\nhttps://www.eventfinder.de/bei
+ ndersheim/konzerte/naechsten-monat/
+LOCATION:Beindersheim\, Beindersheim
+URL:https://www.eventfinder.de/beindersheim/konzerte/naechsten-monat/
+CATEGORIES:small-concert,tribute-band
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-mannheim-purple-rising-deep-purple-tribute@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Purple Rising (Deep Purple tribute) (unconfirmed)
+DESCRIPTION:tribute band playing Deep Purple songs\nHours: n/a\nPrice: n/a
+ \nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltung
+ en/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:small-concert,tribute-band
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-lorsch-lorscher-weihnachtsmarkt-das-blaue-weihnachtswunder@
+ events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:Lorscher Weihnachtsmarkt: Das Blaue Weihnachtswunder (unconfirmed)
+DESCRIPTION:small Christmas market at the abbey\, gate hall lit blue\nDate
+ s: 1st Advent weekend\nHours: Fri evening\, Sat\, Sun until 21 (aggregato
+ r)\nPrice: free\nStatus: unconfirmed (festivalsindeutschland.de)\nhttps:/
+ /www.festivalsindeutschland.de/festival/lorscher-weihnachtsmarkt
+LOCATION:Karolingerplatz and Klosterwiese\, Karolingerplatz\, 64653 Lorsch
+URL:https://www.festivalsindeutschland.de/festival/lorscher-weihnachtsmark
+ t
+CATEGORIES:christmas-market,heritage
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-heidelberg-heidelberg-castle-classic-guided-tour-de-en@even
+ ts-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20270107
+SUMMARY:Heidelberg Castle: classic guided tour (DE / EN)
+DESCRIPTION:1-hour tour of the castle interiors\, German or English\nmax 2
+ 0 people\nDates: winter schedule\nHours: daily 11-15 hourly (DE)\, 11:15-
+ 15:15 (EN)\nPrice: 6 EUR + castle ticket\nStatus: ok (official)\nhttps://
+ www.schloesser-und-gaerten.de/en/events/detail-1/klassische-schlossfuehru
+ ng/3846/1
+LOCATION:Schloss Heidelberg\, Schlosshof 1\, 69117 Heidelberg
+URL:https://www.schloesser-und-gaerten.de/en/events/detail-1/klassische-sc
+ hlossfuehrung/3846/1
+CATEGORIES:guided-tour,heritage
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-01-worms-jewish-cemetery-heiliger-sand-public-tour@events-sear
+ ch
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261128
+SUMMARY:Jewish cemetery Heiliger Sand: public tour (unconfirmed)
+DESCRIPTION:guided walk through Europe's oldest Jewish cemetery\nUNESCO Sc
+ hUM\, max 6 people\, tickets via ticket-regional.de\nDates: weekly\, last
+  27 Nov\nHours: 14:00\nPrice: n/a\nStatus: unconfirmed (festivalsindeutsc
+ hland.de)\nhttps://www.festivalsindeutschland.de/festival/oeffentliche-fu
+ ehrungen-juedischer-friedhof-heiliger-sand-saison
+LOCATION:Jüdischer Friedhof Heiliger Sand\, Willy-Brandt-Ring 21\, 67547 
+ Worms
+URL:https://www.festivalsindeutschland.de/festival/oeffentliche-fuehrungen
+ -juedischer-friedhof-heiliger-sand-saison
+CATEGORIES:guided-tour,heritage,unesco
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-worms-wormser-weihnacht@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261224
+SUMMARY:Wormser Weihnacht (unconfirmed)
+DESCRIPTION:Christmas market in Worms old town\nDates: closed 22 Nov\nHour
+ s: n/a\nPrice: free\nStatus: unconfirmed (regioactive.de)\nhttps://www.re
+ gioactive.de/markt/wormser-weihnacht-weihnachtsmarkt-im-herzen-der-nibelu
+ ngenstadt-worms-innenstadt-2026-11-20-SVglClZ1F3
+LOCATION:Innenstadt\, Obermarkt\, 67547 Worms
+URL:https://www.regioactive.de/markt/wormser-weihnacht-weihnachtsmarkt-im-
+ herzen-der-nibelungenstadt-worms-innenstadt-2026-11-20-SVglClZ1F3
+CATEGORIES:christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-01-heidelberg-oratorio-for-all-saints-denn-sie-sollen-getroste
+ t-werden@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Oratorio for All Saints: Denn sie sollen getröstet werden (unconf
+ irmed)
+DESCRIPTION:church oratorio concert for All Saints' Day\nCappella Palatina
+  Heidelberg\nHours: n/a\nPrice: from 10 EUR\nStatus: unconfirmed (mvp.de)
+ \nhttps://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+LOCATION:Jesuitenkirche\, Merianstraße 2\, 69117 Heidelberg
+URL:https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,church-concert,choir
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-ludwigshafen-daniel-ottensamer-signum-quartett@events-searc
+ h
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Daniel Ottensamer & Signum Quartett (unconfirmed)
+DESCRIPTION:chamber concert: Vienna Philharmonic clarinettist with a strin
+ g quartet\nHours: n/a\nPrice: from 41.34 EUR\nStatus: unconfirmed (mvp.de
+ )\nhttps://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+LOCATION:BASF Feierabendhaus\, Leuschnerstraße 47\, 67063 Ludwigshafen am
+  Rhein
+URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,chamber
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-ludwigshafen-3-abo-konzert-deutsche-staatsphilharmonie@even
+ ts-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:3. Abo-Konzert: Deutsche Staatsphilharmonie (unconfirmed)
+DESCRIPTION:symphony concert of the Rhineland-Palatinate state orchestra\n
+ matinee repeat Sun 8 Nov\nHours: n/a\nPrice: from 18 EUR\nStatus: unconfi
+ rmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltungen/klassik-kirche
+ n-musik/
+LOCATION:Pfalzbau Konzertsaal\, Berliner Str. 30\, 67059 Ludwigshafen am R
+ hein
+URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-mannheim-rammstein-symphonic-tribute-herzfeuer@events-searc
+ h
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Rammstein Symphonic Tribute: Herzfeuer (unconfirmed)
+DESCRIPTION:Rammstein songs played by a band with orchestra\nHours: n/a\nP
+ rice: from 52 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannh
+ eim/veranstaltungen/klassik-kirchen-musik/
+LOCATION:Rosengarten Mozartsaal\, Rosengartenplatz 2\, 68161 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:tribute-band,orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-mannheim-gospel-concert-preacherman-s-friends@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Gospel concert: Preacherman's Friends (unconfirmed)
+DESCRIPTION:gospel choir concert in a church\nHours: n/a\nPrice: from 18 E
+ UR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltu
+ ngen/klassik-kirchen-musik/
+LOCATION:Christuskirche\, Werderplatz 17\, 68161 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:church-concert,choir,gospel
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-heidelberg-royal-concertgebouw-orchestra-klaus-makela-heide
+ lberger-fruhling@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Royal Concertgebouw Orchestra\, Klaus Mäkelä (Heidelberger Früh
+ ling) (unconfirmed)
+DESCRIPTION:top Amsterdam symphony orchestra\, festival guest concert\nHou
+ rs: n/a\nPrice: n/a\nStatus: unconfirmed (eventfinder.de)\nhttps://www.ev
+ entfinder.de/veranstaltungen-heidelberg.php
+LOCATION:Wolfgang-Marguerre-Saal\, Theater Heidelberg\, Theaterstraße 10\
+ , 69117 Heidelberg
+URL:https://www.eventfinder.de/veranstaltungen-heidelberg.php
+CATEGORIES:classical,orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-mannheim-1-finestclassics-arcadi-volodos-piano@events-searc
+ h
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:1. FinestClassics: Arcadi Volodos (piano) (unconfirmed)
+DESCRIPTION:solo piano recital by a star pianist\nHours: n/a\nPrice: from 
+ 49.40 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/vera
+ nstaltungen/klassik-kirchen-musik/
+LOCATION:Aula der Universität Mannheim\, Schloss\, Bismarckstraße\, 6816
+ 1 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,piano
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-mannheim-mozart-gala-soloists-of-the-musikhochschule-mannhe
+ im@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Mozart-Gala: soloists of the Musikhochschule Mannheim (unconfirmed
+ )
+DESCRIPTION:Mozart arias and concertos by music students with orchestra\nc
+ onductor Cornelius Meister\nHours: n/a\nPrice: from 25 EUR\nStatus: uncon
+ firmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltungen/klassik-kirc
+ hen-musik/
+LOCATION:Rittersaal\, Barockschloss Mannheim\, Schloss\, Bismarckstraße\,
+  68161 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,student-concert,orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-heidelberg-de-profundis-1-bachchor-konzert@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:De Profundis: 1. Bachchor-Konzert (unconfirmed)
+DESCRIPTION:choral concert of the Heidelberg Bach choir in a church\nHours
+ : n/a\nPrice: from 20.10 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.m
+ vp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+LOCATION:Peterskirche\, Plöck 70\, 69117 Heidelberg
+URL:https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,church-concert,choir
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-speyer-internationaler-orgelzyklus-orgelkonzert-viii-marcel
+ -eliasch@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;TZID=Europe/Berlin:20261114T193000
+DTEND;TZID=Europe/Berlin:20261114T213000
+SUMMARY:Internationaler Orgelzyklus: Orgelkonzert VIII\, Marcel Eliasch (u
+ nconfirmed)
+DESCRIPTION:organ recital in the cathedral\, last of the 2026 cycle\nHours
+ : 19:30\, intro 18:45\nPrice: n/a (cycle from 15 EUR)\nStatus: unconfirme
+ d (mvp.de)\nhttps://www.mvp.de/rheinland-pfalz/veranstaltungen/internatio
+ naler-orgelzyklus-2026-orgelkonzert-viii-kaiserdom-speyer/
+LOCATION:Kaiserdom\, Domplatz 1A\, 67346 Speyer
+URL:https://www.mvp.de/rheinland-pfalz/veranstaltungen/internationaler-org
+ elzyklus-2026-orgelkonzert-viii-kaiserdom-speyer/
+CATEGORIES:classical,church-concert,organ
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-heidelberg-espressione-1-kammerkonzert@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Espressione: 1. Kammerkonzert (unconfirmed)
+DESCRIPTION:chamber concert by Heidelberg theatre orchestra musicians\nHou
+ rs: n/a\nPrice: from 22.30 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www
+ .mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+LOCATION:Alter Saal\, Theater Heidelberg\, Theaterstraße 10\, 69117 Heide
+ lberg
+URL:https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,chamber
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-ludwigshafen-berliner-solisten-sextett@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Berliner Solisten Sextett (unconfirmed)
+DESCRIPTION:string sextet chamber concert\nHours: n/a\nPrice: from 32.01 E
+ UR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltu
+ ngen/klassik-kirchen-musik/
+LOCATION:BASF Gesellschaftshaus\, Wöhlerstraße 15\, 67063 Ludwigshafen a
+ m Rhein
+URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,chamber
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-mannheim-kammermusik-in-den-rem-3-konzert@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Kammermusik in den REM: 3. Konzert (unconfirmed)
+DESCRIPTION:chamber music evening in the museum hall\nHours: n/a\nPrice: f
+ rom 43.72 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/
+ veranstaltungen/klassik-kirchen-musik/
+LOCATION:Florian-Waldeck-Saal\, Reiss-Engelhorn-Museen\, D5 1\, 68159 Mann
+ heim
+URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,chamber
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-mannheim-royal-scottish-national-orchestra@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Royal Scottish National Orchestra (unconfirmed)
+DESCRIPTION:symphony concert of a touring Scottish orchestra\nO. Scheps\, 
+ T. Søndergård\nHours: n/a\nPrice: from 69 EUR\nStatus: unconfirmed (mvp
+ .de)\nhttps://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+LOCATION:Rosengarten Mozartsaal\, Rosengartenplatz 2\, 68161 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-heidelberg-mozart-grosse-messe-c-moll-bach-kantate-131@even
+ ts-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Mozart: Große Messe c-Moll; Bach: Kantate 131 (unconfirmed)
+DESCRIPTION:church choir and orchestra: Mozart mass and Bach cantata\nHour
+ s: n/a\nPrice: from 18 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp
+ .de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+LOCATION:Friedenskirche Handschuhsheim\, An der Tiefburg 10\, 69121 Heidel
+ berg
+URL:https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,church-concert,choir
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-ludwigshafen-musik-aus-der-stille-deutsche-staatsphilharmon
+ ie@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Musik aus der Stille: Deutsche Staatsphilharmonie (unconfirmed)
+DESCRIPTION:orchestra concert of the state philharmonic in its own hall\nH
+ ours: n/a\nPrice: from 18 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.
+ mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+LOCATION:Philharmonie Ludwigshafen\, Heinigstraße 40\, 67059 Ludwigshafen
+  am Rhein
+URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-heidelberg-chorkonzert-am-ewigkeitssonntag-mendelssohn-elia
+ s@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;TZID=Europe/Berlin:20261122T170000
+DTEND;TZID=Europe/Berlin:20261122T190000
+SUMMARY:Chorkonzert am Ewigkeitssonntag: Mendelssohn\, Elias (unconfirmed)
+DESCRIPTION:Mendelssohn oratorio 'Elijah'\, choir and orchestra\nHours: 17
+ :00\nPrice: from 20.90 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp
+ .de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+LOCATION:Heiliggeistkirche\, Hauptstraße 189\, 69117 Heidelberg
+URL:https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,church-concert,choir,oratorio
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-mannheim-hommage-an-ludovico-einaudi-burak-cebi@events-sear
+ ch
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Hommage an Ludovico Einaudi: Burak Çebi (unconfirmed)
+DESCRIPTION:piano concert of Ludovico Einaudi music\nHours: n/a\nPrice: fr
+ om 47.90 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/v
+ eranstaltungen/klassik-kirchen-musik/
+LOCATION:Capitol\, Waldhofstraße 2\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,piano
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-heidelberg-amarcord-vocal-ensemble@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:amarcord (vocal ensemble) (unconfirmed)
+DESCRIPTION:a cappella concert by a Leipzig male vocal ensemble\nHours: n/
+ a\nPrice: n/a\nStatus: unconfirmed (eventfinder.de)\nhttps://www.eventfin
+ der.de/veranstaltungen-heidelberg.php
+LOCATION:Heiliggeistkirche\, Hauptstraße 189\, 69117 Heidelberg
+URL:https://www.eventfinder.de/veranstaltungen-heidelberg.php
+CATEGORIES:classical,church-concert,choir
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-heidelberg-wachet-auf-advent-concert-choir-cello-poetry@eve
+ nts-search
+DTSTAMP:20261101T135643Z
+DTSTART;TZID=Europe/Berlin:20261128T190000
+DTEND;TZID=Europe/Berlin:20261128T210000
+SUMMARY:Wachet auf! Advent concert (choir\, cello\, poetry) (unconfirmed)
+DESCRIPTION:Advent church concert: choir\, cello and poetry readings\nHour
+ s: 19:00\nPrice: from 25 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.m
+ vp.de/heidelberg/veranstaltungen/an-weiter-kommen-adventskonzert-peterski
+ rche-heidelberg/
+LOCATION:Peterskirche\, Plöck 70\, 69117 Heidelberg
+URL:https://www.mvp.de/heidelberg/veranstaltungen/an-weiter-kommen-advents
+ konzert-peterskirche-heidelberg/
+CATEGORIES:classical,church-concert,choir
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-mannheim-celebration-gospel-choir-handel-s-messiah@events-s
+ earch
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Celebration Gospel Choir: Handel's Messiah (unconfirmed)
+DESCRIPTION:Handel's Messiah sung by a gospel choir\nHours: n/a\nPrice: fr
+ om 31.80 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/v
+ eranstaltungen/klassik-kirchen-musik/
+LOCATION:Capitol\, Waldhofstraße 2\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,choir,oratorio
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-heidelberg-memento-odesa@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Memento Odesa (unconfirmed)
+DESCRIPTION:chamber concert of Theater und Orchester Heidelberg\nHours: n/
+ a\nPrice: from 22.30 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.d
+ e/heidelberg/veranstaltungen/klassik-kirchen-musik/
+LOCATION:Alter Saal\, Theater Heidelberg\, Theaterstraße 10\, 69117 Heide
+ lberg
+URL:https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,chamber
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-heidelberg-tosca-puccini@events-search
+DTSTAMP:20261101T135643Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20270410
+SUMMARY:Tosca (Puccini) (unconfirmed)
+DESCRIPTION:Puccini opera\, staged by Theater Heidelberg\nDates: several d
+ ates until 9 Apr\nHours: n/a\nPrice: from 25.60 EUR\nStatus: unconfirmed 
+ (mvp.de)\nhttps://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-m
+ usik/
+LOCATION:Marguerre-Saal\, Theater Heidelberg\, Theaterstraße 10\, 69117 H
+ eidelberg
+URL:https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+CATEGORIES:classical,opera
+END:VEVENT
+END:VCALENDAR
