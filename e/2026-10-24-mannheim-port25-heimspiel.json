@@ -1,0 +1,34 @@
+{
+ "id": "2026-10-24-mannheim-port25-heimspiel",
+ "name": "PORT25: HEIMSPIEL",
+ "description": "contemporary art exhibition, always free",
+ "start": "2026-10-24",
+ "end": "2027-02-07",
+ "hours": "Wed-Sun 11-18",
+ "place": "PORT25 – Raum für Gegenwartskunst",
+ "address": "Hafenstraße 25-27, 68159 Mannheim",
+ "city": "Mannheim",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.port25-mannheim.de/ausstellungen",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "PORT25 is Mannheim's municipal space for contemporary art in the harbour district; entry is always free and free tours are offered regularly. 'HEIMSPIEL' shows works bought by the city's cultural office.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PORT25%3A+HEIMSPIEL&dates=20261024%2F20270208&details=contemporary+art+exhibition%2C+always+free%0AHours%3A+Wed-Sun+11-18%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.port25-mannheim.de%2Fausstellungen&location=PORT25+%E2%80%93+Raum+f%C3%BCr+Gegenwartskunst%2C+Hafenstra%C3%9Fe+25-27%2C+68159+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hafenstra%C3%9Fe%2025-27%2C%2068159%20Mannheim",
+ "priceValue": 0
+}

@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-01-ludwigshafen-ernst-bloch-zentrum",
+ "name": "Ernst-Bloch-Zentrum",
+ "description": "free exhibition about the philosopher Ernst Bloch",
+ "start": "2026-11-01",
+ "end": "2027-01-31",
+ "hours": "Tue/Wed 14-17, Thu 14-20",
+ "place": "Ernst-Bloch-Zentrum",
+ "address": "Walzmühlstraße 63, 67061 Ludwigshafen am Rhein",
+ "city": "Ludwigshafen",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.bloch.de/wer-wir-sind/oeffnungszeiten",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "Archive and exhibition on the philosopher Ernst Bloch, who was born in Ludwigshafen; the exhibition is free.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ernst-Bloch-Zentrum&dates=20261101%2F20270201&details=free+exhibition+about+the+philosopher+Ernst+Bloch%0AHours%3A+Tue%2FWed+14-17%2C+Thu+14-20%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.bloch.de%2Fwer-wir-sind%2Foeffnungszeiten&location=Ernst-Bloch-Zentrum%2C+Walzm%C3%BChlstra%C3%9Fe+63%2C+67061+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Walzm%C3%BChlstra%C3%9Fe%2063%2C%2067061%20Ludwigshafen%20am%20Rhein",
+ "priceValue": 0
+}

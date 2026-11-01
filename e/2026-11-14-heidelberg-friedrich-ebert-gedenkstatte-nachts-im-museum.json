@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-14-heidelberg-friedrich-ebert-gedenkstatte-nachts-im-museum",
+ "name": "Friedrich-Ebert-Gedenkstätte: Nachts im Museum",
+ "description": "evening event in the memorial, registration needed",
+ "start": "2026-11-14",
+ "end": "2026-11-14",
+ "hours": "19:00",
+ "place": "Friedrich-Ebert-Gedenkstätte",
+ "address": "Pfaffengasse 18, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://ebert-gedenkstaette.de/veranstaltungen/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "An evening programme in the memorial ('night at the museum'); registration is required. The house has free entry, but the event page does not say whether this event is free.",
+ "note": "registration required",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Friedrich-Ebert-Gedenkst%C3%A4tte%3A+Nachts+im+Museum&dates=20261114T190000%2F20261114T210000&details=evening+event+in+the+memorial%2C+registration+needed%0Aregistration+required%0AHours%3A+19%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Febert-gedenkstaette.de%2Fveranstaltungen%2F&location=Friedrich-Ebert-Gedenkst%C3%A4tte%2C+Pfaffengasse+18%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pfaffengasse%2018%2C%2069117%20Heidelberg",
+ "priceValue": null
+}

@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-01-heidelberg-historische-sammlungen-der-universitatsbibliothek",
+ "name": "Historische Sammlungen der Universitätsbibliothek",
+ "description": "historic library collections, free",
+ "start": "2026-11-01",
+ "end": "2027-01-31",
+ "hours": "Mon-Thu 10-16, Fri 10-15:30 (another page: daily 10-18)",
+ "place": "Universitätsbibliothek Heidelberg",
+ "address": "Plöck 107-109, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.heicollections.uni-heidelberg.de/de/museen-sammlungen/historische-sammlungen",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "Exhibition rooms of the historic collections of Heidelberg University Library; entry is free. The two official pages give different opening hours, and no current special exhibition was found.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Historische+Sammlungen+der+Universit%C3%A4tsbibliothek&dates=20261101%2F20270201&details=historic+library+collections%2C+free%0AHours%3A+Mon-Thu+10-16%2C+Fri+10-15%3A30+%28another+page%3A+daily+10-18%29%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.heicollections.uni-heidelberg.de%2Fde%2Fmuseen-sammlungen%2Fhistorische-sammlungen&location=Universit%C3%A4tsbibliothek+Heidelberg%2C+Pl%C3%B6ck+107-109%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pl%C3%B6ck%20107-109%2C%2069117%20Heidelberg",
+ "priceValue": 0
+}

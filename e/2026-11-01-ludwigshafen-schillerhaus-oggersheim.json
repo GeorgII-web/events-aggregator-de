@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-01-ludwigshafen-schillerhaus-oggersheim",
+ "name": "Schillerhaus Oggersheim",
+ "description": "Schiller memorial house, free",
+ "start": "2026-11-01",
+ "end": "2027-01-31",
+ "hours": "Wed 13-20, Fri 10-12 + 13-17",
+ "place": "Schillerhaus Oggersheim",
+ "address": "Schillerstraße 6, 67071 Ludwigshafen am Rhein",
+ "city": "Ludwigshafen",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://ludwigshafen.de/leben/kultur/stadtmuseum",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "The house where Friedrich Schiller stayed in 1782, now a small memorial with first editions and manuscripts; entry is free.",
+ "dateNote": "closed 23 Dec - 8 Jan",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Schillerhaus+Oggersheim&dates=20261101%2F20270201&details=Schiller+memorial+house%2C+free%0ADates%3A+closed+23+Dec+-+8+Jan%0AHours%3A+Wed+13-20%2C+Fri+10-12+%2B+13-17%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fludwigshafen.de%2Fleben%2Fkultur%2Fstadtmuseum&location=Schillerhaus+Oggersheim%2C+Schillerstra%C3%9Fe+6%2C+67071+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Schillerstra%C3%9Fe%206%2C%2067071%20Ludwigshafen%20am%20Rhein",
+ "priceValue": 0
+}

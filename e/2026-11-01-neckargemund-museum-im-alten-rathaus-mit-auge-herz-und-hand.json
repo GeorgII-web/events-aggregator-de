@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-01-neckargemund-museum-im-alten-rathaus-mit-auge-herz-und-hand",
+ "name": "Museum im Alten Rathaus: Mit Auge, Herz und Hand",
+ "description": "town museum exhibition about reading and writing, free",
+ "start": "2026-11-01",
+ "end": "2026-11-22",
+ "hours": "Sat 10-16, Sun 11-17",
+ "place": "Museum im Alten Rathaus",
+ "address": "Hauptstraße 25, 69151 Neckargemünd",
+ "city": "Neckargemünd",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.neckargemuend.de/museum",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "Special exhibition 'Mit Auge, Herz und Hand' about what reading and writing do to us, in Neckargemünd's town history museum in the old town hall. Entry is free; tours on request.",
+ "dateNote": "running, until 22 Nov",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Museum+im+Alten+Rathaus%3A+Mit+Auge%2C+Herz+und+Hand&dates=20261101%2F20261123&details=town+museum+exhibition+about+reading+and+writing%2C+free%0ADates%3A+running%2C+until+22+Nov%0AHours%3A+Sat+10-16%2C+Sun+11-17%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.neckargemuend.de%2Fmuseum&location=Museum+im+Alten+Rathaus%2C+Hauptstra%C3%9Fe+25%2C+69151+Neckargem%C3%BCnd&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hauptstra%C3%9Fe%2025%2C%2069151%20Neckargem%C3%BCnd",
+ "priceValue": 0
+}

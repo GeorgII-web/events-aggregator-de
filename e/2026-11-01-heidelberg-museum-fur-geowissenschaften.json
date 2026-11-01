@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-01-heidelberg-museum-fur-geowissenschaften",
+ "name": "Museum für Geowissenschaften",
+ "description": "university geology museum with the Homo heidelbergensis jaw, free",
+ "start": "2026-11-01",
+ "end": "2027-01-31",
+ "hours": "Mon-Fri 9-17",
+ "place": "Museum für Geowissenschaften",
+ "address": "Im Neuenheimer Feld 235, 69120 Heidelberg",
+ "city": "Heidelberg",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.heicollections.uni-heidelberg.de/de/museen-sammlungen/museum-und-sammlung-des-instituts-fuer-geowissenschaften",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "Minerals, rocks and fossils from a collection of about 300,000 items, from dinosaurs to mammoths, including the Homo heidelbergensis jaw from Mauer. Entry is free.",
+ "dateNote": "weekdays only",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Museum+f%C3%BCr+Geowissenschaften&dates=20261101%2F20270201&details=university+geology+museum+with+the+Homo+heidelbergensis+jaw%2C+free%0ADates%3A+weekdays+only%0AHours%3A+Mon-Fri+9-17%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.heicollections.uni-heidelberg.de%2Fde%2Fmuseen-sammlungen%2Fmuseum-und-sammlung-des-instituts-fuer-geowissenschaften&location=Museum+f%C3%BCr+Geowissenschaften%2C+Im+Neuenheimer+Feld+235%2C+69120+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Im%20Neuenheimer%20Feld%20235%2C%2069120%20Heidelberg",
+ "priceValue": 0
+}

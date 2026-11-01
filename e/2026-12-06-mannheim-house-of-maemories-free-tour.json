@@ -1,0 +1,35 @@
+{
+ "id": "2026-12-06-mannheim-house-of-maemories-free-tour",
+ "name": "House of MAEMORIES: free tour",
+ "description": "free guided tour in the Franklin district history house",
+ "start": "2026-12-06",
+ "end": "2026-12-06",
+ "hours": "14:00",
+ "place": "House of MAEMORIES",
+ "address": "Abraham-Lincoln-Allee 5, 68309 Mannheim",
+ "city": "Mannheim",
+ "price": "free tour",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.marchivum.de/de/info/ihr-besuch/oeffnungszeiten-preise",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "guided-tour"
+ ],
+ "details": "A free guided tour on the first Sunday of the month in the MARCHIVUM's House of MAEMORIES on the former US Franklin barracks site. Entry price outside the tour is not published.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "castle",
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=House+of+MAEMORIES%3A+free+tour&dates=20261206T140000%2F20261206T160000&details=free+guided+tour+in+the+Franklin+district+history+house%0AHours%3A+14%3A00%0APrice%3A+free+tour%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.marchivum.de%2Fde%2Finfo%2Fihr-besuch%2Foeffnungszeiten-preise&location=House+of+MAEMORIES%2C+Abraham-Lincoln-Allee+5%2C+68309+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Abraham-Lincoln-Allee%205%2C%2068309%20Mannheim",
+ "priceValue": 0
+}

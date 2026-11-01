@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-08-heidelberg-friedrich-ebert-gedenkstatte-public-tour",
+ "name": "Friedrich-Ebert-Gedenkstätte: public tour",
+ "description": "free public guided tour",
+ "start": "2026-11-08",
+ "end": "2026-11-08",
+ "hours": "15:00",
+ "place": "Friedrich-Ebert-Gedenkstätte",
+ "address": "Pfaffengasse 18, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://ebert-gedenkstaette.de/veranstaltungen/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "guided-tour"
+ ],
+ "details": "A free public tour through the Friedrich Ebert memorial in Heidelberg's old town.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "castle",
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Friedrich-Ebert-Gedenkst%C3%A4tte%3A+public+tour&dates=20261108T150000%2F20261108T170000&details=free+public+guided+tour%0AHours%3A+15%3A00%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Febert-gedenkstaette.de%2Fveranstaltungen%2F&location=Friedrich-Ebert-Gedenkst%C3%A4tte%2C+Pfaffengasse+18%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pfaffengasse%2018%2C%2069117%20Heidelberg",
+ "priceValue": 0
+}

@@ -1,0 +1,35 @@
+{
+ "id": "2026-10-02-mannheim-marchivum-mannheim-im-gepack",
+ "name": "MARCHIVUM: Mannheim im Gepäck",
+ "description": "free exhibition about German division and reunification",
+ "start": "2026-10-02",
+ "end": "2027-03-07",
+ "hours": "Tue, Thu-Sun 10-18, Wed 10-20",
+ "place": "MARCHIVUM",
+ "address": "Archivplatz 1, 68169 Mannheim",
+ "city": "Mannheim",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.marchivum.de/de/info/ihr-besuch/oeffnungszeiten-preise",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "Special exhibition with interviews about German division and reunification at the MARCHIVUM, Mannheim's city archive and house of city history in a converted WWII bunker. Special exhibitions and talks are free; the permanent exhibitions cost 9 EUR.",
+ "dateNote": "closed 24 + 31 Dec",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MARCHIVUM%3A+Mannheim+im+Gep%C3%A4ck&dates=20261002%2F20270308&details=free+exhibition+about+German+division+and+reunification%0ADates%3A+closed+24+%2B+31+Dec%0AHours%3A+Tue%2C+Thu-Sun+10-18%2C+Wed+10-20%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.marchivum.de%2Fde%2Finfo%2Fihr-besuch%2Foeffnungszeiten-preise&location=MARCHIVUM%2C+Archivplatz+1%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Archivplatz%201%2C%2068169%20Mannheim",
+ "priceValue": 0
+}

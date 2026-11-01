@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-26-ludwigshafen-ernst-bloch-zentrum-talk-by-dorothea-roos-bauhaus-dessau",
+ "name": "Ernst-Bloch-Zentrum: talk by Dorothea Roos (Bauhaus Dessau)",
+ "description": "free evening talk",
+ "start": "2026-11-26",
+ "end": "2026-11-26",
+ "hours": "18:00",
+ "place": "Ernst-Bloch-Zentrum",
+ "address": "Walzmühlstraße 63, 67061 Ludwigshafen am Rhein",
+ "city": "Ludwigshafen",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.bloch.de",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "talk"
+ ],
+ "details": "A free evening talk by Dorothea Roos of the Bauhaus Dessau at the Ernst-Bloch-Zentrum.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ernst-Bloch-Zentrum%3A+talk+by+Dorothea+Roos+%28Bauhaus+Dessau%29&dates=20261126T180000%2F20261126T200000&details=free+evening+talk%0AHours%3A+18%3A00%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.bloch.de&location=Ernst-Bloch-Zentrum%2C+Walzm%C3%BChlstra%C3%9Fe+63%2C+67061+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Walzm%C3%BChlstra%C3%9Fe%2063%2C%2067061%20Ludwigshafen%20am%20Rhein",
+ "priceValue": 0
+}

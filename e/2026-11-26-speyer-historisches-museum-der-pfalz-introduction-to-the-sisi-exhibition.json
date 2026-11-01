@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-26-speyer-historisches-museum-der-pfalz-introduction-to-the-sisi-exhibition",
+ "name": "Historisches Museum der Pfalz: introduction to the Sisi exhibition",
+ "description": "free introduction to the Sisi exhibition",
+ "start": "2026-11-26",
+ "end": "2026-11-26",
+ "hours": "18:00",
+ "place": "Historisches Museum der Pfalz",
+ "address": "Domplatz 4, 67346 Speyer",
+ "city": "Speyer",
+ "price": "free",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://museum.speyer.de/programm/kalender",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "A free introduction to the museum's Sisi exhibition. The intended audience is not shown on the calendar (details load by script), so check the page before going.",
+ "note": "audience not shown",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Historisches+Museum+der+Pfalz%3A+introduction+to+the+Sisi+exhibition&dates=20261126T180000%2F20261126T200000&details=free+introduction+to+the+Sisi+exhibition%0Aaudience+not+shown%0AHours%3A+18%3A00%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fmuseum.speyer.de%2Fprogramm%2Fkalender&location=Historisches+Museum+der+Pfalz%2C+Domplatz+4%2C+67346+Speyer&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Domplatz%204%2C%2067346%20Speyer",
+ "priceValue": 0
+}

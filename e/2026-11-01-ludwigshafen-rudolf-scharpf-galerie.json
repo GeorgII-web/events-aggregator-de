@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-01-ludwigshafen-rudolf-scharpf-galerie",
+ "name": "Rudolf-Scharpf-Galerie",
+ "description": "small contemporary art gallery, always free",
+ "start": "2026-11-01",
+ "end": "2027-01-31",
+ "hours": "Fri-Sun 11-18",
+ "place": "Rudolf-Scharpf-Galerie",
+ "address": "Hemshofstraße 54, 67063 Ludwigshafen am Rhein",
+ "city": "Ludwigshafen",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.wilhelmhack.museum/de/besuch/tickets-und-oeffnungszeiten",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "A small gallery for contemporary art run by the Wilhelm-Hack-Museum in the Hemshof district. Entry is always free.",
+ "dateNote": "Fri-Sun and holidays; closed 24 + 31 Dec",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rudolf-Scharpf-Galerie&dates=20261101%2F20270201&details=small+contemporary+art+gallery%2C+always+free%0ADates%3A+Fri-Sun+and+holidays%3B+closed+24+%2B+31+Dec%0AHours%3A+Fri-Sun+11-18%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.wilhelmhack.museum%2Fde%2Fbesuch%2Ftickets-und-oeffnungszeiten&location=Rudolf-Scharpf-Galerie%2C+Hemshofstra%C3%9Fe+54%2C+67063+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hemshofstra%C3%9Fe%2054%2C%2067063%20Ludwigshafen%20am%20Rhein",
+ "priceValue": 0
+}

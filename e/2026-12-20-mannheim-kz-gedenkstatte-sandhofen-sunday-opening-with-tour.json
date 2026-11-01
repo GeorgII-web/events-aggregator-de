@@ -1,0 +1,36 @@
+{
+ "id": "2026-12-20-mannheim-kz-gedenkstatte-sandhofen-sunday-opening-with-tour",
+ "name": "KZ-Gedenkstätte Sandhofen: Sunday opening with tour",
+ "description": "memorial of a former concentration subcamp, free tour",
+ "start": "2026-12-20",
+ "end": "2026-12-20",
+ "hours": "14:00-17:00, tour 14:30",
+ "place": "KZ-Gedenkstätte Sandhofen",
+ "address": "Kriegerstraße 28, 68307 Mannheim",
+ "city": "Mannheim",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.marchivum.de/de/veranstaltungen/sonntagsoeffnung-kz-gedenkstaette-sandhofen",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition",
+  "guided-tour"
+ ],
+ "details": "Memorial exhibition in the basement of the Gustav-Wiederkehr-Schule, which served as a subcamp of the Natzweiler concentration camp. Open with free entry and a free guided tour on the third Sunday of the month.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "castle",
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=KZ-Gedenkst%C3%A4tte+Sandhofen%3A+Sunday+opening+with+tour&dates=20261220T140000%2F20261220T160000&details=memorial+of+a+former+concentration+subcamp%2C+free+tour%0AHours%3A+14%3A00-17%3A00%2C+tour+14%3A30%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.marchivum.de%2Fde%2Fveranstaltungen%2Fsonntagsoeffnung-kz-gedenkstaette-sandhofen&location=KZ-Gedenkst%C3%A4tte+Sandhofen%2C+Kriegerstra%C3%9Fe+28%2C+68307+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kriegerstra%C3%9Fe%2028%2C%2068307%20Mannheim",
+ "priceValue": 0
+}

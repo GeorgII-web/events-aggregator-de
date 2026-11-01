@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-01-heidelberg-zoologische-sammlung-timeline-evolution",
+ "name": "Zoologische Sammlung: Timeline Evolution",
+ "description": "university zoological collection, free",
+ "start": "2026-11-01",
+ "end": "2027-01-31",
+ "hours": "Mon-Fri 8-18",
+ "place": "Zoologische Sammlung (Centre for Organismal Studies)",
+ "address": "Im Neuenheimer Feld 231, 69120 Heidelberg",
+ "city": "Heidelberg",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.heicollections.uni-heidelberg.de/de/museen-sammlungen/zoologische-sammlung",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "The University of Heidelberg's zoological collection: specimens, some over 200 years old, trace the evolution of life from single cells to complex animals. Entry is free; closed on public holidays.",
+ "dateNote": "weekdays only",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zoologische+Sammlung%3A+Timeline+Evolution&dates=20261101%2F20270201&details=university+zoological+collection%2C+free%0ADates%3A+weekdays+only%0AHours%3A+Mon-Fri+8-18%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.heicollections.uni-heidelberg.de%2Fde%2Fmuseen-sammlungen%2Fzoologische-sammlung&location=Zoologische+Sammlung+%28Centre+for+Organismal+Studies%29%2C+Im+Neuenheimer+Feld+231%2C+69120+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Im%20Neuenheimer%20Feld%20231%2C%2069120%20Heidelberg",
+ "priceValue": 0
+}

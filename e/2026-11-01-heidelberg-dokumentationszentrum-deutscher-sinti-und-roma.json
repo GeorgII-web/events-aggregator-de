@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-01-heidelberg-dokumentationszentrum-deutscher-sinti-und-roma",
+ "name": "Dokumentationszentrum Deutscher Sinti und Roma",
+ "description": "permanent exhibition on the genocide of Sinti and Roma, free",
+ "start": "2026-11-01",
+ "end": "2027-01-31",
+ "hours": "Tue 9:30-19:45, Wed-Fri 9:30-16:30, Sat-Sun 11-16:30",
+ "place": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma",
+ "address": "Bremeneckgasse 2, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://dokuzentrum.sintiundroma.de/zielgruppen/besucher/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "The permanent exhibition documents the Nazi genocide of the Sinti and Roma and their history in Germany. Entry is free; a free public tour runs every Tuesday at 17:00 (register by e-mail).",
+ "note": "free tour Tue 17:00",
+ "dateNote": "closed Mondays and public holidays",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dokumentationszentrum+Deutscher+Sinti+und+Roma&dates=20261101%2F20270201&details=permanent+exhibition+on+the+genocide+of+Sinti+and+Roma%2C+free%0Afree+tour+Tue+17%3A00%0ADates%3A+closed+Mondays+and+public+holidays%0AHours%3A+Tue+9%3A30-19%3A45%2C+Wed-Fri+9%3A30-16%3A30%2C+Sat-Sun+11-16%3A30%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fdokuzentrum.sintiundroma.de%2Fzielgruppen%2Fbesucher%2F&location=Dokumentations-+und+Kulturzentrum+Deutscher+Sinti+und+Roma%2C+Bremeneckgasse+2%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bremeneckgasse%202%2C%2069117%20Heidelberg",
+ "priceValue": 0
+}

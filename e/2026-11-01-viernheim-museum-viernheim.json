@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-01-viernheim-museum-viernheim",
+ "name": "Museum Viernheim",
+ "description": "town history museum, free",
+ "start": "2026-11-01",
+ "end": "2027-01-31",
+ "hours": "Sun 14-17, Thu 16-18",
+ "place": "Museum Viernheim",
+ "address": "Berliner Ring 28, 68519 Viernheim",
+ "city": "Viernheim",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.viernheim.de/kultur-freizeit-sport/museum-und-archiv-viernheim.html",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "Town history museum in a former forester's house; entry is free (themed tours cost extra).",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Museum+Viernheim&dates=20261101%2F20270201&details=town+history+museum%2C+free%0AHours%3A+Sun+14-17%2C+Thu+16-18%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.viernheim.de%2Fkultur-freizeit-sport%2Fmuseum-und-archiv-viernheim.html&location=Museum+Viernheim%2C+Berliner+Ring+28%2C+68519+Viernheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Berliner%20Ring%2028%2C%2068519%20Viernheim",
+ "priceValue": 0
+}

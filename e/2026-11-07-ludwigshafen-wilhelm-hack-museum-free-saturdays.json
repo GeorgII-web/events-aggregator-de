@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-07-ludwigshafen-wilhelm-hack-museum-free-saturdays",
+ "name": "Wilhelm-Hack-Museum: free Saturdays",
+ "description": "modern art museum, free entry every Saturday",
+ "start": "2026-11-07",
+ "end": "2027-01-30",
+ "hours": "Sat 10-18",
+ "place": "Wilhelm-Hack-Museum",
+ "address": "Berliner Straße 23, 67059 Ludwigshafen am Rhein",
+ "city": "Ludwigshafen",
+ "price": "free",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.wilhelmhack.museum/de/besuch/tickets-und-oeffnungszeiten",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "museum",
+  "free-entry",
+  "exhibition"
+ ],
+ "details": "The municipal museum of 20th and 21st century art, known for the large Miró ceramic wall on its facade. Entry is free every Saturday (otherwise 10 EUR). Current shows include 'In Ordnung. Mondrian bis Vasarely' (until 29 March 2027), 'Die Unendlichkeit des Raumes' and André Wischnewski (until 24 January 2027). Public tours cost 5 EUR extra.",
+ "note": "Mondrian to Vasarely, Miró wall",
+ "dateNote": "Saturdays only",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T16:24:41.407Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wilhelm-Hack-Museum%3A+free+Saturdays&dates=20261107%2F20270131&details=modern+art+museum%2C+free+entry+every+Saturday%0AMondrian+to+Vasarely%2C+Mir%C3%B3+wall%0ADates%3A+Saturdays+only%0AHours%3A+Sat+10-18%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.wilhelmhack.museum%2Fde%2Fbesuch%2Ftickets-und-oeffnungszeiten&location=Wilhelm-Hack-Museum%2C+Berliner+Stra%C3%9Fe+23%2C+67059+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Berliner%20Stra%C3%9Fe%2023%2C%2067059%20Ludwigshafen%20am%20Rhein",
+ "priceValue": 0
+}
