@@ -1,0 +1,58 @@
+{
+ "id": "2026-11-12-mannheim-sustainable-engineering-nights-2-own-server-or-hyperscaler",
+ "name": "Sustainable Engineering Nights #2: Own server or hyperscaler?",
+ "description": "two tech talks on self-hosting vs hyperscalers, food and networking",
+ "start": "2026-11-12",
+ "end": "2026-11-12",
+ "hours": "17:30-20:00",
+ "place": "Mafinex Technology Center",
+ "address": "Julius-Hatry-Straße 1, 68163 Mannheim",
+ "city": "Mannheim",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.meetup.com/sustainable-engineering-nights/events/316581408/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "English; for senior engineers",
+ "rating": "4.6",
+ "website": "https://mafinex.next-mannheim.de/",
+ "tags": [
+  "aws",
+  "meetup",
+  "cloud",
+  "on-site"
+ ],
+ "details": "Topic: in 2026, with hyperscalers everywhere, is running your own servers still worth it? Two short tech talks by Christoph Stoettner (Vegard IT) and Sebastian Butzek and Simon Tenbeitel (osapiens).\n\nFood, drinks and curated networking; aimed at senior software engineers from the region. Language English. Hosted by osapiens at the Mafinex Technology Center next to Mannheim main station. Free RSVP on Meetup.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:57:58.817Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:58.817Z",
+   "changes": {
+    "tags": [
+     [
+      "aws",
+      "meetup"
+     ],
+     [
+      "aws",
+      "meetup",
+      "cloud",
+      "on-site"
+     ]
+    ]
+   }
+  }
+ ],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sustainable+Engineering+Nights+%232%3A+Own+server+or+hyperscaler%3F&dates=20261112T173000%2F20261112T193000&details=two+tech+talks+on+self-hosting+vs+hyperscalers%2C+food+and+networking%0AEnglish%3B+for+senior+engineers%0AHours%3A+17%3A30-20%3A00%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meetup.com%2Fsustainable-engineering-nights%2Fevents%2F316581408%2F&location=Mafinex+Technology+Center%2C+Julius-Hatry-Stra%C3%9Fe+1%2C+68163+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Julius-Hatry-Stra%C3%9Fe%201%2C%2068163%20Mannheim",
+ "priceValue": 0
+}

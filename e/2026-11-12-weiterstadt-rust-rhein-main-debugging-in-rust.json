@@ -1,0 +1,55 @@
+{
+ "id": "2026-11-12-weiterstadt-rust-rhein-main-debugging-in-rust",
+ "name": "Rust Rhein-Main: Debugging in Rust",
+ "description": "Rust meetup talk on debuggers, GDB pretty-printers and time-travel debugging",
+ "start": "2026-11-12",
+ "end": "2026-11-12",
+ "hours": "18:00-21:00",
+ "place": "neQxt Office",
+ "address": "Brunnenweg 9, 64331 Weiterstadt",
+ "city": "Weiterstadt",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.meetup.com/rust-rhein-main/events/317175844/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "near Darmstadt, ~45 km from Mannheim",
+ "website": "https://www.neqxt.org/",
+ "tags": [
+  "rust",
+  "meetup",
+  "on-site"
+ ],
+ "details": "Monthly meetup of the Rust Rhein-Main group. Gustavo talks about debugging Rust: the type system prevents many errors, but crashes and odd behaviour still need a debugger. Tools from GDB pretty-printers to rr (time-travel debugging) and debugging tools built for Rust.\n\nAt the neQxt office in Weiterstadt near Darmstadt. Free RSVP on Meetup.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:57:58.817Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:58.817Z",
+   "changes": {
+    "tags": [
+     [
+      "rust",
+      "meetup"
+     ],
+     [
+      "rust",
+      "meetup",
+      "on-site"
+     ]
+    ]
+   }
+  }
+ ],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rust+Rhein-Main%3A+Debugging+in+Rust&dates=20261112T180000%2F20261112T200000&details=Rust+meetup+talk+on+debuggers%2C+GDB+pretty-printers+and+time-travel+debugging%0Anear+Darmstadt%2C+%7E45+km+from+Mannheim%0AHours%3A+18%3A00-21%3A00%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meetup.com%2Frust-rhein-main%2Fevents%2F317175844%2F&location=neQxt+Office%2C+Brunnenweg+9%2C+64331+Weiterstadt&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Brunnenweg%209%2C%2064331%20Weiterstadt",
+ "priceValue": 0
+}

@@ -1,0 +1,59 @@
+{
+ "id": "2026-11-07-karlsruhe-gdg-devfest-karlsruhe-2026",
+ "name": "GDG DevFest Karlsruhe 2026",
+ "description": "community developer conference by Google Developer Group: AI, web, cloud",
+ "start": "2026-11-07",
+ "end": "2026-11-07",
+ "hours": "9-22",
+ "place": "DHBW Karlsruhe",
+ "address": "Erzbergerstraße 121, 76133 Karlsruhe",
+ "city": "Karlsruhe",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://gdg.community.dev/events/details/google-gdg-karlsruhe-presents-gdg-devfest-karlsruhe-2026/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "tickets via Eventbrite; agenda not published yet",
+ "rating": "3.6",
+ "website": "https://www.karlsruhe.dhbw.de/",
+ "tags": [
+  "ai",
+  "typescript",
+  "conference",
+  "on-site"
+ ],
+ "details": "One-day community conference of GDG Karlsruhe with talks and hands-on workshops. Listed topics: AI and Gemini, Angular and web, Firebase, Flutter, Android, Google Cloud.\n\nHeld at the DHBW Karlsruhe campus, Erzbergerstraße. Tickets are sold via Eventbrite (price not checked). The agenda and speakers were not published as of 1 Nov 2026.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:57:58.817Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:58.817Z",
+   "changes": {
+    "tags": [
+     [
+      "ai",
+      "ts",
+      "conference"
+     ],
+     [
+      "ai",
+      "typescript",
+      "conference",
+      "on-site"
+     ]
+    ]
+   }
+  }
+ ],
+ "topic": "it-events",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GDG+DevFest+Karlsruhe+2026&dates=20261107%2F20261108&details=community+developer+conference+by+Google+Developer+Group%3A+AI%2C+web%2C+cloud%0Atickets+via+Eventbrite%3B+agenda+not+published+yet%0AHours%3A+9-22%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fgdg.community.dev%2Fevents%2Fdetails%2Fgoogle-gdg-karlsruhe-presents-gdg-devfest-karlsruhe-2026%2F&location=DHBW+Karlsruhe%2C+Erzbergerstra%C3%9Fe+121%2C+76133+Karlsruhe&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Erzbergerstra%C3%9Fe%20121%2C%2076133%20Karlsruhe",
+ "priceValue": null
+}

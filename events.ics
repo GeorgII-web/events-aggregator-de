@@ -1427,4 +1427,168 @@ URL:https://www.eventim.de/event/the-prodigy-hanns-martin-schleyer-halle-2
  1497078/
 CATEGORIES:prodigy,electronic,big-beat,rock
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-karlsruhe-green-agentic-ai-coding-mit-headroom@events-searc
+ h
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261103T183000
+DTEND;TZID=Europe/Berlin:20261103T203000
+SUMMARY:Green Agentic AI Coding mit Headroom
+DESCRIPTION:Green Software Development meetup on energy-efficient agentic 
+ AI coding\nhybrid\, German\nHours: 18:30-21:30\nPrice: free\nStatus: ok (
+ official)\nhttps://www.meetup.com/green-software-development-karlsruhe/ev
+ ents/316733583/
+LOCATION:bluehands GmbH & Co.mmunication KG\, Waldstr. 63\, 76133 Karlsruh
+ e
+URL:https://www.meetup.com/green-software-development-karlsruhe/events/316
+ 733583/
+CATEGORIES:ai,meetup,agents,online,on-site
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-karlsruhe-gdg-devfest-karlsruhe-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:GDG DevFest Karlsruhe 2026
+DESCRIPTION:community developer conference by Google Developer Group: AI\,
+  web\, cloud\ntickets via Eventbrite; agenda not published yet\nHours: 9-
+ 22\nPrice: n/a\nStatus: ok (official)\nhttps://gdg.community.dev/events/d
+ etails/google-gdg-karlsruhe-presents-gdg-devfest-karlsruhe-2026/
+LOCATION:DHBW Karlsruhe\, Erzbergerstraße 121\, 76133 Karlsruhe
+URL:https://gdg.community.dev/events/details/google-gdg-karlsruhe-presents
+ -gdg-devfest-karlsruhe-2026/
+CATEGORIES:ai,typescript,conference,on-site
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-heidelberg-heidelberg-ai-unpacking-the-black-box-from-pca-t
+ o-eoflows@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261110T170000
+DTEND;TZID=Europe/Berlin:20261110T190000
+SUMMARY:heidelberg.ai: Unpacking the Black Box – From PCA to EOFlows
+DESCRIPTION:AI talk by Prof. Ullrich Köthe on interpretable normalizing f
+ lows\nRSVP on Meetup; video on YouTube afterwards\nHours: 17:00-18:30\nPr
+ ice: free\nStatus: ok (official)\nhttps://www.heidelberg.ai/2026/11/10/ul
+ lrich-koethe.html
+LOCATION:Krebsinformationsdienst\, Deutsches Krebsforschungszentrum (DKFZ)
+ \, Im Neuenheimer Feld 280\, 69120 Heidelberg
+URL:https://www.heidelberg.ai/2026/11/10/ullrich-koethe.html
+CATEGORIES:ai,meetup,on-site
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-karlsruhe-net-conf-watch-party-net-11-launch@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261110T170000
+DTEND;TZID=Europe/Berlin:20261110T190000
+SUMMARY:.NET Conf watch party: .NET 11 launch
+DESCRIPTION:.NET User Group Karlsruhe streams the .NET 11 launch keynote\,
+  pizza and talk\nGerman; next planned date 17 Dec\nHours: 17:00-20:00\nPr
+ ice: free\nStatus: ok (official)\nhttps://www.meetup.com/net-user-group-k
+ arlsruhe/events/316973071/
+LOCATION:bluehands GmbH & Co.mmunication KG\, Waldstr. 63\, 76133 Karlsruh
+ e
+URL:https://www.meetup.com/net-user-group-karlsruhe/events/316973071/
+CATEGORIES:csharp,meetup,dotnet,on-site
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-mannheim-clc-26@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261113
+SUMMARY:CLC 26
+DESCRIPTION:conference on platform engineering\, developer experience\, ag
+ entic AI\, DevSecOps\ntalks in German and English; group discounts from 3
+ \nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.clc-conferen
+ ce.eu/
+LOCATION:Congress Center Rosengarten\, Rosengartenpl. 2\, 68161 Mannheim
+URL:https://www.clc-conference.eu/
+CATEGORIES:ai,aws,conference,cloud,kubernetes,on-site
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-mannheim-dev-donuts-ai-in-software-development@events-searc
+ h
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261112T180000
+DTEND;TZID=Europe/Berlin:20261112T200000
+SUMMARY:Dev & Donuts: AI in software development
+DESCRIPTION:developer meetup on coding agents and AI workflows\, with donu
+ ts\nGerman\nHours: 18:00-21:00\nPrice: free\nStatus: ok (official)\nhttps
+ ://www.meetup.com/dev-and-donuts/events/317086885/
+LOCATION:LOKSITE (7th floor)\, Glücksteinallee 69\, 68163 Mannheim
+URL:https://www.meetup.com/dev-and-donuts/events/317086885/
+CATEGORIES:ai,meetup,agents,on-site
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-mannheim-sustainable-engineering-nights-2-own-server-or-hyp
+ erscaler@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261112T173000
+DTEND;TZID=Europe/Berlin:20261112T193000
+SUMMARY:Sustainable Engineering Nights #2: Own server or hyperscaler?
+DESCRIPTION:two tech talks on self-hosting vs hyperscalers\, food and netw
+ orking\nEnglish; for senior engineers\nHours: 17:30-20:00\nPrice: free\nS
+ tatus: ok (official)\nhttps://www.meetup.com/sustainable-engineering-nigh
+ ts/events/316581408/
+LOCATION:Mafinex Technology Center\, Julius-Hatry-Straße 1\, 68163 Mannhe
+ im
+URL:https://www.meetup.com/sustainable-engineering-nights/events/316581408
+ /
+CATEGORIES:aws,meetup,cloud,on-site
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-weiterstadt-rust-rhein-main-debugging-in-rust@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261112T180000
+DTEND;TZID=Europe/Berlin:20261112T200000
+SUMMARY:Rust Rhein-Main: Debugging in Rust
+DESCRIPTION:Rust meetup talk on debuggers\, GDB pretty-printers and time-t
+ ravel debugging\nnear Darmstadt\, ~45 km from Mannheim\nHours: 18:00-21:0
+ 0\nPrice: free\nStatus: ok (official)\nhttps://www.meetup.com/rust-rhein-
+ main/events/317175844/
+LOCATION:neQxt Office\, Brunnenweg 9\, 64331 Weiterstadt
+URL:https://www.meetup.com/rust-rhein-main/events/317175844/
+CATEGORIES:rust,meetup,on-site
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-bensheim-aws-user-group-bergstrasse-internal-developer-plat
+ form-on-eks@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261125T190000
+DTEND;TZID=Europe/Berlin:20261125T210000
+SUMMARY:AWS User Group Bergstrasse: Internal Developer Platform on EKS
+DESCRIPTION:AWS meetup talk: golden path platform with EKS\, Crossplane an
+ d Argo CD\nHours: 19:00-21:00\nPrice: free\nStatus: ok (official)\nhttps:
+ //www.meetup.com/aws-user-group-bergstrasse/events/316810843/
+LOCATION:IMTF Siron GmbH\, Stubenwald-Allee 19\, 64625 Bensheim
+URL:https://www.meetup.com/aws-user-group-bergstrasse/events/316810843/
+CATEGORIES:aws,meetup,cloud,kubernetes,on-site
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-rhein-neckar-phpugmrn-06-26@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261210T190000
+DTEND;TZID=Europe/Berlin:20261210T210000
+SUMMARY:PHPUGMRN 06/26
+DESCRIPTION:PHP User Group Rhein-Neckar meetup: rate limits from a consume
+ r perspective\nvenue not announced yet; earlier meetups in Mannheim\nHour
+ s: 19:00-22:00\nPrice: free\nStatus: ok (official)\nhttps://www.meetup.co
+ m/phpug-rhein-neckar/events/312782238/
+LOCATION:venue tba\, Rhein-Neckar
+URL:https://www.meetup.com/phpug-rhein-neckar/events/312782238/
+CATEGORIES:php,meetup,on-site
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-01-karlsruhe-karlsruher-entwicklertag-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Karlsruher Entwicklertag 2027 (no dates yet)
+DESCRIPTION:regional software development conference by andrena objects\nD
+ ates: usually June; 2026 was 8-10 Jun\nHours: n/a\nPrice: n/a\nStatus: no
+  dates yet (official)\nhttps://www.conftool.net/entwicklertag2026/about.p
+ hp
+LOCATION:venue tba\, Karlsruhe
+URL:https://www.conftool.net/entwicklertag2026/about.php
+CATEGORIES:conference,on-site
+END:VEVENT
 END:VCALENDAR

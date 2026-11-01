@@ -1,0 +1,60 @@
+{
+ "id": "2027-04-19-heidelberg-pycon-de-pydata-2027",
+ "name": "PyCon DE & PyData 2027",
+ "description": "Python and applied-AI open source conference, masterclasses and sprints",
+ "start": "2027-04-19",
+ "end": "2027-04-24",
+ "hours": "n/a",
+ "place": "Heidelberg Congress Center (HCC)",
+ "address": "Czernyring 20, 69115 Heidelberg",
+ "city": "Heidelberg",
+ "price": "from 690 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://pycon.de/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "early bird I until 4 Nov 2026; CFP 4 Nov – 20 Dec 2026",
+ "dateNote": "conference 20-22 Apr",
+ "rating": "4.4",
+ "website": "https://www.heidelberg-congress.com/",
+ "tags": [
+  "ai",
+  "rust",
+  "conference",
+  "on-site"
+ ],
+ "details": "PyCon DE & PyData moves to Heidelberg in 2027, as \"the leading conference for applied AI with open source\". 19 April: masterclasses and Django Girls; 20-22 April: conference at the HCC with a social event and a start-up day on 21 April; 23-24 April: sprints, hackathons and a beginners' day.\n\nMasterclass topics include Python backends and databases, pytest and Rust for Python developers. Early-Bird Edition I costs 690 EUR (150 tickets, until 4 Nov 2026), later editions cost more. The call for proposals runs 4 Nov – 20 Dec 2026.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:57:58.817Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:58.817Z",
+   "changes": {
+    "tags": [
+     [
+      "ai",
+      "rust",
+      "conference"
+     ],
+     [
+      "ai",
+      "rust",
+      "conference",
+      "on-site"
+     ]
+    ]
+   }
+  }
+ ],
+ "topic": "it-events",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PyCon+DE+%26+PyData+2027&dates=20270419%2F20270425&details=Python+and+applied-AI+open+source+conference%2C+masterclasses+and+sprints%0Aearly+bird+I+until+4+Nov+2026%3B+CFP+4+Nov+%E2%80%93+20+Dec+2026%0ADates%3A+conference+20-22+Apr%0AHours%3A+n%2Fa%0APrice%3A+from+690+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fpycon.de%2F&location=Heidelberg+Congress+Center+%28HCC%29%2C+Czernyring+20%2C+69115+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Czernyring%2020%2C%2069115%20Heidelberg",
+ "priceValue": 690
+}

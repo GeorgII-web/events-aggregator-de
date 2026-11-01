@@ -1,0 +1,59 @@
+{
+ "id": "2026-11-25-bensheim-aws-user-group-bergstrasse-internal-developer-platform-on-eks",
+ "name": "AWS User Group Bergstrasse: Internal Developer Platform on EKS",
+ "description": "AWS meetup talk: golden path platform with EKS, Crossplane and Argo CD",
+ "start": "2026-11-25",
+ "end": "2026-11-25",
+ "hours": "19:00-21:00",
+ "place": "IMTF Siron GmbH",
+ "address": "Stubenwald-Allee 19, 64625 Bensheim",
+ "city": "Bensheim",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.meetup.com/aws-user-group-bergstrasse/events/316810843/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "rating": "4.6",
+ "website": "https://www.imtf.com/",
+ "tags": [
+  "aws",
+  "meetup",
+  "cloud",
+  "kubernetes",
+  "on-site"
+ ],
+ "details": "Talk \"From Fragmented Infra to Golden Path\": how a company built an internal developer platform on Amazon EKS so product teams go from idea to running service without becoming Kubernetes experts. Crossplane provisions cloud infrastructure through Kubernetes APIs, Argo CD drives everything via GitOps; the talk covers what nearly derailed the project and what helped.\n\nSpeaker listed as Christopher Haar; hosted by Johannes Koch and Sergei Romanow. At IMTF in Bensheim. Free RSVP on Meetup.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:57:58.817Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:58.817Z",
+   "changes": {
+    "tags": [
+     [
+      "aws",
+      "meetup"
+     ],
+     [
+      "aws",
+      "meetup",
+      "cloud",
+      "kubernetes",
+      "on-site"
+     ]
+    ]
+   }
+  }
+ ],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=AWS+User+Group+Bergstrasse%3A+Internal+Developer+Platform+on+EKS&dates=20261125T190000%2F20261125T210000&details=AWS+meetup+talk%3A+golden+path+platform+with+EKS%2C+Crossplane+and+Argo+CD%0AHours%3A+19%3A00-21%3A00%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meetup.com%2Faws-user-group-bergstrasse%2Fevents%2F316810843%2F&location=IMTF+Siron+GmbH%2C+Stubenwald-Allee+19%2C+64625+Bensheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stubenwald-Allee%2019%2C%2064625%20Bensheim",
+ "priceValue": 0
+}

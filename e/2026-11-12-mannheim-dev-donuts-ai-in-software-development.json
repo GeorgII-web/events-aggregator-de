@@ -1,0 +1,57 @@
+{
+ "id": "2026-11-12-mannheim-dev-donuts-ai-in-software-development",
+ "name": "Dev & Donuts: AI in software development",
+ "description": "developer meetup on coding agents and AI workflows, with donuts",
+ "start": "2026-11-12",
+ "end": "2026-11-12",
+ "hours": "18:00-21:00",
+ "place": "LOKSITE (7th floor)",
+ "address": "Glücksteinallee 69, 68163 Mannheim",
+ "city": "Mannheim",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.meetup.com/dev-and-donuts/events/317086885/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "German",
+ "rating": "4.3",
+ "tags": [
+  "ai",
+  "meetup",
+  "agents",
+  "on-site"
+ ],
+ "details": "Dev & Donuts is a developer meetup in Mannheim. This edition: Tobias and Thomas show how AI already changes software development, from new everyday workflows to the practical use of coding agents, with honest experience from real projects.\n\nNetworking and donuts included. Loksite, Glücksteinallee 69, 7th floor, next to Mannheim main station. Free RSVP on Meetup; announced in German.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:57:58.817Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:58.817Z",
+   "changes": {
+    "tags": [
+     [
+      "ai",
+      "meetup"
+     ],
+     [
+      "ai",
+      "meetup",
+      "agents",
+      "on-site"
+     ]
+    ]
+   }
+  }
+ ],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dev+%26+Donuts%3A+AI+in+software+development&dates=20261112T180000%2F20261112T200000&details=developer+meetup+on+coding+agents+and+AI+workflows%2C+with+donuts%0AGerman%0AHours%3A+18%3A00-21%3A00%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meetup.com%2Fdev-and-donuts%2Fevents%2F317086885%2F&location=LOKSITE+%287th+floor%29%2C+Gl%C3%BCcksteinallee+69%2C+68163+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gl%C3%BCcksteinallee%2069%2C%2068163%20Mannheim",
+ "priceValue": 0
+}

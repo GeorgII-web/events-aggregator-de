@@ -1,0 +1,54 @@
+{
+ "id": "2026-12-10-rhein-neckar-phpugmrn-06-26",
+ "name": "PHPUGMRN 06/26",
+ "description": "PHP User Group Rhein-Neckar meetup: rate limits from a consumer perspective",
+ "start": "2026-12-10",
+ "end": "2026-12-10",
+ "hours": "19:00-22:00",
+ "place": "venue tba",
+ "address": "n/a",
+ "city": "Rhein-Neckar",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.meetup.com/phpug-rhein-neckar/events/312782238/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "venue not announced yet; earlier meetups in Mannheim",
+ "tags": [
+  "php",
+  "meetup",
+  "on-site"
+ ],
+ "details": "Last 2026 meetup of the PHP User Group Metropolregion Rhein-Neckar. Agenda: 19:00 doors open, 19:30 intro, 19:45 \"How to deal with rate limits (from a consumer perspective)\" by Uwe Kleinmann, 20:30 break, 20:45 second talk tbd.\n\nThe venue was not announced as of 1 Nov 2026 (the February meetup was at October Labs in Mannheim). Free RSVP on Meetup; contact @phpugmrn@phpc.social or info@phpugmrn.de.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:57:58.817Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:58.817Z",
+   "changes": {
+    "tags": [
+     [
+      "php",
+      "meetup"
+     ],
+     [
+      "php",
+      "meetup",
+      "on-site"
+     ]
+    ]
+   }
+  }
+ ],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PHPUGMRN+06%2F26&dates=20261210T190000%2F20261210T210000&details=PHP+User+Group+Rhein-Neckar+meetup%3A+rate+limits+from+a+consumer+perspective%0Avenue+not+announced+yet%3B+earlier+meetups+in+Mannheim%0AHours%3A+19%3A00-22%3A00%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meetup.com%2Fphpug-rhein-neckar%2Fevents%2F312782238%2F&location=venue+tba%2C+Rhein-Neckar&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=venue%20tba%2C%20Rhein-Neckar",
+ "priceValue": 0
+}

@@ -1,0 +1,63 @@
+{
+ "id": "2026-11-11-mannheim-clc-26",
+ "name": "CLC 26",
+ "description": "conference on platform engineering, developer experience, agentic AI, DevSecOps",
+ "start": "2026-11-11",
+ "end": "2026-11-12",
+ "hours": "n/a",
+ "place": "Congress Center Rosengarten",
+ "address": "Rosengartenpl. 2, 68161 Mannheim",
+ "city": "Mannheim",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.clc-conference.eu/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "talks in German and English; group discounts from 3",
+ "rating": "4.4",
+ "website": "http://www.mcon-mannheim.de/",
+ "tags": [
+  "ai",
+  "aws",
+  "conference",
+  "cloud",
+  "kubernetes",
+  "on-site"
+ ],
+ "details": "CLC (formerly Continuous Lifecycle / ContainerConf, heise and dpunkt) is a two-day conference on Platform Engineering, Developer Experience, Agentic AI, Dev(Sec)Ops, Container and Kubernetes, infrastructure and operations, observability and SRE.\n\nSpeakers come from Siemens, SAP, Vodafone, Sixt, Accenture, Amazon Web Services and others; talks are a mix of German and English. Ticket prices are in the online shop (not checked); teams of three or more get a group discount. B2B event for professional visitors.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:57:58.817Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:58.817Z",
+   "changes": {
+    "tags": [
+     [
+      "ai",
+      "aws",
+      "conference"
+     ],
+     [
+      "ai",
+      "aws",
+      "conference",
+      "cloud",
+      "kubernetes",
+      "on-site"
+     ]
+    ]
+   }
+  }
+ ],
+ "topic": "it-events",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CLC+26&dates=20261111%2F20261113&details=conference+on+platform+engineering%2C+developer+experience%2C+agentic+AI%2C+DevSecOps%0Atalks+in+German+and+English%3B+group+discounts+from+3%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.clc-conference.eu%2F&location=Congress+Center+Rosengarten%2C+Rosengartenpl.+2%2C+68161+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rosengartenpl.%202%2C%2068161%20Mannheim",
+ "priceValue": null
+}

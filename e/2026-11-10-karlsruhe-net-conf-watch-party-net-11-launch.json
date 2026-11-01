@@ -1,0 +1,58 @@
+{
+ "id": "2026-11-10-karlsruhe-net-conf-watch-party-net-11-launch",
+ "name": ".NET Conf watch party: .NET 11 launch",
+ "description": ".NET User Group Karlsruhe streams the .NET 11 launch keynote, pizza and talk",
+ "start": "2026-11-10",
+ "end": "2026-11-10",
+ "hours": "17:00-20:00",
+ "place": "bluehands GmbH & Co.mmunication KG",
+ "address": "Waldstr. 63, 76133 Karlsruhe",
+ "city": "Karlsruhe",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.meetup.com/net-user-group-karlsruhe/events/316973071/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "German; next planned date 17 Dec",
+ "rating": "5.0",
+ "website": "https://www.bluehands.de/",
+ "tags": [
+  "csharp",
+  "meetup",
+  "dotnet",
+  "on-site"
+ ],
+ "details": ".NET 11 is released at the online .NET Conf on 10 November. The .NET User Group Karlsruhe streams the keynote and the first sessions together, with pizza, drinks and discussion about .NET and C#.\n\nStarts 17:00 at bluehands (Waldstraße 63); doors open a bit earlier. Free RSVP on Meetup. The group's speaker page lists 17 Dec 2026 as the next planned date.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:57:58.817Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:58.817Z",
+   "changes": {
+    "tags": [
+     [
+      "csharp",
+      "meetup"
+     ],
+     [
+      "csharp",
+      "meetup",
+      "dotnet",
+      "on-site"
+     ]
+    ]
+   }
+  }
+ ],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=.NET+Conf+watch+party%3A+.NET+11+launch&dates=20261110T170000%2F20261110T190000&details=.NET+User+Group+Karlsruhe+streams+the+.NET+11+launch+keynote%2C+pizza+and+talk%0AGerman%3B+next+planned+date+17+Dec%0AHours%3A+17%3A00-20%3A00%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meetup.com%2Fnet-user-group-karlsruhe%2Fevents%2F316973071%2F&location=bluehands+GmbH+%26+Co.mmunication+KG%2C+Waldstr.+63%2C+76133+Karlsruhe&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Waldstr.%2063%2C%2076133%20Karlsruhe",
+ "priceValue": 0
+}

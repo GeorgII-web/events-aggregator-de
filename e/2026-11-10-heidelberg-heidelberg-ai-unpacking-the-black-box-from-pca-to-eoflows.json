@@ -1,0 +1,56 @@
+{
+ "id": "2026-11-10-heidelberg-heidelberg-ai-unpacking-the-black-box-from-pca-to-eoflows",
+ "name": "heidelberg.ai: Unpacking the Black Box – From PCA to EOFlows",
+ "description": "AI talk by Prof. Ullrich Köthe on interpretable normalizing flows",
+ "start": "2026-11-10",
+ "end": "2026-11-10",
+ "hours": "17:00-18:30",
+ "place": "Krebsinformationsdienst, Deutsches Krebsforschungszentrum (DKFZ)",
+ "address": "Im Neuenheimer Feld 280, 69120 Heidelberg",
+ "city": "Heidelberg",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.heidelberg.ai/2026/11/10/ullrich-koethe.html",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "RSVP on Meetup; video on YouTube afterwards",
+ "rating": "4.7",
+ "website": "https://heidelberg.ai/",
+ "tags": [
+  "ai",
+  "meetup",
+  "on-site"
+ ],
+ "details": "heidelberg.ai is a free AI talk series hosted at the German Cancer Research Center (DKFZ). Prof. Dr. Ullrich Köthe (Heidelberg University, Visual Learning Lab) presents EOFlows, a non-linear extension of PCA that combines normalizing flows with interpretable, ranked latent dimensions.\n\nHe shows what EOFlows find in the CelebA portrait dataset and how stable the results are across training runs. Research-oriented ML talk rather than LLM tooling. RSVP via the Meetup group; a recording is uploaded to YouTube later.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:57:58.817Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:58.817Z",
+   "changes": {
+    "tags": [
+     [
+      "ai",
+      "meetup"
+     ],
+     [
+      "ai",
+      "meetup",
+      "on-site"
+     ]
+    ]
+   }
+  }
+ ],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=heidelberg.ai%3A+Unpacking+the+Black+Box+%E2%80%93+From+PCA+to+EOFlows&dates=20261110T170000%2F20261110T190000&details=AI+talk+by+Prof.+Ullrich+K%C3%B6the+on+interpretable+normalizing+flows%0ARSVP+on+Meetup%3B+video+on+YouTube+afterwards%0AHours%3A+17%3A00-18%3A30%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.heidelberg.ai%2F2026%2F11%2F10%2Fullrich-koethe.html&location=Krebsinformationsdienst%2C+Deutsches+Krebsforschungszentrum+%28DKFZ%29%2C+Im+Neuenheimer+Feld+280%2C+69120+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Im%20Neuenheimer%20Feld%20280%2C%2069120%20Heidelberg",
+ "priceValue": 0
+}

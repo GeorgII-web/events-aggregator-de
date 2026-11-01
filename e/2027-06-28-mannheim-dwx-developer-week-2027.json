@@ -1,0 +1,64 @@
+{
+ "id": "2027-06-28-mannheim-dwx-developer-week-2027",
+ "name": "DWX Developer Week 2027",
+ "description": "large developer conference for AI, cloud, web and .NET development",
+ "start": "2027-06-28",
+ "end": "2027-07-01",
+ "hours": "n/a",
+ "place": "Congress Center Rosengarten",
+ "address": "Rosengartenpl. 2, 68161 Mannheim",
+ "city": "Mannheim",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.developer-world.de/dwx",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "workshops 28 Jun, sessions 29 Jun – 1 Jul",
+ "rating": "4.4",
+ "website": "http://www.mcon-mannheim.de/",
+ "tags": [
+  "ai",
+  "csharp",
+  "typescript",
+  "conference",
+  "dotnet",
+  "on-site"
+ ],
+ "details": "DWX (Developer Week) is one of the largest German developer conferences, \"the conference for AI, cloud, web and .NET development\". Workshop day Monday 28 June 2027, sessions Tuesday 29 June to Thursday 1 July 2027 at the m:con Congress Center Rosengarten in Mannheim.\n\nTracks cover .NET, web, cloud, DevOps and AI. The 2027 programme and prices were not published as of 1 Nov 2026 (the official page still shows the 2026 programme).",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:57:58.817Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:58.817Z",
+   "changes": {
+    "tags": [
+     [
+      "ai",
+      "csharp",
+      "ts",
+      "conference"
+     ],
+     [
+      "ai",
+      "csharp",
+      "typescript",
+      "conference",
+      "dotnet",
+      "on-site"
+     ]
+    ]
+   }
+  }
+ ],
+ "topic": "it-events",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DWX+Developer+Week+2027&dates=20270628%2F20270702&details=large+developer+conference+for+AI%2C+cloud%2C+web+and+.NET+development%0Aworkshops+28+Jun%2C+sessions+29+Jun+%E2%80%93+1+Jul%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.developer-world.de%2Fdwx&location=Congress+Center+Rosengarten%2C+Rosengartenpl.+2%2C+68161+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rosengartenpl.%202%2C%2068161%20Mannheim",
+ "priceValue": null
+}
