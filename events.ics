@@ -24,151 +24,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-04-mannheim-murphy-s-law-jawless@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Murphy's Law + Jawless (unconfirmed)
-DESCRIPTION:New York hardcore punk veterans with a UK support band\nHours:
-  n/a\nPrice: from 29.37 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mv
- p.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:punk,hardcore
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-10-mannheim-shakra-just-live-loud-tour-2026@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Shakra: Just Live Loud Tour 2026 (unconfirmed)
-DESCRIPTION:Swiss hard rock band on tour\nHours: n/a\nPrice: from 36.20 EU
- R\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltun
- gen/konzert-metal-hard-rock/
-LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:hard-rock,rock
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-12-mannheim-moscow-death-brigade@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Moscow Death Brigade (unconfirmed)
-DESCRIPTION:punk and hip-hop crew known for masked live shows\nHours: n/a\
- nPrice: from 28.80 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/
- mannheim/veranstaltungen/konzert-metal-hard-rock/
-LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:punk
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-mannheim-atrophy@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Atrophy (unconfirmed)
-DESCRIPTION:US thrash metal band from Texas\nHours: n/a\nPrice: from 27.10
-  EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstal
- tungen/konzert-metal-hard-rock/
-LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:metal,thrash
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-24-mannheim-health-conflict-europe-2026@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:HEALTH: Conflict Europe 2026 (unconfirmed)
-DESCRIPTION:noise rock / industrial band from Los Angeles\nHours: n/a\nPri
- ce: from 41 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannhei
- m/veranstaltungen/konzert-metal-hard-rock/
-LOCATION:Alte Feuerwache\, Brückenstraße 2\, 68167 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:rock,industrial
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-06-mannheim-soen-reliance-tour@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:SOEN: Reliance Tour (unconfirmed)
-DESCRIPTION:Swedish progressive metal band\nHours: n/a\nPrice: from 42.50 
- EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstalt
- ungen/konzert-metal-hard-rock/
-LOCATION:Alte Feuerwache\, Brückenstraße 2\, 68167 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:metal,progressive
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-09-mannheim-chelsea-wolfe-the-dark-world-tour@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:Chelsea Wolfe: The Dark World Tour (unconfirmed)
-DESCRIPTION:US singer between doom\, goth rock and dark folk\nHours: n/a\n
- Price: from 47.90 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/m
- annheim/veranstaltungen/konzert-metal-hard-rock/
-LOCATION:Capitol\, Waldhofstraße 2\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:rock,doom,goth
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-09-mannheim-wednesday-13-cursed-blessings-tour@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:Wednesday 13: Cursed Blessings Tour (unconfirmed)
-DESCRIPTION:US horror punk / metal singer and band\nHours: n/a\nPrice: fro
- m 46 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veran
- staltungen/konzert-metal-hard-rock/
-LOCATION:MS Connexion Complex\, Angelstraße 33\, 68199 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:punk,metal,horror-punk
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-13-mannheim-mystic-prophecy-iron-savior-heavy-metal-mania-tour
- -2026@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-SUMMARY:Mystic Prophecy & Iron Savior: Heavy Metal Mania Tour 2026 (unconf
- irmed)
-DESCRIPTION:double bill of two German power metal bands\nHours: n/a\nPrice
- : from 34.20 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannhe
- im/veranstaltungen/konzert-metal-hard-rock/
-LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:metal,power-metal
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-19-heidelberg-the-end-of-music-ahab@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-SUMMARY:The End of Music: Ahab (unconfirmed)
-DESCRIPTION:German funeral doom metal band\nHours: n/a\nPrice: from 32.90 
- EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/heidelberg/veransta
- ltungen/konzert-metal-hard-rock/
-LOCATION:Karlstorbahnhof\, Marlene-Dietrich-Platz 3\, 69126 Heidelberg
-URL:https://www.mvp.de/heidelberg/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:metal,doom
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-29-mannheim-christmas-metal-bash-2026@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
-SUMMARY:Christmas Metal Bash 2026 (unconfirmed)
-DESCRIPTION:metal club night between Christmas and New Year\nHours: n/a\nP
- rice: from 25.40 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/ma
- nnheim/veranstaltungen/konzert-metal-hard-rock/
-LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:metal
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-ludwigshafen-der-klassische-flohmarkt@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -1392,5 +1247,150 @@ DESCRIPTION:open-air beer festival with hundreds of beers\nabout 55-60 km\
 LOCATION:Festplatz 9\, 76137 Karlsruhe
 URL:https://www.bierboerse.com/veranstaltungstermine
 CATEGORIES:beer-festival,craft-beer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-mannheim-murphy-s-law-jawless@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Murphy's Law + Jawless (unconfirmed)
+DESCRIPTION:New York hardcore punk veterans with a UK support band\nHours:
+  n/a\nPrice: from 29.37 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mv
+ p.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:punk,hardcore
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-mannheim-shakra-just-live-loud-tour-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Shakra: Just Live Loud Tour 2026 (unconfirmed)
+DESCRIPTION:Swiss hard rock band on tour\nHours: n/a\nPrice: from 36.20 EU
+ R\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltun
+ gen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:hard-rock,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-mannheim-moscow-death-brigade@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Moscow Death Brigade (unconfirmed)
+DESCRIPTION:punk and hip-hop crew known for masked live shows\nHours: n/a\
+ nPrice: from 28.80 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/
+ mannheim/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:punk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-mannheim-atrophy@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Atrophy (unconfirmed)
+DESCRIPTION:US thrash metal band from Texas\nHours: n/a\nPrice: from 27.10
+  EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstal
+ tungen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:metal,thrash
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-mannheim-health-conflict-europe-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:HEALTH: Conflict Europe 2026 (unconfirmed)
+DESCRIPTION:noise rock / industrial band from Los Angeles\nHours: n/a\nPri
+ ce: from 41 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannhei
+ m/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:Alte Feuerwache\, Brückenstraße 2\, 68167 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:rock,industrial
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-mannheim-soen-reliance-tour@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:SOEN: Reliance Tour (unconfirmed)
+DESCRIPTION:Swedish progressive metal band\nHours: n/a\nPrice: from 42.50 
+ EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstalt
+ ungen/konzert-metal-hard-rock/
+LOCATION:Alte Feuerwache\, Brückenstraße 2\, 68167 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:metal,progressive
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-mannheim-chelsea-wolfe-the-dark-world-tour@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Chelsea Wolfe: The Dark World Tour (unconfirmed)
+DESCRIPTION:US singer between doom\, goth rock and dark folk\nHours: n/a\n
+ Price: from 47.90 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/m
+ annheim/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:Capitol\, Waldhofstraße 2\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:rock,doom,goth
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-mannheim-wednesday-13-cursed-blessings-tour@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Wednesday 13: Cursed Blessings Tour (unconfirmed)
+DESCRIPTION:US horror punk / metal singer and band\nHours: n/a\nPrice: fro
+ m 46 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veran
+ staltungen/konzert-metal-hard-rock/
+LOCATION:MS Connexion Complex\, Angelstraße 33\, 68199 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:punk,metal,horror-punk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-mannheim-mystic-prophecy-iron-savior-heavy-metal-mania-tour
+ -2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Mystic Prophecy & Iron Savior: Heavy Metal Mania Tour 2026 (unconf
+ irmed)
+DESCRIPTION:double bill of two German power metal bands\nHours: n/a\nPrice
+ : from 34.20 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannhe
+ im/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:metal,power-metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-heidelberg-the-end-of-music-ahab@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:The End of Music: Ahab (unconfirmed)
+DESCRIPTION:German funeral doom metal band\nHours: n/a\nPrice: from 32.90 
+ EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/heidelberg/veransta
+ ltungen/konzert-metal-hard-rock/
+LOCATION:Karlstorbahnhof\, Marlene-Dietrich-Platz 3\, 69126 Heidelberg
+URL:https://www.mvp.de/heidelberg/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:metal,doom
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-mannheim-christmas-metal-bash-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Christmas Metal Bash 2026 (unconfirmed)
+DESCRIPTION:metal club night between Christmas and New Year\nHours: n/a\nP
+ rice: from 25.40 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/ma
+ nnheim/veranstaltungen/konzert-metal-hard-rock/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+CATEGORIES:metal
 END:VEVENT
 END:VCALENDAR
