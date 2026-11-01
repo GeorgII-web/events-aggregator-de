@@ -701,13 +701,14 @@ UID:2026-12-05-ladenburg-sternenglanz-und-huttenzauber@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
-SUMMARY:Sternenglanz und Hüttenzauber (unconfirmed)
-DESCRIPTION:Christmas market in the Roman old town\nHours: n/a\nPrice: fre
- e\nStatus: unconfirmed (freizeitmonster.de)\nhttps://freizeitmonster.de/b
- log/weihnachtsmaerkte-schriesheim
-LOCATION:Old town\, Ladenburg
-URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
-CATEGORIES:christmas-market
+SUMMARY:Sternenglanz und Hüttenzauber
+DESCRIPTION:Christmas market at the Carl Benz car museum\nHours: Sat 11-20
+ \, Sun 11-18\nPrice: n/a\nStatus: ok (official)\nhttps://www.automuseum-l
+ adenburg.de/
+LOCATION:Automuseum Dr. Carl Benz\, Ilvesheimer Straße 26\, 68526 Ladenbu
+ rg
+URL:https://www.automuseum-ladenburg.de/
+CATEGORIES:christmas-market,oldtimer,classic-cars
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-dossenheim-adventsmarkt-dossenheim@events-search
@@ -809,13 +810,14 @@ UID:2027-04-16-hockenheim-veterama-hockenheim-2027@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270419
-SUMMARY:VETERAMA Hockenheim 2027 (no dates yet)
-DESCRIPTION:huge classic car and parts market at the Hockenheimring\nDates
- : not announced yet; one listing says 16-18 Apr\nHours: n/a\nPrice: n/a\n
- Status: no dates yet (veterama.de)\nhttps://veterama.de/en
+SUMMARY:VETERAMA Hockenheim 2027
+DESCRIPTION:huge classic car and parts market at the Hockenheimring\nHours
+ : Fri 12-20 (early bird / premium only)\, Sat 8:30-18\, Sun 8:30-16\nPric
+ e: day ticket 15 EUR\, Sat+Sun 25 EUR\nStatus: ok (official)\nhttps://vet
+ erama.de/hockenheim/
 LOCATION:Hockenheimring Baden-Württemberg\, Am Motodrom 1\, 68766 Hockenh
  eim
-URL:https://veterama.de/en
+URL:https://veterama.de/hockenheim/
 CATEGORIES:oldtimer,classic-cars,flea-market
 END:VEVENT
 BEGIN:VEVENT
@@ -824,15 +826,13 @@ UID:2027-05-07-hockenheim-hockenheim-historic-the-jim-clark-revival@events
 DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270510
-SUMMARY:Hockenheim Historic: The Jim Clark Revival (unconfirmed)
-DESCRIPTION:historic motor racing festival\nDates: another listing says 8-
- 10 May\nHours: n/a\nPrice: n/a\nStatus: unconfirmed (heidelberg24.de)\nht
- tps://www.heidelberg24.de/region/hockenheim-historic-begeistert-motorspor
- t-fans-termin-2027-fix-94260550.html
+SUMMARY:Hockenheim Historic: The Jim Clark Revival
+DESCRIPTION:historic motor racing festival\nHours: n/a\nPrice: presale: we
+ ekend 54 EUR\, Sat 39 EUR\, Sun 34 EUR\nStatus: ok (official)\nhttps://ww
+ w.hockenheim-historic.de/
 LOCATION:Hockenheimring Baden-Württemberg\, Am Motodrom 1\, 68766 Hockenh
  eim
-URL:https://www.heidelberg24.de/region/hockenheim-historic-begeistert-moto
- rsport-fans-termin-2027-fix-94260550.html
+URL:https://www.hockenheim-historic.de/
 CATEGORIES:motorsport,racing,oldtimer,classic-cars
 END:VEVENT
 BEGIN:VEVENT
@@ -1033,5 +1033,364 @@ LOCATION:Friedrich-Ebert-Gedenkstätte\, Pfaffengasse 18\, 69117 Heidelber
  g
 URL:https://ebert-gedenkstaette.de/veranstaltungen/
 CATEGORIES:museum,free-entry,exhibition
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-04-speyer-benzingesprach-classic-car-meet@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270404T090000
+DTEND;TZID=Europe/Berlin:20270404T110000
+SUMMARY:Benzingespräch: classic car meet
+DESCRIPTION:open classic and youngtimer car meet at the museum\nHours: 9:0
+ 0-13:00\nPrice: free\nStatus: ok (official)\nhttps://www.technik-museum.d
+ e/en/get-together-of-petrolheads
+LOCATION:Technik Museum Speyer\, Am Technik Museum 1\, 67346 Speyer
+URL:https://www.technik-museum.de/en/get-together-of-petrolheads
+CATEGORIES:oldtimer,classic-cars
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-06-speyer-benzingesprach-classic-car-meet@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270606T090000
+DTEND;TZID=Europe/Berlin:20270606T110000
+SUMMARY:Benzingespräch: classic car meet
+DESCRIPTION:open classic and youngtimer car meet at the museum\nHours: 9:0
+ 0-13:00\nPrice: free\nStatus: ok (official)\nhttps://www.technik-museum.d
+ e/en/get-together-of-petrolheads
+LOCATION:Technik Museum Speyer\, Am Technik Museum 1\, 67346 Speyer
+URL:https://www.technik-museum.de/en/get-together-of-petrolheads
+CATEGORIES:oldtimer,classic-cars
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-04-speyer-benzingesprach-classic-car-meet@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270704T090000
+DTEND;TZID=Europe/Berlin:20270704T110000
+SUMMARY:Benzingespräch: classic car meet
+DESCRIPTION:open classic and youngtimer car meet at the museum\nHours: 9:0
+ 0-13:00\nPrice: free\nStatus: ok (official)\nhttps://www.technik-museum.d
+ e/en/get-together-of-petrolheads
+LOCATION:Technik Museum Speyer\, Am Technik Museum 1\, 67346 Speyer
+URL:https://www.technik-museum.de/en/get-together-of-petrolheads
+CATEGORIES:oldtimer,classic-cars
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-01-speyer-benzingesprach-classic-car-meet@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270801T090000
+DTEND;TZID=Europe/Berlin:20270801T110000
+SUMMARY:Benzingespräch: classic car meet
+DESCRIPTION:open classic and youngtimer car meet at the museum\nHours: 9:0
+ 0-13:00\nPrice: free\nStatus: ok (official)\nhttps://www.technik-museum.d
+ e/en/get-together-of-petrolheads
+LOCATION:Technik Museum Speyer\, Am Technik Museum 1\, 67346 Speyer
+URL:https://www.technik-museum.de/en/get-together-of-petrolheads
+CATEGORIES:oldtimer,classic-cars
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-05-speyer-benzingesprach-classic-car-meet@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270905T090000
+DTEND;TZID=Europe/Berlin:20270905T110000
+SUMMARY:Benzingespräch: classic car meet
+DESCRIPTION:open classic and youngtimer car meet at the museum\nHours: 9:0
+ 0-13:00\nPrice: free\nStatus: ok (official)\nhttps://www.technik-museum.d
+ e/en/get-together-of-petrolheads
+LOCATION:Technik Museum Speyer\, Am Technik Museum 1\, 67346 Speyer
+URL:https://www.technik-museum.de/en/get-together-of-petrolheads
+CATEGORIES:oldtimer,classic-cars
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-08-speyer-brazzeltag@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270510
+SUMMARY:BRAZZELTAG
+DESCRIPTION:loud motor festival at the Technik Museum Speyer\nHours: 10:00
+ -17:30\nPrice: museum ticket\nStatus: ok (official)\nhttps://www.technik-
+ museum.de/de/events/jahreskalender/brazzeltag/
+LOCATION:Technik Museum Speyer\, Am Technik Museum 1\, 67346 Speyer
+URL:https://www.technik-museum.de/de/events/jahreskalender/brazzeltag/
+CATEGORIES:oldtimer,classic-cars,motorsport
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-08-sinsheim-adac-heidelberg-historic@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270711
+SUMMARY:ADAC Heidelberg Historic
+DESCRIPTION:classic car rally through Kraichgau and Odenwald\nHours: n/a\n
+ Price: n/a\nStatus: ok (official)\nhttps://www.heidelberg-historic.de/
+LOCATION:Technik Museum Sinsheim (start and finish)\, Museumsplatz\, 74889
+  Sinsheim
+URL:https://www.heidelberg-historic.de/
+CATEGORIES:oldtimer,classic-cars
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-27-schwetzingen-asc-classic-gala-schwetzingen@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270830
+SUMMARY:ASC Classic-Gala Schwetzingen
+DESCRIPTION:Concours d'Elegance with about 180 classics in the palace gard
+ en\nHours: n/a\nPrice: n/a (2026: 9 EUR + fee)\nStatus: ok (official)\nht
+ tps://www.concours-delegance.de/
+LOCATION:Schlossgarten Schwetzingen\, Schlossplatz\, 68723 Schwetzingen
+URL:https://www.concours-delegance.de/
+CATEGORIES:oldtimer,classic-cars
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-08-mannheim-veterama-mannheim-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271011
+SUMMARY:VETERAMA Mannheim 2027
+DESCRIPTION:Europe's largest classic car and parts market\nHours: Fri 12-2
+ 0 (early bird / premium only)\, Sat 8:30-18\, Sun 8:30-16\nPrice: day tic
+ ket 15 EUR\, Sat+Sun 25 EUR\nStatus: ok (official)\nhttps://veterama.de/m
+ annheim/
+LOCATION:Maimarktgelände\, Xaver-Fuhr-Straße\, 68163 Mannheim
+URL:https://veterama.de/mannheim/
+CATEGORIES:oldtimer,classic-cars,flea-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-31-sinsheim-us-car-treffen@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270802
+SUMMARY:US-Car Treffen (no dates yet)
+DESCRIPTION:meet of up to 1\,000 American cars at the Technik Museum Sinsh
+ eim\nDates: 2027 not announced; 2026: 1-2 Aug\nHours: n/a\nPrice: free fo
+ r spectators (2026)\nStatus: no dates yet (official)\nhttps://www.technik
+ -museum.de/us-car
+LOCATION:Technik Museum Sinsheim\, Museumsplatz\, 74889 Sinsheim
+URL:https://www.technik-museum.de/us-car
+CATEGORIES:oldtimer,classic-cars
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-03-ladenburg-carl-benz-classic-and-museumsfest@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270705
+SUMMARY:Carl-Benz-Classic and Museumsfest (no dates yet)
+DESCRIPTION:classic car tour and museum fest in Ladenburg\nDates: 2027 not
+  announced; 2026: 4-5 Jul\nHours: n/a\nPrice: n/a\nStatus: no dates yet (
+ official)\nhttps://www.automuseum-ladenburg.de/
+LOCATION:Automuseum Dr. Carl Benz\, Ilvesheimer Straße 26\, 68526 Ladenbu
+ rg
+URL:https://www.automuseum-ladenburg.de/
+CATEGORIES:oldtimer,classic-cars
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-17-hockenheim-hockenheim-classics-vfv@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270920
+SUMMARY:Hockenheim Classics (VFV) (no dates yet)
+DESCRIPTION:historic motorcycle and car races\, 50th edition\nDates: 2027 
+ not announced; 2026: 18-20 Sep\nHours: n/a\nPrice: n/a\nStatus: no dates 
+ yet (official)\nhttps://www.hockenheimring.de/events/event-kalender/
+LOCATION:Hockenheimring Baden-Württemberg\, Am Motodrom 1\, 68766 Hockenh
+ eim
+URL:https://www.hockenheimring.de/events/event-kalender/
+CATEGORIES:motorsport,racing,oldtimer,classic-cars
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-29-frankenthal-frankenthal-classics@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270829T100000
+DTEND;TZID=Europe/Berlin:20270829T120000
+SUMMARY:Frankenthal Classics (no dates yet)
+DESCRIPTION:old- and youngtimer charity meet\nDates: 2027 not announced; 2
+ 026: Sun 30 Aug\nHours: from 10:00\nPrice: n/a\nStatus: no dates yet (woc
+ henblatt-reporter.de)\nhttps://www.wochenblatt-reporter.de/
+LOCATION:Dehner / Kaufland car park\, Wormser Straße\, 67227 Frankenthal
+URL:https://www.wochenblatt-reporter.de/
+CATEGORIES:oldtimer,classic-cars
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-mannheim-mannheimer-oktoberfest-last-nights@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+SUMMARY:Mannheimer Oktoberfest: last nights
+DESCRIPTION:Oktoberfest tent with brass band Blechblos'n\nHours: evenings\
+ nPrice: n/a\nStatus: ok (official)\nhttps://www.oktoberfest-mannheim.de/
+LOCATION:Festival tent next to the Hauptfeuerwache\, Mannheim
+URL:https://www.oktoberfest-mannheim.de/
+CATEGORIES:beer-festival,city-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-23-heidelberg-original-street-food-festival-heidelberg@events-
+ search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270426
+SUMMARY:Original Street Food Festival Heidelberg (no dates yet)
+DESCRIPTION:touring food truck festival ('Das Original')\nDates: 2027 not 
+ announced; 2026: 24-26 Apr\nHours: 2026: Fri 16-22\, Sat 12-22\, Sun 12-2
+ 0\nPrice: 2026: 4.90 EUR (presale 4 EUR)\, under 12 free\nStatus: no date
+ s yet (official)\nhttps://www.street-food-festival.de/heidelberg
+LOCATION:Messplatz\, Kirchheimer Weg 69\, 69124 Heidelberg
+URL:https://www.street-food-festival.de/heidelberg
+CATEGORIES:street-food,food-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-11-heidelberg-june-street-food-music-festival-heidelberg-june@
+ events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270614
+SUMMARY:Street Food & Music Festival Heidelberg (June) (no dates yet)
+DESCRIPTION:food truck festival with DJs\, free entry\nDates: 2027 not ann
+ ounced; 2026: 12-14 Jun\nHours: 2026: Fri 16-22\, Sat 12-22\, Sun 12-18\n
+ Price: free\nStatus: no dates yet (official)\nhttps://www.street-food-mus
+ ic.de/
+LOCATION:Messplatz\, Kirchheimer Weg 69\, 69124 Heidelberg
+URL:https://www.street-food-music.de/
+CATEGORIES:street-food,food-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-20-heidelberg-august-street-food-music-festival-heidelberg-aug
+ ust@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270823
+SUMMARY:Street Food & Music Festival Heidelberg (August) (no dates yet)
+DESCRIPTION:food truck festival with DJs\, free entry\nDates: 2027 not ann
+ ounced; 2026: 21-23 Aug\nHours: 2026: Fri 16-22\, Sat 12-22\, Sun 12-18\n
+ Price: free\nStatus: no dates yet (official)\nhttps://www.street-food-mus
+ ic.de/
+LOCATION:Messplatz\, Kirchheimer Weg 69\, 69124 Heidelberg
+URL:https://www.street-food-music.de/
+CATEGORIES:street-food,food-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-16-worms-street-food-music-festival-worms@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270419
+SUMMARY:Street Food & Music Festival Worms (no dates yet)
+DESCRIPTION:food truck festival with DJs\, free entry\nDates: 2027 not ann
+ ounced; 2026: 17-19 Apr\nHours: 2026: Fri 16-22\, Sat 12-22\, Sun 12-18\n
+ Price: free\nStatus: no dates yet (official)\nhttps://www.street-food-mus
+ ic.de/
+LOCATION:Festplatz\, Worms
+URL:https://www.street-food-music.de/
+CATEGORIES:street-food,food-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-07-germersheim-street-food-music-festival-germersheim@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270510
+SUMMARY:Street Food & Music Festival Germersheim (no dates yet)
+DESCRIPTION:food truck festival with DJs\, free entry\nDates: 2027 not ann
+ ounced; 2026: 8-10 May\nHours: 2026: Fri 16-22\, Sat 12-22\, Sun 12-18\nP
+ rice: free\nStatus: no dates yet (official)\nhttps://www.street-food-musi
+ c.de/
+LOCATION:Paradeplatz\, Germersheim
+URL:https://www.street-food-music.de/
+CATEGORIES:street-food,food-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-06-sinsheim-street-food-music-festival-sinsheim@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270809
+SUMMARY:Street Food & Music Festival Sinsheim (no dates yet)
+DESCRIPTION:food truck festival with DJs\, free entry\nDates: 2027 not ann
+ ounced; 2026: 7-9 Aug\nHours: 2026: Fri 16-22\, Sat 12-22\, Sun 12-18\nPr
+ ice: free\nStatus: no dates yet (official)\nhttps://www.street-food-music
+ .de/
+LOCATION:Parkplatz Freibad\, Schwimmbadweg\, 74889 Sinsheim
+URL:https://www.street-food-music.de/
+CATEGORIES:street-food,food-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-11-neckargemund-street-food-festival-neckargemund@events-searc
+ h
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270614
+SUMMARY:Street Food Festival Neckargemünd (no dates yet)
+DESCRIPTION:food trucks\, live music and cocktail bar in a park\nDates: 20
+ 27 not announced; 2026: 12-14 Jun\nHours: 2026: Fri 17-22\, Sat 12-22\, S
+ un 12-20\nPrice: free\nStatus: no dates yet (festivalsindeutschland.de)\n
+ https://www.festivalsindeutschland.de/festival/street-food-festival-necka
+ rgemuend
+LOCATION:Menzerpark\, Julius-Menzer-Straße 5\, 69151 Neckargemünd
+URL:https://www.festivalsindeutschland.de/festival/street-food-festival-ne
+ ckargemuend
+CATEGORIES:street-food,food-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-09-frankenthal-frankenthaler-street-food-festival@events-searc
+ h
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270412
+SUMMARY:Frankenthaler Street Food Festival (no dates yet)
+DESCRIPTION:international food trucks\, live music\, shopping Sunday\nDate
+ s: 2027 not announced; 2026: 10-12 Apr\nHours: n/a\nPrice: free\nStatus: 
+ no dates yet (festivalsindeutschland.de)\nhttps://www.festivalsindeutschl
+ and.de/
+LOCATION:Rathausplatz\, Frankenthal
+URL:https://www.festivalsindeutschland.de/
+CATEGORIES:street-food,food-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-12-hassloch-schummeltag-street-food-festival-hassloch@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270315
+SUMMARY:Schummeltag Street Food Festival Haßloch (no dates yet)
+DESCRIPTION:street food festival with a small music stage\nDates: 2027 not
+  announced; 2026: 13-15 Mar\nHours: 2026: Fri 16-20\, Sat 12-20\, Sun 11-
+ 19\nPrice: free\nStatus: no dates yet (festivalsindeutschland.de)\nhttps:
+ //www.festivalsindeutschland.de/
+LOCATION:Jahnplatz\, n/a\, 67454 Haßloch
+URL:https://www.festivalsindeutschland.de/
+CATEGORIES:street-food,food-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-20-heidelberg-vegan-fur-alle@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Vegan für alle (no dates yet)
+DESCRIPTION:vegan food festival in the Bahnstadt\nDates: 2027 not announce
+ d; 2026: Sun 21 Jun\nHours: 2026: 11-20\nPrice: free\nStatus: no dates ye
+ t (festival.veganinheidelberg.de)\nhttps://festival.veganinheidelberg.de
+LOCATION:Gadamerplatz\, Heidelberg
+URL:https://festival.veganinheidelberg.de
+CATEGORIES:street-food,food-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-16-plankstadt-welde-fest@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270718
+SUMMARY:Welde-Fest (no dates yet)
+DESCRIPTION:brewery festival with live music and brewery tours\nDates: 202
+ 7 not announced; 2026: 17-18 Jul\nHours: n/a\nPrice: free\nStatus: no dat
+ es yet (heidelberg24.de)\nhttps://www.heidelberg24.de/
+LOCATION:Weldegarten\, Plankstadt
+URL:https://www.heidelberg24.de/
+CATEGORIES:beer-festival,food-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-27-karlsruhe-bierborse-karlsruhe@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270830
+SUMMARY:Bierbörse Karlsruhe
+DESCRIPTION:open-air beer festival with hundreds of beers\nabout 55-60 km\
+ nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.bierboerse.co
+ m/veranstaltungstermine
+LOCATION:Festplatz 9\, 76137 Karlsruhe
+URL:https://www.bierboerse.com/veranstaltungstermine
+CATEGORIES:beer-festival,craft-beer
 END:VEVENT
 END:VCALENDAR

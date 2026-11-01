@@ -4,16 +4,16 @@
  "description": "huge classic car and parts market at the Hockenheimring",
  "start": "2027-04-16",
  "end": "2027-04-18",
- "dateNote": "not announced yet; one listing says 16-18 Apr",
- "hours": "n/a",
+ "dateNote": "",
+ "hours": "Fri 12-20 (early bird / premium only), Sat 8:30-18, Sun 8:30-16",
  "place": "Hockenheimring Baden-Württemberg",
  "address": "Am Motodrom 1, 68766 Hockenheim",
  "city": "Hockenheim",
- "price": "n/a",
+ "price": "day ticket 15 EUR, Sat+Sun 25 EUR",
  "size": "big",
- "status": "no dates yet",
- "link": "https://veterama.de/en",
- "source": "veterama.de",
+ "status": "ok",
+ "link": "https://veterama.de/hockenheim/",
+ "source": "official",
  "checked": "2026-11-01",
  "rating": "4.5",
  "tags": [
@@ -21,17 +21,48 @@
   "classic-cars",
   "flea-market"
  ],
- "details": "VETERAMA is a large market for classic cars, motorbikes and spare parts that the organiser calls Europe's biggest; the spring edition is held at the Hockenheimring (2026: 24-26 April). The 2027 date is not announced yet; the date here is an estimate from one listing.",
+ "details": "VETERAMA is a large market for classic cars, motorbikes and spare parts that the organiser calls Europe's biggest; the spring edition fills the Hockenheimring paddock. Day ticket 15 EUR, Saturday and Sunday 25 EUR, early bird 25 EUR, premium 30 EUR; under-14s free. Ticket sales have not started yet.",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.868Z",
- "history": [],
+ "updatedAt": "2026-11-01T17:10:49.679Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T17:10:49.679Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "Fri 12-20 (early bird / premium only), Sat 8:30-18, Sun 8:30-16"
+    ],
+    "price": [
+     "n/a",
+     "day ticket 15 EUR, Sat+Sun 25 EUR"
+    ],
+    "status": [
+     "no dates yet",
+     "ok"
+    ],
+    "link": [
+     "https://veterama.de/en",
+     "https://veterama.de/hockenheim/"
+    ],
+    "source": [
+     "veterama.de",
+     "official"
+    ],
+    "dateNote": [
+     "not announced yet; one listing says 16-18 Apr",
+     ""
+    ]
+   }
+  }
+ ],
  "topic": "local-events",
  "groups": [
   "flea",
   "classic"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=VETERAMA+Hockenheim+2027&dates=20270416%2F20270419&details=huge+classic+car+and+parts+market+at+the+Hockenheimring%0ADates%3A+not+announced+yet%3B+one+listing+says+16-18+Apr%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28veterama.de%29%0Ahttps%3A%2F%2Fveterama.de%2Fen&location=Hockenheimring+Baden-W%C3%BCrttemberg%2C+Am+Motodrom+1%2C+68766+Hockenheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=VETERAMA+Hockenheim+2027&dates=20270416%2F20270419&details=huge+classic+car+and+parts+market+at+the+Hockenheimring%0AHours%3A+Fri+12-20+%28early+bird+%2F+premium+only%29%2C+Sat+8%3A30-18%2C+Sun+8%3A30-16%0APrice%3A+day+ticket+15+EUR%2C+Sat%2BSun+25+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fveterama.de%2Fhockenheim%2F&location=Hockenheimring+Baden-W%C3%BCrttemberg%2C+Am+Motodrom+1%2C+68766+Hockenheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Am%20Motodrom%201%2C%2068766%20Hockenheim",
- "priceValue": null
+ "priceValue": 15
 }

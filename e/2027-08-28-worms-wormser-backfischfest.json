@@ -1,0 +1,36 @@
+{
+ "id": "2027-08-28-worms-wormser-backfischfest",
+ "name": "Wormser Backfischfest",
+ "description": "big Rhine-side folk festival with fried fish and wine",
+ "start": "2027-08-28",
+ "end": "2027-09-05",
+ "hours": "n/a",
+ "place": "Kisselswiese",
+ "address": "n/a",
+ "city": "Worms",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.backfischfest.de/backfischfest/index.php",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "food-festival",
+  "city-festival",
+  "wine"
+ ],
+ "details": "Worms' big nine-day folk festival on the Rhine: fried fish (Backfisch), wine from local winemakers, a funfair and music.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T17:11:26.754Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "wine",
+  "food",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wormser+Backfischfest&dates=20270828%2F20270906&details=big+Rhine-side+folk+festival+with+fried+fish+and+wine%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.backfischfest.de%2Fbackfischfest%2Findex.php&location=Kisselswiese%2C+Worms&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kisselswiese%2C%20Worms",
+ "priceValue": null
+}

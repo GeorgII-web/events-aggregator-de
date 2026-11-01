@@ -1,0 +1,35 @@
+{
+ "id": "2027-07-16-plankstadt-welde-fest",
+ "name": "Welde-Fest",
+ "description": "brewery festival with live music and brewery tours",
+ "start": "2027-07-16",
+ "end": "2027-07-17",
+ "hours": "n/a",
+ "place": "Weldegarten",
+ "address": "n/a",
+ "city": "Plankstadt",
+ "price": "free",
+ "size": "medium",
+ "status": "no dates yet",
+ "link": "https://www.heidelberg24.de/",
+ "source": "heidelberg24.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "beer-festival",
+  "food-festival"
+ ],
+ "details": "Summer festival in the beer garden next to the Welde brewery in Plankstadt with live music, DJs, brewery tours and food stalls; free entry. 2027 not announced; the date here follows 2026 (17-18 July), seen in the regional press only.",
+ "dateNote": "2027 not announced; 2026: 17-18 Jul",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T17:11:26.754Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "beer",
+  "food"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Welde-Fest&dates=20270716%2F20270718&details=brewery+festival+with+live+music+and+brewery+tours%0ADates%3A+2027+not+announced%3B+2026%3A+17-18+Jul%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+no+dates+yet+%28heidelberg24.de%29%0Ahttps%3A%2F%2Fwww.heidelberg24.de%2F&location=Weldegarten%2C+Plankstadt&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Weldegarten%2C%20Plankstadt",
+ "priceValue": 0
+}

@@ -1,0 +1,34 @@
+{
+ "id": "2027-04-29-stuttgart-retro-classics-stuttgart",
+ "name": "Retro Classics Stuttgart",
+ "description": "big classic car fair, day trip",
+ "start": "2027-04-29",
+ "end": "2027-05-02",
+ "hours": "Thu 11-19, Fri-Sun 10-18",
+ "place": "Messe Stuttgart",
+ "address": "Messepiazza 1, 70629 Stuttgart",
+ "city": "Stuttgart",
+ "price": "day ticket 21 EUR online (until 31 Dec)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.retro-classics.de/en/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "oldtimer",
+  "classic-cars"
+ ],
+ "details": "One of Germany's biggest classic car fairs with dealers, clubs and parts traders at the Stuttgart trade fair, about 120 km from Mannheim (a day trip). Online day ticket 21 EUR at the early price until 31 December 2026; under-6s free.",
+ "note": "about 120 km, day trip",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T17:10:49.679Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "classic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Retro+Classics+Stuttgart&dates=20270429%2F20270503&details=big+classic+car+fair%2C+day+trip%0Aabout+120+km%2C+day+trip%0AHours%3A+Thu+11-19%2C+Fri-Sun+10-18%0APrice%3A+day+ticket+21+EUR+online+%28until+31+Dec%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.retro-classics.de%2Fen%2F&location=Messe+Stuttgart%2C+Messepiazza+1%2C+70629+Stuttgart&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Messepiazza%201%2C%2070629%20Stuttgart",
+ "priceValue": 21
+}

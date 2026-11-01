@@ -1,0 +1,38 @@
+{
+ "id": "2027-09-17-hockenheim-hockenheim-classics-vfv",
+ "name": "Hockenheim Classics (VFV)",
+ "description": "historic motorcycle and car races, 50th edition",
+ "start": "2027-09-17",
+ "end": "2027-09-19",
+ "hours": "n/a",
+ "place": "Hockenheimring Baden-Württemberg",
+ "address": "Am Motodrom 1, 68766 Hockenheim",
+ "city": "Hockenheim",
+ "price": "n/a",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://www.hockenheimring.de/events/event-kalender/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "motorsport",
+  "racing",
+  "oldtimer",
+  "classic-cars"
+ ],
+ "details": "Historic motorcycle and car races at the Hockenheimring and the last round of the German Historic Motorcycle Championship; 2027 is announced as the 50th edition. The date is not out; the date here follows the 2026 pattern (18-20 September).",
+ "rating": "4.5",
+ "dateNote": "2027 not announced; 2026: 18-20 Sep",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T17:10:49.679Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "motorsport",
+  "classic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockenheim+Classics+%28VFV%29&dates=20270917%2F20270920&details=historic+motorcycle+and+car+races%2C+50th+edition%0ADates%3A+2027+not+announced%3B+2026%3A+18-20+Sep%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.hockenheimring.de%2Fevents%2Fevent-kalender%2F&location=Hockenheimring+Baden-W%C3%BCrttemberg%2C+Am+Motodrom+1%2C+68766+Hockenheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Am%20Motodrom%201%2C%2068766%20Hockenheim",
+ "priceValue": null
+}

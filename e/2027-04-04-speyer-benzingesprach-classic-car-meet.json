@@ -1,0 +1,33 @@
+{
+ "id": "2027-04-04-speyer-benzingesprach-classic-car-meet",
+ "name": "Benzingespräch: classic car meet",
+ "description": "open classic and youngtimer car meet at the museum",
+ "start": "2027-04-04",
+ "end": "2027-04-04",
+ "hours": "9:00-13:00",
+ "place": "Technik Museum Speyer",
+ "address": "Am Technik Museum 1, 67346 Speyer",
+ "city": "Speyer",
+ "price": "free",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.technik-museum.de/en/get-together-of-petrolheads",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "oldtimer",
+  "classic-cars"
+ ],
+ "details": "An open Sunday-morning meet for classic and youngtimer cars, motorcycles and unusual vehicles on the car park of the Technik Museum Speyer. Free for drivers who take part, no registration needed; spectators walk around the cars.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T17:10:49.679Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "classic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Benzingespr%C3%A4ch%3A+classic+car+meet&dates=20270404T090000%2F20270404T110000&details=open+classic+and+youngtimer+car+meet+at+the+museum%0AHours%3A+9%3A00-13%3A00%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.technik-museum.de%2Fen%2Fget-together-of-petrolheads&location=Technik+Museum+Speyer%2C+Am+Technik+Museum+1%2C+67346+Speyer&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Am%20Technik%20Museum%201%2C%2067346%20Speyer",
+ "priceValue": 0
+}

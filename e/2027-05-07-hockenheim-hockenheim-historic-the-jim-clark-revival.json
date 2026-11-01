@@ -8,11 +8,11 @@
  "place": "Hockenheimring Baden-Württemberg",
  "address": "Am Motodrom 1, 68766 Hockenheim",
  "city": "Hockenheim",
- "price": "n/a",
+ "price": "presale: weekend 54 EUR, Sat 39 EUR, Sun 34 EUR",
  "size": "big",
- "status": "unconfirmed",
- "link": "https://www.heidelberg24.de/region/hockenheim-historic-begeistert-motorsport-fans-termin-2027-fix-94260550.html",
- "source": "heidelberg24.de",
+ "status": "ok",
+ "link": "https://www.hockenheim-historic.de/",
+ "source": "official",
  "checked": "2026-11-01",
  "rating": "4.5",
  "tags": [
@@ -21,18 +21,45 @@
   "oldtimer",
   "classic-cars"
  ],
- "details": "A festival of historic motor racing in memory of Jim Clark, with many series of classic racing cars on track and a paddock to walk through. The 22nd edition is set for 7-9 May 2027 according to the regional press; tickets are not on sale yet.",
- "dateNote": "another listing says 8-10 May",
+ "details": "A weekend of historic motor racing in memory of Jim Clark, with many series of classic racing cars on track and an open paddock. Presale prices: weekend 54 EUR, Friday 17 EUR, Saturday 39 EUR, Sunday 34 EUR (box office 59 / 19 / 43 / 37 EUR); paddock access included, under-14s free.",
+ "dateNote": "",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.868Z",
- "history": [],
+ "updatedAt": "2026-11-01T17:10:49.679Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T17:10:49.679Z",
+   "changes": {
+    "price": [
+     "n/a",
+     "presale: weekend 54 EUR, Sat 39 EUR, Sun 34 EUR"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.heidelberg24.de/region/hockenheim-historic-begeistert-motorsport-fans-termin-2027-fix-94260550.html",
+     "https://www.hockenheim-historic.de/"
+    ],
+    "source": [
+     "heidelberg24.de",
+     "official"
+    ],
+    "dateNote": [
+     "another listing says 8-10 May",
+     ""
+    ]
+   }
+  }
+ ],
  "topic": "local-events",
  "groups": [
   "motorsport",
   "classic"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockenheim+Historic%3A+The+Jim+Clark+Revival&dates=20270507%2F20270510&details=historic+motor+racing+festival%0ADates%3A+another+listing+says+8-10+May%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28heidelberg24.de%29%0Ahttps%3A%2F%2Fwww.heidelberg24.de%2Fregion%2Fhockenheim-historic-begeistert-motorsport-fans-termin-2027-fix-94260550.html&location=Hockenheimring+Baden-W%C3%BCrttemberg%2C+Am+Motodrom+1%2C+68766+Hockenheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockenheim+Historic%3A+The+Jim+Clark+Revival&dates=20270507%2F20270510&details=historic+motor+racing+festival%0AHours%3A+n%2Fa%0APrice%3A+presale%3A+weekend+54+EUR%2C+Sat+39+EUR%2C+Sun+34+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.hockenheim-historic.de%2F&location=Hockenheimring+Baden-W%C3%BCrttemberg%2C+Am+Motodrom+1%2C+68766+Hockenheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Am%20Motodrom%201%2C%2068766%20Hockenheim",
- "priceValue": null
+ "priceValue": 54
 }

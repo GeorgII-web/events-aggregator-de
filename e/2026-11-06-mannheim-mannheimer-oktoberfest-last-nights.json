@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-06-mannheim-mannheimer-oktoberfest-last-nights",
+ "name": "Mannheimer Oktoberfest: last nights",
+ "description": "Oktoberfest tent with brass band Blechblos'n",
+ "start": "2026-11-06",
+ "end": "2026-11-07",
+ "hours": "evenings",
+ "place": "Festival tent next to the Hauptfeuerwache",
+ "address": "n/a",
+ "city": "Mannheim",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.oktoberfest-mannheim.de/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "beer-festival",
+  "city-festival"
+ ],
+ "details": "The 18th Mannheimer Oktoberfest in a festival tent in Mannheim-Neckarau; the last two nights (Friday 6 and Saturday 7 November) are still bookable, with the band Blechblos'n. Table reservations and prices are on the organiser's site.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T17:11:26.754Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "beer",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mannheimer+Oktoberfest%3A+last+nights&dates=20261106%2F20261108&details=Oktoberfest+tent+with+brass+band+Blechblos%27n%0AHours%3A+evenings%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.oktoberfest-mannheim.de%2F&location=Festival+tent+next+to+the+Hauptfeuerwache%2C+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Festival%20tent%20next%20to%20the%20Hauptfeuerwache%2C%20Mannheim",
+ "priceValue": null
+}

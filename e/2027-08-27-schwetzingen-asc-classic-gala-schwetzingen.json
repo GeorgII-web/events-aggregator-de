@@ -1,0 +1,33 @@
+{
+ "id": "2027-08-27-schwetzingen-asc-classic-gala-schwetzingen",
+ "name": "ASC Classic-Gala Schwetzingen",
+ "description": "Concours d'Elegance with about 180 classics in the palace garden",
+ "start": "2027-08-27",
+ "end": "2027-08-29",
+ "hours": "n/a",
+ "place": "Schlossgarten Schwetzingen",
+ "address": "Schlossplatz, 68723 Schwetzingen",
+ "city": "Schwetzingen",
+ "price": "n/a (2026: 9 EUR + fee)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.concours-delegance.de/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "oldtimer",
+  "classic-cars"
+ ],
+ "details": "A Concours d'Elegance in the baroque garden of Schwetzingen Palace with about 180 classic cars; Friday is a preview day. In 2026 entry was 9 EUR plus a 2.10 EUR fee; 2027 prices are not out yet.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T17:10:49.679Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "classic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ASC+Classic-Gala+Schwetzingen&dates=20270827%2F20270830&details=Concours+d%27Elegance+with+about+180+classics+in+the+palace+garden%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%282026%3A+9+EUR+%2B+fee%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.concours-delegance.de%2F&location=Schlossgarten+Schwetzingen%2C+Schlossplatz%2C+68723+Schwetzingen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Schlossplatz%2C%2068723%20Schwetzingen",
+ "priceValue": 2026
+}

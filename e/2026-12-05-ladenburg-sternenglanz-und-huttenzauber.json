@@ -1,32 +1,84 @@
 {
  "id": "2026-12-05-ladenburg-sternenglanz-und-huttenzauber",
  "name": "Sternenglanz und Hüttenzauber",
- "description": "Christmas market in the Roman old town",
+ "description": "Christmas market at the Carl Benz car museum",
  "start": "2026-12-05",
  "end": "2026-12-06",
- "hours": "n/a",
- "place": "Old town",
- "address": "n/a",
+ "hours": "Sat 11-20, Sun 11-18",
+ "place": "Automuseum Dr. Carl Benz",
+ "address": "Ilvesheimer Straße 26, 68526 Ladenburg",
  "city": "Ladenburg",
- "price": "free",
+ "price": "n/a",
  "size": "small",
- "status": "unconfirmed",
- "link": "https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim",
- "source": "freizeitmonster.de",
+ "status": "ok",
+ "link": "https://www.automuseum-ladenburg.de/",
+ "source": "official",
  "checked": "2026-11-01",
  "tags": [
-  "christmas-market"
+  "christmas-market",
+  "oldtimer",
+  "classic-cars"
  ],
- "details": "Christmas market with huts in Ladenburg's half-timbered old town on the Neckar. Dates from the freizeitmonster.de overview; opening hours not published there, check the town's page before going.",
+ "details": "A Christmas market with huts in and around the Automuseum Dr. Carl Benz in Ladenburg, where historic Benz cars are on show. Entry price not published. The museum itself closes for winter from 7 December 2026 to 5 February 2027.",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.868Z",
- "history": [],
+ "updatedAt": "2026-11-01T17:10:49.679Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T17:10:49.679Z",
+   "changes": {
+    "description": [
+     "Christmas market in the Roman old town",
+     "Christmas market at the Carl Benz car museum"
+    ],
+    "hours": [
+     "n/a",
+     "Sat 11-20, Sun 11-18"
+    ],
+    "place": [
+     "Old town",
+     "Automuseum Dr. Carl Benz"
+    ],
+    "address": [
+     "n/a",
+     "Ilvesheimer Straße 26, 68526 Ladenburg"
+    ],
+    "price": [
+     "free",
+     "n/a"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim",
+     "https://www.automuseum-ladenburg.de/"
+    ],
+    "source": [
+     "freizeitmonster.de",
+     "official"
+    ],
+    "tags": [
+     [
+      "christmas-market"
+     ],
+     [
+      "christmas-market",
+      "oldtimer",
+      "classic-cars"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "local-events",
  "groups": [
-  "christmas"
+  "christmas",
+  "classic"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sternenglanz+und+H%C3%BCttenzauber&dates=20261205%2F20261207&details=Christmas+market+in+the+Roman+old+town%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+unconfirmed+%28freizeitmonster.de%29%0Ahttps%3A%2F%2Ffreizeitmonster.de%2Fblog%2Fweihnachtsmaerkte-schriesheim&location=Old+town%2C+Ladenburg&ctz=Europe%2FBerlin",
- "mapsLink": "https://www.google.com/maps/search/?api=1&query=Old%20town%2C%20Ladenburg",
- "priceValue": 0
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sternenglanz+und+H%C3%BCttenzauber&dates=20261205%2F20261207&details=Christmas+market+at+the+Carl+Benz+car+museum%0AHours%3A+Sat+11-20%2C+Sun+11-18%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.automuseum-ladenburg.de%2F&location=Automuseum+Dr.+Carl+Benz%2C+Ilvesheimer+Stra%C3%9Fe+26%2C+68526+Ladenburg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ilvesheimer%20Stra%C3%9Fe%2026%2C%2068526%20Ladenburg",
+ "priceValue": null
 }

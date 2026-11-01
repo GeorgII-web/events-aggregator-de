@@ -1,0 +1,34 @@
+{
+ "id": "2027-08-29-frankenthal-frankenthal-classics",
+ "name": "Frankenthal Classics",
+ "description": "old- and youngtimer charity meet",
+ "start": "2027-08-29",
+ "end": "2027-08-29",
+ "hours": "from 10:00",
+ "place": "Dehner / Kaufland car park",
+ "address": "Wormser Straße, 67227 Frankenthal",
+ "city": "Frankenthal",
+ "price": "n/a",
+ "size": "medium",
+ "status": "no dates yet",
+ "link": "https://www.wochenblatt-reporter.de/",
+ "source": "wochenblatt-reporter.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "oldtimer",
+  "classic-cars"
+ ],
+ "details": "A charity meet of old- and youngtimers on a car park in Frankenthal. 2027 is not announced; in 2026 it was on Sunday 30 August, so the date here is an estimate.",
+ "dateNote": "2027 not announced; 2026: Sun 30 Aug",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T17:10:49.679Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "classic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frankenthal+Classics&dates=20270829T100000%2F20270829T120000&details=old-+and+youngtimer+charity+meet%0ADates%3A+2027+not+announced%3B+2026%3A+Sun+30+Aug%0AHours%3A+from+10%3A00%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28wochenblatt-reporter.de%29%0Ahttps%3A%2F%2Fwww.wochenblatt-reporter.de%2F&location=Dehner+%2F+Kaufland+car+park%2C+Wormser+Stra%C3%9Fe%2C+67227+Frankenthal&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Wormser%20Stra%C3%9Fe%2C%2067227%20Frankenthal",
+ "priceValue": null
+}

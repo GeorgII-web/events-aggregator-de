@@ -1,0 +1,35 @@
+{
+ "id": "2027-10-08-mannheim-veterama-mannheim-2027",
+ "name": "VETERAMA Mannheim 2027",
+ "description": "Europe's largest classic car and parts market",
+ "start": "2027-10-08",
+ "end": "2027-10-10",
+ "hours": "Fri 12-20 (early bird / premium only), Sat 8:30-18, Sun 8:30-16",
+ "place": "Maimarktgelände",
+ "address": "Xaver-Fuhr-Straße, 68163 Mannheim",
+ "city": "Mannheim",
+ "price": "day ticket 15 EUR, Sat+Sun 25 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://veterama.de/mannheim/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "oldtimer",
+  "classic-cars",
+  "flea-market"
+ ],
+ "details": "The autumn edition of VETERAMA on the Mannheim Maimarkt grounds, the biggest classic car and parts market of its kind according to the organiser. Day ticket 15 EUR, Saturday and Sunday 25 EUR, early bird 30 EUR, premium 40 EUR. Same weekend as the DTM finale at the Hockenheimring.",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T17:10:49.679Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "flea",
+  "classic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=VETERAMA+Mannheim+2027&dates=20271008%2F20271011&details=Europe%27s+largest+classic+car+and+parts+market%0AHours%3A+Fri+12-20+%28early+bird+%2F+premium+only%29%2C+Sat+8%3A30-18%2C+Sun+8%3A30-16%0APrice%3A+day+ticket+15+EUR%2C+Sat%2BSun+25+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fveterama.de%2Fmannheim%2F&location=Maimarktgel%C3%A4nde%2C+Xaver-Fuhr-Stra%C3%9Fe%2C+68163+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Xaver-Fuhr-Stra%C3%9Fe%2C%2068163%20Mannheim",
+ "priceValue": 15
+}
