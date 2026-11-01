@@ -1393,4 +1393,38 @@ LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
 URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
 CATEGORIES:metal
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-dusseldorf-the-prodigy-european-tour-2026-dusseldorf@events
+ -search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:The Prodigy – European Tour 2026: Düsseldorf
+DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
+ IGY\nHours: n/a\nPrice: from about 61 EUR (aggregator)\nStatus: ok (offic
+ ial)\nhttps://www.eventim.de/event/the-prodigy-mitsubishi-electric-halle-
+ 21495202/
+LOCATION:Mitsubishi Electric Halle\, Siegburger Str. 15\, 40591 Düsseldor
+ f
+URL:https://www.eventim.de/event/the-prodigy-mitsubishi-electric-halle-214
+ 95202/
+CATEGORIES:prodigy,electronic,big-beat,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-stuttgart-the-prodigy-european-tour-2026-stuttgart@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:The Prodigy – European Tour 2026: Stuttgart
+DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
+ IGY\nHours: n/a\nPrice: from about 61 EUR (aggregator)\nStatus: ok (offic
+ ial)\nhttps://www.eventim.de/event/the-prodigy-hanns-martin-schleyer-hall
+ e-21497078/
+LOCATION:Hanns-Martin-Schleyer-Halle\, Mercedesstraße 69\, 70372 Stuttgar
+ t
+URL:https://www.eventim.de/event/the-prodigy-hanns-martin-schleyer-halle-2
+ 1497078/
+CATEGORIES:prodigy,electronic,big-beat,rock
+END:VEVENT
 END:VCALENDAR
