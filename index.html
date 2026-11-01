@@ -45,7 +45,8 @@ body{background:var(--bs-tertiary-bg)}
 <div class="d-flex gap-2"><button type="button" class="btn btn-sm btn-outline-secondary" id="share"><i class="bi bi-share"></i> <span>Share</span></button>
 <button type="button" class="btn btn-sm btn-outline-secondary" id="save" aria-pressed="false" data-bs-toggle="tooltip" data-bs-title="Save these filters: the page opens with them next time. Click again to forget them"><i class="bi bi-bookmark"></i> <span>Save filters</span></button></div>
 <div class="d-flex gap-2"><button type="button" class="btn btn-sm btn-outline-warning" id="favtop" aria-pressed="false"><i class="bi bi-star-fill"></i> Favorites <span class="badge rounded-pill text-bg-warning d-none" id="favtopcount">0</span></button>
-<button type="button" class="btn btn-sm btn-outline-warning" id="newtop" aria-pressed="false" data-bs-toggle="tooltip" data-bs-title="Added to the list in the last 7 days"><i class="bi bi-stars"></i> New <span class="badge rounded-pill text-bg-warning d-none" id="newtopcount">0</span></button></div>
+<button type="button" class="btn btn-sm btn-outline-warning" id="newtop" aria-pressed="false" data-bs-toggle="tooltip" data-bs-title="Added to the list in the last 7 days"><i class="bi bi-stars"></i> New <span class="badge rounded-pill text-bg-warning d-none" id="newtopcount">0</span></button>
+<button type="button" class="btn btn-sm btn-outline-success" id="freetop" aria-pressed="false" data-bs-toggle="tooltip" data-bs-title="Only events without an entry fee (same as &quot;free only&quot; under Price)"><i class="bi bi-tag-fill"></i> Free <span class="badge rounded-pill text-bg-success d-none" id="freetopcount">0</span></button></div>
 <div class="input-group input-group-sm" style="width:16rem"><span class="input-group-text"><i class="bi bi-search"></i></span><input type="search" class="form-control" id="txt" placeholder="Search name, band, place…" aria-label="Search events" autocomplete="off"></div>
 <button type="button" class="btn btn-sm btn-outline-danger d-none" id="reset"><i class="bi bi-x-circle"></i> Reset all <span class="badge rounded-pill text-bg-danger" id="fcount">0</span></button>
 <span class="ms-auto small text-body-secondary"><i class="bi bi-funnel"></i> <span id="total">143</span> events · click one for details</span></div>
@@ -1534,14 +1535,16 @@ const NEW_DAYS=7, newFrom=(()=>{const d=new Date();d.setDate(d.getDate()-NEW_DAY
 const TODAY=(()=>{const d=new Date();return new Date(d.getTime()-d.getTimezoneOffset()*6e4).toISOString().slice(0,10)})();
 document.querySelectorAll('.ev').forEach(r=>{if(r.dataset.end<TODAY){r.dataset.past='1';r.classList.add('d-none')}});
 const favCount=()=>{const n=document.querySelectorAll('.ev[data-fav="1"]').length;$('favcount').textContent=n?'('+n+')':'';$('favtopcount').textContent=n;$('favtopcount').classList.toggle('d-none',!n)};
-// The top "Favorites" and "New" buttons mirror the "favorites only" and "new only" switches in the When panel.
+// The top "Favorites", "New" and "Free" buttons mirror the "favorites only", "new only" and "free only" switches in the When panel.
 $('favtop').onclick=()=>{F.fav.checked=!F.fav.checked;F.fav.dispatchEvent(new Event('change'))};
 $('newtop').onclick=()=>{F.nw.checked=!F.nw.checked;F.nw.dispatchEvent(new Event('change'))};
+$('freetop').onclick=()=>{F.free.checked=!F.free.checked;F.free.dispatchEvent(new Event('change'))};
 {const s=favGet();document.querySelectorAll('.fav').forEach(b=>{const r=b.closest('.ev'),on=s.has(favHash(b.dataset.id));favPaint(b,on);r.dataset.fav=on?'1':'';
 b.onclick=ev=>{ev.preventDefault();ev.stopPropagation();const on=favToggle(b.dataset.id);favPaint(b,on);r.dataset.fav=on?'1':'';favCount();apply()}})}
 favCount();
 document.querySelectorAll('.ev').forEach(r=>{r.dataset.isnew=r.dataset.first&&r.dataset.first>=newFrom?'1':'';r.querySelector('.new-badge').classList.toggle('d-none',!r.dataset.isnew)});
 {const n=document.querySelectorAll('.ev[data-isnew="1"]:not([data-past="1"])').length;$('newtopcount').textContent=n;$('newtopcount').classList.toggle('d-none',!n)}
+{const n=document.querySelectorAll('.ev[data-price="0"]:not([data-past="1"])').length;$('freetopcount').textContent=n;$('freetopcount').classList.toggle('d-none',!n)}
 // Free-text search: every word must appear in the row text or its tags (case and accents ignored).
 const fold1=x=>x.toLowerCase().normalize('NFD').replace(/\p{M}/gu,'');
 document.querySelectorAll('.ev').forEach(r=>{r._txt=fold1(r.textContent+' '+r.dataset.tags+' '+r.dataset.city)});
@@ -1578,7 +1581,7 @@ const ok=(!tagsOn.size||[...tagsOn].some(x=>t.includes(x)))&&(!kinds.size||d.gro
 s.querySelector('.count').textContent=n;s.querySelector('.empty').classList.toggle('d-none',n>0);total+=n});$('total').textContent=total;
 const st=state();let all=0;for(const [id,[n,sum]] of Object.entries(st)){const p=P[id];all+=n;p.querySelector('.fp-count').textContent=n;
 p.querySelector('.fp-count').classList.toggle('d-none',!n);p.querySelector('.fp-clear').classList.toggle('d-none',!n);p.querySelector('.fp-sum').textContent=sum}
-$('favtop').classList.toggle('active',F.fav.checked);$('favtop').setAttribute('aria-pressed',F.fav.checked);$('newtop').classList.toggle('active',F.nw.checked);$('newtop').setAttribute('aria-pressed',F.nw.checked);if(W.length)all++;$('fcount').textContent=all;$('reset').classList.toggle('d-none',!all);if(!loading)saveState()}
+$('favtop').classList.toggle('active',F.fav.checked);$('favtop').setAttribute('aria-pressed',F.fav.checked);$('newtop').classList.toggle('active',F.nw.checked);$('newtop').setAttribute('aria-pressed',F.nw.checked);$('freetop').classList.toggle('active',F.free.checked);$('freetop').setAttribute('aria-pressed',F.free.checked);if(W.length)all++;$('fcount').textContent=all;$('reset').classList.toggle('d-none',!all);if(!loading)saveState()}
 function fold(id,on){const p=P[id];p.querySelector('.fp-body').classList.toggle('d-none',on);p.querySelector('.fp-head').setAttribute('aria-expanded',!on);
 p.querySelector('.fp-chev').className='bi fp-chev bi-chevron-'+(on?'right':'down');on?folded.add(id):folded.delete(id)}
 // Filters and folded panels as a query string (q=7&city=Sometown&free=1&max=20&unk=0&kind=christmas,church&tags=organ&fold=tags):
