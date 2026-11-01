@@ -1103,7 +1103,7 @@ p.querySelector('.fp-chev').className='bi fp-chev bi-chevron-'+(on?'right':'down
 function writeUrl(){const p=new URLSearchParams();if(Q&&Q!=='all')p.set('q',Q);else if(!Q){if(F.from.value)p.set('from',F.from.value);if(F.to.value)p.set('to',F.to.value)}
 if(F.city.value)p.set('city',F.city.value);if(F.nw.checked)p.set('new','1');if(F.free.checked)p.set('free','1');if(F.max.value!=='')p.set('max',F.max.value);if(!F.unk.checked)p.set('unk','0');
 if(kinds.size)p.set('kind',[...kinds].join(','));if(tagsOn.size)p.set('tags',[...tagsOn].join(','));if(folded.size)p.set('fold',[...folded].join(','));
-const qs=p.toString().replace(/%2C/g,',');history.replaceState(null,'',qs?'?'+qs:location.pathname);try{sessionStorage.setItem('eventsQuery',location.search)}catch{}saveState()}
+const qs=p.toString().replace(/%2C/g,',');history.replaceState(null,'',qs?'?'+qs:location.pathname);saveState()}
 function readUrl(){const p=new URLSearchParams(location.search),dq=document.querySelectorAll('#quick button');
 if(p.get('city')&&[...F.city.options].some(o=>o.value===p.get('city')))F.city.value=p.get('city');F.free.checked=p.get('free')==='1';F.nw.checked=p.get('new')==='1';
 F.max.value=p.get('max')&&!isNaN(+p.get('max'))?p.get('max'):'';F.unk.checked=p.get('unk')!=='0';
