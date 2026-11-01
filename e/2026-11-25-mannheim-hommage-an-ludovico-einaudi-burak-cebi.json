@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-25-mannheim-hommage-an-ludovico-einaudi-burak-cebi",
+ "name": "Hommage an Ludovico Einaudi: Burak Çebi",
+ "start": "2026-11-25",
+ "end": "2026-11-25",
+ "hours": "n/a",
+ "place": "Capitol",
+ "address": "Waldhofstraße 2, 68169 Mannheim",
+ "city": "Mannheim",
+ "price": "from 47.90 EUR",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "classical",
+  "piano"
+ ],
+ "rating": "4.6",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "piano concert of Ludovico Einaudi music",
+ "updatedAt": "2026-11-01",
+ "details": "Pianist Burak Çebi plays the music of Ludovico Einaudi – the calm, repetitive piano pieces known from films and playlists – in the Capitol Mannheim, a former cinema turned concert hall.\n\nTickets from 47.90 EUR.",
+ "topic": "local-events",
+ "groups": [
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hommage+an+Ludovico+Einaudi%3A+Burak+%C3%87ebi&dates=20261125%2F20261126&details=piano+concert+of+Ludovico+Einaudi+music%0AHours%3A+n%2Fa%0APrice%3A+from+47.90+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Capitol%2C+Waldhofstra%C3%9Fe+2%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Waldhofstra%C3%9Fe%202%2C%2068169%20Mannheim",
+ "priceValue": 47.9
+}

@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-22-ludwigshafen-musik-aus-der-stille-deutsche-staatsphilharmonie",
+ "name": "Musik aus der Stille: Deutsche Staatsphilharmonie",
+ "start": "2026-11-22",
+ "end": "2026-11-22",
+ "hours": "n/a",
+ "place": "Philharmonie Ludwigshafen",
+ "address": "Heinigstraße 40, 67059 Ludwigshafen am Rhein",
+ "city": "Ludwigshafen",
+ "price": "from 18 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "classical",
+  "orchestra"
+ ],
+ "rating": "4.8",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "orchestra concert of the state philharmonic in its own hall",
+ "updatedAt": "2026-11-01",
+ "details": "\"Musik aus der Stille\" (Music out of silence) is a concert of the Deutsche Staatsphilharmonie Rheinland-Pfalz in its own house, the Philharmonie Ludwigshafen, on Totensonntag.\n\nTickets from 18 EUR.",
+ "topic": "local-events",
+ "groups": [
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Musik+aus+der+Stille%3A+Deutsche+Staatsphilharmonie&dates=20261122%2F20261123&details=orchestra+concert+of+the+state+philharmonic+in+its+own+hall%0AHours%3A+n%2Fa%0APrice%3A+from+18+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Philharmonie+Ludwigshafen%2C+Heinigstra%C3%9Fe+40%2C+67059+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Heinigstra%C3%9Fe%2040%2C%2067059%20Ludwigshafen%20am%20Rhein",
+ "priceValue": 18
+}

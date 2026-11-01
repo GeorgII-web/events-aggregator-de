@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-21-mannheim-purple-rising-deep-purple-tribute",
+ "name": "Purple Rising (Deep Purple tribute)",
+ "start": "2026-11-21",
+ "end": "2026-11-21",
+ "hours": "n/a",
+ "place": "7er Club",
+ "address": "Industriestraße 7, 68169 Mannheim",
+ "city": "Mannheim",
+ "price": "n/a",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "rating": "4.7",
+ "tags": [
+  "small-concert",
+  "tribute-band"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "tribute band playing Deep Purple songs",
+ "updatedAt": "2026-11-01",
+ "details": "Purple Rising plays the songs of Deep Purple – Smoke on the Water, Highway Star, Child in Time – in the 7er Club in Mannheim, a small rock club in the Neckarstadt.\n\nOnly listed on an event calendar so far; check the club's programme.",
+ "topic": "local-events",
+ "groups": [
+  "live"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Purple+Rising+%28Deep+Purple+tribute%29&dates=20261121%2F20261122&details=tribute+band+playing+Deep+Purple+songs%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
+ "priceValue": null
+}

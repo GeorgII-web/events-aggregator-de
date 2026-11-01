@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-02-heidelberg-heidelberg-castle-classic-guided-tour-de-en",
+ "name": "Heidelberg Castle: classic guided tour (DE / EN)",
+ "note": "max 20 people",
+ "start": "2026-11-02",
+ "end": "2027-01-06",
+ "dateNote": "winter schedule",
+ "hours": "daily 11-15 hourly (DE), 11:15-15:15 (EN)",
+ "place": "Schloss Heidelberg",
+ "address": "Schlosshof 1, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "price": "6 EUR + castle ticket",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.schloesser-und-gaerten.de/en/events/detail-1/klassische-schlossfuehrung/3846/1",
+ "source": "official",
+ "checked": "2026-11-01",
+ "rating": "4.7",
+ "website": "https://www.schloss-heidelberg.de/",
+ "tags": [
+  "guided-tour",
+  "heritage"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "1-hour tour of the castle interiors, German or English",
+ "updatedAt": "2026-11-01",
+ "details": "The interiors of Heidelberg Castle can only be seen on a guided tour. The classic one-hour tour leads through the Renaissance palace buildings and tells the story of the Electors Palatine, the destruction of the castle in the 17th century and its rediscovery by the Romantics.\n\nIn winter (2 November to 6 January) German tours start every hour from 11:00 to 15:00 and English tours from 11:15 to 15:15, daily. The tour costs 6 EUR on top of the castle ticket (which also covers the courtyard and the Great Barrel); groups are limited to 20 people.",
+ "topic": "local-events",
+ "groups": [
+  "castle"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Heidelberg+Castle%3A+classic+guided+tour+%28DE+%2F+EN%29&dates=20261102%2F20270107&details=1-hour+tour+of+the+castle+interiors%2C+German+or+English%0Amax+20+people%0ADates%3A+winter+schedule%0AHours%3A+daily+11-15+hourly+%28DE%29%2C+11%3A15-15%3A15+%28EN%29%0APrice%3A+6+EUR+%2B+castle+ticket%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.schloesser-und-gaerten.de%2Fen%2Fevents%2Fdetail-1%2Fklassische-schlossfuehrung%2F3846%2F1&location=Schloss+Heidelberg%2C+Schlosshof+1%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Schlosshof%201%2C%2069117%20Heidelberg",
+ "priceValue": 6
+}

@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-27-lorsch-lorscher-weihnachtsmarkt-das-blaue-weihnachtswunder",
+ "name": "Lorscher Weihnachtsmarkt: Das Blaue Weihnachtswunder",
+ "start": "2026-11-27",
+ "end": "2026-11-29",
+ "dateNote": "1st Advent weekend",
+ "hours": "Fri evening, Sat, Sun until 21 (aggregator)",
+ "place": "Karolingerplatz and Klosterwiese",
+ "address": "Karolingerplatz, 64653 Lorsch",
+ "city": "Lorsch",
+ "price": "free",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.festivalsindeutschland.de/festival/lorscher-weihnachtsmarkt",
+ "source": "festivalsindeutschland.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "christmas-market",
+  "heritage"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "small Christmas market at the abbey, gate hall lit blue",
+ "updatedAt": "2026-11-01",
+ "details": "Lorsch's Christmas market \"Das Blaue Weihnachtswunder\" on the first Advent weekend, on Karolingerplatz and the Klosterwiese next to the UNESCO-listed abbey. The Carolingian gate hall (Königshalle) and the square are lit in blue.\n\nStarts on Friday evening, main day Saturday, ends on Sunday; closing at 21:00. Free entry. Hours are from an aggregator – check lorsch.de.",
+ "topic": "local-events",
+ "groups": [
+  "christmas",
+  "castle"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lorscher+Weihnachtsmarkt%3A+Das+Blaue+Weihnachtswunder&dates=20261127%2F20261130&details=small+Christmas+market+at+the+abbey%2C+gate+hall+lit+blue%0ADates%3A+1st+Advent+weekend%0AHours%3A+Fri+evening%2C+Sat%2C+Sun+until+21+%28aggregator%29%0APrice%3A+free%0AStatus%3A+unconfirmed+%28festivalsindeutschland.de%29%0Ahttps%3A%2F%2Fwww.festivalsindeutschland.de%2Ffestival%2Florscher-weihnachtsmarkt&location=Karolingerplatz+and+Klosterwiese%2C+Karolingerplatz%2C+64653+Lorsch&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Karolingerplatz%2C%2064653%20Lorsch",
+ "priceValue": 0
+}

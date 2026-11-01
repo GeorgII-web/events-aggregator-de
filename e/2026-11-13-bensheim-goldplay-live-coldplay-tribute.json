@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-13-bensheim-goldplay-live-coldplay-tribute",
+ "name": "Goldplay.live (Coldplay tribute)",
+ "start": "2026-11-13",
+ "end": "2026-11-13",
+ "hours": "n/a",
+ "place": "Musiktheater Rex",
+ "address": "Fabrikstraße 10, 64625 Bensheim",
+ "city": "Bensheim",
+ "price": "n/a",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "http://www.musiktheater-rex.de/",
+ "source": "eventfinder.de",
+ "checked": "2026-11-01",
+ "rating": "4.7",
+ "tags": [
+  "small-concert",
+  "tribute-band"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "tribute band playing Coldplay songs",
+ "updatedAt": "2026-11-01",
+ "details": "Goldplay.live is a tribute band playing Coldplay's hits, from the early albums to the big stadium anthems. Played in the Musiktheater Rex in Bensheim, a well-rated live music club on the Bergstraße.\n\nOnly listed on an event calendar so far; check the venue's programme for the time and tickets.",
+ "topic": "local-events",
+ "groups": [
+  "live"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Goldplay.live+%28Coldplay+tribute%29&dates=20261113%2F20261114&details=tribute+band+playing+Coldplay+songs%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28eventfinder.de%29%0Ahttp%3A%2F%2Fwww.musiktheater-rex.de%2F&location=Musiktheater+Rex%2C+Fabrikstra%C3%9Fe+10%2C+64625+Bensheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Fabrikstra%C3%9Fe%2010%2C%2064625%20Bensheim",
+ "priceValue": null
+}

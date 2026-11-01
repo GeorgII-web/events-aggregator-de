@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-02-heidelberg-tosca-puccini",
+ "name": "Tosca (Puccini)",
+ "start": "2026-11-02",
+ "end": "2027-04-09",
+ "hours": "n/a",
+ "place": "Marguerre-Saal, Theater Heidelberg",
+ "address": "Theaterstraße 10, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "price": "from 25.60 EUR",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "classical",
+  "opera"
+ ],
+ "dateNote": "several dates until 9 Apr",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "Puccini opera, staged by Theater Heidelberg",
+ "updatedAt": "2026-11-01",
+ "details": "Puccini's opera Tosca in a production of Theater und Orchester Heidelberg, played in the Marguerre-Saal of the city theatre. The drama of the singer Floria Tosca, the painter Cavaradossi and the police chief Scarpia is set in Rome in 1800 and contains some of Puccini's best-known arias.\n\nThe production runs on several dates until 9 April 2027; tickets from 25.60 EUR. Dates and times are on the theatre's schedule.",
+ "topic": "local-events",
+ "groups": [
+  "classical",
+  "opera"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca+%28Puccini%29&dates=20261102%2F20270410&details=Puccini+opera%2C+staged+by+Theater+Heidelberg%0ADates%3A+several+dates+until+9+Apr%0AHours%3A+n%2Fa%0APrice%3A+from+25.60+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Marguerre-Saal%2C+Theater+Heidelberg%2C+Theaterstra%C3%9Fe+10%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Theaterstra%C3%9Fe%2010%2C%2069117%20Heidelberg",
+ "priceValue": 25.6
+}

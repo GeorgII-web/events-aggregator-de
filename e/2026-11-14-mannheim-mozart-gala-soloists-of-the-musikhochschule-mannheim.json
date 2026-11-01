@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-14-mannheim-mozart-gala-soloists-of-the-musikhochschule-mannheim",
+ "name": "Mozart-Gala: soloists of the Musikhochschule Mannheim",
+ "start": "2026-11-14",
+ "end": "2026-11-14",
+ "hours": "n/a",
+ "place": "Rittersaal, Barockschloss Mannheim",
+ "address": "Schloss, Bismarckstraße, 68161 Mannheim",
+ "city": "Mannheim",
+ "price": "from 25 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "classical",
+  "student-concert",
+  "orchestra"
+ ],
+ "rating": "4.5",
+ "note": "conductor Cornelius Meister",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "Mozart arias and concertos by music students with orchestra",
+ "updatedAt": "2026-11-01",
+ "details": "A Mozart gala in the Rittersaal, the grand baroque hall of Mannheim Palace: students of the Musikhochschule Mannheim sing and play arias and concerto movements by Mozart with orchestra, conducted by Cornelius Meister.\n\nA chance to hear the next generation of musicians in a historic setting. Tickets from 25 EUR.",
+ "topic": "local-events",
+ "groups": [
+  "classical",
+  "student"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mozart-Gala%3A+soloists+of+the+Musikhochschule+Mannheim&dates=20261114%2F20261115&details=Mozart+arias+and+concertos+by+music+students+with+orchestra%0Aconductor+Cornelius+Meister%0AHours%3A+n%2Fa%0APrice%3A+from+25+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Rittersaal%2C+Barockschloss+Mannheim%2C+Schloss%2C+Bismarckstra%C3%9Fe%2C+68161+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Schloss%2C%20Bismarckstra%C3%9Fe%2C%2068161%20Mannheim",
+ "priceValue": 25
+}

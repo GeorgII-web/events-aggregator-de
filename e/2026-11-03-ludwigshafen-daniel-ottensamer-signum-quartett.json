@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-03-ludwigshafen-daniel-ottensamer-signum-quartett",
+ "name": "Daniel Ottensamer & Signum Quartett",
+ "start": "2026-11-03",
+ "end": "2026-11-03",
+ "hours": "n/a",
+ "place": "BASF Feierabendhaus",
+ "address": "Leuschnerstraße 47, 67063 Ludwigshafen am Rhein",
+ "city": "Ludwigshafen",
+ "price": "from 41.34 EUR",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "classical",
+  "chamber"
+ ],
+ "rating": "4.6",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "chamber concert: Vienna Philharmonic clarinettist with a string quartet",
+ "updatedAt": "2026-11-01",
+ "details": "A chamber music evening in the BASF Feierabendhaus: Daniel Ottensamer, principal clarinettist of the Vienna Philharmonic, plays with the Signum Quartett, a string quartet from Cologne. Clarinet quintets are the core of this kind of programme.\n\nPart of the BASF concert series; tickets from 41.34 EUR.",
+ "topic": "local-events",
+ "groups": [
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Daniel+Ottensamer+%26+Signum+Quartett&dates=20261103%2F20261104&details=chamber+concert%3A+Vienna+Philharmonic+clarinettist+with+a+string+quartet%0AHours%3A+n%2Fa%0APrice%3A+from+41.34+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=BASF+Feierabendhaus%2C+Leuschnerstra%C3%9Fe+47%2C+67063+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Leuschnerstra%C3%9Fe%2047%2C%2067063%20Ludwigshafen%20am%20Rhein",
+ "priceValue": 41.34
+}

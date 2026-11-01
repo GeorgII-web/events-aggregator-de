@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-28-heidelberg-wachet-auf-advent-concert-choir-cello-poetry",
+ "name": "Wachet auf! Advent concert (choir, cello, poetry)",
+ "start": "2026-11-28",
+ "end": "2026-11-28",
+ "hours": "19:00",
+ "place": "Peterskirche",
+ "address": "Plöck 70, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "price": "from 25 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/heidelberg/veranstaltungen/an-weiter-kommen-adventskonzert-peterskirche-heidelberg/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "classical",
+  "church-concert",
+  "choir"
+ ],
+ "rating": "4.5",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "Advent church concert: choir, cello and poetry readings",
+ "updatedAt": "2026-11-01",
+ "details": "An Advent concert in the Peterskirche combining choral music, cello and poetry readings, under the title \"Wachet auf!\" (Wake up!).\n\nSaturday 19:00, tickets from 25 EUR via Eventim.",
+ "topic": "local-events",
+ "groups": [
+  "church",
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wachet+auf%21+Advent+concert+%28choir%2C+cello%2C+poetry%29&dates=20261128T190000%2F20261128T210000&details=Advent+church+concert%3A+choir%2C+cello+and+poetry+readings%0AHours%3A+19%3A00%0APrice%3A+from+25+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fan-weiter-kommen-adventskonzert-peterskirche-heidelberg%2F&location=Peterskirche%2C+Pl%C3%B6ck+70%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pl%C3%B6ck%2070%2C%2069117%20Heidelberg",
+ "priceValue": 25
+}

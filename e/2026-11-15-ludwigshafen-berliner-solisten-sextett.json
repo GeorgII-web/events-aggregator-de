@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-15-ludwigshafen-berliner-solisten-sextett",
+ "name": "Berliner Solisten Sextett",
+ "start": "2026-11-15",
+ "end": "2026-11-15",
+ "hours": "n/a",
+ "place": "BASF Gesellschaftshaus",
+ "address": "Wöhlerstraße 15, 67063 Ludwigshafen am Rhein",
+ "city": "Ludwigshafen",
+ "price": "from 32.01 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "classical",
+  "chamber"
+ ],
+ "rating": "4.7",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "string sextet chamber concert",
+ "updatedAt": "2026-11-01",
+ "details": "A chamber music concert by the Berliner Solisten Sextett, a string sextet, in the Gesellschaftshaus of BASF in Ludwigshafen.\n\nTickets from 32.01 EUR.",
+ "topic": "local-events",
+ "groups": [
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Berliner+Solisten+Sextett&dates=20261115%2F20261116&details=string+sextet+chamber+concert%0AHours%3A+n%2Fa%0APrice%3A+from+32.01+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=BASF+Gesellschaftshaus%2C+W%C3%B6hlerstra%C3%9Fe+15%2C+67063+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=W%C3%B6hlerstra%C3%9Fe%2015%2C%2067063%20Ludwigshafen%20am%20Rhein",
+ "priceValue": 32.01
+}

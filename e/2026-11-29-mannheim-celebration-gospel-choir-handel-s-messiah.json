@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-29-mannheim-celebration-gospel-choir-handel-s-messiah",
+ "name": "Celebration Gospel Choir: Handel's Messiah",
+ "start": "2026-11-29",
+ "end": "2026-11-29",
+ "hours": "n/a",
+ "place": "Capitol",
+ "address": "Waldhofstraße 2, 68169 Mannheim",
+ "city": "Mannheim",
+ "price": "from 31.80 EUR",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "classical",
+  "choir",
+  "oratorio"
+ ],
+ "rating": "4.6",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "Handel's Messiah sung by a gospel choir",
+ "updatedAt": "2026-11-01",
+ "details": "Handel's Messiah – the oratorio with the famous Hallelujah chorus – sung by the Celebration Gospel Choir, in the Capitol Mannheim. A gospel take on a classic of the Advent season.\n\nTickets from 31.80 EUR.",
+ "topic": "local-events",
+ "groups": [
+  "church",
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Celebration+Gospel+Choir%3A+Handel%27s+Messiah&dates=20261129%2F20261130&details=Handel%27s+Messiah+sung+by+a+gospel+choir%0AHours%3A+n%2Fa%0APrice%3A+from+31.80+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Capitol%2C+Waldhofstra%C3%9Fe+2%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Waldhofstra%C3%9Fe%202%2C%2068169%20Mannheim",
+ "priceValue": 31.8
+}

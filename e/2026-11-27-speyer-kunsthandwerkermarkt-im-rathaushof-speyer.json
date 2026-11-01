@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-27-speyer-kunsthandwerkermarkt-im-rathaushof-speyer",
+ "name": "Kunsthandwerkermarkt im Rathaushof Speyer",
+ "note": "Ravenna partner-city stalls 28-29 Nov",
+ "start": "2026-11-27",
+ "end": "2026-12-20",
+ "dateNote": "Advent weekends only",
+ "hours": "Fri 16-20, Sat-Sun 11-20",
+ "place": "Historisches Rathaus",
+ "address": "Maximilianstraße 13, 67346 Speyer",
+ "city": "Speyer",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.speyer.de/de/veranstaltungen/messen-maerkte-und-veranstaltungen/weihnachts-neujahrsmarkt/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "craft-market",
+  "christmas-market"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "Advent craft market in the town hall courtyards",
+ "updatedAt": "2026-11-01",
+ "details": "A craft market in the courtyards of Speyer's historic town hall on the four Advent weekends, with makers from the Palatinate, Baden and Alsace. On 28-29 November the partner city Ravenna has its own stalls.\n\nFriday 16-20, Saturday and Sunday 11-20; free entry. Combine it with the Christmas market on Maximilianstraße.",
+ "topic": "local-events",
+ "groups": [
+  "christmas",
+  "craft"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kunsthandwerkermarkt+im+Rathaushof+Speyer&dates=20261127%2F20261221&details=Advent+craft+market+in+the+town+hall+courtyards%0ARavenna+partner-city+stalls+28-29+Nov%0ADates%3A+Advent+weekends+only%0AHours%3A+Fri+16-20%2C+Sat-Sun+11-20%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.speyer.de%2Fde%2Fveranstaltungen%2Fmessen-maerkte-und-veranstaltungen%2Fweihnachts-neujahrsmarkt%2F&location=Historisches+Rathaus%2C+Maximilianstra%C3%9Fe+13%2C+67346+Speyer&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Maximilianstra%C3%9Fe%2013%2C%2067346%20Speyer",
+ "priceValue": 0
+}

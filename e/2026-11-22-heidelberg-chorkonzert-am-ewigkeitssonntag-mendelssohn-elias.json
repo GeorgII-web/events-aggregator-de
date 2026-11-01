@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-22-heidelberg-chorkonzert-am-ewigkeitssonntag-mendelssohn-elias",
+ "name": "Chorkonzert am Ewigkeitssonntag: Mendelssohn, Elias",
+ "start": "2026-11-22",
+ "end": "2026-11-22",
+ "hours": "17:00",
+ "place": "Heiliggeistkirche",
+ "address": "Hauptstraße 189, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "price": "from 20.90 EUR",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "classical",
+  "church-concert",
+  "choir",
+  "oratorio"
+ ],
+ "rating": "4.6",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "Mendelssohn oratorio 'Elijah', choir and orchestra",
+ "updatedAt": "2026-11-01",
+ "details": "Mendelssohn's oratorio \"Elias\" (Elijah) for soloists, choir and orchestra, performed on Ewigkeitssonntag in the Heiliggeistkirche, the main Gothic church on Heidelberg's market square. The oratorio tells the story of the prophet Elijah and is one of the great choral works of the 19th century.\n\nSunday 17:00, tickets from 20.90 EUR via Reservix.",
+ "topic": "local-events",
+ "groups": [
+  "church",
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Chorkonzert+am+Ewigkeitssonntag%3A+Mendelssohn%2C+Elias&dates=20261122T170000%2F20261122T190000&details=Mendelssohn+oratorio+%27Elijah%27%2C+choir+and+orchestra%0AHours%3A+17%3A00%0APrice%3A+from+20.90+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Heiliggeistkirche%2C+Hauptstra%C3%9Fe+189%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hauptstra%C3%9Fe%20189%2C%2069117%20Heidelberg",
+ "priceValue": 20.9
+}

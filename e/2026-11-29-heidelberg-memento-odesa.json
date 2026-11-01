@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-29-heidelberg-memento-odesa",
+ "name": "Memento Odesa",
+ "start": "2026-11-29",
+ "end": "2026-11-29",
+ "hours": "n/a",
+ "place": "Alter Saal, Theater Heidelberg",
+ "address": "Theaterstraße 10, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "price": "from 22.30 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "classical",
+  "chamber"
+ ],
+ "rating": "5.0",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "chamber concert of Theater und Orchester Heidelberg",
+ "updatedAt": "2026-11-01",
+ "details": "\"Memento Odesa\" is a chamber concert of Theater und Orchester Heidelberg in the Alter Saal of the theatre.\n\nTickets from 22.30 EUR; programme details are on the theatre's schedule.",
+ "topic": "local-events",
+ "groups": [
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Memento+Odesa&dates=20261129%2F20261130&details=chamber+concert+of+Theater+und+Orchester+Heidelberg%0AHours%3A+n%2Fa%0APrice%3A+from+22.30+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Alter+Saal%2C+Theater+Heidelberg%2C+Theaterstra%C3%9Fe+10%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Theaterstra%C3%9Fe%2010%2C%2069117%20Heidelberg",
+ "priceValue": 22.3
+}

@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-07-mannheim-gospel-concert-preacherman-s-friends",
+ "name": "Gospel concert: Preacherman's Friends",
+ "start": "2026-11-07",
+ "end": "2026-11-07",
+ "hours": "n/a",
+ "place": "Christuskirche",
+ "address": "Werderplatz 17, 68161 Mannheim",
+ "city": "Mannheim",
+ "price": "from 18 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "church-concert",
+  "choir",
+  "gospel"
+ ],
+ "rating": "4.6",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "gospel choir concert in a church",
+ "updatedAt": "2026-11-01",
+ "details": "A gospel concert by Preacherman's Friends in the Christuskirche Mannheim, a large Art Nouveau church in the Oststadt known for its acoustics and its big Steinmeyer organ.\n\nTickets from 18 EUR; the start time was not listed.",
+ "topic": "local-events",
+ "groups": [
+  "church"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gospel+concert%3A+Preacherman%27s+Friends&dates=20261107%2F20261108&details=gospel+choir+concert+in+a+church%0AHours%3A+n%2Fa%0APrice%3A+from+18+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Christuskirche%2C+Werderplatz+17%2C+68161+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Werderplatz%2017%2C%2068161%20Mannheim",
+ "priceValue": 18
+}

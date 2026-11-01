@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-14-mannheim-big-4-tribute-festival-metallica-slayer-megadeth-anthrax",
+ "name": "Big 4 Tribute Festival (Metallica, Slayer, Megadeth, Anthrax)",
+ "start": "2026-11-14",
+ "end": "2026-11-14",
+ "dateNote": "one listing says 13-14 Nov",
+ "hours": "n/a",
+ "place": "7er Club",
+ "address": "Industriestraße 7, 68169 Mannheim",
+ "city": "Mannheim",
+ "price": "n/a",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "rating": "4.7",
+ "website": "https://7er-club.de/",
+ "tags": [
+  "small-concert",
+  "tribute-band",
+  "metal"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "club night of four thrash metal tribute bands",
+ "updatedAt": "2026-11-01",
+ "details": "A thrash metal night in the 7er Club in Mannheim with four tribute bands covering the \"Big Four\" of thrash: Metallica, Slayer, Megadeth and Anthrax.\n\nOne listing says 13-14 November; the club's own site showed no dates yet, so check before going.",
+ "topic": "local-events",
+ "groups": [
+  "live",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Big+4+Tribute+Festival+%28Metallica%2C+Slayer%2C+Megadeth%2C+Anthrax%29&dates=20261114%2F20261115&details=club+night+of+four+thrash+metal+tribute+bands%0ADates%3A+one+listing+says+13-14+Nov%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
+ "priceValue": null
+}

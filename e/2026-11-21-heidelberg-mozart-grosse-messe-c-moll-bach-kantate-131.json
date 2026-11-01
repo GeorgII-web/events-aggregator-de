@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-21-heidelberg-mozart-grosse-messe-c-moll-bach-kantate-131",
+ "name": "Mozart: Große Messe c-Moll; Bach: Kantate 131",
+ "start": "2026-11-21",
+ "end": "2026-11-21",
+ "hours": "n/a",
+ "place": "Friedenskirche Handschuhsheim",
+ "address": "An der Tiefburg 10, 69121 Heidelberg",
+ "city": "Heidelberg",
+ "price": "from 18 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "classical",
+  "church-concert",
+  "choir"
+ ],
+ "rating": "4.4",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "church choir and orchestra: Mozart mass and Bach cantata",
+ "updatedAt": "2026-11-01",
+ "details": "A church concert in the Friedenskirche in Handschuhsheim: Mozart's Great Mass in C minor, one of his grandest sacred works, together with Bach's early cantata \"Aus der Tiefen rufe ich, Herr, zu dir\" (BWV 131).\n\nTickets from 18 EUR.",
+ "topic": "local-events",
+ "groups": [
+  "church",
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mozart%3A+Gro%C3%9Fe+Messe+c-Moll%3B+Bach%3A+Kantate+131&dates=20261121%2F20261122&details=church+choir+and+orchestra%3A+Mozart+mass+and+Bach+cantata%0AHours%3A+n%2Fa%0APrice%3A+from+18+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Friedenskirche+Handschuhsheim%2C+An+der+Tiefburg+10%2C+69121+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=An%20der%20Tiefburg%2010%2C%2069121%20Heidelberg",
+ "priceValue": 18
+}

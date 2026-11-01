@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-23-speyer-speyerer-weihnachts-und-neujahrsmarkt",
+ "name": "Speyerer Weihnachts- und Neujahrsmarkt",
+ "note": "3D video show on the Altpörtel 18:00 + 20:00 (Fri/Sat also 21:00), ice rink",
+ "start": "2026-11-23",
+ "end": "2027-01-10",
+ "dateNote": "opening Mon 23 Nov 18:00",
+ "hours": "stalls 11-20, food Sun-Thu 11-21, Fri-Sat 11-22",
+ "place": "Altpörtel to the Dom",
+ "address": "Maximilianstraße 54, 67346 Speyer",
+ "city": "Speyer",
+ "price": "free",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.speyer.de/de/veranstaltungen/messen-maerkte-und-veranstaltungen/weihnachts-neujahrsmarkt/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "rating": "4.6",
+ "tags": [
+  "christmas-market"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "Christmas and New Year market between gate tower and cathedral",
+ "updatedAt": "2026-11-01",
+ "details": "Speyer's Christmas and New Year market runs from the medieval town gate Altpörtel down Maximilianstraße to the cathedral. Highlights: a 3D video show projected onto the Altpörtel (daily at 18:00 and 20:00, Friday and Saturday also at 21:00), an ice rink, the Christmas pyramid at the Stadthaus and a children's bakery.\n\nOpening on Monday 23 November at 18:00 on the Geschirrplätzel. Stalls 11-20, food and drinks Sunday to Thursday 11-21, Friday and Saturday 11-22. Special hours over Christmas and New Year; closed 25-26 December. The market runs until 10 January 2027.",
+ "topic": "local-events",
+ "groups": [
+  "christmas"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Speyerer+Weihnachts-+und+Neujahrsmarkt&dates=20261123%2F20270111&details=Christmas+and+New+Year+market+between+gate+tower+and+cathedral%0A3D+video+show+on+the+Altp%C3%B6rtel+18%3A00+%2B+20%3A00+%28Fri%2FSat+also+21%3A00%29%2C+ice+rink%0ADates%3A+opening+Mon+23+Nov+18%3A00%0AHours%3A+stalls+11-20%2C+food+Sun-Thu+11-21%2C+Fri-Sat+11-22%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.speyer.de%2Fde%2Fveranstaltungen%2Fmessen-maerkte-und-veranstaltungen%2Fweihnachts-neujahrsmarkt%2F&location=Altp%C3%B6rtel+to+the+Dom%2C+Maximilianstra%C3%9Fe+54%2C+67346+Speyer&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Maximilianstra%C3%9Fe%2054%2C%2067346%20Speyer",
+ "priceValue": 0
+}

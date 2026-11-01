@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-11-ludwigshafen-weihnachtsmarkt-ludwigshafen",
+ "name": "Weihnachtsmarkt Ludwigshafen",
+ "note": "60 huts",
+ "start": "2026-11-11",
+ "end": "2026-12-23",
+ "dateNote": "closed 15 + 22 Nov",
+ "hours": "Sun-Thu 12-21, Fri-Sat 12-21:30",
+ "place": "Berliner Platz",
+ "address": "Berliner Platz, 67059 Ludwigshafen am Rhein",
+ "city": "Ludwigshafen",
+ "price": "free",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.lukom.com/events/weihnachtsmarkt",
+ "source": "official",
+ "checked": "2026-11-01",
+ "tags": [
+  "christmas-market"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "city Christmas market with light decorations",
+ "updatedAt": "2026-11-01",
+ "details": "Ludwigshafen's Christmas market opens early, on 11 November, on Berliner Platz in the city centre: about 60 wooden huts with food, mulled wine and gifts, and the square decorated with lights.\n\nOpen Sunday to Thursday 12-21 and Friday and Saturday 12-21:30. Closed on Volkstrauertag (15 Nov) and Totensonntag (22 Nov), the two Sundays before Advent. Entry is free. Organised by LUKOM, the city marketing company.",
+ "topic": "local-events",
+ "groups": [
+  "christmas"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Weihnachtsmarkt+Ludwigshafen&dates=20261111%2F20261224&details=city+Christmas+market+with+light+decorations%0A60+huts%0ADates%3A+closed+15+%2B+22+Nov%0AHours%3A+Sun-Thu+12-21%2C+Fri-Sat+12-21%3A30%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.lukom.com%2Fevents%2Fweihnachtsmarkt&location=Berliner+Platz%2C+67059+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Berliner%20Platz%2C%2067059%20Ludwigshafen%20am%20Rhein",
+ "priceValue": 0
+}

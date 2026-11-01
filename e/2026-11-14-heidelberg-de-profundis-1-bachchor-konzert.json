@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-14-heidelberg-de-profundis-1-bachchor-konzert",
+ "name": "De Profundis: 1. Bachchor-Konzert",
+ "start": "2026-11-14",
+ "end": "2026-11-14",
+ "hours": "n/a",
+ "place": "Peterskirche",
+ "address": "Plöck 70, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "price": "from 20.10 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "classical",
+  "church-concert",
+  "choir"
+ ],
+ "rating": "4.5",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "choral concert of the Heidelberg Bach choir in a church",
+ "updatedAt": "2026-11-01",
+ "details": "\"De Profundis\" is the first concert of the season of the Heidelberg Bach choir, part of the Bachchor series of Theater und Orchester Heidelberg, in the Peterskirche, the university church in the old town.\n\nTickets from 20.10 EUR.",
+ "topic": "local-events",
+ "groups": [
+  "church",
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=De+Profundis%3A+1.+Bachchor-Konzert&dates=20261114%2F20261115&details=choral+concert+of+the+Heidelberg+Bach+choir+in+a+church%0AHours%3A+n%2Fa%0APrice%3A+from+20.10+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Peterskirche%2C+Pl%C3%B6ck+70%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pl%C3%B6ck%2070%2C%2069117%20Heidelberg",
+ "priceValue": 20.1
+}

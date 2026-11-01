@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-06-ludwigshafen-3-abo-konzert-deutsche-staatsphilharmonie",
+ "name": "3. Abo-Konzert: Deutsche Staatsphilharmonie",
+ "start": "2026-11-06",
+ "end": "2026-11-06",
+ "hours": "n/a",
+ "place": "Pfalzbau Konzertsaal",
+ "address": "Berliner Str. 30, 67059 Ludwigshafen am Rhein",
+ "city": "Ludwigshafen",
+ "price": "from 18 EUR",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+ "source": "mvp.de",
+ "checked": "2026-11-01",
+ "tags": [
+  "classical",
+  "orchestra"
+ ],
+ "rating": "4.4",
+ "note": "matinee repeat Sun 8 Nov",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "symphony concert of the Rhineland-Palatinate state orchestra",
+ "updatedAt": "2026-11-01",
+ "details": "The third subscription concert of the Deutsche Staatsphilharmonie Rheinland-Pfalz, the state orchestra based in Ludwigshafen, in the concert hall of the Pfalzbau.\n\nThe programme is repeated as a Sunday matinee on 8 November. Tickets from 18 EUR.",
+ "topic": "local-events",
+ "groups": [
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=3.+Abo-Konzert%3A+Deutsche+Staatsphilharmonie&dates=20261106%2F20261107&details=symphony+concert+of+the+Rhineland-Palatinate+state+orchestra%0Amatinee+repeat+Sun+8+Nov%0AHours%3A+n%2Fa%0APrice%3A+from+18+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Pfalzbau+Konzertsaal%2C+Berliner+Str.+30%2C+67059+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Berliner%20Str.%2030%2C%2067059%20Ludwigshafen%20am%20Rhein",
+ "priceValue": 18
+}

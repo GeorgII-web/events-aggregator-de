@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-23-mannheim-mannheimer-weihnachtsmarkt-am-wasserturm",
+ "name": "Mannheimer Weihnachtsmarkt am Wasserturm",
+ "start": "2026-11-23",
+ "end": "2026-12-23",
+ "hours": "daily 11-21",
+ "place": "Wasserturm, Friedrichsplatz",
+ "address": "Friedrichsplatz 3, 68165 Mannheim",
+ "city": "Mannheim",
+ "price": "free",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.weihnachtsmarkt-mannheim.de/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "rating": "4.6",
+ "tags": [
+  "christmas-market"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "history": [],
+ "description": "main Mannheim Christmas market at the water tower",
+ "updatedAt": "2026-11-01",
+ "details": "Mannheim's main Christmas market around the Wasserturm, the city's landmark water tower on Friedrichsplatz, with huts along the Art Nouveau square.\n\nOpen 23 November to 23 December, daily 11-21; free entry.",
+ "topic": "local-events",
+ "groups": [
+  "christmas"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mannheimer+Weihnachtsmarkt+am+Wasserturm&dates=20261123%2F20261224&details=main+Mannheim+Christmas+market+at+the+water+tower%0AHours%3A+daily+11-21%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.weihnachtsmarkt-mannheim.de%2F&location=Wasserturm%2C+Friedrichsplatz%2C+Friedrichsplatz+3%2C+68165+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Friedrichsplatz%203%2C%2068165%20Mannheim",
+ "priceValue": 0
+}
