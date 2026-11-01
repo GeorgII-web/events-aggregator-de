@@ -38,6 +38,7 @@ body{background:var(--bs-tertiary-bg)}
 <button type="button" class="btn btn-sm btn-outline-secondary" id="share"><i class="bi bi-share"></i> <span>Share</span></button>
 <button type="button" class="btn btn-sm btn-outline-secondary" id="save" data-bs-toggle="tooltip" data-bs-title="Remember these filters in this browser (cookie); next time the page opens with them"><i class="bi bi-bookmark"></i> <span>Save filters</span></button>
 <button type="button" class="btn btn-sm btn-link text-body-secondary text-decoration-none d-none p-0" id="forget" data-bs-toggle="tooltip" data-bs-title="Forget the saved filters"><i class="bi bi-bookmark-x"></i> Forget saved</button>
+<button type="button" class="btn btn-sm btn-outline-warning" id="favtop" aria-pressed="false"><i class="bi bi-star-fill"></i> Favorites <span class="badge rounded-pill text-bg-warning d-none" id="favtopcount">0</span></button>
 <button type="button" class="btn btn-sm btn-outline-danger d-none" id="reset"><i class="bi bi-x-circle"></i> Reset all <span class="badge rounded-pill text-bg-danger" id="fcount">0</span></button>
 <span class="ms-auto small text-body-secondary"><i class="bi bi-funnel"></i> <span id="total">128</span> events · click one for details</span></div>
 <div class="card shadow-sm mb-2 fp" data-panel="kind">
@@ -1375,7 +1376,9 @@ const NEW_DAYS=7, newFrom=(()=>{const d=new Date();d.setDate(d.getDate()-NEW_DAY
 // build day; this covers the days until the next build). Their event pages and e/<id>.json stay available.
 const TODAY=(()=>{const d=new Date();return new Date(d.getTime()-d.getTimezoneOffset()*6e4).toISOString().slice(0,10)})();
 document.querySelectorAll('.ev').forEach(r=>{if(r.dataset.end<TODAY){r.dataset.past='1';r.classList.add('d-none')}});
-const favCount=()=>{const n=document.querySelectorAll('.ev[data-fav="1"]').length;$('favcount').textContent=n?'('+n+')':''};
+const favCount=()=>{const n=document.querySelectorAll('.ev[data-fav="1"]').length;$('favcount').textContent=n?'('+n+')':'';$('favtopcount').textContent=n;$('favtopcount').classList.toggle('d-none',!n)};
+// The top "Favorites" button mirrors the "favorites only" switch in the When panel.
+$('favtop').onclick=()=>{F.fav.checked=!F.fav.checked;F.fav.dispatchEvent(new Event('change'))};
 {const s=favGet();document.querySelectorAll('.fav').forEach(b=>{const r=b.closest('.ev'),on=s.has(favHash(b.dataset.id));favPaint(b,on);r.dataset.fav=on?'1':'';
 b.onclick=ev=>{ev.preventDefault();ev.stopPropagation();const on=favToggle(b.dataset.id);favPaint(b,on);r.dataset.fav=on?'1':'';favCount();apply()}})}
 favCount();
@@ -1398,7 +1401,7 @@ const ok=(!tagsOn.size||[...tagsOn].some(x=>t.includes(x)))&&(!kinds.size||d.gro
 s.querySelector('.count').textContent=n;s.querySelector('.empty').classList.toggle('d-none',n>0);total+=n});$('total').textContent=total;
 const st=state();let all=0;for(const [id,[n,sum]] of Object.entries(st)){const p=P[id];all+=n;p.querySelector('.fp-count').textContent=n;
 p.querySelector('.fp-count').classList.toggle('d-none',!n);p.querySelector('.fp-clear').classList.toggle('d-none',!n);p.querySelector('.fp-sum').textContent=sum}
-$('fcount').textContent=all;$('reset').classList.toggle('d-none',!all);if(!loading)writeUrl()}
+$('favtop').classList.toggle('active',F.fav.checked);$('favtop').setAttribute('aria-pressed',F.fav.checked);$('fcount').textContent=all;$('reset').classList.toggle('d-none',!all);if(!loading)writeUrl()}
 function fold(id,on){const p=P[id];p.querySelector('.fp-body').classList.toggle('d-none',on);p.querySelector('.fp-head').setAttribute('aria-expanded',!on);
 p.querySelector('.fp-chev').className='bi fp-chev bi-chevron-'+(on?'right':'down');on?folded.add(id):folded.delete(id)}
 // Filters and folded panels live in the URL (?q=7&city=Sometown&free=1&max=20&unk=0&kind=christmas,church&tags=organ&fold=tags),
