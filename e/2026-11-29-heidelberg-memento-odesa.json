@@ -3,32 +3,64 @@
  "name": "Memento Odesa",
  "start": "2026-11-29",
  "end": "2026-11-29",
- "hours": "n/a",
+ "hours": "11:00",
  "place": "Alter Saal, Theater Heidelberg",
  "address": "Theaterstraße 10, 69117 Heidelberg",
  "city": "Heidelberg",
  "price": "from 22.30 EUR",
  "size": "small",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.theaterheidelberg.de/en/programm/24794-memento-odesa",
+ "source": "official",
+ "checked": "2026-11-02",
  "tags": [
   "classical",
   "chamber"
  ],
  "rating": "5.0",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
- "description": "chamber concert of Theater und Orchester Heidelberg",
- "updatedAt": "2026-11-01",
- "details": "\"Memento Odesa\" is a chamber concert of Theater und Orchester Heidelberg in the Alter Saal of the theatre.\n\nTickets from 22.30 EUR; programme details are on the theatre's schedule.",
+ "lastSeen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:50:55.988Z",
+   "changes": {
+    "description": [
+     "chamber concert of Theater und Orchester Heidelberg",
+     "guest concert: Studnitzky with the Odesa Chamber Orchestra and band"
+    ],
+    "hours": [
+     "n/a",
+     "11:00"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/",
+     "https://www.theaterheidelberg.de/en/programm/24794-memento-odesa"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "note": [
+     null,
+     "crossover with a jazz trumpeter"
+    ]
+   }
+  }
+ ],
+ "description": "guest concert: Studnitzky with the Odesa Chamber Orchestra and band",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "details": "\"Memento Odesa\" is a guest performance in the Alter Saal of Theater Heidelberg: trumpeter and composer Sebastian Studnitzky with the Odesa Chamber Orchestra and band.\n\nSunday 29 November, 11:00. Tickets from 22.30 EUR (mvp.de). Studnitzky comes from jazz; the concert is a crossover of chamber orchestra and band.",
+ "note": "crossover with a jazz trumpeter",
  "topic": "local-events",
  "groups": [
   "classical"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Memento+Odesa&dates=20261129%2F20261130&details=chamber+concert+of+Theater+und+Orchester+Heidelberg%0AHours%3A+n%2Fa%0APrice%3A+from+22.30+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Alter+Saal%2C+Theater+Heidelberg%2C+Theaterstra%C3%9Fe+10%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Memento+Odesa&dates=20261129T110000%2F20261129T130000&details=guest+concert%3A+Studnitzky+with+the+Odesa+Chamber+Orchestra+and+band%0Acrossover+with+a+jazz+trumpeter%0AHours%3A+11%3A00%0APrice%3A+from+22.30+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.theaterheidelberg.de%2Fen%2Fprogramm%2F24794-memento-odesa&location=Alter+Saal%2C+Theater+Heidelberg%2C+Theaterstra%C3%9Fe+10%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Theaterstra%C3%9Fe%2010%2C%2069117%20Heidelberg",
  "priceValue": 22.3
 }

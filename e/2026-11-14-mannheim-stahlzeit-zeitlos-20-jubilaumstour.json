@@ -19,15 +19,45 @@
  "tags": [
   "metal",
   "industrial",
-  "tribute-band"
+  "tribute-band",
+  "small-concert"
  ],
  "bands": [
   "Stahlzeit"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-02",
- "updatedAt": "2026-11-01T21:57:33.916Z",
- "history": [],
+ "updatedAt": "2026-11-02T18:52:07.716Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:52:07.716Z",
+   "changes": {
+    "rating": [
+     null,
+     "4.3"
+    ],
+    "tags": [
+     [
+      "metal",
+      "industrial",
+      "tribute-band"
+     ],
+     [
+      "metal",
+      "industrial",
+      "tribute-band",
+      "small-concert"
+     ]
+    ],
+    "merged": [
+     null,
+     "local-events/2026-11-14-mannheim-stahlzeit-zeitlos-20-anniversary-tour"
+    ]
+   }
+  }
+ ],
+ "rating": "4.3",
  "topic": "rock-concerts",
  "groups": [
   "live",

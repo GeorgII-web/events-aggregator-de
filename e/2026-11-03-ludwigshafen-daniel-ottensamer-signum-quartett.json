@@ -3,32 +3,59 @@
  "name": "Daniel Ottensamer & Signum Quartett",
  "start": "2026-11-03",
  "end": "2026-11-03",
- "hours": "n/a",
+ "hours": "19:30 (introduction 18:30)",
  "place": "BASF Feierabendhaus",
  "address": "Leuschnerstraße 47, 67063 Ludwigshafen am Rhein",
  "city": "Ludwigshafen",
- "price": "from 41.34 EUR",
+ "price": "39-79 EUR",
  "size": "medium",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.basf.com/dam/jcr:ae9a8fa4-7f01-41dd-8d75-86334e2b8750/BASF%20Kulturfabrik_26_27.pdf",
+ "source": "official",
+ "checked": "2026-11-02",
  "tags": [
   "classical",
   "chamber"
  ],
  "rating": "4.6",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:50:55.988Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "19:30 (introduction 18:30)"
+    ],
+    "price": [
+     "from 41.34 EUR",
+     "39-79 EUR"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+     "https://www.basf.com/dam/jcr:ae9a8fa4-7f01-41dd-8d75-86334e2b8750/BASF%20Kulturfabrik_26_27.pdf"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ]
+   }
+  }
+ ],
  "description": "chamber concert: Vienna Philharmonic clarinettist with a string quartet",
- "updatedAt": "2026-11-01",
- "details": "A chamber music evening in the BASF Feierabendhaus: Daniel Ottensamer, principal clarinettist of the Vienna Philharmonic, plays with the Signum Quartett, a string quartet from Cologne. Clarinet quintets are the core of this kind of programme.\n\nPart of the BASF concert series; tickets from 41.34 EUR.",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "details": "A chamber music evening in the BASF Feierabendhaus: Daniel Ottensamer, principal clarinettist of the Vienna Philharmonic, plays with the Signum Quartett. Programme: Mozart's Clarinet Quintet in A major K. 581 and Weber's Clarinet Quintet in B-flat major op. 34.\n\nPart of the BASF Kulturfabrik season 2026/27; start 19:30, introduction 18:30. Tickets 39-79 EUR per the BASF season brochure.",
  "topic": "local-events",
  "groups": [
   "classical"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Daniel+Ottensamer+%26+Signum+Quartett&dates=20261103%2F20261104&details=chamber+concert%3A+Vienna+Philharmonic+clarinettist+with+a+string+quartet%0AHours%3A+n%2Fa%0APrice%3A+from+41.34+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=BASF+Feierabendhaus%2C+Leuschnerstra%C3%9Fe+47%2C+67063+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Daniel+Ottensamer+%26+Signum+Quartett&dates=20261103T193000%2F20261103T213000&details=chamber+concert%3A+Vienna+Philharmonic+clarinettist+with+a+string+quartet%0AHours%3A+19%3A30+%28introduction+18%3A30%29%0APrice%3A+39-79+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.basf.com%2Fdam%2Fjcr%3Aae9a8fa4-7f01-41dd-8d75-86334e2b8750%2FBASF%2520Kulturfabrik_26_27.pdf&location=BASF+Feierabendhaus%2C+Leuschnerstra%C3%9Fe+47%2C+67063+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Leuschnerstra%C3%9Fe%2047%2C%2067063%20Ludwigshafen%20am%20Rhein",
- "priceValue": 41.34
+ "priceValue": 39
 }

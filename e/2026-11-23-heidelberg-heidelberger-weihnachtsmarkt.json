@@ -13,13 +13,13 @@
  "status": "ok",
  "link": "https://www.heidelberg-marketing.de/veranstaltung/heidelberger-weihnachtsmarkt-a2ab1639bd",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-02",
  "rating": "4.6",
  "tags": [
   "christmas-market"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-02",
  "history": [
   {
    "date": "2026-11-01",
@@ -33,16 +33,27 @@
      "6 squares: Marktplatz, Karlsplatz, Bismarckplatz, Universitätsplatz, Kornmarkt, Anatomiegarten"
     ]
    }
+  },
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:50:55.988Z",
+   "changes": {
+    "dateNote": [
+     null,
+     "Winterwäldchen (Kornmarkt) and Bismarckplatz until 1 Jan, closed 24 Dec"
+    ]
+   }
   }
  ],
  "description": "big Christmas market across the old town squares",
- "updatedAt": "2026-11-01",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
  "details": "Heidelberg's Christmas market spreads over six squares of the old town: Marktplatz, Karlsplatz (with the ice rink), Bismarckplatz, Universitätsplatz (with a historic carousel), Kornmarkt (the \"Winterwäldchen\" with the castle above) and Anatomiegarten. In 2025 it drew more than a million visitors.\n\nOpen 23 November to 22 December, Sunday to Friday 11-21, Saturday 11-22; free entry. The city recommends public transport.",
+ "dateNote": "Winterwäldchen (Kornmarkt) and Bismarckplatz until 1 Jan, closed 24 Dec",
  "topic": "local-events",
  "groups": [
   "christmas"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Heidelberger+Weihnachtsmarkt&dates=20261123%2F20261223&details=big+Christmas+market+across+the+old+town+squares%0A6+squares%3A+Marktplatz%2C+Karlsplatz%2C+Bismarckplatz%2C+Universit%C3%A4tsplatz%2C+Kornmarkt%2C+Anatomiegarten%0AHours%3A+Sun-Fri+11-21%2C+Sat+11-22%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.heidelberg-marketing.de%2Fveranstaltung%2Fheidelberger-weihnachtsmarkt-a2ab1639bd&location=Altstadt%2C+Marktplatz+5%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Heidelberger+Weihnachtsmarkt&dates=20261123%2F20261223&details=big+Christmas+market+across+the+old+town+squares%0A6+squares%3A+Marktplatz%2C+Karlsplatz%2C+Bismarckplatz%2C+Universit%C3%A4tsplatz%2C+Kornmarkt%2C+Anatomiegarten%0ADates%3A+Winterw%C3%A4ldchen+%28Kornmarkt%29+and+Bismarckplatz+until+1+Jan%2C+closed+24+Dec%0AHours%3A+Sun-Fri+11-21%2C+Sat+11-22%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.heidelberg-marketing.de%2Fveranstaltung%2Fheidelberger-weihnachtsmarkt-a2ab1639bd&location=Altstadt%2C+Marktplatz+5%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marktplatz%205%2C%2069117%20Heidelberg",
  "priceValue": 0
 }

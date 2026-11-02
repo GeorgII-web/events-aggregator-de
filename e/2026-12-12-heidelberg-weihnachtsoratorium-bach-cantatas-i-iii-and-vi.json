@@ -1,0 +1,37 @@
+{
+ "id": "2026-12-12-heidelberg-weihnachtsoratorium-bach-cantatas-i-iii-and-vi",
+ "name": "Weihnachtsoratorium: Bach cantatas I-III and VI",
+ "description": "Bach Christmas Oratorio with the Karlsruher Barockorchester",
+ "start": "2026-12-12",
+ "end": "2026-12-12",
+ "hours": "20:00 (doors 19:00)",
+ "place": "Friedenskirche Handschuhsheim",
+ "address": "An der Tiefburg 10, 69121 Heidelberg",
+ "city": "Heidelberg",
+ "price": "from 20 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/heidelberg/veranstaltungen/johann-sebastian-bach-weihnachtsoratorium-kantaten-i-iii/",
+ "source": "mvp.de",
+ "checked": "2026-11-02",
+ "rating": "4.4",
+ "tags": [
+  "classical",
+  "church-concert",
+  "choir",
+  "orchestra"
+ ],
+ "details": "Bach's Christmas Oratorio, cantatas I-III and VI, with the Kurrende and Kantorei der Friedenskirche, the Karlsruher Barockorchester on period instruments and soloists Carmen Buchert, Franz Vitzthum, Sebastian Hübner and Matthias Horn, conducted by Michael Braatz-Tempel.\n\nSaturday 20:00, doors 19:00, Friedenskirche in Heidelberg-Handschuhsheim. Tickets from 20 EUR via Reservix; from an aggregator listing, not yet checked on the parish page.",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "church",
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Weihnachtsoratorium%3A+Bach+cantatas+I-III+and+VI&dates=20261212T200000%2F20261212T220000&details=Bach+Christmas+Oratorio+with+the+Karlsruher+Barockorchester%0AHours%3A+20%3A00+%28doors+19%3A00%29%0APrice%3A+from+20+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fjohann-sebastian-bach-weihnachtsoratorium-kantaten-i-iii%2F&location=Friedenskirche+Handschuhsheim%2C+An+der+Tiefburg+10%2C+69121+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=An%20der%20Tiefburg%2010%2C%2069121%20Heidelberg",
+ "priceValue": 20
+}

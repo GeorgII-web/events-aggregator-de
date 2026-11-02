@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-27-bensheim-the-robbie-experience-robbie-williams-tribute",
+ "place": "Musiktheater Rex",
+ "address": "Fabrikstraße 10, 64625 Bensheim",
+ "city": "Bensheim",
+ "size": "small",
+ "status": "ok",
+ "source": "official",
+ "checked": "2026-11-02",
+ "rating": "4.7",
+ "website": "http://www.musiktheater-rex.de/",
+ "hours": "20:00 (doors 19:00)",
+ "name": "The Robbie Experience (Robbie Williams tribute)",
+ "description": "Robbie Williams tribute show with a seven-piece band",
+ "start": "2026-11-27",
+ "end": "2026-11-27",
+ "price": "31 EUR (door 35 EUR)",
+ "link": "https://www.rex-ticketshop.de/tickets/index.php?id=1448",
+ "tags": [
+  "small-concert",
+  "tribute-band",
+  "pop"
+ ],
+ "bands": [
+  "The Robbie Experience"
+ ],
+ "details": "The Robbie Experience is a Robbie Williams tribute show: frontman Mario Nowack has played Robbie for more than ten years and won the TV shows \"The Tribute\" (SAT.1) and \"My Name Is\" (RTL II); a seven-piece band matches the look and sound, with English stage talk.\n\nFriday, doors 19:00, start 20:00, Musiktheater Rex in Bensheim. Rex tickets 31 EUR (bank transfer), 35 EUR at the door.",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "live",
+  "musicfest"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Robbie+Experience+%28Robbie+Williams+tribute%29&dates=20261127T200000%2F20261127T220000&details=Robbie+Williams+tribute+show+with+a+seven-piece+band%0AHours%3A+20%3A00+%28doors+19%3A00%29%0APrice%3A+31+EUR+%28door+35+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rex-ticketshop.de%2Ftickets%2Findex.php%3Fid%3D1448&location=Musiktheater+Rex%2C+Fabrikstra%C3%9Fe+10%2C+64625+Bensheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Fabrikstra%C3%9Fe%2010%2C%2064625%20Bensheim",
+ "priceValue": 31
+}

@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-04-heidelberg-sinfonia-2-philharmonisches-konzert",
+ "place": "Wolfgang-Marguerre-Saal, Konzerthaus Stadthalle",
+ "address": "Neckarstaden 24, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "size": "medium",
+ "status": "ok",
+ "source": "official",
+ "checked": "2026-11-02",
+ "rating": "4.5",
+ "website": "https://www.heidelberg-konzerthaus.de/",
+ "price": "n/a",
+ "name": "Sinfonia: 2. Philharmonisches Konzert",
+ "description": "Mahler songs and Berio's Sinfonia, Philharmonic Orchestra Heidelberg",
+ "start": "2026-11-04",
+ "end": "2026-11-05",
+ "hours": "19:30 (introduction 19:00)",
+ "dateNote": "Wed 4 + Thu 5 Nov",
+ "link": "https://www.theaterheidelberg.de/en/programm/22216-sinfonia",
+ "tags": [
+  "classical",
+  "orchestra"
+ ],
+ "details": "The second philharmonic concert of the Philharmonisches Orchester Heidelberg under Mino Marani, about Luciano Berio's work with Mahler: Mahler's Fünf frühe Lieder in Berio's orchestration and three Wunderhorn songs (baritone Hansung Yoo), Mahler's symphonic movement Blumine, and Berio's Sinfonia for eight voices and orchestra with Schola Heidelberg.\n\nWednesday and Thursday 19:30, about 1 h 45 min with an interval; introduction in German at 19:00 in the Kammermusiksaal. Prices are not on the theatre page; tickets via the theatre webshop.",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sinfonia%3A+2.+Philharmonisches+Konzert&dates=20261104%2F20261106&details=Mahler+songs+and+Berio%27s+Sinfonia%2C+Philharmonic+Orchestra+Heidelberg%0ADates%3A+Wed+4+%2B+Thu+5+Nov%0AHours%3A+19%3A30+%28introduction+19%3A00%29%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.theaterheidelberg.de%2Fen%2Fprogramm%2F22216-sinfonia&location=Wolfgang-Marguerre-Saal%2C+Konzerthaus+Stadthalle%2C+Neckarstaden+24%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Neckarstaden%2024%2C%2069117%20Heidelberg",
+ "priceValue": null
+}

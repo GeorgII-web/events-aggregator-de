@@ -3,32 +3,69 @@
  "name": "Musik aus der Stille: Deutsche Staatsphilharmonie",
  "start": "2026-11-22",
  "end": "2026-11-22",
- "hours": "n/a",
+ "hours": "17:00",
  "place": "Philharmonie Ludwigshafen",
  "address": "Heinigstraße 40, 67059 Ludwigshafen am Rhein",
  "city": "Ludwigshafen",
  "price": "from 18 EUR",
  "size": "small",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.staatsphilharmonie.de/de/programm/musik-aus-der-stille/2177",
+ "source": "official",
+ "checked": "2026-11-02",
  "tags": [
   "classical",
-  "orchestra"
+  "chamber"
  ],
  "rating": "4.8",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
- "description": "orchestra concert of the state philharmonic in its own hall",
- "updatedAt": "2026-11-01",
- "details": "\"Musik aus der Stille\" (Music out of silence) is a concert of the Deutsche Staatsphilharmonie Rheinland-Pfalz in its own house, the Philharmonie Ludwigshafen, on Totensonntag.\n\nTickets from 18 EUR.",
+ "lastSeen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:50:55.988Z",
+   "changes": {
+    "description": [
+     "orchestra concert of the state philharmonic in its own hall",
+     "string quartet evening: Fauré, Smetana, Beethoven Rasumovsky"
+    ],
+    "hours": [
+     "n/a",
+     "17:00"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+     "https://www.staatsphilharmonie.de/de/programm/musik-aus-der-stille/2177"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "tags": [
+     [
+      "classical",
+      "orchestra"
+     ],
+     [
+      "classical",
+      "chamber"
+     ]
+    ]
+   }
+  }
+ ],
+ "description": "string quartet evening: Fauré, Smetana, Beethoven Rasumovsky",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "details": "\"Musik aus der Stille\" is the first chamber concert (series \"So um 5\") of the Deutsche Staatsphilharmonie in its own house, the Philharmonie Ludwigshafen, on Totensonntag. A string quartet of orchestra members (Anikó Szathmáry, Kyrill Tkachenko, Paul Werba, Giulia Trevisano) plays Fauré's String Quartet in E minor op. 121, Smetana's Quartet No. 1 \"From my life\" and Beethoven's Rasumovsky Quartet op. 59 No. 2.\n\nSunday 17:00. Tickets from 18 EUR (mvp.de).",
  "topic": "local-events",
  "groups": [
   "classical"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Musik+aus+der+Stille%3A+Deutsche+Staatsphilharmonie&dates=20261122%2F20261123&details=orchestra+concert+of+the+state+philharmonic+in+its+own+hall%0AHours%3A+n%2Fa%0APrice%3A+from+18+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Philharmonie+Ludwigshafen%2C+Heinigstra%C3%9Fe+40%2C+67059+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Musik+aus+der+Stille%3A+Deutsche+Staatsphilharmonie&dates=20261122T170000%2F20261122T190000&details=string+quartet+evening%3A+Faur%C3%A9%2C+Smetana%2C+Beethoven+Rasumovsky%0AHours%3A+17%3A00%0APrice%3A+from+18+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.staatsphilharmonie.de%2Fde%2Fprogramm%2Fmusik-aus-der-stille%2F2177&location=Philharmonie+Ludwigshafen%2C+Heinigstra%C3%9Fe+40%2C+67059+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Heinigstra%C3%9Fe%2040%2C%2067059%20Ludwigshafen%20am%20Rhein",
  "priceValue": 18
 }

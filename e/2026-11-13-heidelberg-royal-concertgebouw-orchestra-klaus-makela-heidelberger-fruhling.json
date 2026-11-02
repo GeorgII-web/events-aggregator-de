@@ -3,31 +3,76 @@
  "name": "Royal Concertgebouw Orchestra, Klaus Mäkelä (Heidelberger Frühling)",
  "start": "2026-11-13",
  "end": "2026-11-13",
- "hours": "n/a",
- "place": "Wolfgang-Marguerre-Saal, Theater Heidelberg",
- "address": "Theaterstraße 10, 69117 Heidelberg",
+ "hours": "19:30",
+ "place": "Wolfgang-Marguerre-Saal, Konzerthaus Stadthalle",
+ "address": "Neckarstaden 24, 69117 Heidelberg",
  "city": "Heidelberg",
  "price": "n/a",
  "size": "medium",
- "status": "unconfirmed",
- "link": "https://www.eventfinder.de/veranstaltungen-heidelberg.php",
- "source": "eventfinder.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.heidelberger-fruehling.de/en/veranstaltung/opening-concert-for-the-anniversary-year-klaus-maekelae-royal-concertgebouw-orchestra-30-years-heidelberger-fruehling",
+ "source": "official",
+ "checked": "2026-11-02",
  "tags": [
   "classical",
   "orchestra"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
- "description": "top Amsterdam symphony orchestra, festival guest concert",
- "updatedAt": "2026-11-01",
- "details": "The Royal Concertgebouw Orchestra from Amsterdam, one of the world's leading symphony orchestras, plays in Heidelberg with conductor Klaus Mäkelä, as a guest concert of the Heidelberger Frühling music festival.\n\nVenue: the Wolfgang-Marguerre-Saal of Theater Heidelberg. Only listed on an event calendar so far; check the festival's page for programme and tickets – concerts like this sell out early.",
+ "lastSeen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:50:55.988Z",
+   "changes": {
+    "description": [
+     "top Amsterdam symphony orchestra, festival guest concert",
+     "Mahler 7 with the Royal Concertgebouw Orchestra under Klaus Mäkelä"
+    ],
+    "hours": [
+     "n/a",
+     "19:30"
+    ],
+    "place": [
+     "Wolfgang-Marguerre-Saal, Theater Heidelberg",
+     "Wolfgang-Marguerre-Saal, Konzerthaus Stadthalle"
+    ],
+    "address": [
+     "Theaterstraße 10, 69117 Heidelberg",
+     "Neckarstaden 24, 69117 Heidelberg"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.eventfinder.de/veranstaltungen-heidelberg.php",
+     "https://www.heidelberger-fruehling.de/en/veranstaltung/opening-concert-for-the-anniversary-year-klaus-maekelae-royal-concertgebouw-orchestra-30-years-heidelberger-fruehling"
+    ],
+    "source": [
+     "eventfinder.de",
+     "official"
+    ],
+    "rating": [
+     null,
+     "4.5"
+    ],
+    "website": [
+     null,
+     "https://www.heidelberg-konzerthaus.de/"
+    ]
+   }
+  }
+ ],
+ "description": "Mahler 7 with the Royal Concertgebouw Orchestra under Klaus Mäkelä",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "details": "The opening concert of the 30th anniversary year of the Heidelberger Frühling festival: the Royal Concertgebouw Orchestra under Klaus Mäkelä, its chief conductor from September 2027, plays Mahler's Symphony No. 7 without intermission.\n\nFriday 19:30 in the Wolfgang-Marguerre-Saal of the renovated Konzerthaus Stadthalle on the Neckar. Tickets via Eventim; prices are not on the festival page.",
+ "rating": "4.5",
+ "website": "https://www.heidelberg-konzerthaus.de/",
  "topic": "local-events",
  "groups": [
   "classical"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Royal+Concertgebouw+Orchestra%2C+Klaus+M%C3%A4kel%C3%A4+%28Heidelberger+Fr%C3%BChling%29&dates=20261113%2F20261114&details=top+Amsterdam+symphony+orchestra%2C+festival+guest+concert%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28eventfinder.de%29%0Ahttps%3A%2F%2Fwww.eventfinder.de%2Fveranstaltungen-heidelberg.php&location=Wolfgang-Marguerre-Saal%2C+Theater+Heidelberg%2C+Theaterstra%C3%9Fe+10%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
- "mapsLink": "https://www.google.com/maps/search/?api=1&query=Theaterstra%C3%9Fe%2010%2C%2069117%20Heidelberg",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Royal+Concertgebouw+Orchestra%2C+Klaus+M%C3%A4kel%C3%A4+%28Heidelberger+Fr%C3%BChling%29&dates=20261113T193000%2F20261113T213000&details=Mahler+7+with+the+Royal+Concertgebouw+Orchestra+under+Klaus+M%C3%A4kel%C3%A4%0AHours%3A+19%3A30%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.heidelberger-fruehling.de%2Fen%2Fveranstaltung%2Fopening-concert-for-the-anniversary-year-klaus-maekelae-royal-concertgebouw-orchestra-30-years-heidelberger-fruehling&location=Wolfgang-Marguerre-Saal%2C+Konzerthaus+Stadthalle%2C+Neckarstaden+24%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Neckarstaden%2024%2C%2069117%20Heidelberg",
  "priceValue": null
 }

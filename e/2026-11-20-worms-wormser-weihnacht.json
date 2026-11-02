@@ -3,31 +3,54 @@
  "name": "Wormser Weihnacht",
  "start": "2026-11-20",
  "end": "2026-12-23",
- "dateNote": "closed 22 Nov",
+ "dateNote": "closed Totensonntag 22 Nov",
  "hours": "n/a",
  "place": "Innenstadt",
  "address": "Obermarkt, 67547 Worms",
  "city": "Worms",
  "price": "free",
  "size": "medium",
- "status": "unconfirmed",
- "link": "https://www.regioactive.de/markt/wormser-weihnacht-weihnachtsmarkt-im-herzen-der-nibelungenstadt-worms-innenstadt-2026-11-20-SVglClZ1F3",
- "source": "regioactive.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.worms-erleben.de/erleben/erleben-und-feiern/veranstaltungen/worms-im-advent/",
+ "source": "official",
+ "checked": "2026-11-02",
  "tags": [
   "christmas-market"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:50:55.988Z",
+   "changes": {
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.regioactive.de/markt/wormser-weihnacht-weihnachtsmarkt-im-herzen-der-nibelungenstadt-worms-innenstadt-2026-11-20-SVglClZ1F3",
+     "https://www.worms-erleben.de/erleben/erleben-und-feiern/veranstaltungen/worms-im-advent/"
+    ],
+    "source": [
+     "regioactive.de",
+     "official"
+    ],
+    "dateNote": [
+     "closed 22 Nov",
+     "closed Totensonntag 22 Nov"
+    ]
+   }
+  }
+ ],
  "description": "Christmas market in Worms old town",
- "updatedAt": "2026-11-01",
- "details": "\"Wormser Weihnacht\", the Christmas market in the old town of Worms, the city of the Nibelungen and of the Romanesque cathedral St. Peter.\n\nFrom 20 November to 23 December, closed on Totensonntag (22 November). Entry is free. Opening hours were not listed yet.",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "details": "\"Wormser Weihnacht\", the Christmas market in the heart of Worms, the city of the Nibelungen and of the Romanesque cathedral St. Peter, with a stage programme.\n\nFrom 20 November to 23 December 2026, closed on Totensonntag (22 November). Around it the city runs \"Worms im Advent\": Advent concerts in the churches, Turmblasen on 20 December, markets in the districts. Entry is free; daily opening hours are not published yet.",
  "topic": "local-events",
  "groups": [
   "christmas"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wormser+Weihnacht&dates=20261120%2F20261224&details=Christmas+market+in+Worms+old+town%0ADates%3A+closed+22+Nov%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+unconfirmed+%28regioactive.de%29%0Ahttps%3A%2F%2Fwww.regioactive.de%2Fmarkt%2Fwormser-weihnacht-weihnachtsmarkt-im-herzen-der-nibelungenstadt-worms-innenstadt-2026-11-20-SVglClZ1F3&location=Innenstadt%2C+Obermarkt%2C+67547+Worms&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wormser+Weihnacht&dates=20261120%2F20261224&details=Christmas+market+in+Worms+old+town%0ADates%3A+closed+Totensonntag+22+Nov%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.worms-erleben.de%2Ferleben%2Ferleben-und-feiern%2Fveranstaltungen%2Fworms-im-advent%2F&location=Innenstadt%2C+Obermarkt%2C+67547+Worms&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Obermarkt%2C%2067547%20Worms",
  "priceValue": 0
 }

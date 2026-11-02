@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-19-ludwigshafen-britten-war-requiem",
+ "name": "Britten: War Requiem",
+ "description": "Britten's War Requiem with the state orchestra and three choirs",
+ "start": "2026-11-19",
+ "end": "2026-11-19",
+ "hours": "20:00",
+ "place": "Pfalzbau Konzertsaal",
+ "address": "Berliner Str. 30, 67059 Ludwigshafen am Rhein",
+ "city": "Ludwigshafen",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.staatsphilharmonie.de/de/programm/britten/2175",
+ "source": "official",
+ "checked": "2026-11-02",
+ "rating": "4.4",
+ "tags": [
+  "classical",
+  "orchestra",
+  "choir"
+ ],
+ "details": "Benjamin Britten's War Requiem op. 66 with the Deutsche Staatsphilharmonie Rheinland-Pfalz under Tristan Meister, soloists Rebecca Blanz (soprano), Daniel Schreiber (tenor) and Hanno Müller-Brachmann (bass-baritone), the Oratorienchor der Christuskirche Karlsruhe, the Beethovenchor Ludwigshafen and the boys' choir Cantus Juvenum.\n\nThursday 20:00 in the Pfalzbau concert hall; repeated on 21 November in the Christuskirche Karlsruhe. Prices are not on the orchestra page; tickets via the Pfalzbau ticket shop.",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "church",
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Britten%3A+War+Requiem&dates=20261119T200000%2F20261119T220000&details=Britten%27s+War+Requiem+with+the+state+orchestra+and+three+choirs%0AHours%3A+20%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.staatsphilharmonie.de%2Fde%2Fprogramm%2Fbritten%2F2175&location=Pfalzbau+Konzertsaal%2C+Berliner+Str.+30%2C+67059+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Berliner%20Str.%2030%2C%2067059%20Ludwigshafen%20am%20Rhein",
+ "priceValue": null
+}

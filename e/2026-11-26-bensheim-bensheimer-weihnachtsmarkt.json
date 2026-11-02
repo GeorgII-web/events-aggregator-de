@@ -4,30 +4,53 @@
  "description": "Christmas market in the old town of Bensheim on the Bergstraße",
  "start": "2026-11-26",
  "end": "2026-12-22",
- "hours": "Sun-Thu until 20, Fri-Sat until 21",
+ "hours": "Sun-Thu until 20, Fri-Sat until 21 (2025 hours)",
  "place": "Fußgängerzone Hauptstraße and Marktplatz",
  "address": "Marktplatz, 64625 Bensheim",
  "city": "Bensheim",
  "price": "free",
  "size": "medium",
- "status": "unconfirmed",
- "link": "https://freizeitmonster.de/blog/weihnachtsmaerkte-bensheim",
- "source": "freizeitmonster.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://bensheim.de/wochenmarkt-zieht-wegen-weihnachtsmarkt-um-2/",
+ "source": "official",
+ "checked": "2026-11-02",
  "website": "https://bensheim.de/",
  "tags": [
   "christmas-market"
  ],
- "details": "The Christmas market of Bensheim runs through the pedestrian zone of the Hauptstraße up to the historic Marktplatz in the old town, a few minutes from the Musiktheater Rex.\n\nOpen daily until 20:00, Friday and Saturday until 21:00 (opening time not given). Dates from a regional market overview; the town has not published the 2026 dates yet (the 2025 edition ran 27 Nov - 22 Dec).",
+ "details": "The Christmas market of Bensheim fills the Marktplatz with a village of huts and runs into the pedestrian zone of the Hauptstraße in the old town, a few minutes from the Musiktheater Rex.\n\nThe town confirms 26 November to 22 December 2026. Daily hours for 2026 are not published; in 2025 it was open until 20:00, Friday and Saturday until 21:00.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T21:57:33.864Z",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:50:55.988Z",
+   "changes": {
+    "hours": [
+     "Sun-Thu until 20, Fri-Sat until 21",
+     "Sun-Thu until 20, Fri-Sat until 21 (2025 hours)"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://freizeitmonster.de/blog/weihnachtsmaerkte-bensheim",
+     "https://bensheim.de/wochenmarkt-zieht-wegen-weihnachtsmarkt-um-2/"
+    ],
+    "source": [
+     "freizeitmonster.de",
+     "official"
+    ]
+   }
+  }
+ ],
  "topic": "local-events",
  "groups": [
   "christmas"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bensheimer+Weihnachtsmarkt&dates=20261126%2F20261223&details=Christmas+market+in+the+old+town+of+Bensheim+on+the+Bergstra%C3%9Fe%0AHours%3A+Sun-Thu+until+20%2C+Fri-Sat+until+21%0APrice%3A+free%0AStatus%3A+unconfirmed+%28freizeitmonster.de%29%0Ahttps%3A%2F%2Ffreizeitmonster.de%2Fblog%2Fweihnachtsmaerkte-bensheim&location=Fu%C3%9Fg%C3%A4ngerzone+Hauptstra%C3%9Fe+and+Marktplatz%2C+Marktplatz%2C+64625+Bensheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bensheimer+Weihnachtsmarkt&dates=20261126%2F20261223&details=Christmas+market+in+the+old+town+of+Bensheim+on+the+Bergstra%C3%9Fe%0AHours%3A+Sun-Thu+until+20%2C+Fri-Sat+until+21+%282025+hours%29%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fbensheim.de%2Fwochenmarkt-zieht-wegen-weihnachtsmarkt-um-2%2F&location=Fu%C3%9Fg%C3%A4ngerzone+Hauptstra%C3%9Fe+and+Marktplatz%2C+Marktplatz%2C+64625+Bensheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marktplatz%2C%2064625%20Bensheim",
  "priceValue": 0
 }

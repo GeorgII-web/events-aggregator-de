@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-06-bensheim-bryan-adams-tribute-dk",
+ "place": "Musiktheater Rex",
+ "address": "Fabrikstraße 10, 64625 Bensheim",
+ "city": "Bensheim",
+ "size": "small",
+ "status": "ok",
+ "source": "official",
+ "checked": "2026-11-02",
+ "rating": "4.7",
+ "website": "http://www.musiktheater-rex.de/",
+ "hours": "20:00 (doors 19:00)",
+ "name": "Bryan Adams Tribute (DK)",
+ "description": "Danish tribute band playing three decades of Bryan Adams hits",
+ "start": "2026-11-06",
+ "end": "2026-11-06",
+ "price": "28.50 EUR (door 35 EUR)",
+ "link": "https://www.rex-ticketshop.de/tickets/index.php?id=1399",
+ "tags": [
+  "small-concert",
+  "tribute-band",
+  "rock"
+ ],
+ "bands": [
+  "Bryan Adams Tribute"
+ ],
+ "details": "A Danish tribute act playing Bryan Adams' hits from over three decades, fronted by Claus Hassing, a finalist of Denmark's Melodi Grand Prix, with experienced Danish rock musicians.\n\nFriday, doors 19:00, start 20:00, Musiktheater Rex in Bensheim. Rex tickets 28.50 EUR (bank transfer), 35 EUR at the door.",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "live",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bryan+Adams+Tribute+%28DK%29&dates=20261106T200000%2F20261106T220000&details=Danish+tribute+band+playing+three+decades+of+Bryan+Adams+hits%0AHours%3A+20%3A00+%28doors+19%3A00%29%0APrice%3A+28.50+EUR+%28door+35+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rex-ticketshop.de%2Ftickets%2Findex.php%3Fid%3D1399&location=Musiktheater+Rex%2C+Fabrikstra%C3%9Fe+10%2C+64625+Bensheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Fabrikstra%C3%9Fe%2010%2C%2064625%20Bensheim",
+ "priceValue": 28.5
+}

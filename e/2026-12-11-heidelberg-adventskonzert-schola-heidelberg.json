@@ -1,0 +1,37 @@
+{
+ "id": "2026-12-11-heidelberg-adventskonzert-schola-heidelberg",
+ "name": "Adventskonzert: SCHOLA HEIDELBERG",
+ "description": "Advent concert of an eight-voice vocal ensemble with organ and cello",
+ "start": "2026-12-11",
+ "end": "2026-12-11",
+ "hours": "20:00 (doors 19:00)",
+ "place": "Peterskirche",
+ "address": "Plöck 70, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "price": "from 24 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/heidelberg/veranstaltungen/adventskonzert-heidelberg/",
+ "source": "mvp.de",
+ "checked": "2026-11-02",
+ "rating": "4.5",
+ "tags": [
+  "classical",
+  "church-concert",
+  "choir",
+  "organ"
+ ],
+ "details": "An Advent concert of SCHOLA HEIDELBERG, an eight-voice vocal ensemble led by Ekkehard Windrich, with organ and cello: works from six centuries, from the Renaissance to today, among them Schütz, Schein, C.P.E. Bach, Brahms and Morton Feldman. Linked to KlangForum Heidelberg.\n\nFriday 20:00, doors 19:00, Peterskirche (university church). Tickets from 24 EUR via Reservix; from an aggregator listing.",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "church",
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Adventskonzert%3A+SCHOLA+HEIDELBERG&dates=20261211T200000%2F20261211T220000&details=Advent+concert+of+an+eight-voice+vocal+ensemble+with+organ+and+cello%0AHours%3A+20%3A00+%28doors+19%3A00%29%0APrice%3A+from+24+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fadventskonzert-heidelberg%2F&location=Peterskirche%2C+Pl%C3%B6ck+70%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pl%C3%B6ck%2070%2C%2069117%20Heidelberg",
+ "priceValue": 24
+}

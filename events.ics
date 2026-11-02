@@ -57,14 +57,15 @@ CATEGORIES:craft-market
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-bensheim-goldplay-live-coldplay-tribute@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Goldplay.live (Coldplay tribute) (unconfirmed)
-DESCRIPTION:tribute band playing Coldplay songs\nHours: n/a\nPrice: n/a\nS
- tatus: unconfirmed (eventfinder.de)\nhttp://www.musiktheater-rex.de/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261113T200000
+DTEND;TZID=Europe/Berlin:20261113T220000
+SUMMARY:Goldplay.live (Coldplay tribute)
+DESCRIPTION:tribute band playing Coldplay songs\nHours: 20:00 (doors 19:00
+ )\nPrice: 30 EUR (door 37 EUR)\nStatus: ok (official)\nhttps://www.rex-ti
+ cketshop.de/tickets/index.php?id=1463
 LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
-URL:http://www.musiktheater-rex.de/
+URL:https://www.rex-ticketshop.de/tickets/index.php?id=1463
 CATEGORIES:small-concert,tribute-band
 END:VEVENT
 BEGIN:VEVENT
@@ -82,31 +83,30 @@ CATEGORIES:small-concert,tribute-band
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-mannheim-purple-rising-deep-purple-tribute@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Purple Rising (Deep Purple tribute) (unconfirmed)
-DESCRIPTION:tribute band playing Deep Purple songs\nHours: n/a\nPrice: n/a
- \nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltung
- en/konzert-metal-hard-rock/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261121T200000
+DTEND;TZID=Europe/Berlin:20261121T220000
+SUMMARY:Purple Rising (Deep Purple tribute)
+DESCRIPTION:Deep Purple tribute playing all of "Made in Japan"\nHours: 20:
+ 00 (doors 19:00)\nPrice: n/a\nStatus: ok (official)\nhttps://7er-club.de/
+ show/purple-rising-2026/
 LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+URL:https://7er-club.de/show/purple-rising-2026/
 CATEGORIES:small-concert,tribute-band
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-lorsch-lorscher-weihnachtsmarkt-das-blaue-weihnachtswunder@
  events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261130
-SUMMARY:Lorscher Weihnachtsmarkt: Das Blaue Weihnachtswunder (unconfirmed)
+SUMMARY:Lorscher Weihnachtsmarkt: Das Blaue Weihnachtswunder
 DESCRIPTION:small Christmas market at the abbey\, gate hall lit blue\nDate
- s: 1st Advent weekend\nHours: Fri evening\, Sat\, Sun until 21 (aggregato
- r)\nPrice: free\nStatus: unconfirmed (festivalsindeutschland.de)\nhttps:/
- /www.festivalsindeutschland.de/festival/lorscher-weihnachtsmarkt
-LOCATION:Karolingerplatz and Klosterwiese\, Karolingerplatz\, 64653 Lorsch
-URL:https://www.festivalsindeutschland.de/festival/lorscher-weihnachtsmark
- t
+ s: 1st Advent weekend\nHours: Fri from 16\, Sat from 14\, Sun from 12\nPr
+ ice: free\nStatus: ok (official)\nhttps://www.lorsch.de/de/weihnachtsmark
+ t2026.php
+LOCATION:Karolingerplatz\, 64653 Lorsch
+URL:https://www.lorsch.de/de/weihnachtsmarkt2026.php
 CATEGORIES:christmas-market,heritage
 END:VEVENT
 BEGIN:VEVENT
@@ -127,32 +127,35 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-ludwigshafen-daniel-ottensamer-signum-quartett@events-searc
  h
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Daniel Ottensamer & Signum Quartett (unconfirmed)
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261103T193000
+DTEND;TZID=Europe/Berlin:20261103T213000
+SUMMARY:Daniel Ottensamer & Signum Quartett
 DESCRIPTION:chamber concert: Vienna Philharmonic clarinettist with a strin
- g quartet\nHours: n/a\nPrice: from 41.34 EUR\nStatus: unconfirmed (mvp.de
- )\nhttps://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+ g quartet\nHours: 19:30 (introduction 18:30)\nPrice: 39-79 EUR\nStatus: o
+ k (official)\nhttps://www.basf.com/dam/jcr:ae9a8fa4-7f01-41dd-8d75-86334e
+ 2b8750/BASF%20Kulturfabrik_26_27.pdf
 LOCATION:BASF Feierabendhaus\, Leuschnerstraße 47\, 67063 Ludwigshafen am
   Rhein
-URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+URL:https://www.basf.com/dam/jcr:ae9a8fa4-7f01-41dd-8d75-86334e2b8750/BASF
+ %20Kulturfabrik_26_27.pdf
 CATEGORIES:classical,chamber
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-ludwigshafen-3-abo-konzert-deutsche-staatsphilharmonie@even
  ts-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:3. Abo-Konzert: Deutsche Staatsphilharmonie (unconfirmed)
-DESCRIPTION:symphony concert of the Rhineland-Palatinate state orchestra\n
- matinee repeat Sun 8 Nov\nHours: n/a\nPrice: from 18 EUR\nStatus: unconfi
- rmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltungen/klassik-kirche
- n-musik/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261106T193000
+DTEND;TZID=Europe/Berlin:20261106T213000
+SUMMARY:3. Abo-Konzert: Deutsche Staatsphilharmonie
+DESCRIPTION:Shostakovich Violin Concerto No. 1 with Julian Rachlin\, Strau
+ ss Sinfonia domestica\nmatinee repeat Sun 8 Nov 11:00; also Worms 5 Nov\n
+ Hours: 19:30\nPrice: from 18 EUR\nStatus: ok (official)\nhttps://www.staa
+ tsphilharmonie.de/de/programm/schostakowitsch-strauss/2171
 LOCATION:Pfalzbau Konzertsaal\, Berliner Str. 30\, 67059 Ludwigshafen am R
  hein
-URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+URL:https://www.staatsphilharmonie.de/de/programm/schostakowitsch-strauss/
+ 2171
 CATEGORIES:classical,orchestra
 END:VEVENT
 BEGIN:VEVENT
@@ -185,17 +188,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-heidelberg-royal-concertgebouw-orchestra-klaus-makela-heide
  lberger-fruhling@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261113T193000
+DTEND;TZID=Europe/Berlin:20261113T213000
 SUMMARY:Royal Concertgebouw Orchestra\, Klaus Mäkelä (Heidelberger Früh
- ling) (unconfirmed)
-DESCRIPTION:top Amsterdam symphony orchestra\, festival guest concert\nHou
- rs: n/a\nPrice: n/a\nStatus: unconfirmed (eventfinder.de)\nhttps://www.ev
- entfinder.de/veranstaltungen-heidelberg.php
-LOCATION:Wolfgang-Marguerre-Saal\, Theater Heidelberg\, Theaterstraße 10\
- , 69117 Heidelberg
-URL:https://www.eventfinder.de/veranstaltungen-heidelberg.php
+ ling)
+DESCRIPTION:Mahler 7 with the Royal Concertgebouw Orchestra under Klaus M
+ äkelä\nHours: 19:30\nPrice: n/a\nStatus: ok (official)\nhttps://www.hei
+ delberger-fruehling.de/en/veranstaltung/opening-concert-for-the-anniversa
+ ry-year-klaus-maekelae-royal-concertgebouw-orchestra-30-years-heidelberge
+ r-fruehling
+LOCATION:Wolfgang-Marguerre-Saal\, Konzerthaus Stadthalle\, Neckarstaden 2
+ 4\, 69117 Heidelberg
+URL:https://www.heidelberger-fruehling.de/en/veranstaltung/opening-concert
+ -for-the-anniversary-year-klaus-maekelae-royal-concertgebouw-orchestra-30
+ -years-heidelberger-fruehling
 CATEGORIES:classical,orchestra
 END:VEVENT
 BEGIN:VEVENT
@@ -262,16 +269,16 @@ CATEGORIES:classical,church-concert,organ
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-heidelberg-espressione-1-kammerkonzert@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Espressione: 1. Kammerkonzert (unconfirmed)
-DESCRIPTION:chamber concert by Heidelberg theatre orchestra musicians\nHou
- rs: n/a\nPrice: from 22.30 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www
- .mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261115T110000
+DTEND;TZID=Europe/Berlin:20261115T130000
+SUMMARY:Espressione: 1. Kammerkonzert
+DESCRIPTION:chamber concert: Prokofiev and Beethoven\, Sunday morning\nHou
+ rs: 11:00\nPrice: from 22.30 EUR\nStatus: ok (official)\nhttps://www.thea
+ terheidelberg.de/en/programm/22138-espressione
 LOCATION:Alter Saal\, Theater Heidelberg\, Theaterstraße 10\, 69117 Heide
  lberg
-URL:https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+URL:https://www.theaterheidelberg.de/en/programm/22138-espressione
 CATEGORIES:classical,chamber
 END:VEVENT
 BEGIN:VEVENT
@@ -333,17 +340,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-ludwigshafen-musik-aus-der-stille-deutsche-staatsphilharmon
  ie@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:Musik aus der Stille: Deutsche Staatsphilharmonie (unconfirmed)
-DESCRIPTION:orchestra concert of the state philharmonic in its own hall\nH
- ours: n/a\nPrice: from 18 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.
- mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261122T170000
+DTEND;TZID=Europe/Berlin:20261122T190000
+SUMMARY:Musik aus der Stille: Deutsche Staatsphilharmonie
+DESCRIPTION:string quartet evening: Fauré\, Smetana\, Beethoven Rasumovsk
+ y\nHours: 17:00\nPrice: from 18 EUR\nStatus: ok (official)\nhttps://www.s
+ taatsphilharmonie.de/de/programm/musik-aus-der-stille/2177
 LOCATION:Philharmonie Ludwigshafen\, Heinigstraße 40\, 67059 Ludwigshafen
   am Rhein
-URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
-CATEGORIES:classical,orchestra
+URL:https://www.staatsphilharmonie.de/de/programm/musik-aus-der-stille/217
+ 7
+CATEGORIES:classical,chamber
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-heidelberg-chorkonzert-am-ewigkeitssonntag-mendelssohn-elia
@@ -418,44 +426,18 @@ CATEGORIES:classical,choir,oratorio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-heidelberg-memento-odesa@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:Memento Odesa (unconfirmed)
-DESCRIPTION:chamber concert of Theater und Orchester Heidelberg\nHours: n/
- a\nPrice: from 22.30 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.d
- e/heidelberg/veranstaltungen/klassik-kirchen-musik/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261129T110000
+DTEND;TZID=Europe/Berlin:20261129T130000
+SUMMARY:Memento Odesa
+DESCRIPTION:guest concert: Studnitzky with the Odesa Chamber Orchestra and
+  band\ncrossover with a jazz trumpeter\nHours: 11:00\nPrice: from 22.30 E
+ UR\nStatus: ok (official)\nhttps://www.theaterheidelberg.de/en/programm/2
+ 4794-memento-odesa
 LOCATION:Alter Saal\, Theater Heidelberg\, Theaterstraße 10\, 69117 Heide
  lberg
-URL:https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
+URL:https://www.theaterheidelberg.de/en/programm/24794-memento-odesa
 CATEGORIES:classical,chamber
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-14-mannheim-stahlzeit-zeitlos-20-anniversary-tour@events-searc
- h
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Stahlzeit: ZEITLOS 20 anniversary tour (unconfirmed)
-DESCRIPTION:Rammstein tribute show with pyrotechnics\nHours: n/a\nPrice: f
- rom 53.90 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/
- veranstaltungen/konzert-metal-hard-rock/
-LOCATION:Maimarkt Club\, Xaver-Fuhr-Straße 101\, 68163 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:tribute-band,small-concert
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-30-mannheim-x-mas-rocks-2026-tribute-festival@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:X-MAS Rocks! 2026: Tribute Festival (unconfirmed)
-DESCRIPTION:tribute band festival between Christmas and New Year\nHours: n
- /a\nPrice: from 30.90 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.
- de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
-CATEGORIES:tribute-band,small-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-schriesheim-majers-weihnachtsscheuer@events-search
@@ -1405,6 +1387,188 @@ URL:https://www.time-warp.de/
 CATEGORIES:music-festival,electronic,techno,rave
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-06-bensheim-bryan-adams-tribute-dk@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261106T200000
+DTEND;TZID=Europe/Berlin:20261106T220000
+SUMMARY:Bryan Adams Tribute (DK)
+DESCRIPTION:Danish tribute band playing three decades of Bryan Adams hits\
+ nHours: 20:00 (doors 19:00)\nPrice: 28.50 EUR (door 35 EUR)\nStatus: ok (
+ official)\nhttps://www.rex-ticketshop.de/tickets/index.php?id=1399
+LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
+URL:https://www.rex-ticketshop.de/tickets/index.php?id=1399
+CATEGORIES:small-concert,tribute-band,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-bensheim-the-robbie-experience-robbie-williams-tribute@even
+ ts-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+DTEND;TZID=Europe/Berlin:20261127T220000
+SUMMARY:The Robbie Experience (Robbie Williams tribute)
+DESCRIPTION:Robbie Williams tribute show with a seven-piece band\nHours: 2
+ 0:00 (doors 19:00)\nPrice: 31 EUR (door 35 EUR)\nStatus: ok (official)\nh
+ ttps://www.rex-ticketshop.de/tickets/index.php?id=1448
+LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
+URL:https://www.rex-ticketshop.de/tickets/index.php?id=1448
+CATEGORIES:small-concert,tribute-band,pop
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-mannheim-four-imaginary-boys-the-cure-tribute@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261212T200000
+DTEND;TZID=Europe/Berlin:20261212T220000
+SUMMARY:Four Imaginary Boys (The Cure tribute)
+DESCRIPTION:The Cure tribute band\nHours: 20:00 (doors 19:00)\nPrice: n/a\
+ nStatus: ok (official)\nhttps://7er-club.de/show/four-imaginary-boys-2026
+ /
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://7er-club.de/show/four-imaginary-boys-2026/
+CATEGORIES:small-concert,tribute-band,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-mannheim-alex-im-westerland-die-toten-hosen-die-arzte-tribu
+ te@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261226T200000
+DTEND;TZID=Europe/Berlin:20261226T220000
+SUMMARY:Alex im Westerland (Die Toten Hosen / Die Ärzte tribute)
+DESCRIPTION:tribute band playing Die Toten Hosen and Die Ärzte hits\nHour
+ s: 20:00\nPrice: n/a\nStatus: ok (official)\nhttps://7er-club.de/show/ale
+ x-im-westerland-2026/
+LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
+URL:https://7er-club.de/show/alex-im-westerland-2026/
+CATEGORIES:small-concert,tribute-band,punk-rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-heidelberg-sinfonia-2-philharmonisches-konzert@events-searc
+ h
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+SUMMARY:Sinfonia: 2. Philharmonisches Konzert
+DESCRIPTION:Mahler songs and Berio's Sinfonia\, Philharmonic Orchestra Hei
+ delberg\nDates: Wed 4 + Thu 5 Nov\nHours: 19:30 (introduction 19:00)\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.theaterheidelberg.de/en/progr
+ amm/22216-sinfonia
+LOCATION:Wolfgang-Marguerre-Saal\, Konzerthaus Stadthalle\, Neckarstaden 2
+ 4\, 69117 Heidelberg
+URL:https://www.theaterheidelberg.de/en/programm/22216-sinfonia
+CATEGORIES:classical,orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-heidelberg-festivo-3-philharmonisches-konzert@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261218
+SUMMARY:Festivo: 3. Philharmonisches Konzert
+DESCRIPTION:baroque Christmas concert with recorder star Maurice Steger\nD
+ ates: Wed 16 + Thu 17 Dec\nHours: 19:30 (introduction 19:00)\nPrice: n/a\
+ nStatus: ok (official)\nhttps://www.theaterheidelberg.de/en/programm/2240
+ 8-festivo
+LOCATION:Wolfgang-Marguerre-Saal\, Konzerthaus Stadthalle\, Neckarstaden 2
+ 4\, 69117 Heidelberg
+URL:https://www.theaterheidelberg.de/en/programm/22408-festivo
+CATEGORIES:classical,orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-ludwigshafen-britten-war-requiem@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261119T200000
+DTEND;TZID=Europe/Berlin:20261119T220000
+SUMMARY:Britten: War Requiem
+DESCRIPTION:Britten's War Requiem with the state orchestra and three choir
+ s\nHours: 20:00\nPrice: n/a\nStatus: ok (official)\nhttps://www.staatsphi
+ lharmonie.de/de/programm/britten/2175
+LOCATION:Pfalzbau Konzertsaal\, Berliner Str. 30\, 67059 Ludwigshafen am R
+ hein
+URL:https://www.staatsphilharmonie.de/de/programm/britten/2175
+CATEGORIES:classical,orchestra,choir
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-ludwigshafen-sibelius-brahms-benjamin-grosvenor@events-sear
+ ch
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261111T193000
+DTEND;TZID=Europe/Berlin:20261111T213000
+SUMMARY:Sibelius | Brahms: Benjamin Grosvenor
+DESCRIPTION:Brahms Piano Concerto No. 1 with Benjamin Grosvenor\, Sibelius
+  3\nalso Neustadt Saalbau 12 Nov\nHours: 19:30\nPrice: n/a\nStatus: ok (o
+ fficial)\nhttps://www.staatsphilharmonie.de/de/programm/sibelius-brahms/2
+ 173
+LOCATION:BASF Feierabendhaus\, Leuschnerstraße 47\, 67063 Ludwigshafen am
+  Rhein
+URL:https://www.staatsphilharmonie.de/de/programm/sibelius-brahms/2173
+CATEGORIES:classical,orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-mannheim-vivaldi-die-vier-jahreszeiten@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261211T200000
+DTEND;TZID=Europe/Berlin:20261211T220000
+SUMMARY:Vivaldi: Die vier Jahreszeiten
+DESCRIPTION:Vivaldi's Four Seasons by the Philharmonie der Solisten in the
+  palace\nalso 23 Jan and 1 May 2027\nHours: 20:00\nPrice: n/a\nStatus: ok
+  (official)\nhttps://www.schloss-mannheim.de/besuchsinformation/fuehrunge
+ n-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/vivaldi
+ -die-vier-jahreszeiten/9964/842887
+LOCATION:Rittersaal\, Barockschloss Mannheim\, Schloss\, Bismarckstraße\,
+  68161 Mannheim
+URL:https://www.schloss-mannheim.de/besuchsinformation/fuehrungen-veransta
+ ltungen/weitere-informationen-zum-ausgewaehlten-angebot/vivaldi-die-vier-
+ jahreszeiten/9964/842887
+CATEGORIES:classical,chamber,heritage
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-heidelberg-weihnachtsoratorium-bach-cantatas-i-iii-and-vi@e
+ vents-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261212T200000
+DTEND;TZID=Europe/Berlin:20261212T220000
+SUMMARY:Weihnachtsoratorium: Bach cantatas I-III and VI (unconfirmed)
+DESCRIPTION:Bach Christmas Oratorio with the Karlsruher Barockorchester\nH
+ ours: 20:00 (doors 19:00)\nPrice: from 20 EUR\nStatus: unconfirmed (mvp.d
+ e)\nhttps://www.mvp.de/heidelberg/veranstaltungen/johann-sebastian-bach-w
+ eihnachtsoratorium-kantaten-i-iii/
+LOCATION:Friedenskirche Handschuhsheim\, An der Tiefburg 10\, 69121 Heidel
+ berg
+URL:https://www.mvp.de/heidelberg/veranstaltungen/johann-sebastian-bach-we
+ ihnachtsoratorium-kantaten-i-iii/
+CATEGORIES:classical,church-concert,choir,orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-heidelberg-adventskonzert-schola-heidelberg@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261211T200000
+DTEND;TZID=Europe/Berlin:20261211T220000
+SUMMARY:Adventskonzert: SCHOLA HEIDELBERG (unconfirmed)
+DESCRIPTION:Advent concert of an eight-voice vocal ensemble with organ and
+  cello\nHours: 20:00 (doors 19:00)\nPrice: from 24 EUR\nStatus: unconfirm
+ ed (mvp.de)\nhttps://www.mvp.de/heidelberg/veranstaltungen/adventskonzert
+ -heidelberg/
+LOCATION:Peterskirche\, Plöck 70\, 69117 Heidelberg
+URL:https://www.mvp.de/heidelberg/veranstaltungen/adventskonzert-heidelber
+ g/
+CATEGORIES:classical,church-concert,choir,organ
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-lorsch-show-depot-zehntscheune@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261105T170000
+DTEND;TZID=Europe/Berlin:20261105T190000
+SUMMARY:Show-Depot Zehntscheune
+DESCRIPTION:evening opening of the abbey's tithe barn depot: music\, cockt
+ ails\, tours\nlast date of the 2026 series\nHours: 17:00-22:00\nPrice: n/
+ a\nStatus: ok (official)\nhttps://www.lorsch.de/de/veranstaltungen/termin
+ e/Show-Depot-Zehntscheune-1.php?splitId=104&from=2026-11-05%2017:00:00&to
+ =2026-11-05%2022:00:00
+LOCATION:Schaudepot Zehntscheune\, Kloster Lorsch\, Nibelungenstraße 34\,
+  64653 Lorsch
+URL:https://www.lorsch.de/de/veranstaltungen/termine/Show-Depot-Zehntscheu
+ ne-1.php?splitId=104&from=2026-11-05%2017:00:00&to=2026-11-05%2022:00:00
+CATEGORIES:guided-tour,heritage,unesco,museum
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-04-mannheim-murphy-s-law-jawless@events-search
 DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261104T200000
@@ -1573,7 +1737,7 @@ DESCRIPTION:Rammstein tribute show with full pyro\, 20th anniversary tour\
 LOCATION:Maimarkt Club\, Xaver-Fuhr-Straße 101\, 68163 Mannheim
 URL:https://www.mvp.de/mannheim/veranstaltungen/stahlzeit-maimarkt-club-ma
  nnheim/
-CATEGORIES:metal,industrial,tribute-band
+CATEGORIES:metal,industrial,tribute-band,small-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-mannheim-big-4-tribute-festival@events-search

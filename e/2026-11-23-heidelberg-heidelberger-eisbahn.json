@@ -2,7 +2,7 @@
  "id": "2026-11-23-heidelberg-heidelberger-eisbahn",
  "name": "Heidelberger Eisbahn",
  "start": "2026-11-23",
- "end": "2027-01-10",
+ "end": "2027-01-06",
  "hours": "daily 10-22 (press)",
  "place": "Karlsplatz",
  "address": "Karlsplatz, 69117 Heidelberg",
@@ -12,23 +12,34 @@
  "status": "ok",
  "link": "https://www.heidelberg-marketing.de/veranstaltung/heidelberger-eisbahn-c20623a7c2",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-02",
  "tags": [
   "ice-rink",
   "seasonal"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:50:55.988Z",
+   "changes": {
+    "end": [
+     "2027-01-10",
+     "2027-01-06"
+    ]
+   }
+  }
+ ],
  "description": "open-air ice rink below the castle",
- "updatedAt": "2026-11-01",
- "details": "The open-air ice rink on Karlsplatz below the castle, part of Heidelberg's Christmas season.\n\nOpen from 23 November 2026 to 10 January 2027, daily 10-22 according to the press. Entry about 5 EUR for adults and 3 EUR for children; skates can be rented.",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "details": "The open-air ice rink on Karlsplatz below the castle, part of Heidelberg's Christmas season.\n\nOpen from 23 November 2026 to 6 January 2027 (Heidelberg Marketing), daily 10-22 according to the press. Entry about 5 EUR for adults and 3 EUR for children; skates can be rented.",
  "topic": "local-events",
  "groups": [
   "festival",
   "ice"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Heidelberger+Eisbahn&dates=20261123%2F20270111&details=open-air+ice+rink+below+the+castle%0AHours%3A+daily+10-22+%28press%29%0APrice%3A+about+5+EUR+adults%2C+3+EUR+children+%28press%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.heidelberg-marketing.de%2Fveranstaltung%2Fheidelberger-eisbahn-c20623a7c2&location=Karlsplatz%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Heidelberger+Eisbahn&dates=20261123%2F20270107&details=open-air+ice+rink+below+the+castle%0AHours%3A+daily+10-22+%28press%29%0APrice%3A+about+5+EUR+adults%2C+3+EUR+children+%28press%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.heidelberg-marketing.de%2Fveranstaltung%2Fheidelberger-eisbahn-c20623a7c2&location=Karlsplatz%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Karlsplatz%2C%2069117%20Heidelberg",
  "priceValue": 5
 }

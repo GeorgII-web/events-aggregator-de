@@ -4,30 +4,66 @@
  "description": "town Christmas market on the market square",
  "start": "2026-11-27",
  "end": "2026-12-20",
- "hours": "n/a",
+ "hours": "Fri 16-21, Sat-Sun 13-21",
  "place": "Marktplatz",
- "address": "n/a",
+ "address": "Marktplatz, 69469 Weinheim",
  "city": "Weinheim",
  "price": "free",
  "size": "medium",
- "status": "unconfirmed",
- "link": "https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim",
- "source": "freizeitmonster.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.weinheim.de/startseite/stadtthemen/weinheimer+weihnachtsmarkt.html",
+ "source": "official",
+ "checked": "2026-11-02",
  "tags": [
   "christmas-market"
  ],
- "details": "Christmas market on Weinheim's historic market square below the two castles. Dates from the freizeitmonster.de overview; opening hours not published there, check the town's page before going.",
- "dateNote": "another listing says 5-21 Dec",
+ "details": "Christmas market on Weinheim's historic market square below the two castles, run by IG Marktplatz with the town. About 10 exhibitors with handmade and Christmas goods, winter food and mulled wine, a children's carousel; St. Nicholas comes every Sunday at about 17:00. No stage this year.\n\nOn the four Advent weekends, 27 November to 20 December 2026: Friday 16-21, Saturday and Sunday 13-21. The lights are switched on at the opening on 27 November at about 17:00.",
+ "dateNote": "four Advent weekends, Fri-Sun",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.868Z",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:50:55.988Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "Fri 16-21, Sat-Sun 13-21"
+    ],
+    "address": [
+     "n/a",
+     "Marktplatz, 69469 Weinheim"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim",
+     "https://www.weinheim.de/startseite/stadtthemen/weinheimer+weihnachtsmarkt.html"
+    ],
+    "source": [
+     "freizeitmonster.de",
+     "official"
+    ],
+    "note": [
+     null,
+     "about 10 craft stalls, St. Nicholas Sundays 17:00"
+    ],
+    "dateNote": [
+     "another listing says 5-21 Dec",
+     "four Advent weekends, Fri-Sun"
+    ]
+   }
+  }
+ ],
+ "note": "about 10 craft stalls, St. Nicholas Sundays 17:00",
  "topic": "local-events",
  "groups": [
   "christmas"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Weihnachtsmarkt+in+Weinheim&dates=20261127%2F20261221&details=town+Christmas+market+on+the+market+square%0ADates%3A+another+listing+says+5-21+Dec%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+unconfirmed+%28freizeitmonster.de%29%0Ahttps%3A%2F%2Ffreizeitmonster.de%2Fblog%2Fweihnachtsmaerkte-schriesheim&location=Marktplatz%2C+Weinheim&ctz=Europe%2FBerlin",
- "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marktplatz%2C%20Weinheim",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Weihnachtsmarkt+in+Weinheim&dates=20261127%2F20261221&details=town+Christmas+market+on+the+market+square%0Aabout+10+craft+stalls%2C+St.+Nicholas+Sundays+17%3A00%0ADates%3A+four+Advent+weekends%2C+Fri-Sun%0AHours%3A+Fri+16-21%2C+Sat-Sun+13-21%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.weinheim.de%2Fstartseite%2Fstadtthemen%2Fweinheimer%2Bweihnachtsmarkt.html&location=Marktplatz%2C+69469+Weinheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marktplatz%2C%2069469%20Weinheim",
  "priceValue": 0
 }

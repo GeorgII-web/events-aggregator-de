@@ -4,32 +4,59 @@
  "start": "2026-11-27",
  "end": "2026-11-29",
  "dateNote": "1st Advent weekend",
- "hours": "Fri evening, Sat, Sun until 21 (aggregator)",
- "place": "Karolingerplatz and Klosterwiese",
+ "hours": "Fri from 16, Sat from 14, Sun from 12",
+ "place": "Karolingerplatz",
  "address": "Karolingerplatz, 64653 Lorsch",
  "city": "Lorsch",
  "price": "free",
  "size": "small",
- "status": "unconfirmed",
- "link": "https://www.festivalsindeutschland.de/festival/lorscher-weihnachtsmarkt",
- "source": "festivalsindeutschland.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.lorsch.de/de/weihnachtsmarkt2026.php",
+ "source": "official",
+ "checked": "2026-11-02",
  "tags": [
   "christmas-market",
   "heritage"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:50:55.988Z",
+   "changes": {
+    "hours": [
+     "Fri evening, Sat, Sun until 21 (aggregator)",
+     "Fri from 16, Sat from 14, Sun from 12"
+    ],
+    "place": [
+     "Karolingerplatz and Klosterwiese",
+     "Karolingerplatz"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.festivalsindeutschland.de/festival/lorscher-weihnachtsmarkt",
+     "https://www.lorsch.de/de/weihnachtsmarkt2026.php"
+    ],
+    "source": [
+     "festivalsindeutschland.de",
+     "official"
+    ]
+   }
+  }
+ ],
  "description": "small Christmas market at the abbey, gate hall lit blue",
- "updatedAt": "2026-11-01",
- "details": "Lorsch's Christmas market \"Das Blaue Weihnachtswunder\" on the first Advent weekend, on Karolingerplatz and the Klosterwiese next to the UNESCO-listed abbey. The Carolingian gate hall (Königshalle) and the square are lit in blue.\n\nStarts on Friday evening, main day Saturday, ends on Sunday; closing at 21:00. Free entry. Hours are from an aggregator – check lorsch.de.",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "details": "Lorsch's Christmas market \"Das Blaue Weihnachtswunder\" on the first Advent weekend, on Karolingerplatz at the foot of the UNESCO-listed abbey. Programme: fairy-tale readings and the opening with the mayor on Friday (17:30), a sing-along Advent concert and a Rorate service on Saturday, an open-air church service, pony rides and the Big Band Laudenbach on Sunday.\n\nOpens Friday 16:00, Saturday 14:00, Sunday 12:00 (closing times not given). Free entry. The Allee der Weihnachtsbäume and the gingerbread house stay until 6 January.",
  "topic": "local-events",
  "groups": [
   "christmas",
   "castle"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lorscher+Weihnachtsmarkt%3A+Das+Blaue+Weihnachtswunder&dates=20261127%2F20261130&details=small+Christmas+market+at+the+abbey%2C+gate+hall+lit+blue%0ADates%3A+1st+Advent+weekend%0AHours%3A+Fri+evening%2C+Sat%2C+Sun+until+21+%28aggregator%29%0APrice%3A+free%0AStatus%3A+unconfirmed+%28festivalsindeutschland.de%29%0Ahttps%3A%2F%2Fwww.festivalsindeutschland.de%2Ffestival%2Florscher-weihnachtsmarkt&location=Karolingerplatz+and+Klosterwiese%2C+Karolingerplatz%2C+64653+Lorsch&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lorscher+Weihnachtsmarkt%3A+Das+Blaue+Weihnachtswunder&dates=20261127%2F20261130&details=small+Christmas+market+at+the+abbey%2C+gate+hall+lit+blue%0ADates%3A+1st+Advent+weekend%0AHours%3A+Fri+from+16%2C+Sat+from+14%2C+Sun+from+12%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.lorsch.de%2Fde%2Fweihnachtsmarkt2026.php&location=Karolingerplatz%2C+64653+Lorsch&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Karolingerplatz%2C%2064653%20Lorsch",
  "priceValue": 0
 }

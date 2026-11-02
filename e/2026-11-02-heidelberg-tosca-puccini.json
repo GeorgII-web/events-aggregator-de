@@ -3,33 +3,60 @@
  "name": "Tosca (Puccini)",
  "start": "2026-11-02",
  "end": "2027-04-09",
- "hours": "n/a",
+ "hours": "19:30 (Sun 8 Nov + 6 Dec + 25 Dec 19:00, Sun 15 Nov 15:00)",
  "place": "Marguerre-Saal, Theater Heidelberg",
  "address": "Theaterstraße 10, 69117 Heidelberg",
  "city": "Heidelberg",
  "price": "from 25.60 EUR",
  "size": "medium",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.theaterheidelberg.de/en/programm/22129-tosca",
+ "source": "official",
+ "checked": "2026-11-02",
  "tags": [
   "classical",
   "opera"
  ],
- "dateNote": "several dates until 9 Apr",
+ "dateNote": "Nov 2, 8, 10, 15, 28, 30 (30 Nov sold out); Dec 6, 25; more dates until 9 Apr",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:50:55.988Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "19:30 (Sun 8 Nov + 6 Dec + 25 Dec 19:00, Sun 15 Nov 15:00)"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/",
+     "https://www.theaterheidelberg.de/en/programm/22129-tosca"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "dateNote": [
+     "several dates until 9 Apr",
+     "Nov 2, 8, 10, 15, 28, 30 (30 Nov sold out); Dec 6, 25; more dates until 9 Apr"
+    ]
+   }
+  }
+ ],
  "description": "Puccini opera, staged by Theater Heidelberg",
- "updatedAt": "2026-11-01",
- "details": "Puccini's opera Tosca in a production of Theater und Orchester Heidelberg, played in the Marguerre-Saal of the city theatre. The drama of the singer Floria Tosca, the painter Cavaradossi and the police chief Scarpia is set in Rome in 1800 and contains some of Puccini's best-known arias.\n\nThe production runs on several dates until 9 April 2027; tickets from 25.60 EUR. Dates and times are on the theatre's schedule.",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "details": "Puccini's opera Tosca in a production of Theater und Orchester Heidelberg in the Marguerre-Saal of the city theatre. The drama of the singer Floria Tosca, the painter Cavaradossi and the police chief Scarpia is set in Rome in 1800; about 2.5 hours, recommended from 15.\n\nNovember and December dates per the theatre calendar: 2, 8, 10, 15, 28 and 30 November (30 Nov sold out), 6 and 25 December, with an introduction 45 minutes before most shows. Tickets from 25.60 EUR (mvp.de); more dates until April 2027.",
  "topic": "local-events",
  "groups": [
   "classical",
   "opera"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca+%28Puccini%29&dates=20261102%2F20270410&details=Puccini+opera%2C+staged+by+Theater+Heidelberg%0ADates%3A+several+dates+until+9+Apr%0AHours%3A+n%2Fa%0APrice%3A+from+25.60+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Marguerre-Saal%2C+Theater+Heidelberg%2C+Theaterstra%C3%9Fe+10%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca+%28Puccini%29&dates=20261102%2F20270410&details=Puccini+opera%2C+staged+by+Theater+Heidelberg%0ADates%3A+Nov+2%2C+8%2C+10%2C+15%2C+28%2C+30+%2830+Nov+sold+out%29%3B+Dec+6%2C+25%3B+more+dates+until+9+Apr%0AHours%3A+19%3A30+%28Sun+8+Nov+%2B+6+Dec+%2B+25+Dec+19%3A00%2C+Sun+15+Nov+15%3A00%29%0APrice%3A+from+25.60+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.theaterheidelberg.de%2Fen%2Fprogramm%2F22129-tosca&location=Marguerre-Saal%2C+Theater+Heidelberg%2C+Theaterstra%C3%9Fe+10%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Theaterstra%C3%9Fe%2010%2C%2069117%20Heidelberg",
  "priceValue": 25.6
 }

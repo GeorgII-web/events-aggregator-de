@@ -3,32 +3,59 @@
  "name": "Purple Rising (Deep Purple tribute)",
  "start": "2026-11-21",
  "end": "2026-11-21",
- "hours": "n/a",
+ "hours": "20:00 (doors 19:00)",
  "place": "7er Club",
  "address": "Industriestraße 7, 68169 Mannheim",
  "city": "Mannheim",
  "price": "n/a",
  "size": "small",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://7er-club.de/show/purple-rising-2026/",
+ "source": "official",
+ "checked": "2026-11-02",
  "rating": "4.7",
  "tags": [
   "small-concert",
   "tribute-band"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
- "description": "tribute band playing Deep Purple songs",
- "updatedAt": "2026-11-01",
- "details": "Purple Rising plays the songs of Deep Purple – Smoke on the Water, Highway Star, Child in Time – in the 7er Club in Mannheim, a small rock club in the Neckarstadt.\n\nOnly listed on an event calendar so far; check the club's programme.",
+ "lastSeen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:50:55.988Z",
+   "changes": {
+    "description": [
+     "tribute band playing Deep Purple songs",
+     "Deep Purple tribute playing all of \"Made in Japan\""
+    ],
+    "hours": [
+     "n/a",
+     "20:00 (doors 19:00)"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+     "https://7er-club.de/show/purple-rising-2026/"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ]
+   }
+  }
+ ],
+ "description": "Deep Purple tribute playing all of \"Made in Japan\"",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "details": "Purple Rising play the complete 1972 live album \"Made in Japan\" plus more Deep Purple classics, in the style of the seventies with long improvisations and guitar-keyboard duels (keyboarder Andreas König has played on stage with Jon Lord). Songs like Child in Time and Space Truckin' often pass the 20-minute mark.\n\nSaturday, doors 19:00, start 20:00, 7er Club Mannheim. Tickets via Reservix or at the door (cash or card) while not sold out.",
  "topic": "local-events",
  "groups": [
   "live"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Purple+Rising+%28Deep+Purple+tribute%29&dates=20261121%2F20261122&details=tribute+band+playing+Deep+Purple+songs%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Purple+Rising+%28Deep+Purple+tribute%29&dates=20261121T200000%2F20261121T220000&details=Deep+Purple+tribute+playing+all+of+%22Made+in+Japan%22%0AHours%3A+20%3A00+%28doors+19%3A00%29%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F7er-club.de%2Fshow%2Fpurple-rising-2026%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
  "priceValue": null
 }

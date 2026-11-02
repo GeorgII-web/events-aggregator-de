@@ -1,0 +1,37 @@
+{
+ "id": "2026-12-11-mannheim-vivaldi-die-vier-jahreszeiten",
+ "name": "Vivaldi: Die vier Jahreszeiten",
+ "description": "Vivaldi's Four Seasons by the Philharmonie der Solisten in the palace",
+ "start": "2026-12-11",
+ "end": "2026-12-11",
+ "hours": "20:00",
+ "place": "Rittersaal, Barockschloss Mannheim",
+ "address": "Schloss, Bismarckstraße, 68161 Mannheim",
+ "city": "Mannheim",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.schloss-mannheim.de/besuchsinformation/fuehrungen-veranstaltungen/weitere-informationen-zum-ausgewaehlten-angebot/vivaldi-die-vier-jahreszeiten/9964/842887",
+ "source": "official",
+ "checked": "2026-11-02",
+ "rating": "4.5",
+ "tags": [
+  "classical",
+  "chamber",
+  "heritage"
+ ],
+ "note": "also 23 Jan and 1 May 2027",
+ "details": "The Philharmonie der Solisten plays Vivaldi's Four Seasons, with further works from music history, in the Rittersaal, the baroque knights' hall of Mannheim Palace.\n\nFriday 20:00; further dates on 23 January (20:00) and 1 May 2027 (17:00). Tickets via Eventim (Philharmonie der Solisten); the palace page gives no price.",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "castle",
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vivaldi%3A+Die+vier+Jahreszeiten&dates=20261211T200000%2F20261211T220000&details=Vivaldi%27s+Four+Seasons+by+the+Philharmonie+der+Solisten+in+the+palace%0Aalso+23+Jan+and+1+May+2027%0AHours%3A+20%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.schloss-mannheim.de%2Fbesuchsinformation%2Ffuehrungen-veranstaltungen%2Fweitere-informationen-zum-ausgewaehlten-angebot%2Fvivaldi-die-vier-jahreszeiten%2F9964%2F842887&location=Rittersaal%2C+Barockschloss+Mannheim%2C+Schloss%2C+Bismarckstra%C3%9Fe%2C+68161+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Schloss%2C%20Bismarckstra%C3%9Fe%2C%2068161%20Mannheim",
+ "priceValue": null
+}

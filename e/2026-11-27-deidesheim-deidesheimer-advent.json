@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-27-deidesheim-deidesheimer-advent",
+ "name": "Deidesheimer Advent",
+ "description": "Advent market with about 80 stalls in the wine town's old centre",
+ "start": "2026-11-27",
+ "end": "2026-12-20",
+ "hours": "Fri 17-21, Sat 14-21, Sun 11-21",
+ "dateNote": "four Advent weekends, Fri-Sun",
+ "place": "Historic Marktplatz and old town",
+ "address": "Marktplatz, 67146 Deidesheim",
+ "city": "Deidesheim",
+ "price": "free",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.deidesheim.de/aktuelles-details/deidesheimer-advent-2026.html",
+ "source": "official",
+ "checked": "2026-11-02",
+ "tags": [
+  "christmas-market",
+  "craft-market"
+ ],
+ "note": "open studios, Ferris wheel from the 2nd Advent",
+ "details": "The Deidesheimer Advent fills the old centre of the Palatinate wine town with about 80 stalls of crafts, gifts and regional food. Programme: brass music, sing-alongs, concerts in the churches, theatre in the Boulevard Theater, open studios (goldsmith, ceramics, painting, stonemasonry, glass) and a nativity exhibition; for children the Wichtelstube, the town's sheep in the park and the nostalgic Ferris wheel \"Alte Liebe\" (2nd to 4th Advent weekend).\n\nFour Advent weekends, 27 November to 20 December 2026: Friday 17-21, Saturday 14-21, Sunday 11-21. The detailed programme and site plan are due in November.",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "christmas",
+  "craft"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Deidesheimer+Advent&dates=20261127%2F20261221&details=Advent+market+with+about+80+stalls+in+the+wine+town%27s+old+centre%0Aopen+studios%2C+Ferris+wheel+from+the+2nd+Advent%0ADates%3A+four+Advent+weekends%2C+Fri-Sun%0AHours%3A+Fri+17-21%2C+Sat+14-21%2C+Sun+11-21%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.deidesheim.de%2Faktuelles-details%2Fdeidesheimer-advent-2026.html&location=Historic+Marktplatz+and+old+town%2C+Marktplatz%2C+67146+Deidesheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marktplatz%2C%2067146%20Deidesheim",
+ "priceValue": 0
+}

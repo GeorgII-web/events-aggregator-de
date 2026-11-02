@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-05-lorsch-show-depot-zehntscheune",
+ "name": "Show-Depot Zehntscheune",
+ "description": "evening opening of the abbey's tithe barn depot: music, cocktails, tours",
+ "start": "2026-11-05",
+ "end": "2026-11-05",
+ "hours": "17:00-22:00",
+ "place": "Schaudepot Zehntscheune, Kloster Lorsch",
+ "address": "Nibelungenstraße 34, 64653 Lorsch",
+ "city": "Lorsch",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.lorsch.de/de/veranstaltungen/termine/Show-Depot-Zehntscheune-1.php?splitId=104&from=2026-11-05%2017:00:00&to=2026-11-05%2022:00:00",
+ "source": "official",
+ "checked": "2026-11-02",
+ "rating": "4.8",
+ "website": "https://kloster-lorsch.de/schaudepot-zehntscheune",
+ "tags": [
+  "guided-tour",
+  "heritage",
+  "unesco",
+  "museum"
+ ],
+ "note": "last date of the 2026 series",
+ "details": "An after-work evening in the Schaudepot Zehntscheune, the historic tithe barn on the abbey hill of the UNESCO site Kloster Lorsch: music, cocktails and guided tours of the depot.\n\nThursday 17:00-22:00, run by the town of Lorsch with Staatliche Schlösser und Gärten Hessen; the last of six dates in 2026. Price and booking are not on the town page (phone 06251 5967-0).",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:50:55.988Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "castle",
+  "unesco",
+  "museum"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Show-Depot+Zehntscheune&dates=20261105T170000%2F20261105T190000&details=evening+opening+of+the+abbey%27s+tithe+barn+depot%3A+music%2C+cocktails%2C+tours%0Alast+date+of+the+2026+series%0AHours%3A+17%3A00-22%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.lorsch.de%2Fde%2Fveranstaltungen%2Ftermine%2FShow-Depot-Zehntscheune-1.php%3FsplitId%3D104%26from%3D2026-11-05%252017%3A00%3A00%26to%3D2026-11-05%252022%3A00%3A00&location=Schaudepot+Zehntscheune%2C+Kloster+Lorsch%2C+Nibelungenstra%C3%9Fe+34%2C+64653+Lorsch&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Nibelungenstra%C3%9Fe%2034%2C%2064653%20Lorsch",
+ "priceValue": null
+}

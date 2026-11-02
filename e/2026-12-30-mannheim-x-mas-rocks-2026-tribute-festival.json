@@ -28,7 +28,7 @@
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-02",
- "updatedAt": "2026-11-02T18:46:46.388Z",
+ "updatedAt": "2026-11-02T18:52:07.653Z",
  "history": [
   {
    "date": "2026-11-02",
@@ -47,8 +47,23 @@
      "official"
     ]
    }
+  },
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:52:07.653Z",
+   "changes": {
+    "rating": [
+     null,
+     "4.7"
+    ],
+    "merged": [
+     null,
+     "local-events/2026-12-30-mannheim-x-mas-rocks-2026-tribute-festival"
+    ]
+   }
   }
  ],
+ "rating": "4.7",
  "topic": "rock-concerts",
  "groups": [
   "live",

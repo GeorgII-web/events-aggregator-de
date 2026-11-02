@@ -25,8 +25,19 @@
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T21:57:33.864Z",
- "history": [],
+ "updatedAt": "2026-11-02T18:52:07.779Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:52:07.779Z",
+   "changes": {
+    "merged": [
+     null,
+     "festivals/2027-04-03-mannheim-time-warp-germany"
+    ]
+   }
+  }
+ ],
  "topic": "local-events",
  "groups": [
   "musicfest",
