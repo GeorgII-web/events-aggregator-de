@@ -4,31 +4,70 @@
  "description": "US thrash metal band from Texas",
  "start": "2026-11-19",
  "end": "2026-11-19",
- "hours": "n/a",
+ "hours": "doors 19:00, start 20:00",
  "place": "7er Club",
  "address": "Industriestraße 7, 68169 Mannheim",
  "city": "Mannheim",
  "price": "from 27.10 EUR",
  "size": "small",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://7er-club.de/show/atrophy-2026/",
+ "source": "official",
+ "checked": "2026-11-02",
  "rating": "4.7",
  "tags": [
   "metal",
   "thrash"
  ],
- "details": "Atrophy are a thrash metal band from the US (Texas) with roots in the late 1980s scene. Date and price from the mvp.de listing; check the venue page before buying tickets.",
+ "details": "Atrophy play classic US thrash metal from Tucson, Arizona, since 1986 (albums Socialized Hate 1988, Violent by Nature 1990, Asylum 2024); the 7er Club calls it the only German show of the tour. Guest: Confess, a metal band from Iran now based in Norway (thrash, groove, nu metal).\n\nStart 20:00 per the 7er Club, doors 19:00 per mvp.de; tickets via Eventim / Reservix from 27.10 EUR and at the box office.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.815Z",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:46:46.388Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:46:46.388Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "doors 19:00, start 20:00"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+     "https://7er-club.de/show/atrophy-2026/"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "note": [
+     null,
+     "support: Confess (Iran/Norway); only German date of the tour"
+    ],
+    "bands": [
+     null,
+     [
+      "Atrophy",
+      "Confess"
+     ]
+    ]
+   }
+  }
+ ],
+ "note": "support: Confess (Iran/Norway); only German date of the tour",
+ "bands": [
+  "Atrophy",
+  "Confess"
+ ],
  "topic": "rock-concerts",
  "groups": [
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atrophy&dates=20261119%2F20261120&details=US+thrash+metal+band+from+Texas%0AHours%3A+n%2Fa%0APrice%3A+from+27.10+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atrophy&dates=20261119T200000%2F20261119T220000&details=US+thrash+metal+band+from+Texas%0Asupport%3A+Confess+%28Iran%2FNorway%29%3B+only+German+date+of+the+tour%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+from+27.10+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F7er-club.de%2Fshow%2Fatrophy-2026%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
  "priceValue": 27.1
 }

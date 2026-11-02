@@ -13,7 +13,7 @@
  "status": "ok",
  "link": "https://www.heidelberg.ai/2026/11/10/ullrich-koethe.html",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-02",
  "note": "RSVP on Meetup; video on YouTube afterwards",
  "rating": "4.7",
  "website": "https://heidelberg.ai/",
@@ -24,7 +24,7 @@
  ],
  "details": "heidelberg.ai is a free AI talk series hosted at the German Cancer Research Center (DKFZ). Prof. Dr. Ullrich Köthe (Heidelberg University, Visual Learning Lab) presents EOFlows, a non-linear extension of PCA that combines normalizing flows with interpretable, ranked latent dimensions.\n\nHe shows what EOFlows find in the CelebA portrait dataset and how stable the results are across training runs. Research-oriented ML talk rather than LLM tooling. RSVP via the Meetup group; a recording is uploaded to YouTube later.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-02",
  "updatedAt": "2026-11-01T20:57:58.817Z",
  "history": [
   {

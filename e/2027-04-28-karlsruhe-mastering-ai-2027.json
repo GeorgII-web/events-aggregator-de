@@ -22,12 +22,43 @@
   "ai",
   "agents",
   "ml",
-  "security"
+  "security",
+  "data"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T21:57:33.968Z",
- "history": [],
+ "updatedAt": "2026-11-02T18:46:41.650Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:46:41.650Z",
+   "changes": {
+    "tags": [
+     [
+      "conference",
+      "on-site",
+      "ai",
+      "agents",
+      "ml",
+      "security"
+     ],
+     [
+      "conference",
+      "on-site",
+      "ai",
+      "agents",
+      "ml",
+      "security",
+      "data"
+     ]
+    ],
+    "merged": [
+     null,
+     "it-conferences/2027-04-28-karlsruhe-mastering-ai-2027-m-ai"
+    ]
+   }
+  }
+ ],
  "topic": "it-events",
  "groups": [
   "conference",

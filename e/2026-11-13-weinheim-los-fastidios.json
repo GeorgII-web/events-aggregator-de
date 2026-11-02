@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-13-weinheim-los-fastidios",
+ "place": "Café Central",
+ "address": "Bahnhofstraße 19, 69469 Weinheim",
+ "city": "Weinheim",
+ "size": "small",
+ "status": "ok",
+ "source": "official",
+ "checked": "2026-11-02",
+ "name": "Los Fastidios",
+ "description": "Italian streetpunk / ska band from Verona, touring since 1991",
+ "start": "2026-11-13",
+ "hours": "doors 19:00, start 20:00",
+ "price": "24 EUR (box office)",
+ "link": "https://cafecentral.de/konzert/los-fastidios-public-serpents/",
+ "note": "with Bordkapelle Ackermann",
+ "tags": [
+  "punk",
+  "ska"
+ ],
+ "bands": [
+  "Los Fastidios",
+  "Bordkapelle Ackermann"
+ ],
+ "details": "Los Fastidios from Verona have toured since 1991 with more than 100 shows a year, mixing streetpunk and 2 Tone ska with rock'n'roll, Britpop and early reggae; singer Elisa Dixan joined founder Enrico in 2018. Bordkapelle Ackermann also play.\n\nDoors 19:00, start 20:00; 24 EUR at the box office, tickets available as of 2 Nov.",
+ "end": "2026-11-13",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:46:46.388Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Los+Fastidios&dates=20261113T200000%2F20261113T220000&details=Italian+streetpunk+%2F+ska+band+from+Verona%2C+touring+since+1991%0Awith+Bordkapelle+Ackermann%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+24+EUR+%28box+office%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fcafecentral.de%2Fkonzert%2Flos-fastidios-public-serpents%2F&location=Caf%C3%A9+Central%2C+Bahnhofstra%C3%9Fe+19%2C+69469+Weinheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bahnhofstra%C3%9Fe%2019%2C%2069469%20Weinheim",
+ "priceValue": 24
+}

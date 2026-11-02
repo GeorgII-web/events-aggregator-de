@@ -1,34 +1,79 @@
 {
  "id": "2026-12-19-heidelberg-the-end-of-music-ahab",
  "name": "The End of Music: Ahab",
- "description": "German funeral doom metal band",
+ "description": "German funeral doom metal band, best-of set, 10 years of the series",
  "start": "2026-12-19",
  "end": "2026-12-19",
- "hours": "n/a",
+ "hours": "doors 19:00, start 20:00",
  "place": "Karlstorbahnhof",
  "address": "Marlene-Dietrich-Platz 3, 69126 Heidelberg",
  "city": "Heidelberg",
- "price": "from 32.90 EUR",
+ "price": "32.90 EUR (box office 34 EUR)",
  "size": "small",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/heidelberg/veranstaltungen/konzert-metal-hard-rock/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.karlstorbahnhof.de/programm/veranstaltung/the-end-of-music-3/",
+ "source": "official",
+ "checked": "2026-11-02",
  "rating": "4.6",
  "tags": [
   "metal",
   "doom"
  ],
- "details": "Ahab play slow, heavy funeral doom metal inspired by sea stories.",
+ "details": "Ten-year anniversary of The End of Music, Karlstorbahnhof's series for doom, sludge, noise and post-metal since 2016. Ahab, who played the first edition, play a best-of set marking 20 years of their debut The Call of the Wretched Sea (2006), a founding record of nautical funeral doom.\n\nDoors 19:00, start 20:00 in the Saal; 32.90 EUR in advance (Reservix), 34 EUR at the door. Aperitivo bar with small food in the Zentrale from doors.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.815Z",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:46:46.388Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:46:46.388Z",
+   "changes": {
+    "description": [
+     "German funeral doom metal band",
+     "German funeral doom metal band, best-of set, 10 years of the series"
+    ],
+    "hours": [
+     "n/a",
+     "doors 19:00, start 20:00"
+    ],
+    "price": [
+     "from 32.90 EUR",
+     "32.90 EUR (box office 34 EUR)"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/heidelberg/veranstaltungen/konzert-metal-hard-rock/",
+     "https://www.karlstorbahnhof.de/programm/veranstaltung/the-end-of-music-3/"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "note": [
+     null,
+     "Year's End Edition"
+    ],
+    "bands": [
+     null,
+     [
+      "Ahab"
+     ]
+    ]
+   }
+  }
+ ],
+ "note": "Year's End Edition",
+ "bands": [
+  "Ahab"
+ ],
  "topic": "rock-concerts",
  "groups": [
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+End+of+Music%3A+Ahab&dates=20261219%2F20261220&details=German+funeral+doom+metal+band%0AHours%3A+n%2Fa%0APrice%3A+from+32.90+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=Karlstorbahnhof%2C+Marlene-Dietrich-Platz+3%2C+69126+Heidelberg&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+End+of+Music%3A+Ahab&dates=20261219T200000%2F20261219T220000&details=German+funeral+doom+metal+band%2C+best-of+set%2C+10+years+of+the+series%0AYear%27s+End+Edition%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+32.90+EUR+%28box+office+34+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.karlstorbahnhof.de%2Fprogramm%2Fveranstaltung%2Fthe-end-of-music-3%2F&location=Karlstorbahnhof%2C+Marlene-Dietrich-Platz+3%2C+69126+Heidelberg&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marlene-Dietrich-Platz%203%2C%2069126%20Heidelberg",
  "priceValue": 32.9
 }

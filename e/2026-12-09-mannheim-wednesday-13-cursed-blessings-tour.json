@@ -1,7 +1,7 @@
 {
  "id": "2026-12-09-mannheim-wednesday-13-cursed-blessings-tour",
  "name": "Wednesday 13: Cursed Blessings Tour",
- "description": "US horror punk / metal singer and band",
+ "description": "US horror punk / metal singer, co-headlining with The Birthday Massacre",
  "start": "2026-12-09",
  "end": "2026-12-09",
  "hours": "n/a",
@@ -10,26 +10,67 @@
  "city": "Mannheim",
  "price": "from 46 EUR",
  "size": "medium",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.msconnexion.com/event/wednesday13-the-birthday-massacre-cursed-blessing-tour-2026.html",
+ "source": "official",
+ "checked": "2026-11-02",
  "rating": "4.3",
  "tags": [
   "punk",
   "metal",
   "horror-punk"
  ],
- "details": "Wednesday 13 is a US horror punk and metal musician with a theatrical stage show, on the 'Cursed Blessings' tour. Date and price from the mvp.de listing; check the venue page before buying tickets.",
+ "details": "Wednesday 13 (US horror punk / metal) and The Birthday Massacre (Canadian dark synth rock) co-headline the Cursed Blessing Tour 2026 in the Kolbenhalle of the MS Connexion Complex; support: Killus.\n\nThe venue page gives no times or price; from 46 EUR per mvp.de, advance tickets are cheaper than the box office.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.815Z",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:46:46.388Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:46:46.388Z",
+   "changes": {
+    "description": [
+     "US horror punk / metal singer and band",
+     "US horror punk / metal singer, co-headlining with The Birthday Massacre"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+     "https://www.msconnexion.com/event/wednesday13-the-birthday-massacre-cursed-blessing-tour-2026.html"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "note": [
+     null,
+     "co-headliner The Birthday Massacre; support: Killus"
+    ],
+    "bands": [
+     null,
+     [
+      "Wednesday 13",
+      "The Birthday Massacre",
+      "Killus"
+     ]
+    ]
+   }
+  }
+ ],
+ "note": "co-headliner The Birthday Massacre; support: Killus",
+ "bands": [
+  "Wednesday 13",
+  "The Birthday Massacre",
+  "Killus"
+ ],
  "topic": "rock-concerts",
  "groups": [
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wednesday+13%3A+Cursed+Blessings+Tour&dates=20261209%2F20261210&details=US+horror+punk+%2F+metal+singer+and+band%0AHours%3A+n%2Fa%0APrice%3A+from+46+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=MS+Connexion+Complex%2C+Angelstra%C3%9Fe+33%2C+68199+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wednesday+13%3A+Cursed+Blessings+Tour&dates=20261209%2F20261210&details=US+horror+punk+%2F+metal+singer%2C+co-headlining+with+The+Birthday+Massacre%0Aco-headliner+The+Birthday+Massacre%3B+support%3A+Killus%0AHours%3A+n%2Fa%0APrice%3A+from+46+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.msconnexion.com%2Fevent%2Fwednesday13-the-birthday-massacre-cursed-blessing-tour-2026.html&location=MS+Connexion+Complex%2C+Angelstra%C3%9Fe+33%2C+68199+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Angelstra%C3%9Fe%2033%2C%2068199%20Mannheim",
  "priceValue": 46
 }

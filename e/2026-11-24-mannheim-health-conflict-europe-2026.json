@@ -4,31 +4,72 @@
  "description": "noise rock / industrial band from Los Angeles",
  "start": "2026-11-24",
  "end": "2026-11-24",
- "hours": "n/a",
+ "hours": "doors 18:00, start 19:00",
  "place": "Alte Feuerwache",
  "address": "Brückenstraße 2, 68167 Mannheim",
  "city": "Mannheim",
  "price": "from 41 EUR",
  "size": "medium",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://altefeuerwache.com/programm/termin/2026/november/24/health/",
+ "source": "official",
+ "checked": "2026-11-02",
  "rating": "4.5",
  "tags": [
   "rock",
   "industrial"
  ],
- "details": "HEALTH are a Los Angeles band between noise rock, industrial and electronic music, on their 'Conflict' European tour. Date and price from the mvp.de listing; check the venue page before buying tickets.",
+ "details": "HEALTH from Los Angeles mix industrial, metal, electronic noise and pop hooks; live heavy riffs, driving beats and layered electronics. Support: Vowws and Doodseskader. Doors 18:00, start 19:00 per Alte Feuerwache; tickets via Eventim, from 41 EUR per mvp.de.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.815Z",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:46:46.388Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:46:46.388Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "doors 18:00, start 19:00"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+     "https://altefeuerwache.com/programm/termin/2026/november/24/health/"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "note": [
+     null,
+     "support: Vowws, Doodseskader"
+    ],
+    "bands": [
+     null,
+     [
+      "HEALTH",
+      "Vowws",
+      "Doodseskader"
+     ]
+    ]
+   }
+  }
+ ],
+ "note": "support: Vowws, Doodseskader",
+ "bands": [
+  "HEALTH",
+  "Vowws",
+  "Doodseskader"
+ ],
  "topic": "rock-concerts",
  "groups": [
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HEALTH%3A+Conflict+Europe+2026&dates=20261124%2F20261125&details=noise+rock+%2F+industrial+band+from+Los+Angeles%0AHours%3A+n%2Fa%0APrice%3A+from+41+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=Alte+Feuerwache%2C+Br%C3%BCckenstra%C3%9Fe+2%2C+68167+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=HEALTH%3A+Conflict+Europe+2026&dates=20261124T190000%2F20261124T210000&details=noise+rock+%2F+industrial+band+from+Los+Angeles%0Asupport%3A+Vowws%2C+Doodseskader%0AHours%3A+doors+18%3A00%2C+start+19%3A00%0APrice%3A+from+41+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Faltefeuerwache.com%2Fprogramm%2Ftermin%2F2026%2Fnovember%2F24%2Fhealth%2F&location=Alte+Feuerwache%2C+Br%C3%BCckenstra%C3%9Fe+2%2C+68167+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Br%C3%BCckenstra%C3%9Fe%202%2C%2068167%20Mannheim",
  "priceValue": 41
 }

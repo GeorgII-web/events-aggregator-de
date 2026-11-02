@@ -1406,152 +1406,163 @@ CATEGORIES:music-festival,electronic,techno,rave
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-mannheim-murphy-s-law-jawless@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261104T200000
+DTEND;TZID=Europe/Berlin:20261104T220000
 SUMMARY:Murphy's Law + Jawless (unconfirmed)
-DESCRIPTION:New York hardcore punk veterans with a UK support band\nHours:
-  n/a\nPrice: from 29.37 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mv
- p.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+DESCRIPTION:New York hardcore punk veterans with a UK support band\nnot on
+  the 7er Club calendar; tickets currently unavailable on mvp.de\nHours: 2
+ 0:00\nPrice: from 29.37 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mv
+ p.de/mannheim/veranstaltungen/murphys-law-us-jawless-uk-hardcore-punk-thr
+ ashcore-7er-club/
 LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+URL:https://www.mvp.de/mannheim/veranstaltungen/murphys-law-us-jawless-uk-
+ hardcore-punk-thrashcore-7er-club/
 CATEGORIES:punk,hardcore
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-mannheim-shakra-just-live-loud-tour-2026@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Shakra: Just Live Loud Tour 2026 (unconfirmed)
-DESCRIPTION:Swiss hard rock band on tour\nHours: n/a\nPrice: from 36.20 EU
- R\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltun
- gen/konzert-metal-hard-rock/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261110T184500
+DTEND;TZID=Europe/Berlin:20261110T204500
+SUMMARY:Shakra: Just Live Loud Tour 2026
+DESCRIPTION:Swiss hard rock band on tour\n+ special guest\nHours: start 18
+ :45\nPrice: from 36.20 EUR\nStatus: ok (official)\nhttps://7er-club.de/sh
+ ow/shakra-2026/
 LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+URL:https://7er-club.de/show/shakra-2026/
 CATEGORIES:hard-rock,rock
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-mannheim-moscow-death-brigade@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Moscow Death Brigade (unconfirmed)
-DESCRIPTION:punk and hip-hop crew known for masked live shows\nHours: n/a\
- nPrice: from 28.80 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/
- mannheim/veranstaltungen/konzert-metal-hard-rock/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261112T200000
+DTEND;TZID=Europe/Berlin:20261112T220000
+SUMMARY:Moscow Death Brigade
+DESCRIPTION:punk and hip-hop crew known for masked live shows\nsupport: Gr
+ ound 2A\nHours: doors 19:00\, start 20:00\nPrice: from 28.80 EUR\nStatus:
+  ok (official)\nhttps://7er-club.de/show/moscow-death-brigade-2026/
 LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+URL:https://7er-club.de/show/moscow-death-brigade-2026/
 CATEGORIES:punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-mannheim-atrophy@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Atrophy (unconfirmed)
-DESCRIPTION:US thrash metal band from Texas\nHours: n/a\nPrice: from 27.10
-  EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstal
- tungen/konzert-metal-hard-rock/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261119T200000
+DTEND;TZID=Europe/Berlin:20261119T220000
+SUMMARY:Atrophy
+DESCRIPTION:US thrash metal band from Texas\nsupport: Confess (Iran/Norway
+ ); only German date of the tour\nHours: doors 19:00\, start 20:00\nPrice:
+  from 27.10 EUR\nStatus: ok (official)\nhttps://7er-club.de/show/atrophy-
+ 2026/
 LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+URL:https://7er-club.de/show/atrophy-2026/
 CATEGORIES:metal,thrash
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-mannheim-health-conflict-europe-2026@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:HEALTH: Conflict Europe 2026 (unconfirmed)
-DESCRIPTION:noise rock / industrial band from Los Angeles\nHours: n/a\nPri
- ce: from 41 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannhei
- m/veranstaltungen/konzert-metal-hard-rock/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261124T190000
+DTEND;TZID=Europe/Berlin:20261124T210000
+SUMMARY:HEALTH: Conflict Europe 2026
+DESCRIPTION:noise rock / industrial band from Los Angeles\nsupport: Vowws\
+ , Doodseskader\nHours: doors 18:00\, start 19:00\nPrice: from 41 EUR\nSta
+ tus: ok (official)\nhttps://altefeuerwache.com/programm/termin/2026/novem
+ ber/24/health/
 LOCATION:Alte Feuerwache\, Brückenstraße 2\, 68167 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+URL:https://altefeuerwache.com/programm/termin/2026/november/24/health/
 CATEGORIES:rock,industrial
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-mannheim-soen-reliance-tour@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:SOEN: Reliance Tour (unconfirmed)
-DESCRIPTION:Swedish progressive metal band\nHours: n/a\nPrice: from 42.50 
- EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstalt
- ungen/konzert-metal-hard-rock/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261206T200000
+DTEND;TZID=Europe/Berlin:20261206T220000
+SUMMARY:SOEN: Reliance Tour
+DESCRIPTION:Swedish progressive metal band\nsupport: Tribulation\, Vulkan\
+ nHours: doors 19:00\, start 20:00\nPrice: 42 EUR + fees (box office 49 EU
+ R)\nStatus: ok (official)\nhttps://altefeuerwache.com/programm/termin/202
+ 6/dezember/06/soen/
 LOCATION:Alte Feuerwache\, Brückenstraße 2\, 68167 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+URL:https://altefeuerwache.com/programm/termin/2026/dezember/06/soen/
 CATEGORIES:metal,progressive
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-mannheim-chelsea-wolfe-the-dark-world-tour@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:Chelsea Wolfe: The Dark World Tour (unconfirmed)
-DESCRIPTION:US singer between doom\, goth rock and dark folk\nHours: n/a\n
- Price: from 47.90 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/m
- annheim/veranstaltungen/konzert-metal-hard-rock/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261209T200000
+DTEND;TZID=Europe/Berlin:20261209T220000
+SUMMARY:Chelsea Wolfe: The Dark World Tour
+DESCRIPTION:US singer between doom\, goth rock and dark folk\nsupport: A.A
+ . Williams; one of four German dates\nHours: doors 19:00\, start 20:00\nP
+ rice: 44.90 EUR standing\, 47.78 EUR seated\nStatus: ok (official)\nhttps
+ ://www.capitol-mannheim.de/node/3013
 LOCATION:Capitol\, Waldhofstraße 2\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+URL:https://www.capitol-mannheim.de/node/3013
 CATEGORIES:rock,doom,goth
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-mannheim-wednesday-13-cursed-blessings-tour@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Wednesday 13: Cursed Blessings Tour (unconfirmed)
-DESCRIPTION:US horror punk / metal singer and band\nHours: n/a\nPrice: fro
- m 46 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veran
- staltungen/konzert-metal-hard-rock/
+SUMMARY:Wednesday 13: Cursed Blessings Tour
+DESCRIPTION:US horror punk / metal singer\, co-headlining with The Birthda
+ y Massacre\nco-headliner The Birthday Massacre; support: Killus\nHours: n
+ /a\nPrice: from 46 EUR\nStatus: ok (official)\nhttps://www.msconnexion.co
+ m/event/wednesday13-the-birthday-massacre-cursed-blessing-tour-2026.html
 LOCATION:MS Connexion Complex\, Angelstraße 33\, 68199 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+URL:https://www.msconnexion.com/event/wednesday13-the-birthday-massacre-cu
+ rsed-blessing-tour-2026.html
 CATEGORIES:punk,metal,horror-punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-mannheim-mystic-prophecy-iron-savior-heavy-metal-mania-tour
  -2026@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-SUMMARY:Mystic Prophecy & Iron Savior: Heavy Metal Mania Tour 2026 (unconf
- irmed)
-DESCRIPTION:double bill of two German power metal bands\nHours: n/a\nPrice
- : from 34.20 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannhe
- im/veranstaltungen/konzert-metal-hard-rock/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261213T190000
+DTEND;TZID=Europe/Berlin:20261213T210000
+SUMMARY:Mystic Prophecy & Iron Savior: Heavy Metal Mania Tour 2026
+DESCRIPTION:double bill of two German power metal bands\nspecial guest: Ge
+ neration Steel\nHours: doors 18:00\, start 19:00\nPrice: from 34.20 EUR\n
+ Status: ok (official)\nhttps://7er-club.de/show/heavy-metal-mania-2026/
 LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+URL:https://7er-club.de/show/heavy-metal-mania-2026/
 CATEGORIES:metal,power-metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-heidelberg-the-end-of-music-ahab@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-SUMMARY:The End of Music: Ahab (unconfirmed)
-DESCRIPTION:German funeral doom metal band\nHours: n/a\nPrice: from 32.90 
- EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/heidelberg/veransta
- ltungen/konzert-metal-hard-rock/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261219T200000
+DTEND;TZID=Europe/Berlin:20261219T220000
+SUMMARY:The End of Music: Ahab
+DESCRIPTION:German funeral doom metal band\, best-of set\, 10 years of the
+  series\nYear's End Edition\nHours: doors 19:00\, start 20:00\nPrice: 32.
+ 90 EUR (box office 34 EUR)\nStatus: ok (official)\nhttps://www.karlstorba
+ hnhof.de/programm/veranstaltung/the-end-of-music-3/
 LOCATION:Karlstorbahnhof\, Marlene-Dietrich-Platz 3\, 69126 Heidelberg
-URL:https://www.mvp.de/heidelberg/veranstaltungen/konzert-metal-hard-rock/
+URL:https://www.karlstorbahnhof.de/programm/veranstaltung/the-end-of-music
+ -3/
 CATEGORIES:metal,doom
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-mannheim-christmas-metal-bash-2026@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
-SUMMARY:Christmas Metal Bash 2026 (unconfirmed)
-DESCRIPTION:metal club night between Christmas and New Year\nHours: n/a\nP
- rice: from 25.40 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/ma
- nnheim/veranstaltungen/konzert-metal-hard-rock/
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261229T193000
+DTEND;TZID=Europe/Berlin:20261229T213000
+SUMMARY:Christmas Metal Bash 2026
+DESCRIPTION:three heavy metal\, power metal and hard rock bands between Ch
+ ristmas and New Year\nHunter\, Revelation Steel\, 20 Dark Seven\nHours: d
+ oors 19:00\, start 19:30\nPrice: from 25.40 EUR\nStatus: ok (official)\nh
+ ttps://7er-club.de/show/christmas-metal-bash-2026/
 LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/
+URL:https://7er-club.de/show/christmas-metal-bash-2026/
 CATEGORIES:metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-mannheim-stahlzeit-zeitlos-20-jubilaumstour@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261114T200000
 DTEND;TZID=Europe/Berlin:20261114T220000
 SUMMARY:Stahlzeit: Zeitlos 20 Jubiläumstour (unconfirmed)
@@ -1566,23 +1577,21 @@ CATEGORIES:metal,industrial,tribute-band
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-mannheim-big-4-tribute-festival@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261115
-SUMMARY:Big 4 Tribute Festival (unconfirmed)
+SUMMARY:Big 4 Tribute Festival
 DESCRIPTION:tribute night to Metallica\, Slayer\, Megadeth and Anthrax\nFr
- i 13 Nov added\, Sat 14 Nov sold out; mixed bill incl. a Metallica tribut
- e\nHours: doors 18:00\, start 19:00\nPrice: from 32 EUR\nStatus: unconfir
- med (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltungen/big-4-tribute-f
- estival-metallica-slayer-megadeth-anthrax/
+ i 13 Nov extra date available\, Sat 14 Nov sold out; mixed bill incl. a M
+ etallica tribute\nHours: doors 18:00\, start 19:00\nPrice: from 32 EUR\nS
+ tatus: ok (official)\nhttps://7er-club.de/show/big-4-tribute-2026-zusatz/
 LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/big-4-tribute-festival-met
- allica-slayer-megadeth-anthrax/
+URL:https://7er-club.de/show/big-4-tribute-2026-zusatz/
 CATEGORIES:metal,tribute-band,small-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-mannheim-ignite-cancer-bats@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261117T190000
 DTEND;TZID=Europe/Berlin:20261117T210000
 SUMMARY:Ignite + Cancer Bats
@@ -1596,7 +1605,7 @@ CATEGORIES:punk,hardcore
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-bensheim-nazareth-right-left-centre-tour-2026@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261118T200000
 DTEND;TZID=Europe/Berlin:20261118T220000
 SUMMARY:Nazareth: Right\, Left\, Centre Tour 2026
@@ -1610,7 +1619,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-bensheim-john-corabi-friends-european-shuffle-tour-2026@eve
  nts-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261119T200000
 DTEND;TZID=Europe/Berlin:20261119T220000
 SUMMARY:John Corabi & Friends: European Shuffle Tour 2026
@@ -1625,7 +1634,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-mannheim-combichrist-the-electro-combichristmas-tour-2026@e
  vents-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Combichrist: The Electro Combichristmas Tour 2026
@@ -1640,7 +1649,7 @@ CATEGORIES:industrial,electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-weinheim-tyr-valhalla-calling-europe-tour@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261210T173000
 DTEND;TZID=Europe/Berlin:20261210T193000
 SUMMARY:Týr: Valhalla Calling Europe Tour
@@ -1654,13 +1663,13 @@ CATEGORIES:metal,small-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-weinheim-flotsam-and-jetsam@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261211T200000
 DTEND;TZID=Europe/Berlin:20261211T220000
 SUMMARY:Flotsam and Jetsam
-DESCRIPTION:US thrash metal band from Phoenix\, active since 1981\nHours: 
- doors 19:00\, start 20:00\nPrice: 30 EUR (box office)\nStatus: ok (offici
- al)\nhttps://cafecentral.de/konzert/flotsam-jetsam/
+DESCRIPTION:US thrash metal band from Phoenix\, active since 1981\nsupport
+ : Purify\nHours: doors 19:00\, start 20:00\nPrice: 30 EUR (box office)\nS
+ tatus: ok (official)\nhttps://cafecentral.de/konzert/flotsam-jetsam/
 LOCATION:Café Central\, Bahnhofstraße 19\, 69469 Weinheim
 URL:https://cafecentral.de/konzert/flotsam-jetsam/
 CATEGORIES:metal,small-concert
@@ -1680,17 +1689,15 @@ CATEGORIES:punk,ska
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-mannheim-x-mas-rocks-2026-tribute-festival@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261230T193000
 DTEND;TZID=Europe/Berlin:20261230T213000
-SUMMARY:X-MAS Rocks! 2026: Tribute Festival (unconfirmed)
+SUMMARY:X-MAS Rocks! 2026: Tribute Festival
 DESCRIPTION:Ozzy Osbourne\, Twisted Sister and Judas Priest tribute bands\
- nHours: doors 18:30\, start 19:30\nPrice: from 30.90 EUR\nStatus: unconfi
- rmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltungen/x-mas-rocks-20
- 26-tribute-festival-7er-club-mannheim/
+ nHours: doors 18:30\, start 19:30\nPrice: from 30.90 EUR\nStatus: ok (off
+ icial)\nhttps://7er-club.de/show/x-mas-rocks-2026/
 LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/x-mas-rocks-2026-tribute-f
- estival-7er-club-mannheim/
+URL:https://7er-club.de/show/x-mas-rocks-2026/
 CATEGORIES:metal,hard-rock,tribute-band,small-concert
 END:VEVENT
 BEGIN:VEVENT
@@ -1708,7 +1715,7 @@ CATEGORIES:metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-mannheim-bad-company-legacy-tour-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20270122T200000
 DTEND;TZID=Europe/Berlin:20270122T220000
 SUMMARY:Bad Company: Legacy Tour 2027
@@ -1723,7 +1730,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-mannheim-grave-digger-legends-never-die-tour-27@events-sear
  ch
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20270129T190000
 DTEND;TZID=Europe/Berlin:20270129T210000
 SUMMARY:Grave Digger: Legends Never Die Tour '27
@@ -1737,7 +1744,7 @@ CATEGORIES:metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-mannheim-electric-callboy-tanzneid-world-tour@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20270220T190000
 DTEND;TZID=Europe/Berlin:20270220T210000
 SUMMARY:Electric Callboy: Tanzneid World Tour
@@ -1750,7 +1757,7 @@ CATEGORIES:metalcore,metal,electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-26-mannheim-sabaton-the-legendary-tour-part-2@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
 SUMMARY:Sabaton: The Legendary Tour Part 2
@@ -1775,9 +1782,95 @@ URL:https://www.knockout-festival.de/
 CATEGORIES:music-festival,metal,hard-rock
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-05-weinheim-get-the-shot@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261105T190000
+DTEND;TZID=Europe/Berlin:20261105T210000
+SUMMARY:get the shot
+DESCRIPTION:Canadian hardcore band with backstabbed as support\nsupport: b
+ ackstabbed\nHours: doors 18:30\, start 19:00\nPrice: 35 EUR (box office)\
+ nStatus: ok (official)\nhttps://cafecentral.de/konzert/get-the-shot/
+LOCATION:Café Central\, Bahnhofstraße 19\, 69469 Weinheim
+URL:https://cafecentral.de/konzert/get-the-shot/
+CATEGORIES:hardcore,punk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-weinheim-los-fastidios@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261113T200000
+DTEND;TZID=Europe/Berlin:20261113T220000
+SUMMARY:Los Fastidios
+DESCRIPTION:Italian streetpunk / ska band from Verona\, touring since 1991
+ \nwith Bordkapelle Ackermann\nHours: doors 19:00\, start 20:00\nPrice: 24
+  EUR (box office)\nStatus: ok (official)\nhttps://cafecentral.de/konzert/
+ los-fastidios-public-serpents/
+LOCATION:Café Central\, Bahnhofstraße 19\, 69469 Weinheim
+URL:https://cafecentral.de/konzert/los-fastidios-public-serpents/
+CATEGORIES:punk,ska
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-weinheim-long-tall-texans@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261120T200000
+DTEND;TZID=Europe/Berlin:20261120T220000
+SUMMARY:Long Tall Texans
+DESCRIPTION:early UK psychobilly band from the 1980s Klubfoot scene\nsuppo
+ rt: Cobra Express\nHours: doors 19:00\, start 20:00\nPrice: 24 EUR (box o
+ ffice)\nStatus: ok (official)\nhttps://cafecentral.de/konzert/long-tall-t
+ exans/
+LOCATION:Café Central\, Bahnhofstraße 19\, 69469 Weinheim
+URL:https://cafecentral.de/konzert/long-tall-texans/
+CATEGORIES:psychobilly,punk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-weinheim-lions-law-streetpunk-festival@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261206T180000
+DTEND;TZID=Europe/Berlin:20261206T200000
+SUMMARY:Lions Law: Streetpunk Festival
+DESCRIPTION:streetpunk evening with Lions Law\, Mess (Mexico) and Breakout
+ \nwith Mess (Mexico)\, Breakout\nHours: doors 17:00\, start 18:00\nPrice:
+  33 EUR (box office)\nStatus: ok (official)\nhttps://cafecentral.de/konze
+ rt/lions-law/
+LOCATION:Café Central\, Bahnhofstraße 19\, 69469 Weinheim
+URL:https://cafecentral.de/konzert/lions-law/
+CATEGORIES:punk,oi
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-bensheim-holy-mother-the-holy-storm-tour-2026@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261123T200000
+DTEND;TZID=Europe/Berlin:20261123T220000
+SUMMARY:Holy Mother: The Holy Storm Tour 2026
+DESCRIPTION:US heavy metal band on a European tour\nsupport: Wicked Maraya
+ \nHours: doors 19:00\, start 20:00\nPrice: 28.50 EUR (box office 35 EUR)\
+ nStatus: ok (official)\nhttps://www.musiktheater-rex.de/index.php?id=1467
+LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
+URL:https://www.musiktheater-rex.de/index.php?id=1467
+CATEGORIES:metal,heavy metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-17-mannheim-die-toten-hosen-trink-aus-wir-mussen-gehen-tour-20
+ 27@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20270617T173000
+DTEND;TZID=Europe/Berlin:20270617T193000
+SUMMARY:Die Toten Hosen: Trink aus! Wir müssen gehen – Tour 2027 (uncon
+ firmed)
+DESCRIPTION:German punk rock band\, open-air stadium-size show\nbig show o
+ utside the 3-month window; few tickets left on the tour\nHours: doors 16:
+ 00\, start 17:30\nPrice: from 89.50 EUR (social ticket 19.90 EUR)\nStatus
+ : unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltungen/die-t
+ oten-hosen-trink-aus-wir-muessen-gehen-tour-2027-mannheim/
+LOCATION:Maimarktgelände\, Xaver-Fuhr-Straße 101\, 68163 Mannheim
+URL:https://www.mvp.de/mannheim/veranstaltungen/die-toten-hosen-trink-aus-
+ wir-muessen-gehen-tour-2027-mannheim/
+CATEGORIES:punk,rock,open-air
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-03-karlsruhe-green-agentic-ai-coding-mit-headroom@events-searc
  h
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261103T183000
 DTEND;TZID=Europe/Berlin:20261103T203000
 SUMMARY:Green Agentic AI Coding mit Headroom
@@ -1793,14 +1886,15 @@ CATEGORIES:ai,meetup,agents,online,on-site
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-karlsruhe-gdg-devfest-karlsruhe-2026@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:GDG DevFest Karlsruhe 2026
 DESCRIPTION:community developer conference by Google Developer Group: AI\,
   web\, cloud\ntickets via Eventbrite; agenda not published yet\nHours: 9-
  22\nPrice: n/a\nStatus: ok (official)\nhttps://gdg.community.dev/events/d
- etails/google-gdg-karlsruhe-presents-gdg-devfest-karlsruhe-2026/
+ etails/google-gdg-karlsruhe-presents-gdg-devfest-karlsruhe-2026/\nGDG Kar
+ lsruhe (Meetup): https://www.meetup.com/gdg-karlsruhe/events/316006105/
 LOCATION:DHBW Karlsruhe\, Erzbergerstraße 121\, 76133 Karlsruhe
 URL:https://gdg.community.dev/events/details/google-gdg-karlsruhe-presents
  -gdg-devfest-karlsruhe-2026/
@@ -1809,7 +1903,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-heidelberg-heidelberg-ai-unpacking-the-black-box-from-pca-t
  o-eoflows@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261110T170000
 DTEND;TZID=Europe/Berlin:20261110T190000
 SUMMARY:heidelberg.ai: Unpacking the Black Box – From PCA to EOFlows
@@ -1824,7 +1918,7 @@ CATEGORIES:ai,meetup,on-site
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-karlsruhe-net-conf-watch-party-net-11-launch@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261110T170000
 DTEND;TZID=Europe/Berlin:20261110T190000
 SUMMARY:.NET Conf watch party: .NET 11 launch
@@ -1849,12 +1943,12 @@ DESCRIPTION:conference on platform engineering\, developer experience\, ag
  ce.eu/
 LOCATION:Congress Center Rosengarten\, Rosengartenpl. 2\, 68161 Mannheim
 URL:https://www.clc-conference.eu/
-CATEGORIES:ai,aws,conference,cloud,kubernetes,on-site
+CATEGORIES:ai,aws,conference,cloud,kubernetes,on-site,devops
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-mannheim-dev-donuts-ai-in-software-development@events-searc
  h
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261112T180000
 DTEND;TZID=Europe/Berlin:20261112T200000
 SUMMARY:Dev & Donuts: AI in software development
@@ -1868,7 +1962,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-mannheim-sustainable-engineering-nights-2-own-server-or-hyp
  erscaler@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261112T173000
 DTEND;TZID=Europe/Berlin:20261112T193000
 SUMMARY:Sustainable Engineering Nights #2: Own server or hyperscaler?
@@ -1884,7 +1978,7 @@ CATEGORIES:aws,meetup,cloud,on-site
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-weiterstadt-rust-rhein-main-debugging-in-rust@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261112T180000
 DTEND;TZID=Europe/Berlin:20261112T200000
 SUMMARY:Rust Rhein-Main: Debugging in Rust
@@ -1899,20 +1993,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-bensheim-aws-user-group-bergstrasse-internal-developer-plat
  form-on-eks@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261125T190000
 DTEND;TZID=Europe/Berlin:20261125T210000
 SUMMARY:AWS User Group Bergstrasse: Internal Developer Platform on EKS
 DESCRIPTION:AWS meetup talk: golden path platform with EKS\, Crossplane an
  d Argo CD\nHours: 19:00-21:00\nPrice: free\nStatus: ok (official)\nhttps:
- //www.meetup.com/aws-user-group-bergstrasse/events/316810843/
+ //www.meetup.com/aws-user-group-bergstrasse/events/316810843/\nAWS User G
+ roup Darmstadt (Meetup): https://www.meetup.com/aws-user-group-darmstadt/
+ events/316810846/
 LOCATION:IMTF Siron GmbH\, Stubenwald-Allee 19\, 64625 Bensheim
 URL:https://www.meetup.com/aws-user-group-bergstrasse/events/316810843/
 CATEGORIES:aws,meetup,cloud,kubernetes,on-site
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-rhein-neckar-phpugmrn-06-26@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261210T190000
 DTEND;TZID=Europe/Berlin:20261210T210000
 SUMMARY:PHPUGMRN 06/26
@@ -2045,7 +2141,7 @@ DESCRIPTION:AI conference for developers: agentic AI\, MCP\, LLMs\, MLOps
 LOCATION:IHK Karlsruhe\, Haus der Wirtschaft\, Lammstraße 13-17\, 76133 K
  arlsruhe
 URL:https://mastering-ai.eu/
-CATEGORIES:conference,on-site,ai,agents,ml,security
+CATEGORIES:conference,on-site,ai,agents,ml,security,data
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-07-karlsruhe-karlsruher-entwicklertag-2027@events-search

@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-23-bensheim-holy-mother-the-holy-storm-tour-2026",
+ "name": "Holy Mother: The Holy Storm Tour 2026",
+ "description": "US heavy metal band on a European tour",
+ "start": "2026-11-23",
+ "end": "2026-11-23",
+ "hours": "doors 19:00, start 20:00",
+ "place": "Musiktheater Rex",
+ "address": "Fabrikstraße 10, 64625 Bensheim",
+ "city": "Bensheim",
+ "price": "28.50 EUR (box office 35 EUR)",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.musiktheater-rex.de/index.php?id=1467",
+ "source": "official",
+ "checked": "2026-11-02",
+ "note": "support: Wicked Maraya",
+ "tags": [
+  "metal",
+  "heavy metal"
+ ],
+ "bands": [
+  "Holy Mother",
+  "Wicked Maraya"
+ ],
+ "details": "Holy Mother, a US heavy metal band, on The Holy Storm Tour 2026 with Wicked Maraya as support. Doors 19:00, start 20:00; 28.50 EUR via the Rex ticket shop (bank transfer), 35 EUR at the box office, also via Reservix.",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:46:46.388Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Holy+Mother%3A+The+Holy+Storm+Tour+2026&dates=20261123T200000%2F20261123T220000&details=US+heavy+metal+band+on+a+European+tour%0Asupport%3A+Wicked+Maraya%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+28.50+EUR+%28box+office+35+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.musiktheater-rex.de%2Findex.php%3Fid%3D1467&location=Musiktheater+Rex%2C+Fabrikstra%C3%9Fe+10%2C+64625+Bensheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Fabrikstra%C3%9Fe%2010%2C%2064625%20Bensheim",
+ "priceValue": 28.5
+}

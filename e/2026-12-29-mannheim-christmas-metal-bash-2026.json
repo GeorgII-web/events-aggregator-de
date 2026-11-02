@@ -1,33 +1,78 @@
 {
  "id": "2026-12-29-mannheim-christmas-metal-bash-2026",
  "name": "Christmas Metal Bash 2026",
- "description": "metal club night between Christmas and New Year",
+ "description": "three heavy metal, power metal and hard rock bands between Christmas and New Year",
  "start": "2026-12-29",
  "end": "2026-12-29",
- "hours": "n/a",
+ "hours": "doors 19:00, start 19:30",
  "place": "7er Club",
  "address": "Industriestraße 7, 68169 Mannheim",
  "city": "Mannheim",
  "price": "from 25.40 EUR",
  "size": "small",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://7er-club.de/show/christmas-metal-bash-2026/",
+ "source": "official",
+ "checked": "2026-11-02",
  "rating": "4.7",
  "tags": [
   "metal"
  ],
- "details": "A metal club night between the holidays; line-up not given in the listing. Date and price from the mvp.de listing; check the venue page before buying tickets.",
+ "details": "Year-end metal night at the 7er Club with three bands from heavy metal, power metal and hard rock: Hunter, Revelation Steel and 20 Dark Seven. Doors 19:00, start 19:30; tickets via Reservix (from 25.40 EUR per mvp.de) and at the box office.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.815Z",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:46:46.388Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:46:46.388Z",
+   "changes": {
+    "description": [
+     "metal club night between Christmas and New Year",
+     "three heavy metal, power metal and hard rock bands between Christmas and New Year"
+    ],
+    "hours": [
+     "n/a",
+     "doors 19:00, start 19:30"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+     "https://7er-club.de/show/christmas-metal-bash-2026/"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "note": [
+     null,
+     "Hunter, Revelation Steel, 20 Dark Seven"
+    ],
+    "bands": [
+     null,
+     [
+      "Hunter",
+      "Revelation Steel",
+      "20 Dark Seven"
+     ]
+    ]
+   }
+  }
+ ],
+ "note": "Hunter, Revelation Steel, 20 Dark Seven",
+ "bands": [
+  "Hunter",
+  "Revelation Steel",
+  "20 Dark Seven"
+ ],
  "topic": "rock-concerts",
  "groups": [
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Christmas+Metal+Bash+2026&dates=20261229%2F20261230&details=metal+club+night+between+Christmas+and+New+Year%0AHours%3A+n%2Fa%0APrice%3A+from+25.40+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Christmas+Metal+Bash+2026&dates=20261229T193000%2F20261229T213000&details=three+heavy+metal%2C+power+metal+and+hard+rock+bands+between+Christmas+and+New+Year%0AHunter%2C+Revelation+Steel%2C+20+Dark+Seven%0AHours%3A+doors+19%3A00%2C+start+19%3A30%0APrice%3A+from+25.40+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F7er-club.de%2Fshow%2Fchristmas-metal-bash-2026%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
  "priceValue": 25.4
 }

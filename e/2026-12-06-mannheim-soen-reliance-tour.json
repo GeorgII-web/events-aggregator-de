@@ -4,31 +4,76 @@
  "description": "Swedish progressive metal band",
  "start": "2026-12-06",
  "end": "2026-12-06",
- "hours": "n/a",
+ "hours": "doors 19:00, start 20:00",
  "place": "Alte Feuerwache",
  "address": "Brückenstraße 2, 68167 Mannheim",
  "city": "Mannheim",
- "price": "from 42.50 EUR",
+ "price": "42 EUR + fees (box office 49 EUR)",
  "size": "medium",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://altefeuerwache.com/programm/termin/2026/dezember/06/soen/",
+ "source": "official",
+ "checked": "2026-11-02",
  "rating": "4.5",
  "tags": [
   "metal",
   "progressive"
  ],
- "details": "Soen are a progressive metal band from Sweden with melodic, heavy songs, here on the 'Reliance' tour in the hall of the Alte Feuerwache. Date and price from the mvp.de listing; check the venue page before buying tickets.",
+ "details": "Swedish progressive metal band SOEN, combining prog metal, post-rock atmosphere and melody; their album Memorial (2023) was Metal Hammer Germany's album of the year. Support: Tribulation and Vulkan.\n\nDoors 19:00, start 20:00 in the Alte Feuerwache hall; 42 EUR plus fees in advance, 49 EUR at the door.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.815Z",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:46:46.388Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:46:46.388Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "doors 19:00, start 20:00"
+    ],
+    "price": [
+     "from 42.50 EUR",
+     "42 EUR + fees (box office 49 EUR)"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+     "https://altefeuerwache.com/programm/termin/2026/dezember/06/soen/"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "note": [
+     null,
+     "support: Tribulation, Vulkan"
+    ],
+    "bands": [
+     null,
+     [
+      "SOEN",
+      "Tribulation",
+      "Vulkan"
+     ]
+    ]
+   }
+  }
+ ],
+ "note": "support: Tribulation, Vulkan",
+ "bands": [
+  "SOEN",
+  "Tribulation",
+  "Vulkan"
+ ],
  "topic": "rock-concerts",
  "groups": [
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SOEN%3A+Reliance+Tour&dates=20261206%2F20261207&details=Swedish+progressive+metal+band%0AHours%3A+n%2Fa%0APrice%3A+from+42.50+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=Alte+Feuerwache%2C+Br%C3%BCckenstra%C3%9Fe+2%2C+68167+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SOEN%3A+Reliance+Tour&dates=20261206T200000%2F20261206T220000&details=Swedish+progressive+metal+band%0Asupport%3A+Tribulation%2C+Vulkan%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+42+EUR+%2B+fees+%28box+office+49+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Faltefeuerwache.com%2Fprogramm%2Ftermin%2F2026%2Fdezember%2F06%2Fsoen%2F&location=Alte+Feuerwache%2C+Br%C3%BCckenstra%C3%9Fe+2%2C+68167+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Br%C3%BCckenstra%C3%9Fe%202%2C%2068167%20Mannheim",
- "priceValue": 42.5
+ "priceValue": 42
 }

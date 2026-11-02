@@ -31,8 +31,19 @@
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T21:57:33.916Z",
- "history": [],
+ "updatedAt": "2026-11-02T18:48:01.312Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:48:01.312Z",
+   "changes": {
+    "merged": [
+     null,
+     "festivals/2026-12-12-karlsruhe-knock-out-festival"
+    ]
+   }
+  }
+ ],
  "topic": "rock-concerts",
  "groups": [
   "musicfest",

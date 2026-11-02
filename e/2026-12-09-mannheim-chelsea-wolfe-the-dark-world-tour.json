@@ -4,32 +4,75 @@
  "description": "US singer between doom, goth rock and dark folk",
  "start": "2026-12-09",
  "end": "2026-12-09",
- "hours": "n/a",
+ "hours": "doors 19:00, start 20:00",
  "place": "Capitol",
  "address": "Waldhofstraße 2, 68169 Mannheim",
  "city": "Mannheim",
- "price": "from 47.90 EUR",
+ "price": "44.90 EUR standing, 47.78 EUR seated",
  "size": "medium",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.capitol-mannheim.de/node/3013",
+ "source": "official",
+ "checked": "2026-11-02",
  "rating": "4.6",
  "tags": [
   "rock",
   "doom",
   "goth"
  ],
- "details": "Chelsea Wolfe is a US singer-songwriter known for dark, heavy music between doom, goth rock and folk. VIP packages are sold separately. Date and price from the mvp.de listing; check the venue page before buying tickets.",
+ "details": "Chelsea Wolfe moves between metal, folk, industrial and electronic music; on The Dark World Tour, one of four German dates, she previews her ninth album with the new songs \"The Dark\" and \"Death Is Not the End\". Support: A.A. Williams (post-rock, doom, classical arrangements).\n\nDoors 19:00, start 20:00; standing parterre 44.90 EUR, seated gallery 47.78 EUR. VIP packages are sold separately.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.815Z",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:46:46.388Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:46:46.388Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "doors 19:00, start 20:00"
+    ],
+    "price": [
+     "from 47.90 EUR",
+     "44.90 EUR standing, 47.78 EUR seated"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+     "https://www.capitol-mannheim.de/node/3013"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "note": [
+     null,
+     "support: A.A. Williams; one of four German dates"
+    ],
+    "bands": [
+     null,
+     [
+      "Chelsea Wolfe",
+      "A.A. Williams"
+     ]
+    ]
+   }
+  }
+ ],
+ "note": "support: A.A. Williams; one of four German dates",
+ "bands": [
+  "Chelsea Wolfe",
+  "A.A. Williams"
+ ],
  "topic": "rock-concerts",
  "groups": [
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Chelsea+Wolfe%3A+The+Dark+World+Tour&dates=20261209%2F20261210&details=US+singer+between+doom%2C+goth+rock+and+dark+folk%0AHours%3A+n%2Fa%0APrice%3A+from+47.90+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=Capitol%2C+Waldhofstra%C3%9Fe+2%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Chelsea+Wolfe%3A+The+Dark+World+Tour&dates=20261209T200000%2F20261209T220000&details=US+singer+between+doom%2C+goth+rock+and+dark+folk%0Asupport%3A+A.A.+Williams%3B+one+of+four+German+dates%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+44.90+EUR+standing%2C+47.78+EUR+seated%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.capitol-mannheim.de%2Fnode%2F3013&location=Capitol%2C+Waldhofstra%C3%9Fe+2%2C+68169+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Waldhofstra%C3%9Fe%202%2C%2068169%20Mannheim",
- "priceValue": 47.9
+ "priceValue": 44.9
 }

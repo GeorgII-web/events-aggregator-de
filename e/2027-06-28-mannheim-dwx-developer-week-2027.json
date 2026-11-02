@@ -23,12 +23,14 @@
   "typescript",
   "conference",
   "dotnet",
-  "on-site"
+  "on-site",
+  "cloud",
+  "web"
  ],
  "details": "DWX (Developer Week) is one of the largest German developer conferences, \"the conference for AI, cloud, web and .NET development\". Workshop day Monday 28 June 2027, sessions Tuesday 29 June to Thursday 1 July 2027 at the m:con Congress Center Rosengarten in Mannheim.\n\nTracks cover .NET, web, cloud, DevOps and AI. The 2027 programme and prices were not published as of 1 Nov 2026 (the official page still shows the 2026 programme).",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:57:58.817Z",
+ "updatedAt": "2026-11-02T18:46:41.746Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -49,6 +51,36 @@
       "dotnet",
       "on-site"
      ]
+    ]
+   }
+  },
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:46:41.746Z",
+   "changes": {
+    "tags": [
+     [
+      "ai",
+      "csharp",
+      "typescript",
+      "conference",
+      "dotnet",
+      "on-site"
+     ],
+     [
+      "ai",
+      "csharp",
+      "typescript",
+      "conference",
+      "dotnet",
+      "on-site",
+      "cloud",
+      "web"
+     ]
+    ],
+    "merged": [
+     null,
+     "it-conferences/2027-06-28-mannheim-dwx-developer-world-experience-2027"
     ]
    }
   }

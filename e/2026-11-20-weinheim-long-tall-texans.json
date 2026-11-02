@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-20-weinheim-long-tall-texans",
+ "place": "Café Central",
+ "address": "Bahnhofstraße 19, 69469 Weinheim",
+ "city": "Weinheim",
+ "size": "small",
+ "status": "ok",
+ "source": "official",
+ "checked": "2026-11-02",
+ "name": "Long Tall Texans",
+ "description": "early UK psychobilly band from the 1980s Klubfoot scene",
+ "start": "2026-11-20",
+ "hours": "doors 19:00, start 20:00",
+ "price": "24 EUR (box office)",
+ "link": "https://cafecentral.de/konzert/long-tall-texans/",
+ "note": "support: Cobra Express",
+ "tags": [
+  "psychobilly",
+  "punk"
+ ],
+ "bands": [
+  "Long Tall Texans",
+  "Cobra Express"
+ ],
+ "details": "Long Tall Texans are an early psychobilly band who played London's Klubfoot in the 1980s; recent albums Adventures of the Long Tall Texans and The devil made us do it, sometimes leaning into ska. Support: Cobra Express.\n\nDoors 19:00, start 20:00; 24 EUR at the box office, tickets available as of 2 Nov.",
+ "end": "2026-11-20",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:46:46.388Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Long+Tall+Texans&dates=20261120T200000%2F20261120T220000&details=early+UK+psychobilly+band+from+the+1980s+Klubfoot+scene%0Asupport%3A+Cobra+Express%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+24+EUR+%28box+office%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fcafecentral.de%2Fkonzert%2Flong-tall-texans%2F&location=Caf%C3%A9+Central%2C+Bahnhofstra%C3%9Fe+19%2C+69469+Weinheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bahnhofstra%C3%9Fe%2019%2C%2069469%20Weinheim",
+ "priceValue": 24
+}

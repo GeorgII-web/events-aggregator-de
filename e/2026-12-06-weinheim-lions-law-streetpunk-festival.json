@@ -1,0 +1,39 @@
+{
+ "id": "2026-12-06-weinheim-lions-law-streetpunk-festival",
+ "place": "Café Central",
+ "address": "Bahnhofstraße 19, 69469 Weinheim",
+ "city": "Weinheim",
+ "size": "small",
+ "status": "ok",
+ "source": "official",
+ "checked": "2026-11-02",
+ "name": "Lions Law: Streetpunk Festival",
+ "description": "streetpunk evening with Lions Law, Mess (Mexico) and Breakout",
+ "start": "2026-12-06",
+ "hours": "doors 17:00, start 18:00",
+ "price": "33 EUR (box office)",
+ "link": "https://cafecentral.de/konzert/lions-law/",
+ "note": "with Mess (Mexico), Breakout",
+ "tags": [
+  "punk",
+  "oi"
+ ],
+ "bands": [
+  "Lions Law",
+  "Mess",
+  "Breakout"
+ ],
+ "details": "Streetpunk evening at Café Central with Lions Law, Mess from Mexico and Breakout. Doors 17:00, start 18:00; 33 EUR at the box office, tickets available via LoveYourArtist as of 2 Nov. The venue page gives no further description.",
+ "end": "2026-12-06",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:46:46.388Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lions+Law%3A+Streetpunk+Festival&dates=20261206T180000%2F20261206T200000&details=streetpunk+evening+with+Lions+Law%2C+Mess+%28Mexico%29+and+Breakout%0Awith+Mess+%28Mexico%29%2C+Breakout%0AHours%3A+doors+17%3A00%2C+start+18%3A00%0APrice%3A+33+EUR+%28box+office%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fcafecentral.de%2Fkonzert%2Flions-law%2F&location=Caf%C3%A9+Central%2C+Bahnhofstra%C3%9Fe+19%2C+69469+Weinheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bahnhofstra%C3%9Fe%2019%2C%2069469%20Weinheim",
+ "priceValue": 33
+}

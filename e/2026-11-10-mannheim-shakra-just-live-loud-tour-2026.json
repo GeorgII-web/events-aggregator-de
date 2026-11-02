@@ -4,31 +4,68 @@
  "description": "Swiss hard rock band on tour",
  "start": "2026-11-10",
  "end": "2026-11-10",
- "hours": "n/a",
+ "hours": "start 18:45",
  "place": "7er Club",
  "address": "Industriestraße 7, 68169 Mannheim",
  "city": "Mannheim",
  "price": "from 36.20 EUR",
  "size": "small",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://7er-club.de/show/shakra-2026/",
+ "source": "official",
+ "checked": "2026-11-02",
  "rating": "4.7",
  "tags": [
   "hard-rock",
   "rock"
  ],
- "details": "Shakra are a hard rock band from Switzerland, here on their 'Just Live Loud' tour in a small club. Date and price from the mvp.de listing; check the venue page before buying tickets.",
+ "details": "Swiss hard rock band Shakra on their Just Live Loud! German Tour 2026, with a special guest. The 7er Club lists start 18:45; tickets via Reservix and Eventim (from 36.20 EUR per mvp.de) and at the box office, cash or card, while not sold out.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.815Z",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:46:46.388Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:46:46.388Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "start 18:45"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/konzert-metal-hard-rock/",
+     "https://7er-club.de/show/shakra-2026/"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "note": [
+     null,
+     "+ special guest"
+    ],
+    "bands": [
+     null,
+     [
+      "Shakra"
+     ]
+    ]
+   }
+  }
+ ],
+ "note": "+ special guest",
+ "bands": [
+  "Shakra"
+ ],
  "topic": "rock-concerts",
  "groups": [
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shakra%3A+Just+Live+Loud+Tour+2026&dates=20261110%2F20261111&details=Swiss+hard+rock+band+on+tour%0AHours%3A+n%2Fa%0APrice%3A+from+36.20+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkonzert-metal-hard-rock%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shakra%3A+Just+Live+Loud+Tour+2026&dates=20261110T184500%2F20261110T204500&details=Swiss+hard+rock+band+on+tour%0A%2B+special+guest%0AHours%3A+start+18%3A45%0APrice%3A+from+36.20+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F7er-club.de%2Fshow%2Fshakra-2026%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
  "priceValue": 36.2
 }

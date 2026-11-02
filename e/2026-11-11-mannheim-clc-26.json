@@ -23,12 +23,13 @@
   "conference",
   "cloud",
   "kubernetes",
-  "on-site"
+  "on-site",
+  "devops"
  ],
  "details": "CLC (formerly Continuous Lifecycle / ContainerConf, heise and dpunkt) is a two-day conference on Platform Engineering, Developer Experience, Agentic AI, Dev(Sec)Ops, Container and Kubernetes, infrastructure and operations, observability and SRE.\n\nSpeakers come from Siemens, SAP, Vodafone, Sixt, Accenture, Amazon Web Services and others; talks are a mix of German and English. Ticket prices are in the online shop (not checked); teams of three or more get a group discount. B2B event for professional visitors.",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:57:58.817Z",
+ "updatedAt": "2026-11-02T18:46:41.698Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -48,6 +49,35 @@
       "kubernetes",
       "on-site"
      ]
+    ]
+   }
+  },
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:46:41.698Z",
+   "changes": {
+    "tags": [
+     [
+      "ai",
+      "aws",
+      "conference",
+      "cloud",
+      "kubernetes",
+      "on-site"
+     ],
+     [
+      "ai",
+      "aws",
+      "conference",
+      "cloud",
+      "kubernetes",
+      "on-site",
+      "devops"
+     ]
+    ],
+    "merged": [
+     null,
+     "it-conferences/2026-11-11-mannheim-continuous-lifecycle-2026"
     ]
    }
   }

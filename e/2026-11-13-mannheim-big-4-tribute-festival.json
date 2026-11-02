@@ -10,12 +10,12 @@
  "city": "Mannheim",
  "price": "from 32 EUR",
  "size": "small",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/big-4-tribute-festival-metallica-slayer-megadeth-anthrax/",
- "source": "mvp.de",
- "checked": "2026-11-01",
- "details": "Four tribute bands play the thrash \"Big 4\": Lamettica (Metallica), South of Hessen (Slayer), Megalive (Megadeth) and We're The Men (Anthrax). Promoter is Rockline Promotion.\n\nThe Saturday show (14 Nov) is sold out; the extra Friday show (13 Nov) still has tickets. The 7er Club's own programme page showed no dates, so this comes from mvp.de and its Reservix ticket shop.",
- "note": "Fri 13 Nov added, Sat 14 Nov sold out; mixed bill incl. a Metallica tribute",
+ "status": "ok",
+ "link": "https://7er-club.de/show/big-4-tribute-2026-zusatz/",
+ "source": "official",
+ "checked": "2026-11-02",
+ "details": "Tribute night to the Big 4 of thrash metal: Metallica, Slayer, Megadeth and Anthrax tribute bands on one bill. The 7er Club calendar lists the Saturday 14 Nov show as sold out (ausverkauft) and an extra show (Zusatzkonzert) on Friday 13 Nov; doors 18:00, start 19:00 both days. Tickets from 32 EUR per mvp.de.",
+ "note": "Fri 13 Nov extra date available, Sat 14 Nov sold out; mixed bill incl. a Metallica tribute",
  "tags": [
   "metal",
   "tribute-band",
@@ -28,15 +28,38 @@
   "We're The Men"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T21:57:33.916Z",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:46:46.388Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:46:46.388Z",
+   "changes": {
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/big-4-tribute-festival-metallica-slayer-megadeth-anthrax/",
+     "https://7er-club.de/show/big-4-tribute-2026-zusatz/"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "note": [
+     "Fri 13 Nov added, Sat 14 Nov sold out; mixed bill incl. a Metallica tribute",
+     "Fri 13 Nov extra date available, Sat 14 Nov sold out; mixed bill incl. a Metallica tribute"
+    ]
+   }
+  }
+ ],
  "topic": "rock-concerts",
  "groups": [
   "live",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Big+4+Tribute+Festival&dates=20261113%2F20261115&details=tribute+night+to+Metallica%2C+Slayer%2C+Megadeth+and+Anthrax%0AFri+13+Nov+added%2C+Sat+14+Nov+sold+out%3B+mixed+bill+incl.+a+Metallica+tribute%0AHours%3A+doors+18%3A00%2C+start+19%3A00%0APrice%3A+from+32+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fbig-4-tribute-festival-metallica-slayer-megadeth-anthrax%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Big+4+Tribute+Festival&dates=20261113%2F20261115&details=tribute+night+to+Metallica%2C+Slayer%2C+Megadeth+and+Anthrax%0AFri+13+Nov+extra+date+available%2C+Sat+14+Nov+sold+out%3B+mixed+bill+incl.+a+Metallica+tribute%0AHours%3A+doors+18%3A00%2C+start+19%3A00%0APrice%3A+from+32+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F7er-club.de%2Fshow%2Fbig-4-tribute-2026-zusatz%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
  "priceValue": 32
 }
