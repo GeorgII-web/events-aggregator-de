@@ -13,7 +13,7 @@
  "status": "ok",
  "link": "https://www.meetup.com/phpug-rhein-neckar/events/312782238/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "venue not announced yet; earlier meetups in Mannheim",
  "tags": [
   "php",
@@ -22,7 +22,7 @@
  ],
  "details": "Last 2026 meetup of the PHP User Group Metropolregion Rhein-Neckar. Agenda: 19:00 doors open, 19:30 intro, 19:45 \"How to deal with rate limits (from a consumer perspective)\" by Uwe Kleinmann, 20:30 break, 20:45 second talk tbd.\n\nThe venue was not announced as of 1 Nov 2026 (the February meetup was at October Labs in Mannheim). Free RSVP on Meetup; contact @phpugmrn@phpc.social or info@phpugmrn.de.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T20:57:58.817Z",
  "history": [
   {

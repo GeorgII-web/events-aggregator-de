@@ -13,7 +13,7 @@
  "status": "ok",
  "link": "https://www.meetup.com/objektforumka/events/316945653/",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-04",
  "details": "Free evening talk of the ObjektForum Karlsruhe, run by andrena objects: \"Agent Hijacking: Wie autonome KI zum Sicherheitsrisiko wird\" by Florian Rauls (Infinity Synaptics). It covers how autonomous coding agents such as Claude Code or Cursor can be manipulated or taken over through prompt injection, memory poisoning and persona engineering, and why classic security concepts fall short.\n\nThe second part shows protective measures, architecture approaches and recommendations for development and security teams. Networking with free food and drinks from 19:00. Seats are limited, registration on the organizer's website; donations go to a local social project.",
  "note": "German; limited seats, register on andrena.de",
  "tags": [
@@ -24,7 +24,7 @@
   "security"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T21:57:33.968Z",
  "history": [],
  "topic": "it-events",

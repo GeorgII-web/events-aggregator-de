@@ -13,7 +13,7 @@
  "status": "ok",
  "link": "https://www.meetup.com/rust-rhein-main/events/317175844/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "near Darmstadt, ~45 km from Mannheim",
  "website": "https://www.neqxt.org/",
  "tags": [
@@ -23,7 +23,7 @@
  ],
  "details": "Monthly meetup of the Rust Rhein-Main group. Gustavo talks about debugging Rust: the type system prevents many errors, but crashes and odd behaviour still need a debugger. Tools from GDB pretty-printers to rr (time-travel debugging) and debugging tools built for Rust.\n\nAt the neQxt office in Weiterstadt near Darmstadt. Free RSVP on Meetup.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T20:57:58.817Z",
  "history": [
   {

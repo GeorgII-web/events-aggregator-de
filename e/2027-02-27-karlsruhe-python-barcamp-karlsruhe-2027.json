@@ -13,7 +13,7 @@
  "status": "ok",
  "link": "https://barcamps.eu/pythonbarcamp-karlsruhe-2027/events",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-04",
  "details": "Fourth Python Barcamp in Karlsruhe at the DHBW, same venue as the 2026 edition and DevFest Karlsruhe. The programme is made by the participants each morning: talks, discussions and hands-on sessions from Python web and data work to AI tooling.\n\nSaturday 9:00-18:15 with a get-together in the evening (19:00-22:30, place tba), Sunday 9:00-17:30. Tram line 1 stops at the venue; parking garage next door.",
  "note": "German; barcamp format, evening get-together on Saturday",
  "tags": [
@@ -23,7 +23,7 @@
   "programming"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T21:57:33.968Z",
  "history": [],
  "topic": "it-events",

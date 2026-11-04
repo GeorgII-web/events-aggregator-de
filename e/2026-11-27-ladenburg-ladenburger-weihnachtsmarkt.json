@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-27-ladenburg-ladenburger-weihnachtsmarkt",
+ "name": "Ladenburger Weihnachtsmarkt",
+ "description": "small town Christmas market among half-timbered houses on the Roman-founded old town square",
+ "start": "2026-11-27",
+ "end": "2026-12-20",
+ "dateNote": "four Advent weekends Fri-Sun: 27-29 Nov, 4-6, 11-13, 18-20 Dec",
+ "hours": "Fri 18-21, Sat 14-20, Sun 12-20 (food until 21)",
+ "place": "Marktplatz",
+ "address": "Marktplatz, 68526 Ladenburg",
+ "city": "Ladenburg",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.ladenburg.de/de/Aktuelles/Veranstaltungskalender/Weihnachtsmarkt",
+ "source": "official",
+ "checked": "2026-11-04",
+ "tags": [
+  "christmas-market",
+  "heritage"
+ ],
+ "details": "The Christmas market of Ladenburg on the Marktplatz of the old town, with the stalls in front of half-timbered houses. Open on all four Advent weekends, Friday to Sunday.\n\nOpening Fri 27 Nov 18:00 by the mayor with the Stadtkapelle; Sun 6 Dec from 14:00 St. Nicholas; Sun 13 Dec from 11:00 Garango breakfast with the Polizeiorchester Mannheim; Sun 20 Dec 15-17 stories for children. Hours Fri 18-21, Sat 14-20, Sun 12-20, food stalls until 21. Free entry.",
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:29.113Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "christmas",
+  "castle"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ladenburger+Weihnachtsmarkt&dates=20261127%2F20261221&details=small+town+Christmas+market+among+half-timbered+houses+on+the+Roman-founded+old+town+square%0ADates%3A+four+Advent+weekends+Fri-Sun%3A+27-29+Nov%2C+4-6%2C+11-13%2C+18-20+Dec%0AHours%3A+Fri+18-21%2C+Sat+14-20%2C+Sun+12-20+%28food+until+21%29%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.ladenburg.de%2Fde%2FAktuelles%2FVeranstaltungskalender%2FWeihnachtsmarkt&location=Marktplatz%2C+68526+Ladenburg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marktplatz%2C%2068526%20Ladenburg",
+ "priceValue": 0
+}

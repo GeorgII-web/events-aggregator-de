@@ -13,8 +13,8 @@
  "status": "unconfirmed",
  "link": "https://sessionize.com/net-usergroup-karlsruhe",
  "source": "sessionize.com",
- "checked": "2026-11-01",
- "details": "The .NET User Group Karlsruhe meets once a month for one or two talks on .NET, programming techniques and coding dojos. 17 Dec 2026 is listed as a planned date on the group's call-for-speakers page; no topic, time or venue yet and no Meetup event so far.\n\nRecent meetups ran at bluehands in Karlsruhe (Waldstr. 63) from 17:00 or 18:30 and were free. Check the group's Meetup page closer to the date.",
+ "checked": "2026-11-04",
+ "details": "The .NET User Group Karlsruhe meets once a month for one or two talks on .NET, programming techniques and coding dojos. 17 Dec 2026 is still listed (checked 4 Nov) as a planned date on the group's call-for-speakers page; no topic, time or venue yet and no Meetup event so far.\n\nRecent meetups ran at bluehands in Karlsruhe (Waldstr. 63) from 17:00 or 18:30 and were free. Check the group's Meetup page closer to the date.",
  "note": "German; planned date only, not on Meetup yet",
  "tags": [
   "meetup",
@@ -23,7 +23,7 @@
   "dotnet"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T21:57:33.968Z",
  "history": [],
  "topic": "it-events",

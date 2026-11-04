@@ -13,7 +13,7 @@
  "status": "ok",
  "link": "https://www.clc-conference.eu/",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-04",
  "note": "talks in German and English; group discounts from 3",
  "rating": "4.4",
  "website": "http://www.mcon-mannheim.de/",
@@ -28,7 +28,7 @@
  ],
  "details": "CLC (formerly Continuous Lifecycle / ContainerConf, heise and dpunkt) is a two-day conference on Platform Engineering, Developer Experience, Agentic AI, Dev(Sec)Ops, Container and Kubernetes, infrastructure and operations, observability and SRE.\n\nSpeakers come from Siemens, SAP, Vodafone, Sixt, Accenture, Amazon Web Services and others; talks are a mix of German and English. Ticket prices are in the online shop (not checked); teams of three or more get a group discount. B2B event for professional visitors.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-02T18:46:41.698Z",
  "history": [
   {

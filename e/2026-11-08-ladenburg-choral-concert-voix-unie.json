@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-08-ladenburg-choral-concert-voix-unie",
+ "name": "Choral concert: voix unie",
+ "description": "young chamber choir of the Baden church youth choir in the town church",
+ "start": "2026-11-08",
+ "end": "2026-11-08",
+ "hours": "18:00",
+ "place": "Evangelische Stadtkirche",
+ "address": "Kirchenstraße 28, 68526 Ladenburg",
+ "city": "Ladenburg",
+ "price": "12 EUR (door)",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.ladenburg.de/de/Aktuelles/Veranstaltungskalender/Veranstaltung?view=publish&item=eventDate&id=4130",
+ "source": "official",
+ "checked": "2026-11-04",
+ "rating": "4.7",
+ "tags": [
+  "church-concert",
+  "choir",
+  "classical"
+ ],
+ "details": "A concert of \"voix unie\", the ensemble of the Evangelische Landesjugendkantorei in Baden: 20 young singers aged 20 to 28, founded in 2021, who sang at the Chorfest Baden in 2022 and 2025. Organized by the Protestant parish of Ladenburg in its town church.\n\nThe programme is not published. Tickets 12 EUR at the door only.",
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:29.113Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "church",
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Choral+concert%3A+voix+unie&dates=20261108T180000%2F20261108T200000&details=young+chamber+choir+of+the+Baden+church+youth+choir+in+the+town+church%0AHours%3A+18%3A00%0APrice%3A+12+EUR+%28door%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.ladenburg.de%2Fde%2FAktuelles%2FVeranstaltungskalender%2FVeranstaltung%3Fview%3Dpublish%26item%3DeventDate%26id%3D4130&location=Evangelische+Stadtkirche%2C+Kirchenstra%C3%9Fe+28%2C+68526+Ladenburg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kirchenstra%C3%9Fe%2028%2C%2068526%20Ladenburg",
+ "priceValue": 12
+}

@@ -10,10 +10,10 @@
  "city": "Bensheim",
  "price": "25 EUR (door 30 EUR)",
  "size": "small",
- "status": "ok",
+ "status": "sold out",
  "link": "https://www.rex-ticketshop.de/tickets/index.php?id=1357",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-04",
  "rating": "4.7",
  "website": "http://www.musiktheater-rex.de/",
  "tags": [
@@ -27,15 +27,26 @@
  ],
  "details": "Dio Alive is a homage to Ronnie James Dio and his years with Rainbow, Black Sabbath and as a solo artist. The band was founded in 2023 around the Dutch singer John \"Jaycee\" Cuijpers.\n\nThe set goes from radio hits to epic tracks and ballads: \"Man on the Silver Mountain\", \"Holy Diver\", \"Heaven and Hell\", \"Stargazer\".\n\nSaturday, doors 19:00, start 20:00. Rex tickets 25 EUR (bank transfer), 30 EUR at the door.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T21:57:33.864Z",
- "history": [],
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:29.113Z",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:33:29.113Z",
+   "changes": {
+    "status": [
+     "ok",
+     "sold out"
+    ]
+   }
+  }
+ ],
  "topic": "local-events",
  "groups": [
   "live",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DIO+Alive+%28Rainbow%2C+Black+Sabbath+%26+Dio+tribute%29&dates=20261107T200000%2F20261107T220000&details=tribute+to+Ronnie+James+Dio%27s+Rainbow%2C+Sabbath+and+solo+years%0AHours%3A+20%3A00+%28doors+19%3A00%29%0APrice%3A+25+EUR+%28door+30+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rex-ticketshop.de%2Ftickets%2Findex.php%3Fid%3D1357&location=Musiktheater+Rex%2C+Fabrikstra%C3%9Fe+10%2C+64625+Bensheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DIO+Alive+%28Rainbow%2C+Black+Sabbath+%26+Dio+tribute%29&dates=20261107T200000%2F20261107T220000&details=tribute+to+Ronnie+James+Dio%27s+Rainbow%2C+Sabbath+and+solo+years%0AHours%3A+20%3A00+%28doors+19%3A00%29%0APrice%3A+25+EUR+%28door+30+EUR%29%0AStatus%3A+sold+out+%28official%29%0Ahttps%3A%2F%2Fwww.rex-ticketshop.de%2Ftickets%2Findex.php%3Fid%3D1357&location=Musiktheater+Rex%2C+Fabrikstra%C3%9Fe+10%2C+64625+Bensheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Fabrikstra%C3%9Fe%2010%2C%2064625%20Bensheim",
  "priceValue": 25
 }

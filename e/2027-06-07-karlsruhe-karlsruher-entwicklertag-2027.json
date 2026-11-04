@@ -5,30 +5,45 @@
  "start": "2027-06-07",
  "end": "2027-06-09",
  "hours": "n/a",
- "place": "venue tba",
- "address": "n/a",
+ "place": "IHK Karlsruhe, Haus der Wirtschaft",
+ "address": "Lammstraße 13-17, 76133 Karlsruhe",
  "city": "Karlsruhe",
  "price": "n/a",
  "size": "medium",
  "status": "ok",
  "link": "https://www.entwicklertag.de",
  "source": "official",
- "checked": "2026-11-01",
- "details": "The Karlsruher Entwicklertag is a regional software development conference organised by andrena objects ag (talks, workshops and an Agile Day). It is held every June; the 2026 edition ran 8-10 June 2026.\n\nNo 2027 date was published as of 1 Nov 2026; the date shown here is a placeholder.",
+ "checked": "2026-11-04",
+ "details": "The Karlsruher Entwicklertag is a regional software development conference organised by andrena objects ag (talks, workshops and an Agile Day). The 2027 edition is announced for 7-9 June 2027 at the IHK Karlsruhe.\n\nProgramme, ticket prices and call for papers are not published yet (as of 4 Nov 2026).",
  "tags": [
   "conference",
   "on-site"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T21:57:33.968Z",
- "history": [],
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:30:52.696Z",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:30:52.696Z",
+   "changes": {
+    "place": [
+     "venue tba",
+     "IHK Karlsruhe, Haus der Wirtschaft"
+    ],
+    "address": [
+     "n/a",
+     "Lammstraße 13-17, 76133 Karlsruhe"
+    ]
+   }
+  }
+ ],
  "topic": "it-events",
  "groups": [
   "conference",
   "onsite"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Karlsruher+Entwicklertag+2027&dates=20270607%2F20270610&details=regional+software+development+conference+by+andrena+objects%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.entwicklertag.de&location=venue+tba%2C+Karlsruhe&ctz=Europe%2FBerlin",
- "mapsLink": "https://www.google.com/maps/search/?api=1&query=venue%20tba%2C%20Karlsruhe",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Karlsruher+Entwicklertag+2027&dates=20270607%2F20270610&details=regional+software+development+conference+by+andrena+objects%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.entwicklertag.de&location=IHK+Karlsruhe%2C+Haus+der+Wirtschaft%2C+Lammstra%C3%9Fe+13-17%2C+76133+Karlsruhe&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lammstra%C3%9Fe%2013-17%2C%2076133%20Karlsruhe",
  "priceValue": null
 }

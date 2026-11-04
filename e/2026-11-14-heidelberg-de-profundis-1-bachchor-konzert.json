@@ -3,34 +3,71 @@
  "name": "De Profundis: 1. Bachchor-Konzert",
  "start": "2026-11-14",
  "end": "2026-11-14",
- "hours": "n/a",
+ "hours": "19:00-20:20 (intro before)",
  "place": "Peterskirche",
  "address": "Plöck 70, 69117 Heidelberg",
  "city": "Heidelberg",
  "price": "from 20.10 EUR",
  "size": "small",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/",
- "source": "mvp.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.theaterheidelberg.de/en/programm/22453-de-profundis",
+ "source": "official",
+ "checked": "2026-11-04",
  "tags": [
   "classical",
   "church-concert",
-  "choir"
+  "choir",
+  "orchestra"
  ],
  "rating": "4.5",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
+ "lastSeen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:33:29.113Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "19:00-20:20 (intro before)"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/",
+     "https://www.theaterheidelberg.de/en/programm/22453-de-profundis"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "tags": [
+     [
+      "classical",
+      "church-concert",
+      "choir"
+     ],
+     [
+      "classical",
+      "church-concert",
+      "choir",
+      "orchestra"
+     ]
+    ]
+   }
+  }
+ ],
  "description": "choral concert of the Heidelberg Bach choir in a church",
- "updatedAt": "2026-11-01",
- "details": "\"De Profundis\" is the first concert of the season of the Heidelberg Bach choir, part of the Bachchor series of Theater und Orchester Heidelberg, in the Peterskirche, the university church in the old town.\n\nTickets from 20.10 EUR.",
+ "updatedAt": "2026-11-04T19:33:29.113Z",
+ "details": "The first Bachchor concert of the season: Hans Gál's cantata \"De profundis\" op. 50, written in Vienna in 1936/37 and first performed in 1948. Bachchor Heidelberg and the Philharmonisches Orchester Heidelberg under Dietger Holm, with soloists Indrė Pelakauskaitė, Elissa Pfaender, Winfrid Mikus and Wilfried Staber.\n\nIn the Peterskirche, the university church in the old town; 1 h 20 min without a break, with a short introduction in German before. Tickets from 20.10 EUR (listing price; the theatre page shows no prices).",
  "topic": "local-events",
  "groups": [
   "church",
   "classical"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=De+Profundis%3A+1.+Bachchor-Konzert&dates=20261114%2F20261115&details=choral+concert+of+the+Heidelberg+Bach+choir+in+a+church%0AHours%3A+n%2Fa%0APrice%3A+from+20.10+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Peterskirche%2C+Pl%C3%B6ck+70%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=De+Profundis%3A+1.+Bachchor-Konzert&dates=20261114T190000%2F20261114T210000&details=choral+concert+of+the+Heidelberg+Bach+choir+in+a+church%0AHours%3A+19%3A00-20%3A20+%28intro+before%29%0APrice%3A+from+20.10+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.theaterheidelberg.de%2Fen%2Fprogramm%2F22453-de-profundis&location=Peterskirche%2C+Pl%C3%B6ck+70%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pl%C3%B6ck%2070%2C%2069117%20Heidelberg",
  "priceValue": 20.1
 }

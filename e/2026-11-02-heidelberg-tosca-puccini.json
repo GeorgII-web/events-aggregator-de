@@ -12,14 +12,14 @@
  "status": "ok",
  "link": "https://www.theaterheidelberg.de/en/programm/22129-tosca",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "tags": [
   "classical",
   "opera"
  ],
- "dateNote": "Nov 2, 8, 10, 15, 28, 30 (30 Nov sold out); Dec 6, 25; more dates until 9 Apr",
+ "dateNote": "Nov 2, 8, 10, 15, 28, 30; Dec 6, 25; Apr 4, 9 (15, 28, 30 Nov and 6 Dec: last tickets)",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "history": [
   {
    "date": "2026-11-02",
@@ -46,17 +46,27 @@
      "Nov 2, 8, 10, 15, 28, 30 (30 Nov sold out); Dec 6, 25; more dates until 9 Apr"
     ]
    }
+  },
+  {
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:33:29.113Z",
+   "changes": {
+    "dateNote": [
+     "Nov 2, 8, 10, 15, 28, 30 (30 Nov sold out); Dec 6, 25; more dates until 9 Apr",
+     "Nov 2, 8, 10, 15, 28, 30; Dec 6, 25; Apr 4, 9 (15, 28, 30 Nov and 6 Dec: last tickets)"
+    ]
+   }
   }
  ],
  "description": "Puccini opera, staged by Theater Heidelberg",
- "updatedAt": "2026-11-02T18:50:55.988Z",
+ "updatedAt": "2026-11-04T19:33:29.113Z",
  "details": "Puccini's opera Tosca in a production of Theater und Orchester Heidelberg in the Marguerre-Saal of the city theatre. The drama of the singer Floria Tosca, the painter Cavaradossi and the police chief Scarpia is set in Rome in 1800; about 2.5 hours, recommended from 15.\n\nNovember and December dates per the theatre calendar: 2, 8, 10, 15, 28 and 30 November (30 Nov sold out), 6 and 25 December, with an introduction 45 minutes before most shows. Tickets from 25.60 EUR (mvp.de); more dates until April 2027.",
  "topic": "local-events",
  "groups": [
   "classical",
   "opera"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca+%28Puccini%29&dates=20261102%2F20270410&details=Puccini+opera%2C+staged+by+Theater+Heidelberg%0ADates%3A+Nov+2%2C+8%2C+10%2C+15%2C+28%2C+30+%2830+Nov+sold+out%29%3B+Dec+6%2C+25%3B+more+dates+until+9+Apr%0AHours%3A+19%3A30+%28Sun+8+Nov+%2B+6+Dec+%2B+25+Dec+19%3A00%2C+Sun+15+Nov+15%3A00%29%0APrice%3A+from+25.60+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.theaterheidelberg.de%2Fen%2Fprogramm%2F22129-tosca&location=Marguerre-Saal%2C+Theater+Heidelberg%2C+Theaterstra%C3%9Fe+10%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca+%28Puccini%29&dates=20261102%2F20270410&details=Puccini+opera%2C+staged+by+Theater+Heidelberg%0ADates%3A+Nov+2%2C+8%2C+10%2C+15%2C+28%2C+30%3B+Dec+6%2C+25%3B+Apr+4%2C+9+%2815%2C+28%2C+30+Nov+and+6+Dec%3A+last+tickets%29%0AHours%3A+19%3A30+%28Sun+8+Nov+%2B+6+Dec+%2B+25+Dec+19%3A00%2C+Sun+15+Nov+15%3A00%29%0APrice%3A+from+25.60+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.theaterheidelberg.de%2Fen%2Fprogramm%2F22129-tosca&location=Marguerre-Saal%2C+Theater+Heidelberg%2C+Theaterstra%C3%9Fe+10%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Theaterstra%C3%9Fe%2010%2C%2069117%20Heidelberg",
  "priceValue": 25.6
 }

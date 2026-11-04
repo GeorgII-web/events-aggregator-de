@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-07-heidelberg-buxtehude-membra-jesu-nostri",
+ "name": "Buxtehude: Membra Jesu nostri",
+ "description": "Buxtehude passion cantata cycle with baroque orchestra and chamber choir",
+ "start": "2026-11-07",
+ "end": "2026-11-07",
+ "hours": "18:15 (doors 17:45)",
+ "place": "Heiliggeistkirche",
+ "address": "Hauptstraße 189, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "price": "from 15 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/heidelberg/veranstaltungen/buxtehude-membra-jesu-nostri/",
+ "source": "mvp.de",
+ "checked": "2026-11-04",
+ "rating": "4.6",
+ "tags": [
+  "classical",
+  "church-concert",
+  "choir",
+  "chamber"
+ ],
+ "details": "Buxtehude's cycle of seven cantatas \"Membra Jesu nostri\" with the chamber choir of the Hochschule für Kirchenmusik Heidelberg and the Karlsruher Barockorchester under Michiya Azumi; soloists Johanna Zimmer, Risa Matsushima, Daniel Folqué, Daniel Schreiber and Philip Niederberger.\n\nIn the Heiliggeistkirche, the main church of the old town. Starts 18:15; tickets from 15 EUR via Reservix. Listing only, no organizer page found.",
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:29.113Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "church",
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Buxtehude%3A+Membra+Jesu+nostri&dates=20261107T181500%2F20261107T201500&details=Buxtehude+passion+cantata+cycle+with+baroque+orchestra+and+chamber+choir%0AHours%3A+18%3A15+%28doors+17%3A45%29%0APrice%3A+from+15+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fbuxtehude-membra-jesu-nostri%2F&location=Heiliggeistkirche%2C+Hauptstra%C3%9Fe+189%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hauptstra%C3%9Fe%20189%2C%2069117%20Heidelberg",
+ "priceValue": 15
+}

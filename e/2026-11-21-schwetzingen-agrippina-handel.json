@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-21-schwetzingen-agrippina-handel",
+ "name": "Agrippina (Handel)",
+ "description": "Handel opera in the baroque palace theatre of Schwetzingen",
+ "start": "2026-11-21",
+ "end": "2027-01-29",
+ "dateNote": "Nov 21, 24, 26; Dec 11, 13, 19, 21; Jan 19, 24, 28, 29 (21 Nov, 11 + 13 Dec: last tickets)",
+ "hours": "19:30 (Sun 13 Dec 15:00, Sun 24 Jan 18:00); intro 30 min before",
+ "place": "Rokokotheater, Schloss Schwetzingen",
+ "address": "Am Schloß, 68723 Schwetzingen",
+ "city": "Schwetzingen",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.theaterheidelberg.de/en/programm/22165-agrippina",
+ "source": "official",
+ "checked": "2026-11-04",
+ "rating": "4.7",
+ "tags": [
+  "classical",
+  "opera",
+  "heritage"
+ ],
+ "details": "Handel's \"Agrippina\" (dramma per musica, libretto by Vincenzo Grimani) in a new production of Theater und Orchester Heidelberg for its \"Winter in Schwetzingen\" baroque festival. Conductor Gerd Amelung, director Claudia Isabel Martin, Philharmonisches Orchester Heidelberg.\n\nPlayed in the small rococo theatre of Schwetzingen Palace (1752), one of the oldest working court theatres. Sung in Italian with German surtitles; age 14+. Introduction 30 minutes before each show. The page lists no prices; box office +49 6221 5820 000.",
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:29.113Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "castle",
+  "classical",
+  "opera"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Agrippina+%28Handel%29&dates=20261121%2F20270130&details=Handel+opera+in+the+baroque+palace+theatre+of+Schwetzingen%0ADates%3A+Nov+21%2C+24%2C+26%3B+Dec+11%2C+13%2C+19%2C+21%3B+Jan+19%2C+24%2C+28%2C+29+%2821+Nov%2C+11+%2B+13+Dec%3A+last+tickets%29%0AHours%3A+19%3A30+%28Sun+13+Dec+15%3A00%2C+Sun+24+Jan+18%3A00%29%3B+intro+30+min+before%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.theaterheidelberg.de%2Fen%2Fprogramm%2F22165-agrippina&location=Rokokotheater%2C+Schloss+Schwetzingen%2C+Am+Schlo%C3%9F%2C+68723+Schwetzingen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Am%20Schlo%C3%9F%2C%2068723%20Schwetzingen",
+ "priceValue": null
+}

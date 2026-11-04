@@ -13,7 +13,7 @@
  "status": "ok",
  "link": "https://www.meetup.com/java-user-group-karlsruhe/events/316709983/",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-04",
  "details": "Java User Group Karlsruhe talk \"From Code to Context – Wie KI Softwaresysteme wirklich verstehen kann\" by Alexander Pritzkau, enterprise and solution architect at adorsys.\n\nThe talk combines technical system knowledge from the code with project context such as architecture decisions, requirements and documentation, so that an AI gets a complete model of a software system including the reasons behind it. A live demo shows how the speaker uses this in his daily architecture work, with practical experience and limits. Language-agnostic topic despite the Java group.",
  "note": "German; demo",
  "tags": [
@@ -24,7 +24,7 @@
   "java"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T21:57:33.968Z",
  "history": [],
  "topic": "it-events",

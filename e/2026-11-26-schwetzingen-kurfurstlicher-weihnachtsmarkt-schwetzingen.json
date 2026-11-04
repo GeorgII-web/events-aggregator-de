@@ -3,31 +3,62 @@
  "name": "Kurfürstlicher Weihnachtsmarkt Schwetzingen",
  "start": "2026-11-26",
  "end": "2026-12-20",
- "dateNote": "2026 dates not out, 2025 pattern Thu-Sat",
- "hours": "n/a",
+ "dateNote": "four Thu-Sun blocks: 26-29 Nov, 3-6, 10-13, 17-20 Dec",
+ "hours": "Thu-Fri 17-21, Sat-Sun 12-21 (Schlossplatz until 21:30)",
  "place": "Schloss Ehrenhof and Schlossplatz",
  "address": "Schlossplatz, 68723 Schwetzingen",
  "city": "Schwetzingen",
  "price": "free",
- "size": "small",
- "status": "no dates yet",
- "link": "n/a",
- "source": "heidelberg24.de",
- "checked": "2026-11-01",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.schloss-schwetzingen.de/besuchsinformation/veranstaltungen/kurfuerstlicher-weihnachtsmarkt",
+ "source": "official",
+ "checked": "2026-11-04",
  "tags": [
   "christmas-market"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
+ "lastSeen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:33:29.113Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "Thu-Fri 17-21, Sat-Sun 12-21 (Schlossplatz until 21:30)"
+    ],
+    "size": [
+     "small",
+     "medium"
+    ],
+    "status": [
+     "no dates yet",
+     "ok"
+    ],
+    "link": [
+     "n/a",
+     "https://www.schloss-schwetzingen.de/besuchsinformation/veranstaltungen/kurfuerstlicher-weihnachtsmarkt"
+    ],
+    "source": [
+     "heidelberg24.de",
+     "official"
+    ],
+    "dateNote": [
+     "2026 dates not out, 2025 pattern Thu-Sat",
+     "four Thu-Sun blocks: 26-29 Nov, 3-6, 10-13, 17-20 Dec"
+    ]
+   }
+  }
+ ],
  "description": "Christmas market in front of the palace",
- "updatedAt": "2026-11-01",
- "details": "The \"Kurfürstlicher Weihnachtsmarkt\" in the Ehrenhof and on the Schlossplatz of Schwetzingen Palace, the summer residence of the Electors Palatine.\n\nThe 2026 dates are not announced yet; in 2025 it ran from late November to 21 December, Thursday to Saturday. Entry was free.",
+ "updatedAt": "2026-11-04T19:33:29.113Z",
+ "details": "The \"Kurfürstlicher Weihnachtsmarkt\" in the Ehrenhof (main courtyard) of Schwetzingen Palace, the former summer residence of the Electors Palatine, and on the Schlossplatz in front of it.\n\nIt runs on four Thursday-to-Sunday blocks: 26-29 Nov, 3-6 Dec, 10-13 Dec and 17-20 Dec 2026; closed Monday to Wednesday. Ehrenhof: Thu-Fri 17-21, Sat-Sun 12-21; Schlossplatz until 21:30. Entry is free.",
  "topic": "local-events",
  "groups": [
   "christmas"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kurf%C3%BCrstlicher+Weihnachtsmarkt+Schwetzingen&dates=20261126%2F20261221&details=Christmas+market+in+front+of+the+palace%0ADates%3A+2026+dates+not+out%2C+2025+pattern+Thu-Sat%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+no+dates+yet+%28heidelberg24.de%29&location=Schloss+Ehrenhof+and+Schlossplatz%2C+Schlossplatz%2C+68723+Schwetzingen&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kurf%C3%BCrstlicher+Weihnachtsmarkt+Schwetzingen&dates=20261126%2F20261221&details=Christmas+market+in+front+of+the+palace%0ADates%3A+four+Thu-Sun+blocks%3A+26-29+Nov%2C+3-6%2C+10-13%2C+17-20+Dec%0AHours%3A+Thu-Fri+17-21%2C+Sat-Sun+12-21+%28Schlossplatz+until+21%3A30%29%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.schloss-schwetzingen.de%2Fbesuchsinformation%2Fveranstaltungen%2Fkurfuerstlicher-weihnachtsmarkt&location=Schloss+Ehrenhof+and+Schlossplatz%2C+Schlossplatz%2C+68723+Schwetzingen&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Schlossplatz%2C%2068723%20Schwetzingen",
  "priceValue": 0
 }

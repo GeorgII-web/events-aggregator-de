@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-15-heidelberg-salon-concert-sukyeon-kim-piano",
+ "name": "Salon concert: Sukyeon Kim (piano)",
+ "description": "piano salon recital of waltzes and dances",
+ "start": "2026-11-15",
+ "end": "2026-11-15",
+ "hours": "17:00 (doors 16:30)",
+ "place": "Palais Prinz Carl",
+ "address": "Kornmarkt 1, 69117 Heidelberg",
+ "city": "Heidelberg",
+ "price": "from 23.20 EUR",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/heidelberg/veranstaltungen/salonkonzert-mit-sukyeon-kim-klavier-mit-werken-von-brahms-chopin-liszt/",
+ "source": "mvp.de",
+ "checked": "2026-11-04",
+ "rating": "4.8",
+ "tags": [
+  "classical",
+  "chamber",
+  "piano"
+ ],
+ "details": "A piano salon concert by the Korean pianist Sukyeon Kim in the Palais Prinz Carl, a baroque palace on the Kornmarkt below the castle. Programme: Schubert's German Dances D 783, Chopin's Grande Valse Brillante and Boléro, Ravel's Pavane and Jeux d'eau, Brahms' 16 Waltzes op. 39, and paraphrases by Moszkowski (Carmen) and Liszt (Faust waltz).\n\nStarts 17:00; tickets from 23.20 EUR via Reservix. Listing only. 15 Nov is Volkstrauertag.",
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:29.113Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Salon+concert%3A+Sukyeon+Kim+%28piano%29&dates=20261115T170000%2F20261115T190000&details=piano+salon+recital+of+waltzes+and+dances%0AHours%3A+17%3A00+%28doors+16%3A30%29%0APrice%3A+from+23.20+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fheidelberg%2Fveranstaltungen%2Fsalonkonzert-mit-sukyeon-kim-klavier-mit-werken-von-brahms-chopin-liszt%2F&location=Palais+Prinz+Carl%2C+Kornmarkt+1%2C+69117+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kornmarkt%201%2C%2069117%20Heidelberg",
+ "priceValue": 23.2
+}

@@ -8,13 +8,13 @@
  "place": "Heidelberg Congress Center (HCC)",
  "address": "Czernyring 20, 69115 Heidelberg",
  "city": "Heidelberg",
- "price": "from 690 EUR",
+ "price": "from 790 EUR",
  "size": "big",
  "status": "ok",
  "link": "https://pycon.de/",
  "source": "official",
- "checked": "2026-11-01",
- "note": "early bird I until 4 Nov 2026; CFP 4 Nov – 20 Dec 2026",
+ "checked": "2026-11-04",
+ "note": "Edition II tickets 790 EUR until 10 Feb 2027; CFP 4 Nov – 20 Dec 2026",
  "dateNote": "conference 20-22 Apr",
  "rating": "4.4",
  "website": "https://www.heidelberg-congress.com/",
@@ -24,10 +24,10 @@
   "conference",
   "on-site"
  ],
- "details": "PyCon DE & PyData moves to Heidelberg in 2027, as \"the leading conference for applied AI with open source\". 19 April: masterclasses and Django Girls; 20-22 April: conference at the HCC with a social event and a start-up day on 21 April; 23-24 April: sprints, hackathons and a beginners' day.\n\nMasterclass topics include Python backends and databases, pytest and Rust for Python developers. Early-Bird Edition I costs 690 EUR (150 tickets, until 4 Nov 2026), later editions cost more. The call for proposals runs 4 Nov – 20 Dec 2026.",
+ "details": "PyCon DE & PyData moves to Heidelberg in 2027, as \"the leading conference for applied AI with open source\". 19 April: masterclasses and Django Girls; 20-22 April: conference at the HCC with a social event and a start-up day on 21 April; 23-24 April: sprints, hackathons and a beginners' day.\n\nMasterclass topics include Python backends and databases, pytest and Rust for Python developers. Early-Bird Edition I is over; Edition II (Blind Bird) costs 790 EUR until 10 Feb 2027, then Wise Bird and from 3 Mar 2027 Late Bird at higher prices. The organizers say PyCon DE sells out every year. The call for proposals runs 4 Nov – 20 Dec 2026 (talks 30/45 min, tutorials 90 min).",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:57:58.817Z",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:30:52.696Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -47,6 +47,20 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:30:52.696Z",
+   "changes": {
+    "price": [
+     "from 690 EUR",
+     "from 790 EUR"
+    ],
+    "note": [
+     "early bird I until 4 Nov 2026; CFP 4 Nov – 20 Dec 2026",
+     "Edition II tickets 790 EUR until 10 Feb 2027; CFP 4 Nov – 20 Dec 2026"
+    ]
+   }
   }
  ],
  "topic": "it-events",
@@ -54,7 +68,7 @@
   "conference",
   "onsite"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PyCon+DE+%26+PyData+2027&dates=20270419%2F20270425&details=Python+and+applied-AI+open+source+conference%2C+masterclasses+and+sprints%0Aearly+bird+I+until+4+Nov+2026%3B+CFP+4+Nov+%E2%80%93+20+Dec+2026%0ADates%3A+conference+20-22+Apr%0AHours%3A+n%2Fa%0APrice%3A+from+690+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fpycon.de%2F&location=Heidelberg+Congress+Center+%28HCC%29%2C+Czernyring+20%2C+69115+Heidelberg&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PyCon+DE+%26+PyData+2027&dates=20270419%2F20270425&details=Python+and+applied-AI+open+source+conference%2C+masterclasses+and+sprints%0AEdition+II+tickets+790+EUR+until+10+Feb+2027%3B+CFP+4+Nov+%E2%80%93+20+Dec+2026%0ADates%3A+conference+20-22+Apr%0AHours%3A+n%2Fa%0APrice%3A+from+790+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fpycon.de%2F&location=Heidelberg+Congress+Center+%28HCC%29%2C+Czernyring+20%2C+69115+Heidelberg&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Czernyring%2020%2C%2069115%20Heidelberg",
- "priceValue": 690
+ "priceValue": 790
 }

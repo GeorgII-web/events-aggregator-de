@@ -13,9 +13,9 @@
  "status": "unconfirmed",
  "link": "https://www.mvp.de/mannheim/veranstaltungen/stahlzeit-maimarkt-club-mannheim/",
  "source": "mvp.de",
- "checked": "2026-11-02",
- "details": "Stahlzeit is a Rammstein tribute show with a full pyro production, on its 20th anniversary tour (also billed as Jubiläumstour 20 Plus). Start 20:00 at the Maimarkt Club; tickets from 53.90 EUR via Eventim, no sold-out notice as of 2 Nov. The band's own site could not be opened, so the date rests on mvp.de and regioactive.de.",
- "note": "Rammstein tribute (favourite band)",
+ "checked": "2026-11-04",
+ "details": "Stahlzeit is a Rammstein tribute show with a full pyro production, on its 20th anniversary tour (also billed as Jubiläumstour 20 Plus). Start 20:00 at the Maimarkt Club; tickets from 53.90 EUR via Eventim, no sold-out notice as of 4 Nov. The band's own site could not be opened, so the date rests on mvp.de and regioactive.de. Eventworld lists the same date at the Maimarkthalle (same Maimarkt grounds), so check the hall on the ticket.",
+ "note": "Rammstein tribute (favourite band); one seller names the Maimarkthalle",
  "tags": [
   "metal",
   "industrial",
@@ -26,8 +26,8 @@
   "Stahlzeit"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
- "updatedAt": "2026-11-02T18:52:07.716Z",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:34:53.453Z",
  "history": [
   {
    "date": "2026-11-02",
@@ -55,6 +55,16 @@
      "local-events/2026-11-14-mannheim-stahlzeit-zeitlos-20-anniversary-tour"
     ]
    }
+  },
+  {
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:34:53.453Z",
+   "changes": {
+    "note": [
+     "Rammstein tribute (favourite band)",
+     "Rammstein tribute (favourite band); one seller names the Maimarkthalle"
+    ]
+   }
   }
  ],
  "rating": "4.3",
@@ -63,7 +73,7 @@
   "live",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Stahlzeit%3A+Zeitlos+20+Jubil%C3%A4umstour&dates=20261114T200000%2F20261114T220000&details=Rammstein+tribute+show+with+full+pyro%2C+20th+anniversary+tour%0ARammstein+tribute+%28favourite+band%29%0AHours%3A+20%3A00%0APrice%3A+from+53.90+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fstahlzeit-maimarkt-club-mannheim%2F&location=Maimarkt+Club%2C+Xaver-Fuhr-Stra%C3%9Fe+101%2C+68163+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Stahlzeit%3A+Zeitlos+20+Jubil%C3%A4umstour&dates=20261114T200000%2F20261114T220000&details=Rammstein+tribute+show+with+full+pyro%2C+20th+anniversary+tour%0ARammstein+tribute+%28favourite+band%29%3B+one+seller+names+the+Maimarkthalle%0AHours%3A+20%3A00%0APrice%3A+from+53.90+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fstahlzeit-maimarkt-club-mannheim%2F&location=Maimarkt+Club%2C+Xaver-Fuhr-Stra%C3%9Fe+101%2C+68163+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Xaver-Fuhr-Stra%C3%9Fe%20101%2C%2068163%20Mannheim",
  "priceValue": 53.9
 }

@@ -13,7 +13,7 @@
  "status": "ok",
  "link": "https://www.meetup.com/aws-user-group-bergstrasse/events/316810843/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "rating": "4.6",
  "website": "https://www.imtf.com/",
  "tags": [
@@ -25,7 +25,7 @@
  ],
  "details": "Talk \"From Fragmented Infra to Golden Path\": how a company built an internal developer platform on Amazon EKS so product teams go from idea to running service without becoming Kubernetes experts. Crossplane provisions cloud infrastructure through Kubernetes APIs, Argo CD drives everything via GitOps; the talk covers what nearly derailed the project and what helped.\n\nSpeaker listed as Christopher Haar; hosted by Johannes Koch and Sergei Romanow. At IMTF in Bensheim. Free RSVP on Meetup.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-02T18:46:54.008Z",
  "history": [
   {

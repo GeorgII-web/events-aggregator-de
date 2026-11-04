@@ -1,0 +1,40 @@
+{
+ "id": "2026-12-01-karlsruhe-ai-cloud-innovation-karlsruhe-enabling-sandboxed-agents",
+ "name": "AI & Cloud Innovation Karlsruhe: Enabling Sandboxed Agents",
+ "description": "talk on sandboxing AI coding agents with oh-my-agentic-coder (omac)",
+ "start": "2026-12-01",
+ "end": "2026-12-01",
+ "hours": "18:00-21:00",
+ "place": "TNG Technology Consulting GmbH",
+ "address": "Amalienbadstraße 41a, 76227 Karlsruhe",
+ "city": "Karlsruhe",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.meetup.com/ai-cloud-innovation-karlsruhe/events/317258992/",
+ "source": "official",
+ "checked": "2026-11-04",
+ "rating": "5.0",
+ "website": "https://www.tngtech.com/",
+ "note": "doors 18:00, talk 18:30-19:15, then food and networking",
+ "tags": [
+  "meetup",
+  "on-site",
+  "ai",
+  "agents",
+  "security"
+ ],
+ "details": "Meetup of the AI & Cloud Innovation Karlsruhe group, hosted by TNG Technology Consulting. The talk presents oh-my-agentic-coder (omac), a sandboxing tool built at TNG that limits what a coding agent can do with kernel features such as bubblewrap, seatbelt and landlock, and keeps sensitive data away from the agent through its skill system.\n\nIt also covers the tool's development, advantages, challenges and lessons learned. Doors 18:00, talk 18:30-19:15, food, drinks and networking from 19:30. Speaker, language and price are not stated on the event page (as of 4 Nov 2026).",
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:30:52.696Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=AI+%26+Cloud+Innovation+Karlsruhe%3A+Enabling+Sandboxed+Agents&dates=20261201T180000%2F20261201T200000&details=talk+on+sandboxing+AI+coding+agents+with+oh-my-agentic-coder+%28omac%29%0Adoors+18%3A00%2C+talk+18%3A30-19%3A15%2C+then+food+and+networking%0AHours%3A+18%3A00-21%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meetup.com%2Fai-cloud-innovation-karlsruhe%2Fevents%2F317258992%2F&location=TNG+Technology+Consulting+GmbH%2C+Amalienbadstra%C3%9Fe+41a%2C+76227+Karlsruhe&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Amalienbadstra%C3%9Fe%2041a%2C%2076227%20Karlsruhe",
+ "priceValue": null
+}

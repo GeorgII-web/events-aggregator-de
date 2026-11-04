@@ -1,0 +1,45 @@
+{
+ "id": "2027-01-30-ludwigshafen-zweites-krautrockfestival-ludwigshafen",
+ "name": "Zweites Krautrockfestival Ludwigshafen",
+ "description": "krautrock festival: Birth Control, Guru Guru, Ton Steine Scherben songs, Sponti Band",
+ "start": "2027-01-30",
+ "end": "2027-01-30",
+ "hours": "doors 16:00, music 17:00-23:00",
+ "place": "Kulturzentrum dasHaus",
+ "address": "Bahnhofstraße 30, 67059 Ludwigshafen am Rhein",
+ "city": "Ludwigshafen",
+ "rating": "4.3",
+ "website": "https://www.dashaus-lu.de/",
+ "price": "from 49.70 EUR",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://www.mvp.de/rheinland-pfalz/veranstaltungen/zweites-krautrockfestival-ludwigshafen-dashaus/",
+ "source": "mvp.de",
+ "checked": "2026-11-04",
+ "note": "organizer PALATINO-Concerts",
+ "tags": [
+  "rock",
+  "krautrock",
+  "prog-rock",
+  "music-festival"
+ ],
+ "bands": [
+  "Birth Control",
+  "Guru Guru",
+  "Ton Steine Scherben",
+  "Sponti Band"
+ ],
+ "details": "Second edition of the Ludwigshafen krautrock festival (the first, Jan 2026, had Kraan, Jane, Guru Guru, Epitaph). Line-up: Birth Control, Guru Guru led by drummer Mani Neumeier, Ton Steine Scherben songs played by Kai & Funky with singer Birte Volta, and the Sponti Band.\n\nDoors 16:00, music 17:00-23:00; tickets from 49.70 EUR via Reservix. Organizer PALATINO-Concerts; listed only on mvp.de and regioactive.de as of 4 Nov (dasHaus site unavailable), so unconfirmed.",
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:34:53.453Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zweites+Krautrockfestival+Ludwigshafen&dates=20270130T160000%2F20270130T180000&details=krautrock+festival%3A+Birth+Control%2C+Guru+Guru%2C+Ton+Steine+Scherben+songs%2C+Sponti+Band%0Aorganizer+PALATINO-Concerts%0AHours%3A+doors+16%3A00%2C+music+17%3A00-23%3A00%0APrice%3A+from+49.70+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Frheinland-pfalz%2Fveranstaltungen%2Fzweites-krautrockfestival-ludwigshafen-dashaus%2F&location=Kulturzentrum+dasHaus%2C+Bahnhofstra%C3%9Fe+30%2C+67059+Ludwigshafen+am+Rhein&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bahnhofstra%C3%9Fe%2030%2C%2067059%20Ludwigshafen%20am%20Rhein",
+ "priceValue": 49.7
+}

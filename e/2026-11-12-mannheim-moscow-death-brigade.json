@@ -10,18 +10,18 @@
  "city": "Mannheim",
  "price": "from 28.80 EUR",
  "size": "small",
- "status": "ok",
+ "status": "cancelled",
  "link": "https://7er-club.de/show/moscow-death-brigade-2026/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "rating": "4.7",
  "tags": [
   "punk"
  ],
- "details": "Moscow Death Brigade play \"Antifascist Circle Pit Hip-Hop\" since 2007: hardcore punk and metal in the tradition of Hatebreed and Agnostic Front mixed with 90s hip-hop and electronics; political lyrics in Russian and English. Support: Ground 2A (DE), part of the Worldwide Unite Tour 2026.\n\nStart 20:00 per the 7er Club, doors 19:00 per mvp.de; tickets from 27.60 EUR (mvp.de / Reservix) and at the box office.",
+ "details": "Moscow Death Brigade play \"Antifascist Circle Pit Hip-Hop\" since 2007: hardcore punk and metal in the tradition of Hatebreed and Agnostic Front mixed with 90s hip-hop and electronics; political lyrics in Russian and English. Support: Ground 2A (DE), part of the Worldwide Unite Tour 2026.\n\nStart 20:00 per the 7er Club, doors 19:00 per mvp.de; tickets from 27.60 EUR (mvp.de / Reservix) and at the box office.\n\nCancelled: as of 4 Nov the 7er Club calendar lists the show as \"ABGESAGT\" (\"Fällt leider aus\"); refunds where the tickets were bought.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
- "updatedAt": "2026-11-02T18:46:46.388Z",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:34:53.453Z",
  "history": [
   {
    "date": "2026-11-02",
@@ -55,9 +55,23 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:34:53.453Z",
+   "changes": {
+    "status": [
+     "ok",
+     "cancelled"
+    ],
+    "note": [
+     "support: Ground 2A",
+     "cancelled by the venue; support: Ground 2A"
+    ]
+   }
   }
  ],
- "note": "support: Ground 2A",
+ "note": "cancelled by the venue; support: Ground 2A",
  "bands": [
   "Moscow Death Brigade",
   "Ground 2A"
@@ -66,7 +80,7 @@
  "groups": [
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Moscow+Death+Brigade&dates=20261112T200000%2F20261112T220000&details=punk+and+hip-hop+crew+known+for+masked+live+shows%0Asupport%3A+Ground+2A%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+from+28.80+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F7er-club.de%2Fshow%2Fmoscow-death-brigade-2026%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Moscow+Death+Brigade&dates=20261112T200000%2F20261112T220000&details=punk+and+hip-hop+crew+known+for+masked+live+shows%0Acancelled+by+the+venue%3B+support%3A+Ground+2A%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+from+28.80+EUR%0AStatus%3A+cancelled+%28official%29%0Ahttps%3A%2F%2F7er-club.de%2Fshow%2Fmoscow-death-brigade-2026%2F&location=7er+Club%2C+Industriestra%C3%9Fe+7%2C+68169+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Industriestra%C3%9Fe%207%2C%2068169%20Mannheim",
  "priceValue": 28.8
 }

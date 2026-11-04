@@ -3,32 +3,47 @@
  "name": "Kammermusik in den REM: 3. Konzert",
  "start": "2026-11-18",
  "end": "2026-11-18",
- "hours": "n/a",
+ "hours": "19:00",
  "place": "Florian-Waldeck-Saal, Reiss-Engelhorn-Museen",
  "address": "D5 1, 68159 Mannheim",
  "city": "Mannheim",
  "price": "from 43.72 EUR",
  "size": "small",
  "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/kammermusik-in-den-rem-3-konzert-florian-waldeck-saal-mannheim/",
  "source": "mvp.de",
- "checked": "2026-11-01",
+ "checked": "2026-11-04",
  "tags": [
   "classical",
   "chamber"
  ],
  "rating": "4.4",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
+ "lastSeen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:33:29.113Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "19:00"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+     "https://www.mvp.de/mannheim/veranstaltungen/kammermusik-in-den-rem-3-konzert-florian-waldeck-saal-mannheim/"
+    ]
+   }
+  }
+ ],
  "description": "chamber music evening in the museum hall",
- "updatedAt": "2026-11-01",
- "details": "The third concert of the chamber music series in the Reiss-Engelhorn-Museen, played in the Florian-Waldeck-Saal of the Museum Weltkulturen in Mannheim's city centre.\n\nTickets from 43.72 EUR as listed.",
+ "updatedAt": "2026-11-04T19:33:29.113Z",
+ "details": "The third concert of the chamber music series in the Reiss-Engelhorn-Museen, in the Florian-Waldeck-Saal of the Museum Zeughaus C5 in Mannheim's city centre. The listing names Haydn's String Quartet in F major op. 77 no. 2.\n\nStarts 19:00; tickets from 43.72 EUR as listed (aggregator only, no organizer page found).",
  "topic": "local-events",
  "groups": [
   "classical"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kammermusik+in+den+REM%3A+3.+Konzert&dates=20261118%2F20261119&details=chamber+music+evening+in+the+museum+hall%0AHours%3A+n%2Fa%0APrice%3A+from+43.72+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Florian-Waldeck-Saal%2C+Reiss-Engelhorn-Museen%2C+D5+1%2C+68159+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kammermusik+in+den+REM%3A+3.+Konzert&dates=20261118T190000%2F20261118T210000&details=chamber+music+evening+in+the+museum+hall%0AHours%3A+19%3A00%0APrice%3A+from+43.72+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fkammermusik-in-den-rem-3-konzert-florian-waldeck-saal-mannheim%2F&location=Florian-Waldeck-Saal%2C+Reiss-Engelhorn-Museen%2C+D5+1%2C+68159+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=D5%201%2C%2068159%20Mannheim",
  "priceValue": 43.72
 }

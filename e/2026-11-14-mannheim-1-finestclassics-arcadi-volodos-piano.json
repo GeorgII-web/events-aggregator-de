@@ -3,32 +3,47 @@
  "name": "1. FinestClassics: Arcadi Volodos (piano)",
  "start": "2026-11-14",
  "end": "2026-11-14",
- "hours": "n/a",
+ "hours": "20:00",
  "place": "Aula der Universität Mannheim",
  "address": "Schloss, Bismarckstraße, 68161 Mannheim",
  "city": "Mannheim",
  "price": "from 49.40 EUR",
  "size": "medium",
  "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/1-finestclassics-arcadi-volodos-aula-der-universitaet-mannheim/",
  "source": "mvp.de",
- "checked": "2026-11-01",
+ "checked": "2026-11-04",
  "tags": [
   "classical",
   "piano"
  ],
  "rating": "4.5",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
+ "lastSeen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:33:29.113Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "20:00"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+     "https://www.mvp.de/mannheim/veranstaltungen/1-finestclassics-arcadi-volodos-aula-der-universitaet-mannheim/"
+    ]
+   }
+  }
+ ],
  "description": "solo piano recital by a star pianist",
- "updatedAt": "2026-11-01",
+ "updatedAt": "2026-11-04T19:33:29.113Z",
  "details": "A solo piano recital by Arcadi Volodos, the Russian pianist known for his virtuosity and his poetic Schubert and Brahms. It opens the FinestClassics series in the Aula of the University of Mannheim, the baroque hall of Mannheim Palace.\n\nTickets from 49.40 EUR.",
  "topic": "local-events",
  "groups": [
   "classical"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=1.+FinestClassics%3A+Arcadi+Volodos+%28piano%29&dates=20261114%2F20261115&details=solo+piano+recital+by+a+star+pianist%0AHours%3A+n%2Fa%0APrice%3A+from+49.40+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Aula+der+Universit%C3%A4t+Mannheim%2C+Schloss%2C+Bismarckstra%C3%9Fe%2C+68161+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=1.+FinestClassics%3A+Arcadi+Volodos+%28piano%29&dates=20261114T200000%2F20261114T220000&details=solo+piano+recital+by+a+star+pianist%0AHours%3A+20%3A00%0APrice%3A+from+49.40+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2F1-finestclassics-arcadi-volodos-aula-der-universitaet-mannheim%2F&location=Aula+der+Universit%C3%A4t+Mannheim%2C+Schloss%2C+Bismarckstra%C3%9Fe%2C+68161+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Schloss%2C%20Bismarckstra%C3%9Fe%2C%2068161%20Mannheim",
  "priceValue": 49.4
 }

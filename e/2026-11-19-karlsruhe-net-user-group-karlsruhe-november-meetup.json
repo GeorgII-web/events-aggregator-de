@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-19-karlsruhe-net-user-group-karlsruhe-november-meetup",
+ "name": ".NET User Group Karlsruhe: November meetup",
+ "description": "monthly .NET user group meetup; topic not announced yet",
+ "start": "2026-11-19",
+ "end": "2026-11-19",
+ "hours": "n/a",
+ "place": "venue tba (recent meetups at bluehands)",
+ "address": "n/a",
+ "city": "Karlsruhe",
+ "price": "free",
+ "size": "small",
+ "status": "unconfirmed",
+ "link": "https://sessionize.com/net-usergroup-karlsruhe",
+ "source": "sessionize.com",
+ "checked": "2026-11-04",
+ "note": "German; planned date only, not on Meetup yet",
+ "tags": [
+  "meetup",
+  "on-site",
+  "csharp",
+  "dotnet"
+ ],
+ "details": "The .NET User Group Karlsruhe meets once a month for talks on .NET, programming techniques and coding dojos. 19 Nov 2026 appeared as a planned date on the group's call-for-speakers page on 4 Nov; no topic, time or venue yet and no Meetup event so far (the group's only Meetup event is the .NET 11 launch watch party on 10 Nov).\n\nRecent meetups ran at bluehands in Karlsruhe (Waldstr. 63) and were free. Check the group's Meetup page closer to the date.",
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:30:52.696Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=.NET+User+Group+Karlsruhe%3A+November+meetup&dates=20261119%2F20261120&details=monthly+.NET+user+group+meetup%3B+topic+not+announced+yet%0AGerman%3B+planned+date+only%2C+not+on+Meetup+yet%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+unconfirmed+%28sessionize.com%29%0Ahttps%3A%2F%2Fsessionize.com%2Fnet-usergroup-karlsruhe&location=venue+tba+%28recent+meetups+at+bluehands%29%2C+Karlsruhe&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=venue%20tba%20(recent%20meetups%20at%20bluehands)%2C%20Karlsruhe",
+ "priceValue": 0
+}

@@ -1,0 +1,38 @@
+{
+ "id": "2026-12-03-weinheim-the-mahones-acoustic-show",
+ "place": "Café Central",
+ "address": "Bahnhofstraße 19, 69469 Weinheim",
+ "city": "Weinheim",
+ "source": "official",
+ "checked": "2026-11-04",
+ "size": "small",
+ "status": "ok",
+ "name": "The Mahones: acoustic show",
+ "description": "Canadian-Irish Celtic punk band in an acoustic set",
+ "start": "2026-12-03",
+ "end": "2026-12-03",
+ "hours": "doors 18:30, start 19:00",
+ "price": "24 EUR (box office)",
+ "link": "https://cafecentral.de/konzert/the-mahones-acoustic-show/",
+ "note": "acoustic set",
+ "tags": [
+  "punk",
+  "celtic-punk",
+  "acoustic"
+ ],
+ "bands": [
+  "The Mahones"
+ ],
+ "details": "The Mahones, Celtic punk band from Canada, play an acoustic show at Café Central Weinheim. Doors 18:30, start 19:00; 24 EUR, tickets available as of 4 Nov.",
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:34:53.453Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Mahones%3A+acoustic+show&dates=20261203T190000%2F20261203T210000&details=Canadian-Irish+Celtic+punk+band+in+an+acoustic+set%0Aacoustic+set%0AHours%3A+doors+18%3A30%2C+start+19%3A00%0APrice%3A+24+EUR+%28box+office%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fcafecentral.de%2Fkonzert%2Fthe-mahones-acoustic-show%2F&location=Caf%C3%A9+Central%2C+Bahnhofstra%C3%9Fe+19%2C+69469+Weinheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bahnhofstra%C3%9Fe%2019%2C%2069469%20Weinheim",
+ "priceValue": 24
+}
