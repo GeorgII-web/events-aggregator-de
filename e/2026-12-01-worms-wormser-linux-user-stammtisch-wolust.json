@@ -1,0 +1,38 @@
+{
+ "id": "2026-12-01-worms-wormser-linux-user-stammtisch-wolust",
+ "name": "Wormser Linux User Stammtisch (WoLUST)",
+ "description": "monthly Linux regulars' table in Worms",
+ "start": "2026-12-01",
+ "end": "2026-12-01",
+ "hours": "19:30",
+ "place": "Times Café",
+ "address": "Ludwigsplatz 1, 67547 Worms",
+ "city": "Worms",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://wolust.de/",
+ "source": "official",
+ "checked": "2026-11-05",
+ "rating": "4.3",
+ "website": "http://www.timescafe.de/",
+ "note": "German; first Tuesday of the month, next 5 Jan and 2 Feb",
+ "tags": [
+  "meetup",
+  "on-site",
+  "devops"
+ ],
+ "details": "Informal monthly meeting of Linux users in Worms. Topics are mostly free: current experiences from work, school or hobby projects with Linux; anyone interested in Linux can join the table.\n\nFood and drinks are paid by each guest. Next dates after 1 Dec: Tue 5 Jan and Tue 2 Feb 2027, 19:30. The group also ran a Linux Presentation Day in Worms on 16 Oct 2026.",
+ "firstSeen": "2026-11-05",
+ "lastSeen": "2026-11-05",
+ "updatedAt": "2026-11-05T12:12:50.875Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wormser+Linux+User+Stammtisch+%28WoLUST%29&dates=20261201T193000%2F20261201T213000&details=monthly+Linux+regulars%27+table+in+Worms%0AGerman%3B+first+Tuesday+of+the+month%2C+next+5+Jan+and+2+Feb%0AHours%3A+19%3A30%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwolust.de%2F&location=Times+Caf%C3%A9%2C+Ludwigsplatz+1%2C+67547+Worms&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ludwigsplatz%201%2C%2067547%20Worms",
+ "priceValue": 0
+}

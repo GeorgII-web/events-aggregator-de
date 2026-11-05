@@ -2572,4 +2572,43 @@ LOCATION:venue tba (recent meetups at bluehands)\, Karlsruhe
 URL:https://sessionize.com/net-usergroup-karlsruhe
 CATEGORIES:meetup,on-site,csharp,dotnet
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-walldorf-uugrn-unix-linux-stammtisch@events-search
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Berlin:20261116T183000
+DTEND;TZID=Europe/Berlin:20261116T203000
+SUMMARY:UUGRN Unix/Linux Stammtisch
+DESCRIPTION:monthly regulars' table of the Unix User Group Rhein-Neckar\nG
+ erman; every 3rd Monday\, next 21 Dec and 18 Jan\nHours: 18:30-22:30\nPri
+ ce: free\nStatus: ok (official)\nhttps://stammtisch.uugrn.org/
+LOCATION:METROPOLIS Lounge\, Impexstraße 1\, 69190 Walldorf
+URL:https://stammtisch.uugrn.org/
+CATEGORIES:meetup,on-site,devops
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-heidelberg-uugrn-fixme-unix-hands-on-evening@events-search
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Berlin:20261204T190000
+DTEND;TZID=Europe/Berlin:20261204T210000
+SUMMARY:UUGRN FIXME: Unix hands-on evening
+DESCRIPTION:hands-on Unix/Linux evening with short talks\, pizza and tinke
+ ring\nGerman; every 1st Friday (6 Nov cancelled)\, next 8 Jan\nHours: 19:
+ 00-23:30\nPrice: free\nStatus: ok (official)\nhttps://fixme.uugrn.org/
+LOCATION:Dezernat 16\, Emil-Maier-Straße 16\, 69115 Heidelberg
+URL:https://fixme.uugrn.org/
+CATEGORIES:meetup,workshop,on-site,devops
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-worms-wormser-linux-user-stammtisch-wolust@events-search
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Berlin:20261201T193000
+DTEND;TZID=Europe/Berlin:20261201T213000
+SUMMARY:Wormser Linux User Stammtisch (WoLUST)
+DESCRIPTION:monthly Linux regulars' table in Worms\nGerman; first Tuesday 
+ of the month\, next 5 Jan and 2 Feb\nHours: 19:30\nPrice: free\nStatus: o
+ k (official)\nhttps://wolust.de/
+LOCATION:Times Café\, Ludwigsplatz 1\, 67547 Worms
+URL:https://wolust.de/
+CATEGORIES:meetup,on-site,devops
+END:VEVENT
 END:VCALENDAR

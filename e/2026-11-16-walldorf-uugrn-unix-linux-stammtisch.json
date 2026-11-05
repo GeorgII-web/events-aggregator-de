@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-16-walldorf-uugrn-unix-linux-stammtisch",
+ "name": "UUGRN Unix/Linux Stammtisch",
+ "description": "monthly regulars' table of the Unix User Group Rhein-Neckar",
+ "start": "2026-11-16",
+ "end": "2026-11-16",
+ "hours": "18:30-22:30",
+ "place": "METROPOLIS Lounge",
+ "address": "Impexstraße 1, 69190 Walldorf",
+ "city": "Walldorf",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://stammtisch.uugrn.org/",
+ "source": "official",
+ "checked": "2026-11-05",
+ "rating": "4.0",
+ "website": "http://www.metropolis-walldorf.de/",
+ "note": "German; every 3rd Monday, next 21 Dec and 18 Jan",
+ "tags": [
+  "meetup",
+  "on-site",
+  "devops"
+ ],
+ "details": "Open monthly get-together of the Unix User Group Rhein-Neckar e.V. about FreeBSD, BSD, Unix, Linux and everything around them. Usually 10-15 people, newcomers of any level are explicitly welcome.\n\nA social evening in a restaurant rather than a laptop session; food and drinks are paid by each guest. Dates come from the group's official calendar (Termine.ics); next ones 21 Dec 2026 and 18 Jan 2027.",
+ "firstSeen": "2026-11-05",
+ "lastSeen": "2026-11-05",
+ "updatedAt": "2026-11-05T12:12:50.875Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=UUGRN+Unix%2FLinux+Stammtisch&dates=20261116T183000%2F20261116T203000&details=monthly+regulars%27+table+of+the+Unix+User+Group+Rhein-Neckar%0AGerman%3B+every+3rd+Monday%2C+next+21+Dec+and+18+Jan%0AHours%3A+18%3A30-22%3A30%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fstammtisch.uugrn.org%2F&location=METROPOLIS+Lounge%2C+Impexstra%C3%9Fe+1%2C+69190+Walldorf&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Impexstra%C3%9Fe%201%2C%2069190%20Walldorf",
+ "priceValue": 0
+}

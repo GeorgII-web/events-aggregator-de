@@ -1,0 +1,39 @@
+{
+ "id": "2026-12-04-heidelberg-uugrn-fixme-unix-hands-on-evening",
+ "name": "UUGRN FIXME: Unix hands-on evening",
+ "description": "hands-on Unix/Linux evening with short talks, pizza and tinkering",
+ "start": "2026-12-04",
+ "end": "2026-12-04",
+ "hours": "19:00-23:30",
+ "place": "Dezernat 16",
+ "address": "Emil-Maier-Straße 16, 69115 Heidelberg",
+ "city": "Heidelberg",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://fixme.uugrn.org/",
+ "source": "official",
+ "checked": "2026-11-05",
+ "rating": "4.4",
+ "note": "German; every 1st Friday (6 Nov cancelled), next 8 Jan",
+ "tags": [
+  "meetup",
+  "workshop",
+  "on-site",
+  "devops"
+ ],
+ "details": "FIXME is the hands-on evening of the Unix User Group Rhein-Neckar e.V. for the Linux and Unix community in the region: members bring a topic or a short informal talk (\"let me show you something\"), and everyone can try things out directly instead of only talking about them. Talks are not recorded.\n\nFree and without registration; drinks paid on site, usually a shared pizza order. The 6 Nov 2026 evening is cancelled; the January edition moves to 8 Jan 2027 because of New Year.",
+ "firstSeen": "2026-11-05",
+ "lastSeen": "2026-11-05",
+ "updatedAt": "2026-11-05T12:12:50.875Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "workshop",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=UUGRN+FIXME%3A+Unix+hands-on+evening&dates=20261204T190000%2F20261204T210000&details=hands-on+Unix%2FLinux+evening+with+short+talks%2C+pizza+and+tinkering%0AGerman%3B+every+1st+Friday+%286+Nov+cancelled%29%2C+next+8+Jan%0AHours%3A+19%3A00-23%3A30%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Ffixme.uugrn.org%2F&location=Dezernat+16%2C+Emil-Maier-Stra%C3%9Fe+16%2C+69115+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Emil-Maier-Stra%C3%9Fe%2016%2C%2069115%20Heidelberg",
+ "priceValue": 0
+}
