@@ -8,15 +8,15 @@
  "place": "Maimarktgelände",
  "address": "Xaver-Fuhr-Straße 101, 68163 Mannheim",
  "city": "Mannheim",
- "price": "from 89.50 EUR (social ticket 19.90 EUR)",
+ "price": "from 89 EUR (social ticket 19.90 EUR)",
  "size": "big",
- "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/die-toten-hosen-trink-aus-wir-muessen-gehen-tour-2027-mannheim/",
- "source": "mvp.de",
- "checked": "2026-11-02",
+ "status": "ok",
+ "link": "https://shop.dietotenhosen.de/index.php/n.213-Tickets/l.1950-17_06_2027-_-Mannheim-_-Maimarktgelaende/",
+ "source": "official",
+ "checked": "2026-11-07",
  "rating": "4.3",
  "website": "https://www.maimarktgelaende-mannheim.de/home",
- "note": "big show outside the 3-month window; few tickets left on the tour",
+ "note": "big show outside the 3-month window; several other tour dates sold out",
  "tags": [
   "punk",
   "rock",
@@ -25,17 +25,67 @@
  "bands": [
   "Die Toten Hosen"
  ],
- "details": "Die Toten Hosen play the Maimarktgelände open-air site as one of the additional 2027 dates of their Trink aus! Wir müssen gehen tour, which the band calls its biggest open-air and stadium tour. Doors 16:00, start 17:30.\n\nTickets from 89.50 EUR (Reservix), social tickets 19.90 EUR via dth.de; the band says only a few of the 23 dates still have tickets. The band site dth.de blocked the check, so the facts come from mvp.de and regioactive.de.",
+ "details": "Die Toten Hosen play the Maimarktgelände open-air site as one of the additional 2027 dates of their Trink aus! Wir müssen gehen tour. The band's official ticket shop lists Thu 17 Jun 2027, doors 16:00, start 17:30, standing tickets 89 EUR, local promoter Batschkapp; social tickets 19.90 EUR via dth.de.\n\nMannheim still shows a ticket link while several other dates of the tour are sold out (as of 7 Nov). Up to 8 tickets per order; free companion entry with a \"B\" disability ID.",
  "firstSeen": "2026-11-02",
- "lastSeen": "2026-11-02",
- "updatedAt": "2026-11-02T18:46:46.388Z",
- "history": [],
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:03:05.239Z",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "at": "2026-11-07T21:03:05.239Z",
+   "changes": {
+    "price": [
+     "from 89.50 EUR (social ticket 19.90 EUR)",
+     "from 89 EUR (social ticket 19.90 EUR)"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/die-toten-hosen-trink-aus-wir-muessen-gehen-tour-2027-mannheim/",
+     "https://shop.dietotenhosen.de/index.php/n.213-Tickets/l.1950-17_06_2027-_-Mannheim-_-Maimarktgelaende/"
+    ],
+    "source": [
+     "mvp.de",
+     "official"
+    ],
+    "note": [
+     "big show outside the 3-month window; few tickets left on the tour",
+     "big show outside the 3-month window; several other tour dates sold out"
+    ],
+    "links": [
+     null,
+     [
+      {
+       "url": "https://www.dth.de/tour/trink-aus-wir-muessen-gehen-tour-2027",
+       "label": "dth.de"
+      },
+      {
+       "url": "https://www.mvp.de/mannheim/veranstaltungen/die-toten-hosen-trink-aus-wir-muessen-gehen-tour-2027-mannheim/",
+       "label": "mvp.de"
+      }
+     ]
+    ]
+   }
+  }
+ ],
+ "links": [
+  {
+   "url": "https://www.dth.de/tour/trink-aus-wir-muessen-gehen-tour-2027",
+   "label": "dth.de"
+  },
+  {
+   "url": "https://www.mvp.de/mannheim/veranstaltungen/die-toten-hosen-trink-aus-wir-muessen-gehen-tour-2027-mannheim/",
+   "label": "mvp.de"
+  }
+ ],
  "topic": "rock-concerts",
  "groups": [
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die+Toten+Hosen%3A+Trink+aus%21+Wir+m%C3%BCssen+gehen+%E2%80%93+Tour+2027&dates=20270617T173000%2F20270617T193000&details=German+punk+rock+band%2C+open-air+stadium-size+show%0Abig+show+outside+the+3-month+window%3B+few+tickets+left+on+the+tour%0AHours%3A+doors+16%3A00%2C+start+17%3A30%0APrice%3A+from+89.50+EUR+%28social+ticket+19.90+EUR%29%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fdie-toten-hosen-trink-aus-wir-muessen-gehen-tour-2027-mannheim%2F&location=Maimarktgel%C3%A4nde%2C+Xaver-Fuhr-Stra%C3%9Fe+101%2C+68163+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die+Toten+Hosen%3A+Trink+aus%21+Wir+m%C3%BCssen+gehen+%E2%80%93+Tour+2027&dates=20270617T173000%2F20270617T193000&details=German+punk+rock+band%2C+open-air+stadium-size+show%0Abig+show+outside+the+3-month+window%3B+several+other+tour+dates+sold+out%0AHours%3A+doors+16%3A00%2C+start+17%3A30%0APrice%3A+from+89+EUR+%28social+ticket+19.90+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fshop.dietotenhosen.de%2Findex.php%2Fn.213-Tickets%2Fl.1950-17_06_2027-_-Mannheim-_-Maimarktgelaende%2F%0Adth.de%3A+https%3A%2F%2Fwww.dth.de%2Ftour%2Ftrink-aus-wir-muessen-gehen-tour-2027%0Amvp.de%3A+https%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fdie-toten-hosen-trink-aus-wir-muessen-gehen-tour-2027-mannheim%2F&location=Maimarktgel%C3%A4nde%2C+Xaver-Fuhr-Stra%C3%9Fe+101%2C+68163+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Xaver-Fuhr-Stra%C3%9Fe%20101%2C%2068163%20Mannheim",
- "priceValue": 89.5
+ "priceValue": 89
 }

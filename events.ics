@@ -69,19 +69,6 @@ URL:https://www.rex-ticketshop.de/tickets/index.php?id=1463
 CATEGORIES:small-concert,tribute-band
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-20-beindersheim-mirage-fleetwood-mac-tribute@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;TZID=Europe/Berlin:20261120T200000
-DTEND;TZID=Europe/Berlin:20261120T220000
-SUMMARY:Mirage (Fleetwood Mac tribute) (unconfirmed)
-DESCRIPTION:tribute band playing Fleetwood Mac hits\nHours: 20:00\nPrice: 
- n/a\nStatus: unconfirmed (eventfinder.de)\nhttps://www.eventfinder.de/bei
- ndersheim/konzerte/naechsten-monat/
-LOCATION:Beindersheim\, Beindersheim
-URL:https://www.eventfinder.de/beindersheim/konzerte/naechsten-monat/
-CATEGORIES:small-concert,tribute-band
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-21-mannheim-purple-rising-deep-purple-tribute@events-search
 DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261121T200000
@@ -108,71 +95,6 @@ DESCRIPTION:small Christmas market at the abbey\, gate hall lit blue\nDate
 LOCATION:Karolingerplatz\, 64653 Lorsch
 URL:https://www.lorsch.de/de/weihnachtsmarkt2026.php
 CATEGORIES:christmas-market,heritage
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-01-heidelberg-oratorio-for-all-saints-denn-sie-sollen-getroste
- t-werden@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:Oratorio for All Saints: Denn sie sollen getröstet werden (unconf
- irmed)
-DESCRIPTION:church oratorio concert for All Saints' Day\nCappella Palatina
-  Heidelberg\nHours: n/a\nPrice: from 10 EUR\nStatus: unconfirmed (mvp.de)
- \nhttps://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
-LOCATION:Jesuitenkirche\, Merianstraße 2\, 69117 Heidelberg
-URL:https://www.mvp.de/heidelberg/veranstaltungen/klassik-kirchen-musik/
-CATEGORIES:classical,church-concert,choir
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-03-ludwigshafen-daniel-ottensamer-signum-quartett@events-searc
- h
-DTSTAMP:20261102T000000Z
-DTSTART;TZID=Europe/Berlin:20261103T193000
-DTEND;TZID=Europe/Berlin:20261103T213000
-SUMMARY:Daniel Ottensamer & Signum Quartett
-DESCRIPTION:chamber concert: Vienna Philharmonic clarinettist with a strin
- g quartet\nHours: 19:30 (introduction 18:30)\nPrice: 39-79 EUR\nStatus: o
- k (official)\nhttps://www.basf.com/dam/jcr:ae9a8fa4-7f01-41dd-8d75-86334e
- 2b8750/BASF%20Kulturfabrik_26_27.pdf
-LOCATION:BASF Feierabendhaus\, Leuschnerstraße 47\, 67063 Ludwigshafen am
-  Rhein
-URL:https://www.basf.com/dam/jcr:ae9a8fa4-7f01-41dd-8d75-86334e2b8750/BASF
- %20Kulturfabrik_26_27.pdf
-CATEGORIES:classical,chamber
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-06-ludwigshafen-3-abo-konzert-deutsche-staatsphilharmonie@even
- ts-search
-DTSTAMP:20261102T000000Z
-DTSTART;TZID=Europe/Berlin:20261106T193000
-DTEND;TZID=Europe/Berlin:20261106T213000
-SUMMARY:3. Abo-Konzert: Deutsche Staatsphilharmonie
-DESCRIPTION:Shostakovich Violin Concerto No. 1 with Julian Rachlin\, Strau
- ss Sinfonia domestica\nmatinee repeat Sun 8 Nov 11:00; also Worms 5 Nov\n
- Hours: 19:30\nPrice: from 18 EUR\nStatus: ok (official)\nhttps://www.staa
- tsphilharmonie.de/de/programm/schostakowitsch-strauss/2171
-LOCATION:Pfalzbau Konzertsaal\, Berliner Str. 30\, 67059 Ludwigshafen am R
- hein
-URL:https://www.staatsphilharmonie.de/de/programm/schostakowitsch-strauss/
- 2171
-CATEGORIES:classical,orchestra
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-06-mannheim-rammstein-symphonic-tribute-herzfeuer@events-searc
- h
-DTSTAMP:20261104T000000Z
-DTSTART;TZID=Europe/Berlin:20261106T200000
-DTEND;TZID=Europe/Berlin:20261106T220000
-SUMMARY:Rammstein Symphonic Tribute: Herzfeuer (unconfirmed)
-DESCRIPTION:Rammstein songs played by a band with orchestra\nHours: 20:00\
- nPrice: from 52 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/man
- nheim/veranstaltungen/rammstein-symphonic-tribute-herzfeuer-rosengarten-m
- ozartsaal/
-LOCATION:Rosengarten Mozartsaal\, Rosengartenplatz 2\, 68161 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/rammstein-symphonic-tribut
- e-herzfeuer-rosengarten-mozartsaal/
-CATEGORIES:tribute-band,orchestra
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-mannheim-gospel-concert-preacherman-s-friends@events-search
@@ -229,18 +151,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-mannheim-mozart-gala-soloists-of-the-musikhochschule-mannhe
  im@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261114T190000
+DTEND;TZID=Europe/Berlin:20261114T210000
 SUMMARY:Mozart-Gala: soloists of the Musikhochschule Mannheim (unconfirmed
  )
 DESCRIPTION:Mozart arias and concertos by music students with orchestra\nc
- onductor Cornelius Meister\nHours: n/a\nPrice: from 25 EUR\nStatus: uncon
- firmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltungen/klassik-kirc
- hen-musik/
+ onductor Cornelius Meister; Mozart soloist prize 2026\nHours: 19:00\nPric
+ e: from 25 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim
+ /veranstaltungen/mozart-gala/
 LOCATION:Rittersaal\, Barockschloss Mannheim\, Schloss\, Bismarckstraße\,
   68161 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+URL:https://www.mvp.de/mannheim/veranstaltungen/mozart-gala/
 CATEGORIES:classical,student-concert,orchestra
 END:VEVENT
 BEGIN:VEVENT
@@ -319,15 +241,17 @@ CATEGORIES:classical,chamber
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-mannheim-royal-scottish-national-orchestra@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261118T200000
+DTEND;TZID=Europe/Berlin:20261118T220000
 SUMMARY:Royal Scottish National Orchestra (unconfirmed)
 DESCRIPTION:symphony concert of a touring Scottish orchestra\nO. Scheps\, 
- T. Søndergård\nHours: n/a\nPrice: from 69 EUR\nStatus: unconfirmed (mvp
- .de)\nhttps://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+ T. Søndergård\nHours: 20:00\nPrice: from 69 EUR\nStatus: unconfirmed (m
+ vp.de)\nhttps://www.mvp.de/mannheim/veranstaltungen/royal-scottish-nation
+ al-orchestra-o-scheps-t-sondergard/
 LOCATION:Rosengarten Mozartsaal\, Rosengartenplatz 2\, 68161 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/
+URL:https://www.mvp.de/mannheim/veranstaltungen/royal-scottish-national-or
+ chestra-o-scheps-t-sondergard/
 CATEGORIES:classical,orchestra
 END:VEVENT
 BEGIN:VEVENT
@@ -462,15 +386,16 @@ CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-hemsbach-weihnachtsmarkt-hemsbach@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261130
-SUMMARY:Weihnachtsmarkt Hemsbach (unconfirmed)
-DESCRIPTION:40th town Christmas market\nHours: n/a\nPrice: free\nStatus: u
- nconfirmed (freizeitmonster.de)\nhttps://freizeitmonster.de/blog/weihnach
- tsmaerkte-schriesheim
-LOCATION:Town centre\, Hemsbach
-URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+SUMMARY:Weihnachtsmarkt Hemsbach
+DESCRIPTION:40th town Christmas market\nHours: Fri 17-22\, Sat 15-22\, Sun
+  15-20\nPrice: free\nStatus: ok (official)\nhttps://www.hemsbach.de/veran
+ staltungskalender/bip/hemsbacher-weihnachtsmarkt
+LOCATION:Volker-Pauli-Platz\, 69502 Hemsbach
+URL:https://www.hemsbach.de/veranstaltungskalender/bip/hemsbacher-weihnach
+ tsmarkt
 CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
@@ -488,15 +413,18 @@ CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-leimen-leimener-weihnachtsmarkt@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
-SUMMARY:Leimener Weihnachtsmarkt (unconfirmed)
-DESCRIPTION:town Christmas market\nHours: n/a\nPrice: free\nStatus: unconf
- irmed (freizeitmonster.de)\nhttps://freizeitmonster.de/blog/weihnachtsmae
- rkte-schriesheim
-LOCATION:Town centre\, Leimen
-URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+SUMMARY:Leimener Weihnachtsmarkt
+DESCRIPTION:town Christmas market\nHours: all day (no times published)\nPr
+ ice: free\nStatus: ok (official)\nhttps://www.leimen.de/freizeit-tourismu
+ s/veranstaltungen/veranstaltungskalender/2390/weihnachtsmarkt-leimen-mitt
+ e-2026
+LOCATION:Georgi-Markt-Platz\, Leimen-Mitte\, Georgi-Markt-Platz\, 69181 Le
+ imen
+URL:https://www.leimen.de/freizeit-tourismus/veranstaltungen/veranstaltung
+ skalender/2390/weihnachtsmarkt-leimen-mitte-2026
 CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
@@ -542,15 +470,18 @@ CATEGORIES:christmas-market,oldtimer,classic-cars
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-dossenheim-adventsmarkt-dossenheim@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
-SUMMARY:Adventsmarkt Dossenheim (unconfirmed)
-DESCRIPTION:village Advent market\nHours: n/a\nPrice: free\nStatus: unconf
- irmed (freizeitmonster.de)\nhttps://freizeitmonster.de/blog/weihnachtsmae
- rkte-schriesheim
-LOCATION:Village centre\, Dossenheim
-URL:https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim
+SUMMARY:Adventsmarkt Dossenheim
+DESCRIPTION:"Dossenheimer Weihnachtstrubel": the village Christmas market 
+ on the town hall square\nofficial name: Dossenheimer Weihnachtstrubel\nHo
+ urs: Sat from 14:00\, Sun from 13:00\nPrice: free\nStatus: ok (official)\
+ nhttps://www.dossenheim.de/freizeit-erlebnis/veranstaltungskalender/829/d
+ ossenheimer-weihnachtstrubel
+LOCATION:Rathausplatz 1\, 69221 Dossenheim
+URL:https://www.dossenheim.de/freizeit-erlebnis/veranstaltungskalender/829
+ /dossenheimer-weihnachtstrubel
 CATEGORIES:christmas-market
 END:VEVENT
 BEGIN:VEVENT
@@ -678,20 +609,6 @@ LOCATION:Hockenheimring Baden-Württemberg\, Am Motodrom 1\, 68766 Hockenh
  eim
 URL:https://www.hockenheimring.de/en/?p=33954
 CATEGORIES:motorsport,racing
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-04-mannheim-kunsthalle-mannheim-mvv-kunstabend@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;TZID=Europe/Berlin:20261104T180000
-DTEND;TZID=Europe/Berlin:20261104T200000
-SUMMARY:Kunsthalle Mannheim: MVV Kunstabend
-DESCRIPTION:free evening in the big modern art museum\nHours: 18:00-22:00 
- free\nPrice: free\nStatus: ok (official)\nhttps://www.kuma.art/de/ihr-bes
- uch-der-kunsthalle-mannheim/unsere-oeffnungszeiten
-LOCATION:Kunsthalle Mannheim\, Friedrichsplatz 4\, 68165 Mannheim
-URL:https://www.kuma.art/de/ihr-besuch-der-kunsthalle-mannheim/unsere-oeff
- nungszeiten
-CATEGORIES:museum,free-entry,exhibition
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-mannheim-kunsthalle-mannheim-mvv-kunstabend@events-search
@@ -1395,19 +1312,6 @@ URL:https://www.time-warp.de/
 CATEGORIES:music-festival,electronic,techno,rave
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-06-bensheim-bryan-adams-tribute-dk@events-search
-DTSTAMP:20261102T000000Z
-DTSTART;TZID=Europe/Berlin:20261106T200000
-DTEND;TZID=Europe/Berlin:20261106T220000
-SUMMARY:Bryan Adams Tribute (DK)
-DESCRIPTION:Danish tribute band playing three decades of Bryan Adams hits\
- nHours: 20:00 (doors 19:00)\nPrice: 28.50 EUR (door 35 EUR)\nStatus: ok (
- official)\nhttps://www.rex-ticketshop.de/tickets/index.php?id=1399
-LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
-URL:https://www.rex-ticketshop.de/tickets/index.php?id=1399
-CATEGORIES:small-concert,tribute-band,rock
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-27-bensheim-the-robbie-experience-robbie-williams-tribute@even
  ts-search
 DTSTAMP:20261102T000000Z
@@ -1447,22 +1351,6 @@ DESCRIPTION:tribute band playing Die Toten Hosen and Die Ärzte hits\nHour
 LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
 URL:https://7er-club.de/show/alex-im-westerland-2026/
 CATEGORIES:small-concert,tribute-band,punk-rock
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-04-heidelberg-sinfonia-2-philharmonisches-konzert@events-searc
- h
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261106
-SUMMARY:Sinfonia: 2. Philharmonisches Konzert
-DESCRIPTION:Mahler songs and Berio's Sinfonia\, Philharmonic Orchestra Hei
- delberg\nDates: Wed 4 + Thu 5 Nov\nHours: 19:30 (introduction 19:00)\nPri
- ce: n/a\nStatus: ok (official)\nhttps://www.theaterheidelberg.de/en/progr
- amm/22216-sinfonia
-LOCATION:Wolfgang-Marguerre-Saal\, Konzerthaus Stadthalle\, Neckarstaden 2
- 4\, 69117 Heidelberg
-URL:https://www.theaterheidelberg.de/en/programm/22216-sinfonia
-CATEGORIES:classical,orchestra
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-heidelberg-festivo-3-philharmonisches-konzert@events-search
@@ -1560,23 +1448,6 @@ URL:https://www.mvp.de/heidelberg/veranstaltungen/adventskonzert-heidelber
 CATEGORIES:classical,church-concert,choir,organ
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-05-lorsch-show-depot-zehntscheune@events-search
-DTSTAMP:20261102T000000Z
-DTSTART;TZID=Europe/Berlin:20261105T170000
-DTEND;TZID=Europe/Berlin:20261105T190000
-SUMMARY:Show-Depot Zehntscheune
-DESCRIPTION:evening opening of the abbey's tithe barn depot: music\, cockt
- ails\, tours\nlast date of the 2026 series\nHours: 17:00-22:00\nPrice: n/
- a\nStatus: ok (official)\nhttps://www.lorsch.de/de/veranstaltungen/termin
- e/Show-Depot-Zehntscheune-1.php?splitId=104&from=2026-11-05%2017:00:00&to
- =2026-11-05%2022:00:00
-LOCATION:Schaudepot Zehntscheune\, Kloster Lorsch\, Nibelungenstraße 34\,
-  64653 Lorsch
-URL:https://www.lorsch.de/de/veranstaltungen/termine/Show-Depot-Zehntscheu
- ne-1.php?splitId=104&from=2026-11-05%2017:00:00&to=2026-11-05%2022:00:00
-CATEGORIES:guided-tour,heritage,unesco,museum
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-08-ladenburg-choral-concert-voix-unie@events-search
 DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20261108T180000
@@ -1638,20 +1509,163 @@ URL:https://www.mvp.de/heidelberg/veranstaltungen/salonkonzert-mit-sukyeon
 CATEGORIES:classical,chamber,piano
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-04-mannheim-murphy-s-law-jawless@events-search
-DTSTAMP:20261104T000000Z
-DTSTART;TZID=Europe/Berlin:20261104T200000
-DTEND;TZID=Europe/Berlin:20261104T220000
-SUMMARY:Murphy's Law + Jawless (unconfirmed)
-DESCRIPTION:New York hardcore punk veterans with a UK support band\nnot on
-  the 7er Club calendar; tickets currently unavailable on mvp.de\nHours: 2
- 0:00\nPrice: from 29.37 EUR\nStatus: unconfirmed (mvp.de)\nhttps://www.mv
- p.de/mannheim/veranstaltungen/murphys-law-us-jawless-uk-hardcore-punk-thr
- ashcore-7er-club/
-LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/murphys-law-us-jawless-uk-
- hardcore-punk-thrashcore-7er-club/
-CATEGORIES:punk,hardcore
+UID:2026-11-08-ludwigshafen-schostakowitsch-strauss-deutsche-staatsphilhar
+ monie@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261108T110000
+DTEND;TZID=Europe/Berlin:20261108T130000
+SUMMARY:Schostakowitsch | Strauss: Deutsche Staatsphilharmonie
+DESCRIPTION:Sunday matinee: Shostakovich violin concerto with Julian Rachl
+ in\, Strauss Sinfonia domestica\nfree coffee and croissant\nHours: 11:00\
+ nPrice: from 18 EUR\nStatus: ok (official)\nhttps://www.staatsphilharmoni
+ e.de/de/programm/schostakowitsch-strauss/2172
+LOCATION:Pfalzbau Konzertsaal\, Berliner Str. 30\, 67059 Ludwigshafen am R
+ hein
+URL:https://www.staatsphilharmonie.de/de/programm/schostakowitsch-strauss/
+ 2172
+CATEGORIES:classical,orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-hemsbach-ehemalige-synagoge-hemsbach-open-day@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261108T123000
+DTEND;TZID=Europe/Berlin:20261108T143000
+SUMMARY:Ehemalige Synagoge Hemsbach: open day
+DESCRIPTION:free open day of the restored village synagogue with ritual ba
+ th and schoolroom\nHours: 12:30-17:00\nPrice: free\nStatus: ok (official)
+ \nhttps://www.hemsbach.de/veranstaltungskalender/sonstiges/ehemalige-syna
+ goge-tag-der-offenen-tuer
+LOCATION:Ehemalige Synagoge\, Mittelgasse 16\, 69502 Hemsbach
+URL:https://www.hemsbach.de/veranstaltungskalender/sonstiges/ehemalige-syn
+ agoge-tag-der-offenen-tuer
+CATEGORIES:heritage,guided-tour,free-entry,museum
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-ladenburg-lobdengau-museum-tour-of-the-roman-section@events
+ -search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261108T143000
+DTEND;TZID=Europe/Berlin:20261108T163000
+SUMMARY:Lobdengau-Museum: tour of the Roman section
+DESCRIPTION:one-hour guided tour through Roman Lopodunum in the bishop's p
+ alace museum\nHours: 14:30\nPrice: 7 EUR (museum entry included)\nStatus:
+  ok (official)\nhttps://www.ladenburg.de/de/Aktuelles/Veranstaltungskalen
+ der/Veranstaltung?view=publish&item=eventDate&id=3976
+LOCATION:Lobdengau-Museum\, Amtshof 1\, 68526 Ladenburg
+URL:https://www.ladenburg.de/de/Aktuelles/Veranstaltungskalender/Veranstal
+ tung?view=publish&item=eventDate&id=3976
+CATEGORIES:guided-tour,heritage,museum
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-worms-mirage-visions-of-fleetwood-mac@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261119T193000
+DTEND;TZID=Europe/Berlin:20261119T213000
+SUMMARY:Mirage: Visions of Fleetwood Mac (unconfirmed)
+DESCRIPTION:touring tribute show of Fleetwood Mac's Rumours era\nprobably 
+ a wrong listing: the Mirage tour plays Worms on Thu 19 Nov\, no 20 Nov da
+ te found\nHours: 19:30 (doors 19:00)\nPrice: from 49.90 EUR\nStatus: unco
+ nfirmed (mvp.de)\nhttps://www.mvp.de/worms/veranstaltungen/mirage-visions
+ -of-fleetwood-mac-worms-das-wormser-theater/
+LOCATION:Das Wormser\, Theater\, Rathenaustraße 11\, 67547 Worms
+URL:https://www.mvp.de/worms/veranstaltungen/mirage-visions-of-fleetwood-m
+ ac-worms-das-wormser-theater/
+CATEGORIES:small-concert,tribute-band
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-ladenburg-licht-blicke-advent-concert-of-the-dilsberger-kan
+ torei@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261128T190000
+DTEND;TZID=Europe/Berlin:20261128T210000
+SUMMARY:Licht-Blicke: Advent concert of the Dilsberger Kantorei
+DESCRIPTION:choir Advent concert with clarinet soloist Matthias Dörsam in
+  the town church\nrepeat Sun 29 Nov 17:00 in Neckargemünd\nHours: 19:00-
+ 20:00\nPrice: free (donation)\nStatus: ok (official)\nhttps://www.ladenbu
+ rg.de/de/Aktuelles/Veranstaltungskalender/Veranstaltung?view=publish&item
+ =eventDate&id=3273
+LOCATION:Evangelische Stadtkirche\, Kirchenstraße 28\, 68526 Ladenburg
+URL:https://www.ladenburg.de/de/Aktuelles/Veranstaltungskalender/Veranstal
+ tung?view=publish&item=eventDate&id=3273
+CATEGORIES:church-concert,choir,classical
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-schriesheim-advent-concert-of-the-schriesheimer-kammerorche
+ ster@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261129T180000
+DTEND;TZID=Europe/Berlin:20261129T200000
+SUMMARY:Advent concert of the Schriesheimer Kammerorchester
+DESCRIPTION:chamber orchestra Advent concert: Janáček\, Glazunov\, Belli
+ ni oboe concerto\, Manfredini\nHours: 18:00-19:30 (doors 17:30)\nPrice: f
+ ree (donation)\nStatus: ok (official)\nhttps://www.schriesheim.de/de/Aktu
+ elles/Veranstaltungskalender/Veranstaltung?view=publish&item=eventDate&id
+ =2426
+LOCATION:Zehntkeller\, Obere Schulgasse 5\, 69198 Schriesheim
+URL:https://www.schriesheim.de/de/Aktuelles/Veranstaltungskalender/Veranst
+ altung?view=publish&item=eventDate&id=2426
+CATEGORIES:classical,chamber,orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-ladenburg-vorweihnachtliches-konzert-der-musikschule-ladenb
+ urg@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261129T170000
+DTEND;TZID=Europe/Berlin:20261129T190000
+SUMMARY:Vorweihnachtliches Konzert der Musikschule Ladenburg
+DESCRIPTION:pre-Christmas concert of the town music school's instrumental 
+ and vocal classes\nHours: 17:00\nPrice: n/a\nStatus: ok (official)\nhttps
+ ://www.ladenburg.de/de/Aktuelles/Veranstaltungskalender/Veranstaltung?vie
+ w=publish&item=eventDate&id=3549
+LOCATION:Evangelische Stadtkirche\, Kirchenstraße 28\, 68526 Ladenburg
+URL:https://www.ladenburg.de/de/Aktuelles/Veranstaltungskalender/Veranstal
+ tung?view=publish&item=eventDate&id=3549
+CATEGORIES:student-concert,church-concert,classical
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-mannheim-berlioz-beethoven-brahms-deutsche-staatsphilharmon
+ ie@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261206T180000
+DTEND;TZID=Europe/Berlin:20261206T200000
+SUMMARY:Berlioz | Beethoven | Brahms: Deutsche Staatsphilharmonie
+DESCRIPTION:Beethoven Piano Concerto No. 4 with Alexander Gadjiev\, Brahms
+  Symphony No. 3\nHours: 18:00\nPrice: n/a\nStatus: ok (official)\nhttps:/
+ /www.staatsphilharmonie.de/de/programm/berlioz-beethoven-brahms/2181
+LOCATION:Rosengarten Musensaal\, Rosengartenplatz 2\, 68161 Mannheim
+URL:https://www.staatsphilharmonie.de/de/programm/berlioz-beethoven-brahms
+ /2181
+CATEGORIES:classical,orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-schwetzingen-la-diva-lautten-compagney-berlin@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261206T190000
+DTEND;TZID=Europe/Berlin:20261206T210000
+SUMMARY:La Diva: lautten compagney BERLIN
+DESCRIPTION:baroque opera arias of Keiser\, Vinci and Handel in the palace
+  theatre\nHours: 19:00\nPrice: n/a\nStatus: ok (official)\nhttps://www.th
+ eaterheidelberg.de/en/programm/23548-la-diva
+LOCATION:Rokokotheater\, Schloss Schwetzingen\, Am Schloß\, 68723 Schwetz
+ ingen
+URL:https://www.theaterheidelberg.de/en/programm/23548-la-diva
+CATEGORIES:classical,opera
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-ladenburg-sebastianskapelle-ladenburg-guided-tour@events-se
+ arch
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261213T140000
+DTEND;TZID=Europe/Berlin:20261213T160000
+SUMMARY:Sebastianskapelle Ladenburg: guided tour
+DESCRIPTION:30-minute tour of the former episcopal court chapel with medie
+ val wall paintings\nHours: 14:00-14:30\nPrice: 5 EUR\nStatus: ok (officia
+ l)\nhttps://www.ladenburg.de/de/Aktuelles/Veranstaltungskalender/Veransta
+ ltung?view=publish&item=eventDate&id=4333
+LOCATION:Sebastianskapelle\, Amtshof\, 68526 Ladenburg
+URL:https://www.ladenburg.de/de/Aktuelles/Veranstaltungskalender/Veranstal
+ tung?view=publish&item=eventDate&id=4333
+CATEGORIES:guided-tour,heritage
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-mannheim-shakra-just-live-loud-tour-2026@events-search
@@ -1797,29 +1811,29 @@ CATEGORIES:metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-mannheim-stahlzeit-zeitlos-20-jubilaumstour@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Berlin:20261114T200000
 DTEND;TZID=Europe/Berlin:20261114T220000
-SUMMARY:Stahlzeit: Zeitlos 20 Jubiläumstour (unconfirmed)
+SUMMARY:Stahlzeit: Zeitlos 20 Jubiläumstour
 DESCRIPTION:Rammstein tribute show with full pyro\, 20th anniversary tour\
- nRammstein tribute (favourite band); one seller names the Maimarkthalle\n
- Hours: 20:00\nPrice: from 53.90 EUR\nStatus: unconfirmed (mvp.de)\nhttps:
- //www.mvp.de/mannheim/veranstaltungen/stahlzeit-maimarkt-club-mannheim/
+ nRammstein tribute (favourite band); venue confirmed by the band\nHours: 
+ 20:00\nPrice: from 53.90 EUR\nStatus: ok (official)\nhttps://www.stahlzei
+ t.com/tour/\nmvp.de: https://www.mvp.de/mannheim/veranstaltungen/stahlzei
+ t-maimarkt-club-mannheim/
 LOCATION:Maimarkt Club\, Xaver-Fuhr-Straße 101\, 68163 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/stahlzeit-maimarkt-club-ma
- nnheim/
+URL:https://www.stahlzeit.com/tour/
 CATEGORIES:metal,industrial,tribute-band,small-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-mannheim-big-4-tribute-festival@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261115
-SUMMARY:Big 4 Tribute Festival
-DESCRIPTION:tribute night to Metallica\, Slayer\, Megadeth and Anthrax\nFr
- i 13 Nov extra date available\, Sat 14 Nov sold out; mixed bill incl. a M
- etallica tribute\nHours: doors 18:00\, start 19:00\nPrice: from 32 EUR\nS
- tatus: ok (official)\nhttps://7er-club.de/show/big-4-tribute-2026-zusatz/
+SUMMARY:Big 4 Tribute Festival (sold out)
+DESCRIPTION:tribute night to Metallica\, Slayer\, Megadeth and Anthrax\nbo
+ th days sold out (extra date Fri 13 Nov too); mixed bill incl. a Metallic
+ a tribute\nHours: doors 18:00\, start 19:00\nPrice: from 32 EUR\nStatus: 
+ sold out (official)\nhttps://7er-club.de/show/big-4-tribute-2026-zusatz/
 LOCATION:7er Club\, Industriestraße 7\, 68169 Mannheim
 URL:https://7er-club.de/show/big-4-tribute-2026-zusatz/
 CATEGORIES:metal,tribute-band,small-concert
@@ -2017,19 +2031,6 @@ URL:https://www.knockout-festival.de/
 CATEGORIES:music-festival,metal,hard-rock
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-05-weinheim-get-the-shot@events-search
-DTSTAMP:20261104T000000Z
-DTSTART;TZID=Europe/Berlin:20261105T190000
-DTEND;TZID=Europe/Berlin:20261105T210000
-SUMMARY:get the shot
-DESCRIPTION:Canadian hardcore band with backstabbed as support\nsupport: b
- ackstabbed\nHours: doors 18:30\, start 19:00\nPrice: 35 EUR (box office)\
- nStatus: ok (official)\nhttps://cafecentral.de/konzert/get-the-shot/
-LOCATION:Café Central\, Bahnhofstraße 19\, 69469 Weinheim
-URL:https://cafecentral.de/konzert/get-the-shot/
-CATEGORIES:hardcore,punk
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-13-weinheim-los-fastidios@events-search
 DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20261113T200000
@@ -2087,19 +2088,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-17-mannheim-die-toten-hosen-trink-aus-wir-mussen-gehen-tour-20
  27@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Berlin:20270617T173000
 DTEND;TZID=Europe/Berlin:20270617T193000
-SUMMARY:Die Toten Hosen: Trink aus! Wir müssen gehen – Tour 2027 (uncon
- firmed)
+SUMMARY:Die Toten Hosen: Trink aus! Wir müssen gehen – Tour 2027
 DESCRIPTION:German punk rock band\, open-air stadium-size show\nbig show o
- utside the 3-month window; few tickets left on the tour\nHours: doors 16:
- 00\, start 17:30\nPrice: from 89.50 EUR (social ticket 19.90 EUR)\nStatus
- : unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltungen/die-t
- oten-hosen-trink-aus-wir-muessen-gehen-tour-2027-mannheim/
+ utside the 3-month window; several other tour dates sold out\nHours: door
+ s 16:00\, start 17:30\nPrice: from 89 EUR (social ticket 19.90 EUR)\nStat
+ us: ok (official)\nhttps://shop.dietotenhosen.de/index.php/n.213-Tickets/
+ l.1950-17_06_2027-_-Mannheim-_-Maimarktgelaende/\ndth.de: https://www.dth
+ .de/tour/trink-aus-wir-muessen-gehen-tour-2027\nmvp.de: https://www.mvp.d
+ e/mannheim/veranstaltungen/die-toten-hosen-trink-aus-wir-muessen-gehen-to
+ ur-2027-mannheim/
 LOCATION:Maimarktgelände\, Xaver-Fuhr-Straße 101\, 68163 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/die-toten-hosen-trink-aus-
- wir-muessen-gehen-tour-2027-mannheim/
+URL:https://shop.dietotenhosen.de/index.php/n.213-Tickets/l.1950-17_06_202
+ 7-_-Mannheim-_-Maimarktgelaende/
 CATEGORIES:punk,rock,open-air
 END:VEVENT
 BEGIN:VEVENT
@@ -2217,7 +2220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-ludwigshafen-zweites-krautrockfestival-ludwigshafen@events-
  search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Berlin:20270130T160000
 DTEND;TZID=Europe/Berlin:20270130T180000
 SUMMARY:Zweites Krautrockfestival Ludwigshafen (unconfirmed)
@@ -2235,38 +2238,93 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-mannheim-niedeckens-bap-funfzig-jahre-die-zielgerade-tour-2
  026@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Berlin:20261212T193000
 DTEND;TZID=Europe/Berlin:20261212T213000
-SUMMARY:Niedeckens BAP: Fünfzig Jahre – Die Zielgerade Tour 2026 (uncon
- firmed)
+SUMMARY:Niedeckens BAP: Fünfzig Jahre – Die Zielgerade Tour 2026
 DESCRIPTION:Cologne rock band's 50th anniversary arena tour\nseated catego
  ries\, one sold out on Eventim\nHours: 19:30\nPrice: from 60.40 EUR\nStat
- us: unconfirmed (mvp.de)\nhttps://www.mvp.de/mannheim/veranstaltungen/bap
- -fuenfzig-jahre-die-zielgerade-tour-2026-sap-arena/\neventim.de: https://
- www.eventim.de/en/event/niedeckens-bap-bap-fuenfzig-jahre-die-zielgerade-
- tour-2026-sap-arena-20708577/
+ us: ok (official)\nhttps://www.bap.de/termine\nmvp.de: https://www.mvp.de
+ /mannheim/veranstaltungen/bap-fuenfzig-jahre-die-zielgerade-tour-2026-sap
+ -arena/\neventim.de: https://www.eventim.de/en/event/niedeckens-bap-bap-f
+ uenfzig-jahre-die-zielgerade-tour-2026-sap-arena-20708577/
 LOCATION:SAP Arena\, An der Arena 1\, 68163 Mannheim
-URL:https://www.mvp.de/mannheim/veranstaltungen/bap-fuenfzig-jahre-die-zie
- lgerade-tour-2026-sap-arena/
+URL:https://www.bap.de/termine
 CATEGORIES:rock,koelsch-rock,arena-show
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-03-karlsruhe-green-agentic-ai-coding-mit-headroom@events-searc
- h
-DTSTAMP:20261102T000000Z
-DTSTART;TZID=Europe/Berlin:20261103T183000
-DTEND;TZID=Europe/Berlin:20261103T203000
-SUMMARY:Green Agentic AI Coding mit Headroom
-DESCRIPTION:Green Software Development meetup on energy-efficient agentic 
- AI coding\nhybrid\, German\nHours: 18:30-21:30\nPrice: free\nStatus: ok (
- official)\nhttps://www.meetup.com/green-software-development-karlsruhe/ev
- ents/316733583/
-LOCATION:bluehands GmbH & Co.mmunication KG\, Waldstr. 63\, 76133 Karlsruh
- e
-URL:https://www.meetup.com/green-software-development-karlsruhe/events/316
- 733583/
-CATEGORIES:ai,meetup,agents,online,on-site
+UID:2026-11-28-weinheim-the-temper-tree-cd-release-show@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261128T200000
+DTEND;TZID=Europe/Berlin:20261128T220000
+SUMMARY:The Temper Tree: CD release show
+DESCRIPTION:Heidelberg rock band presents its third album\nsupport: Sit On
+  My Face\nHours: doors 19:00\, start 20:00\nPrice: 15 EUR (box office)\nS
+ tatus: ok (official)\nhttps://cafecentral.de/konzert/the-temper-tree/
+LOCATION:Café Central\, Bahnhofstraße 19\, 69469 Weinheim
+URL:https://cafecentral.de/konzert/the-temper-tree/
+CATEGORIES:rock,alternative,small-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-weinheim-pfalzrock-fine-r-i-p-dawedda-powermaker@events-sea
+ rch
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261228T200000
+DTEND;TZID=Europe/Berlin:20261228T220000
+SUMMARY:Pfalzrock: Fine R.I.P.\, Dawedda\, Powermaker
+DESCRIPTION:regional rock night with three Palatinate / Ladenburg bands\nl
+ ocal bands between Christmas and New Year\nHours: doors 19:00\, start 20:
+ 00\nPrice: 24 EUR (box office)\nStatus: ok (official)\nhttps://cafecentra
+ l.de/konzert/fine-r-i-p/
+LOCATION:Café Central\, Bahnhofstraße 19\, 69469 Weinheim
+URL:https://cafecentral.de/konzert/fine-r-i-p/
+CATEGORIES:rock,small-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-bensheim-john-diva-the-rockets-of-love-your-favorite-drug@e
+ vents-search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20270109T200000
+DTEND;TZID=Europe/Berlin:20270109T220000
+SUMMARY:John Diva & The Rockets of Love: Your Favorite Drug
+DESCRIPTION:80s-style glam / hard rock band touring its fourth album\nHour
+ s: doors 19:00\, start 20:00\nPrice: 36 EUR (box office 40 EUR)\nStatus: 
+ ok (official)\nhttps://www.rex-ticketshop.de/tickets/index.php?id=1469
+LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
+URL:https://www.rex-ticketshop.de/tickets/index.php?id=1469
+CATEGORIES:hard-rock,glam-rock,rock,small-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-morlenbach-the-great-sea-blasphemous-rites-over-weiher@even
+ ts-search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20270130T191500
+DTEND;TZID=Europe/Berlin:20270130T211500
+SUMMARY:The Great Sea: Blasphemous Rites Over Weiher
+DESCRIPTION:German atmospheric black metal album release show with three s
+ upport bands\nwith Impalement\, Streams Of Blood\, Nail by Nail\nHours: d
+ oors 18:30\, start 19:15\nPrice: 30 EUR + fees\nStatus: ok (official)\nht
+ tps://live-music-hall-weiher.de/veranstaltung/the-great-sea-blasphemous-r
+ ites-over-weiher-album-release/
+LOCATION:LIVE MUSIC HALL Weiher\, Hauptstraße 73\, 69509 Mörlenbach-Weih
+ er
+URL:https://live-music-hall-weiher.de/veranstaltung/the-great-sea-blasphem
+ ous-rites-over-weiher-album-release/
+CATEGORIES:metal,black-metal,small-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-bensheim-rodgau-monotones@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20270205T200000
+DTEND;TZID=Europe/Berlin:20270205T220000
+SUMMARY:Rodgau Monotones
+DESCRIPTION:Hessian German-rock veterans with all their hits\nreplacement 
+ date for 13 Feb 2026\nHours: doors 19:00\, start 20:00\nPrice: 30.50 EUR 
+ (box office 35 EUR)\nStatus: ok (official)\nhttps://www.rex-ticketshop.de
+ /tickets/index.php?id=1311
+LOCATION:Musiktheater Rex\, Fabrikstraße 10\, 64625 Bensheim
+URL:https://www.rex-ticketshop.de/tickets/index.php?id=1311
+CATEGORIES:rock,small-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-karlsruhe-gdg-devfest-karlsruhe-2026@events-search
@@ -2392,7 +2450,7 @@ CATEGORIES:aws,meetup,cloud,kubernetes,on-site
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-rhein-neckar-phpugmrn-06-26@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Berlin:20261210T190000
 DTEND;TZID=Europe/Berlin:20261210T210000
 SUMMARY:PHPUGMRN 06/26
@@ -2472,7 +2530,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-karlsruhe-net-user-group-karlsruhe-december-meetup@events-s
  earch
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:.NET User Group Karlsruhe: December meetup (unconfirmed)
@@ -2560,7 +2618,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-karlsruhe-net-user-group-karlsruhe-november-meetup@events-s
  earch
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:.NET User Group Karlsruhe: November meetup (unconfirmed)
@@ -2610,5 +2668,22 @@ DESCRIPTION:monthly Linux regulars' table in Worms\nGerman; first Tuesday
 LOCATION:Times Café\, Ludwigsplatz 1\, 67547 Worms
 URL:https://wolust.de/
 CATEGORIES:meetup,on-site,devops
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-heidelberg-knowledge-graph-ai-hub-heidelberg-the-context-la
+ yer-for-ai@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Berlin:20261203T183000
+DTEND;TZID=Europe/Berlin:20261203T203000
+SUMMARY:Knowledge Graph & AI Hub Heidelberg: The Context Layer for AI
+DESCRIPTION:talks on knowledge graphs and semantic layers as context for L
+ LMs and agents\nEnglish listing; price not stated; Christmas market after
+ wards\nHours: 18:30-21:30\nPrice: n/a\nStatus: ok (official)\nhttps://www
+ .meetup.com/heidelberg-knowledge-graph-ai-hub/events/317202808/
+LOCATION:Tink Tank Spaces (Co-Working Landfried)\, Bergheimer Str. 147 (EG
+ \, F-Section)\, 69115 Heidelberg
+URL:https://www.meetup.com/heidelberg-knowledge-graph-ai-hub/events/317202
+ 808/
+CATEGORIES:meetup,on-site,english,ai,agents,data
 END:VEVENT
 END:VCALENDAR

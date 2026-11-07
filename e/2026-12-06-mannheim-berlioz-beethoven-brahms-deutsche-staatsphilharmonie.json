@@ -1,0 +1,34 @@
+{
+ "id": "2026-12-06-mannheim-berlioz-beethoven-brahms-deutsche-staatsphilharmonie",
+ "checked": "2026-11-07",
+ "name": "Berlioz | Beethoven | Brahms: Deutsche Staatsphilharmonie",
+ "description": "Beethoven Piano Concerto No. 4 with Alexander Gadjiev, Brahms Symphony No. 3",
+ "start": "2026-12-06",
+ "end": "2026-12-06",
+ "hours": "18:00",
+ "place": "Rosengarten Musensaal",
+ "address": "Rosengartenplatz 2, 68161 Mannheim",
+ "city": "Mannheim",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.staatsphilharmonie.de/de/programm/berlioz-beethoven-brahms/2181",
+ "source": "official",
+ "rating": "4.4",
+ "tags": [
+  "classical",
+  "orchestra"
+ ],
+ "details": "Second Mannheim subscription concert of the Deutsche Staatsphilharmonie Rheinland-Pfalz, conducted by its artistic partner Julian Rachlin: Berlioz's overture Le carnaval romain, Beethoven's Piano Concerto No. 4 in G major with Alexander Gadjiev, and Brahms's Symphony No. 3 in F major.\n\nSunday 18:00 in the Musensaal of the Rosengarten. Prices not on the orchestra page; tickets via Reservix.",
+ "firstSeen": "2026-11-07",
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:06:22.447Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Berlioz+%7C+Beethoven+%7C+Brahms%3A+Deutsche+Staatsphilharmonie&dates=20261206T180000%2F20261206T200000&details=Beethoven+Piano+Concerto+No.+4+with+Alexander+Gadjiev%2C+Brahms+Symphony+No.+3%0AHours%3A+18%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.staatsphilharmonie.de%2Fde%2Fprogramm%2Fberlioz-beethoven-brahms%2F2181&location=Rosengarten+Musensaal%2C+Rosengartenplatz+2%2C+68161+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rosengartenplatz%202%2C%2068161%20Mannheim",
+ "priceValue": null
+}

@@ -4,29 +4,60 @@
  "description": "town Christmas market",
  "start": "2026-11-28",
  "end": "2026-11-29",
- "hours": "n/a",
- "place": "Town centre",
- "address": "n/a",
+ "hours": "all day (no times published)",
+ "place": "Georgi-Markt-Platz, Leimen-Mitte",
+ "address": "Georgi-Markt-Platz, 69181 Leimen",
  "city": "Leimen",
  "price": "free",
  "size": "small",
- "status": "unconfirmed",
- "link": "https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim",
- "source": "freizeitmonster.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.leimen.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/2390/weihnachtsmarkt-leimen-mitte-2026",
+ "source": "official",
+ "checked": "2026-11-07",
  "tags": [
   "christmas-market"
  ],
- "details": "Christmas market in Leimen over the first Advent weekend. Dates from the freizeitmonster.de overview; opening hours not published there, check the town's page before going.",
+ "details": "The town Christmas market of Leimen-Mitte on the Georgi-Markt-Platz over the first Advent weekend, organised by the town of Leimen.\n\nThe town calendar lists both days as \"all day\" without exact hours or programme; free entry.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.868Z",
- "history": [],
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:06:22.447Z",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "at": "2026-11-07T21:06:22.447Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "all day (no times published)"
+    ],
+    "place": [
+     "Town centre",
+     "Georgi-Markt-Platz, Leimen-Mitte"
+    ],
+    "address": [
+     "n/a",
+     "Georgi-Markt-Platz, 69181 Leimen"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim",
+     "https://www.leimen.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender/2390/weihnachtsmarkt-leimen-mitte-2026"
+    ],
+    "source": [
+     "freizeitmonster.de",
+     "official"
+    ]
+   }
+  }
+ ],
  "topic": "local-events",
  "groups": [
   "christmas"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Leimener+Weihnachtsmarkt&dates=20261128%2F20261130&details=town+Christmas+market%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+unconfirmed+%28freizeitmonster.de%29%0Ahttps%3A%2F%2Ffreizeitmonster.de%2Fblog%2Fweihnachtsmaerkte-schriesheim&location=Town+centre%2C+Leimen&ctz=Europe%2FBerlin",
- "mapsLink": "https://www.google.com/maps/search/?api=1&query=Town%20centre%2C%20Leimen",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Leimener+Weihnachtsmarkt&dates=20261128%2F20261130&details=town+Christmas+market%0AHours%3A+all+day+%28no+times+published%29%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.leimen.de%2Ffreizeit-tourismus%2Fveranstaltungen%2Fveranstaltungskalender%2F2390%2Fweihnachtsmarkt-leimen-mitte-2026&location=Georgi-Markt-Platz%2C+Leimen-Mitte%2C+Georgi-Markt-Platz%2C+69181+Leimen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Georgi-Markt-Platz%2C%2069181%20Leimen",
  "priceValue": 0
 }

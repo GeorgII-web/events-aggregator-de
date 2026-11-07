@@ -1,0 +1,42 @@
+{
+ "id": "2026-12-03-heidelberg-knowledge-graph-ai-hub-heidelberg-the-context-layer-for-ai",
+ "name": "Knowledge Graph & AI Hub Heidelberg: The Context Layer for AI",
+ "description": "talks on knowledge graphs and semantic layers as context for LLMs and agents",
+ "start": "2026-12-03",
+ "end": "2026-12-03",
+ "hours": "18:30-21:30",
+ "place": "Tink Tank Spaces (Co-Working Landfried)",
+ "address": "Bergheimer Str. 147 (EG, F-Section), 69115 Heidelberg",
+ "city": "Heidelberg",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.meetup.com/heidelberg-knowledge-graph-ai-hub/events/317202808/",
+ "source": "official",
+ "checked": "2026-11-07",
+ "rating": "4.9",
+ "website": "http://www.tink-tank.de/",
+ "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tink+Tank+Spaces+Bergheimer+Str.+147+Heidelberg",
+ "note": "English listing; price not stated; Christmas market afterwards",
+ "tags": [
+  "meetup",
+  "on-site",
+  "english",
+  "ai",
+  "agents",
+  "data"
+ ],
+ "details": "Evening meetup of the Knowledge Graph & AI Hub Heidelberg on how knowledge graphs and semantic layers give LLMs and AI agents verifiable context. Speakers: Denny Vrandečić (co-creator of Wikidata) with \"Beyond Graphs: Knowledge Representation in the Age of LLMs\", Andrea Splendiani (IQVIA) and Sebastian Schmidt (Digital Science).\n\nTopics: grounding LLM answers in business knowledge, where a semantic layer sits between data sources and AI, building context-aware agents that run securely in production. Aimed at data and knowledge engineers, architects and AI practitioners; newcomers welcome. Afterwards the group moves on to the Heidelberg Christmas market. Price and language are not stated on the Meetup page (listing in English); RSVP on Meetup.",
+ "firstSeen": "2026-11-07",
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:01:41.351Z",
+ "history": [],
+ "topic": "it-events",
+ "groups": [
+  "tech",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Knowledge+Graph+%26+AI+Hub+Heidelberg%3A+The+Context+Layer+for+AI&dates=20261203T183000%2F20261203T203000&details=talks+on+knowledge+graphs+and+semantic+layers+as+context+for+LLMs+and+agents%0AEnglish+listing%3B+price+not+stated%3B+Christmas+market+afterwards%0AHours%3A+18%3A30-21%3A30%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meetup.com%2Fheidelberg-knowledge-graph-ai-hub%2Fevents%2F317202808%2F&location=Tink+Tank+Spaces+%28Co-Working+Landfried%29%2C+Bergheimer+Str.+147+%28EG%2C+F-Section%29%2C+69115+Heidelberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Tink+Tank+Spaces+Bergheimer+Str.+147+Heidelberg",
+ "priceValue": null
+}

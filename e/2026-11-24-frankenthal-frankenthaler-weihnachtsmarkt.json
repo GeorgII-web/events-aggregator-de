@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-24-frankenthal-frankenthaler-weihnachtsmarkt",
+ "checked": "2026-11-07",
+ "name": "Frankenthaler Weihnachtsmarkt",
+ "description": "town Christmas market on the town hall square",
+ "start": "2026-11-24",
+ "end": "2026-12-29",
+ "dateNote": "closed 24-26 Dec",
+ "hours": "daily 11-21",
+ "place": "Rathausplatz",
+ "address": "Rathausplatz, 67227 Frankenthal (Pfalz)",
+ "city": "Frankenthal",
+ "price": "free",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://www.festivalsindeutschland.de/festival/frankenthaler-weihnachtsmarkt",
+ "source": "festivalsindeutschland.de",
+ "website": "https://www.frankenthal.de/weihnachtsmarkt",
+ "tags": [
+  "christmas-market"
+ ],
+ "details": "The Christmas market of Frankenthal on the Rathausplatz with a stage in front of the museum, rotating craft stalls and food stands; in the Erkenbert ruin a children's winter fair (ice-stock shooting and more) in December.\n\nDaily 11-21, closed 24-26 December, free entry. 2026 dates from an event directory; the town page still shows the 2025 programme with the same hours.",
+ "firstSeen": "2026-11-07",
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:06:22.447Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "christmas"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frankenthaler+Weihnachtsmarkt&dates=20261124%2F20261230&details=town+Christmas+market+on+the+town+hall+square%0ADates%3A+closed+24-26+Dec%0AHours%3A+daily+11-21%0APrice%3A+free%0AStatus%3A+unconfirmed+%28festivalsindeutschland.de%29%0Ahttps%3A%2F%2Fwww.festivalsindeutschland.de%2Ffestival%2Ffrankenthaler-weihnachtsmarkt&location=Rathausplatz%2C+67227+Frankenthal+%28Pfalz%29&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rathausplatz%2C%2067227%20Frankenthal%20(Pfalz)",
+ "priceValue": 0
+}

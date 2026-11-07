@@ -1,0 +1,33 @@
+{
+ "id": "2026-12-13-ladenburg-sebastianskapelle-ladenburg-guided-tour",
+ "checked": "2026-11-07",
+ "name": "Sebastianskapelle Ladenburg: guided tour",
+ "description": "30-minute tour of the former episcopal court chapel with medieval wall paintings",
+ "start": "2026-12-13",
+ "end": "2026-12-13",
+ "hours": "14:00-14:30",
+ "place": "Sebastianskapelle",
+ "address": "Amtshof, 68526 Ladenburg",
+ "city": "Ladenburg",
+ "price": "5 EUR",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.ladenburg.de/de/Aktuelles/Veranstaltungskalender/Veranstaltung?view=publish&item=eventDate&id=4333",
+ "source": "official",
+ "tags": [
+  "guided-tour",
+  "heritage"
+ ],
+ "details": "Short tour of the Sebastianskapelle, the former episcopal court chapel of Ladenburg, by the Heimatbund: foundations from the early 11th century, choir and most wall paintings from the second half of the 15th century, altars from the 18th century (currently covered for restoration).\n\nSunday 14:00-14:30, meeting point at the chapel entrance on the Amtshof. 5 EUR, of which 1 EUR goes to the restoration of the wall paintings. Tours run every second Sunday of the month.",
+ "firstSeen": "2026-11-07",
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:06:22.447Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "castle"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sebastianskapelle+Ladenburg%3A+guided+tour&dates=20261213T140000%2F20261213T160000&details=30-minute+tour+of+the+former+episcopal+court+chapel+with+medieval+wall+paintings%0AHours%3A+14%3A00-14%3A30%0APrice%3A+5+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.ladenburg.de%2Fde%2FAktuelles%2FVeranstaltungskalender%2FVeranstaltung%3Fview%3Dpublish%26item%3DeventDate%26id%3D4333&location=Sebastianskapelle%2C+Amtshof%2C+68526+Ladenburg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Amtshof%2C%2068526%20Ladenburg",
+ "priceValue": 5
+}

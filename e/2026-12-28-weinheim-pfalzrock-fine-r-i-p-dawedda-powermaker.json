@@ -1,0 +1,40 @@
+{
+ "id": "2026-12-28-weinheim-pfalzrock-fine-r-i-p-dawedda-powermaker",
+ "name": "Pfalzrock: Fine R.I.P., Dawedda, Powermaker",
+ "description": "regional rock night with three Palatinate / Ladenburg bands",
+ "start": "2026-12-28",
+ "end": "2026-12-28",
+ "hours": "doors 19:00, start 20:00",
+ "place": "Café Central",
+ "address": "Bahnhofstraße 19, 69469 Weinheim",
+ "city": "Weinheim",
+ "price": "24 EUR (box office)",
+ "size": "small",
+ "status": "ok",
+ "link": "https://cafecentral.de/konzert/fine-r-i-p/",
+ "source": "official",
+ "checked": "2026-11-07",
+ "note": "local bands between Christmas and New Year",
+ "details": "Between the holidays Café Central hosts a regional rock night billed as \"Pfalzrock // Ladenburg Rock\" with Fine R.I.P., Dawedda and Powermaker. The venue page gives no band descriptions, only doors 19:00, start 20:00 and 24 EUR at the box office (tickets available as of 7 Nov); genre details beyond \"rock\" are not confirmed.",
+ "tags": [
+  "rock",
+  "small-concert"
+ ],
+ "bands": [
+  "Fine R.I.P.",
+  "Dawedda",
+  "Powermaker"
+ ],
+ "firstSeen": "2026-11-07",
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:03:05.239Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "live",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pfalzrock%3A+Fine+R.I.P.%2C+Dawedda%2C+Powermaker&dates=20261228T200000%2F20261228T220000&details=regional+rock+night+with+three+Palatinate+%2F+Ladenburg+bands%0Alocal+bands+between+Christmas+and+New+Year%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+24+EUR+%28box+office%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fcafecentral.de%2Fkonzert%2Ffine-r-i-p%2F&location=Caf%C3%A9+Central%2C+Bahnhofstra%C3%9Fe+19%2C+69469+Weinheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bahnhofstra%C3%9Fe%2019%2C%2069469%20Weinheim",
+ "priceValue": 24
+}

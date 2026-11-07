@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-29-schriesheim-advent-concert-of-the-schriesheimer-kammerorchester",
+ "checked": "2026-11-07",
+ "name": "Advent concert of the Schriesheimer Kammerorchester",
+ "description": "chamber orchestra Advent concert: Janáček, Glazunov, Bellini oboe concerto, Manfredini",
+ "start": "2026-11-29",
+ "end": "2026-11-29",
+ "hours": "18:00-19:30 (doors 17:30)",
+ "place": "Zehntkeller",
+ "address": "Obere Schulgasse 5, 69198 Schriesheim",
+ "city": "Schriesheim",
+ "price": "free (donation)",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.schriesheim.de/de/Aktuelles/Veranstaltungskalender/Veranstaltung?view=publish&item=eventDate&id=2426",
+ "source": "official",
+ "tags": [
+  "classical",
+  "chamber",
+  "orchestra"
+ ],
+ "details": "The Schriesheimer Kammerorchester under Christian Weidt plays its first-Advent concert in the vaulted Zehntkeller: Janáček's Idyll for strings, Glazunov's Theme and Variations, Bellini's Oboe Concerto in E-flat (soloist Constantin Erzgräber) and Manfredini's Christmas Concerto.\n\nSunday 18:00-19:30, doors and drinks from 17:30 with mulled wine and homemade biscuits. Free entry, donations welcome.",
+ "firstSeen": "2026-11-07",
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:06:22.447Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "classical"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Advent+concert+of+the+Schriesheimer+Kammerorchester&dates=20261129T180000%2F20261129T200000&details=chamber+orchestra+Advent+concert%3A+Jan%C3%A1%C4%8Dek%2C+Glazunov%2C+Bellini+oboe+concerto%2C+Manfredini%0AHours%3A+18%3A00-19%3A30+%28doors+17%3A30%29%0APrice%3A+free+%28donation%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.schriesheim.de%2Fde%2FAktuelles%2FVeranstaltungskalender%2FVeranstaltung%3Fview%3Dpublish%26item%3DeventDate%26id%3D2426&location=Zehntkeller%2C+Obere+Schulgasse+5%2C+69198+Schriesheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Obere%20Schulgasse%205%2C%2069198%20Schriesheim",
+ "priceValue": 0
+}

@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-29-ladenburg-vorweihnachtliches-konzert-der-musikschule-ladenburg",
+ "checked": "2026-11-07",
+ "name": "Vorweihnachtliches Konzert der Musikschule Ladenburg",
+ "description": "pre-Christmas concert of the town music school's instrumental and vocal classes",
+ "start": "2026-11-29",
+ "end": "2026-11-29",
+ "hours": "17:00",
+ "place": "Evangelische Stadtkirche",
+ "address": "Kirchenstraße 28, 68526 Ladenburg",
+ "city": "Ladenburg",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.ladenburg.de/de/Aktuelles/Veranstaltungskalender/Veranstaltung?view=publish&item=eventDate&id=3549",
+ "source": "official",
+ "rating": "4.7",
+ "tags": [
+  "student-concert",
+  "church-concert",
+  "classical"
+ ],
+ "details": "The instrumental and vocal classes of the Musikschule der Stadt Ladenburg play a varied pre-Christmas programme in the Protestant town church.\n\nSunday 17:00, during the Ladenburg Christmas market weekend. Programme and price not published.",
+ "firstSeen": "2026-11-07",
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:06:22.447Z",
+ "history": [],
+ "topic": "local-events",
+ "groups": [
+  "church",
+  "classical",
+  "student"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vorweihnachtliches+Konzert+der+Musikschule+Ladenburg&dates=20261129T170000%2F20261129T190000&details=pre-Christmas+concert+of+the+town+music+school%27s+instrumental+and+vocal+classes%0AHours%3A+17%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.ladenburg.de%2Fde%2FAktuelles%2FVeranstaltungskalender%2FVeranstaltung%3Fview%3Dpublish%26item%3DeventDate%26id%3D3549&location=Evangelische+Stadtkirche%2C+Kirchenstra%C3%9Fe+28%2C+68526+Ladenburg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kirchenstra%C3%9Fe%2028%2C%2068526%20Ladenburg",
+ "priceValue": null
+}

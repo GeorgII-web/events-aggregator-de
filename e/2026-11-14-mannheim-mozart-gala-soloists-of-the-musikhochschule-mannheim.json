@@ -3,35 +3,54 @@
  "name": "Mozart-Gala: soloists of the Musikhochschule Mannheim",
  "start": "2026-11-14",
  "end": "2026-11-14",
- "hours": "n/a",
+ "hours": "19:00",
  "place": "Rittersaal, Barockschloss Mannheim",
  "address": "Schloss, Bismarckstraße, 68161 Mannheim",
  "city": "Mannheim",
  "price": "from 25 EUR",
  "size": "small",
  "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/mozart-gala/",
  "source": "mvp.de",
- "checked": "2026-11-01",
+ "checked": "2026-11-07",
  "tags": [
   "classical",
   "student-concert",
   "orchestra"
  ],
  "rating": "4.5",
- "note": "conductor Cornelius Meister",
+ "note": "conductor Cornelius Meister; Mozart soloist prize 2026",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
+ "lastSeen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "at": "2026-11-07T21:06:22.447Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "19:00"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+     "https://www.mvp.de/mannheim/veranstaltungen/mozart-gala/"
+    ],
+    "note": [
+     "conductor Cornelius Meister",
+     "conductor Cornelius Meister; Mozart soloist prize 2026"
+    ]
+   }
+  }
+ ],
  "description": "Mozart arias and concertos by music students with orchestra",
- "updatedAt": "2026-11-01",
- "details": "A Mozart gala in the Rittersaal, the grand baroque hall of Mannheim Palace: students of the Musikhochschule Mannheim sing and play arias and concerto movements by Mozart with orchestra, conducted by Cornelius Meister.\n\nA chance to hear the next generation of musicians in a historic setting. Tickets from 25 EUR.",
+ "updatedAt": "2026-11-07T21:06:22.447Z",
+ "details": "A Mozart gala in the Rittersaal, the grand baroque hall of Mannheim Palace: soloists of the Musikhochschule Mannheim sing and play Mozart arias (Figaro, Zauberflöte, Mitridate, La finta giardiniera) and concertos (oboe KV 314, horn no. 2, piano \"Jeunehomme\" KV 271) with orchestra under Cornelius Meister. The Mozart-Gesellschaft Kurpfalz awards its Mozart soloist prize 2026 during the evening.\n\nSaturday 19:00, tickets from 25 EUR via Reservix. Facts from the mvp.de listing; not confirmed on an official organiser page.",
  "topic": "local-events",
  "groups": [
   "classical",
   "student"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mozart-Gala%3A+soloists+of+the+Musikhochschule+Mannheim&dates=20261114%2F20261115&details=Mozart+arias+and+concertos+by+music+students+with+orchestra%0Aconductor+Cornelius+Meister%0AHours%3A+n%2Fa%0APrice%3A+from+25+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Rittersaal%2C+Barockschloss+Mannheim%2C+Schloss%2C+Bismarckstra%C3%9Fe%2C+68161+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mozart-Gala%3A+soloists+of+the+Musikhochschule+Mannheim&dates=20261114T190000%2F20261114T210000&details=Mozart+arias+and+concertos+by+music+students+with+orchestra%0Aconductor+Cornelius+Meister%3B+Mozart+soloist+prize+2026%0AHours%3A+19%3A00%0APrice%3A+from+25+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fmozart-gala%2F&location=Rittersaal%2C+Barockschloss+Mannheim%2C+Schloss%2C+Bismarckstra%C3%9Fe%2C+68161+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Schloss%2C%20Bismarckstra%C3%9Fe%2C%2068161%20Mannheim",
  "priceValue": 25
 }

@@ -3,16 +3,16 @@
  "name": "Royal Scottish National Orchestra",
  "start": "2026-11-18",
  "end": "2026-11-18",
- "hours": "n/a",
+ "hours": "20:00",
  "place": "Rosengarten Mozartsaal",
  "address": "Rosengartenplatz 2, 68161 Mannheim",
  "city": "Mannheim",
  "price": "from 69 EUR",
  "size": "big",
  "status": "unconfirmed",
- "link": "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+ "link": "https://www.mvp.de/mannheim/veranstaltungen/royal-scottish-national-orchestra-o-scheps-t-sondergard/",
  "source": "mvp.de",
- "checked": "2026-11-01",
+ "checked": "2026-11-07",
  "tags": [
   "classical",
   "orchestra"
@@ -20,16 +20,31 @@
  "rating": "4.4",
  "note": "O. Scheps, T. Søndergård",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "history": [],
+ "lastSeen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "at": "2026-11-07T21:06:22.447Z",
+   "changes": {
+    "hours": [
+     "n/a",
+     "20:00"
+    ],
+    "link": [
+     "https://www.mvp.de/mannheim/veranstaltungen/klassik-kirchen-musik/",
+     "https://www.mvp.de/mannheim/veranstaltungen/royal-scottish-national-orchestra-o-scheps-t-sondergard/"
+    ]
+   }
+  }
+ ],
  "description": "symphony concert of a touring Scottish orchestra",
- "updatedAt": "2026-11-01",
- "details": "The Royal Scottish National Orchestra on tour, conducted by Thomas Søndergård, with soloist O. Scheps, in the Mozartsaal of the Rosengarten in Mannheim.\n\nTickets from 69 EUR.",
+ "updatedAt": "2026-11-07T21:06:22.447Z",
+ "details": "The Royal Scottish National Orchestra on its German tour under its music director Thomas Søndergård, with pianist Olga Scheps, in the Mozartsaal of the Rosengarten. The tour programme: Tchaikovsky (Polonaise from Eugene Onegin), Rachmaninov Piano Concerto No. 2 and Brahms Symphony No. 4.\n\nWednesday 20:00, tickets from 69 EUR. Date and soloist from listings (mvp.de, the orchestra's tour announcement); no venue page checked.",
  "topic": "local-events",
  "groups": [
   "classical"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Royal+Scottish+National+Orchestra&dates=20261118%2F20261119&details=symphony+concert+of+a+touring+Scottish+orchestra%0AO.+Scheps%2C+T.+S%C3%B8nderg%C3%A5rd%0AHours%3A+n%2Fa%0APrice%3A+from+69+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Fklassik-kirchen-musik%2F&location=Rosengarten+Mozartsaal%2C+Rosengartenplatz+2%2C+68161+Mannheim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Royal+Scottish+National+Orchestra&dates=20261118T200000%2F20261118T220000&details=symphony+concert+of+a+touring+Scottish+orchestra%0AO.+Scheps%2C+T.+S%C3%B8nderg%C3%A5rd%0AHours%3A+20%3A00%0APrice%3A+from+69+EUR%0AStatus%3A+unconfirmed+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmannheim%2Fveranstaltungen%2Froyal-scottish-national-orchestra-o-scheps-t-sondergard%2F&location=Rosengarten+Mozartsaal%2C+Rosengartenplatz+2%2C+68161+Mannheim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rosengartenplatz%202%2C%2068161%20Mannheim",
  "priceValue": 69
 }

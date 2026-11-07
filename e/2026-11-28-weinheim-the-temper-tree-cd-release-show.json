@@ -1,0 +1,51 @@
+{
+ "id": "2026-11-28-weinheim-the-temper-tree-cd-release-show",
+ "name": "The Temper Tree: CD release show",
+ "description": "Heidelberg rock band presents its third album",
+ "start": "2026-11-28",
+ "end": "2026-11-28",
+ "hours": "doors 19:00, start 20:00",
+ "place": "Café Central",
+ "address": "Bahnhofstraße 19, 69469 Weinheim",
+ "city": "Weinheim",
+ "price": "15 EUR (box office)",
+ "size": "small",
+ "status": "ok",
+ "link": "https://cafecentral.de/konzert/the-temper-tree/",
+ "source": "official",
+ "checked": "2026-11-07",
+ "note": "support: Sit On My Face",
+ "details": "Release show for \"this was only the best worst day of your life yet\", the third album of The Temper Tree: rock riffs with danceable pop beats and English lyrics. Singer/guitarist David Becker and guitarist Matthias Heinz led the Heidelberg metal band Thorn.Eleven in the early 2000s; drummer Kai Bergerin played in the death metal band Disbelief.\n\n15 EUR at the box office, tickets available as of 7 Nov.",
+ "tags": [
+  "rock",
+  "alternative",
+  "small-concert"
+ ],
+ "bands": [
+  "The Temper Tree",
+  "Sit On My Face"
+ ],
+ "firstSeen": "2026-11-07",
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:03:46.977Z",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "at": "2026-11-07T21:03:46.977Z",
+   "changes": {
+    "description": [
+     "Heidelberg rock band presents its third album; support Sit On My Face",
+     "Heidelberg rock band presents its third album"
+    ]
+   }
+  }
+ ],
+ "topic": "rock-concerts",
+ "groups": [
+  "live",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Temper+Tree%3A+CD+release+show&dates=20261128T200000%2F20261128T220000&details=Heidelberg+rock+band+presents+its+third+album%0Asupport%3A+Sit+On+My+Face%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+15+EUR+%28box+office%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fcafecentral.de%2Fkonzert%2Fthe-temper-tree%2F&location=Caf%C3%A9+Central%2C+Bahnhofstra%C3%9Fe+19%2C+69469+Weinheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bahnhofstra%C3%9Fe%2019%2C%2069469%20Weinheim",
+ "priceValue": 15
+}

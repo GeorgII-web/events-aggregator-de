@@ -1,0 +1,38 @@
+{
+ "id": "2027-02-05-bensheim-rodgau-monotones",
+ "name": "Rodgau Monotones",
+ "description": "Hessian German-rock veterans with all their hits",
+ "start": "2027-02-05",
+ "end": "2027-02-05",
+ "hours": "doors 19:00, start 20:00",
+ "place": "Musiktheater Rex",
+ "address": "Fabrikstraße 10, 64625 Bensheim",
+ "city": "Bensheim",
+ "price": "30.50 EUR (box office 35 EUR)",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.rex-ticketshop.de/tickets/index.php?id=1311",
+ "source": "official",
+ "checked": "2026-11-07",
+ "note": "replacement date for 13 Feb 2026",
+ "details": "The Rodgau Monotones, Hessian rock band in the Rockpalast \"Hall of Fame\", return to the Rex on carnival Friday with a mixed set of their hits and newer songs. The show is the replacement for the postponed 13 Feb 2026 date.\n\nVenue shop: 30.50 EUR in advance, 35 EUR at the box office.",
+ "tags": [
+  "rock",
+  "small-concert"
+ ],
+ "bands": [
+  "Rodgau Monotones"
+ ],
+ "firstSeen": "2026-11-07",
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:03:05.239Z",
+ "history": [],
+ "topic": "rock-concerts",
+ "groups": [
+  "live",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rodgau+Monotones&dates=20270205T200000%2F20270205T220000&details=Hessian+German-rock+veterans+with+all+their+hits%0Areplacement+date+for+13+Feb+2026%0AHours%3A+doors+19%3A00%2C+start+20%3A00%0APrice%3A+30.50+EUR+%28box+office+35+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rex-ticketshop.de%2Ftickets%2Findex.php%3Fid%3D1311&location=Musiktheater+Rex%2C+Fabrikstra%C3%9Fe+10%2C+64625+Bensheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Fabrikstra%C3%9Fe%2010%2C%2064625%20Bensheim",
+ "priceValue": 30.5
+}

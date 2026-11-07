@@ -1,32 +1,72 @@
 {
  "id": "2026-12-05-dossenheim-adventsmarkt-dossenheim",
  "name": "Adventsmarkt Dossenheim",
- "description": "village Advent market",
+ "description": "\"Dossenheimer Weihnachtstrubel\": the village Christmas market on the town hall square",
  "start": "2026-12-05",
  "end": "2026-12-06",
- "hours": "n/a",
- "place": "Village centre",
- "address": "n/a",
+ "hours": "Sat from 14:00, Sun from 13:00",
+ "place": "Rathausplatz",
+ "address": "Rathausplatz 1, 69221 Dossenheim",
  "city": "Dossenheim",
  "price": "free",
  "size": "small",
- "status": "unconfirmed",
- "link": "https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim",
- "source": "freizeitmonster.de",
- "checked": "2026-11-01",
+ "status": "ok",
+ "link": "https://www.dossenheim.de/freizeit-erlebnis/veranstaltungskalender/829/dossenheimer-weihnachtstrubel",
+ "source": "official",
+ "checked": "2026-11-07",
  "tags": [
   "christmas-market"
  ],
- "details": "Advent market in Dossenheim on the Bergstraße. Dates from the freizeitmonster.de overview; opening hours not published there, check the town's page before going.",
+ "details": "The village Christmas market of Dossenheim, officially called \"Dossenheimer Weihnachtstrubel\", on the town hall square on the second Advent weekend, organised by the municipality.\n\nSaturday from 14:00, Sunday from 13:00; no end time or programme published. A separate small church Advent market takes place on Sunday 29 November from 14:00 at the Catholic church.",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T15:59:33.868Z",
- "history": [],
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:06:22.447Z",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "at": "2026-11-07T21:06:22.447Z",
+   "changes": {
+    "description": [
+     "village Advent market",
+     "\"Dossenheimer Weihnachtstrubel\": the village Christmas market on the town hall square"
+    ],
+    "hours": [
+     "n/a",
+     "Sat from 14:00, Sun from 13:00"
+    ],
+    "place": [
+     "Village centre",
+     "Rathausplatz"
+    ],
+    "address": [
+     "n/a",
+     "Rathausplatz 1, 69221 Dossenheim"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://freizeitmonster.de/blog/weihnachtsmaerkte-schriesheim",
+     "https://www.dossenheim.de/freizeit-erlebnis/veranstaltungskalender/829/dossenheimer-weihnachtstrubel"
+    ],
+    "source": [
+     "freizeitmonster.de",
+     "official"
+    ],
+    "note": [
+     null,
+     "official name: Dossenheimer Weihnachtstrubel"
+    ]
+   }
+  }
+ ],
+ "note": "official name: Dossenheimer Weihnachtstrubel",
  "topic": "local-events",
  "groups": [
   "christmas"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Adventsmarkt+Dossenheim&dates=20261205%2F20261207&details=village+Advent+market%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+unconfirmed+%28freizeitmonster.de%29%0Ahttps%3A%2F%2Ffreizeitmonster.de%2Fblog%2Fweihnachtsmaerkte-schriesheim&location=Village+centre%2C+Dossenheim&ctz=Europe%2FBerlin",
- "mapsLink": "https://www.google.com/maps/search/?api=1&query=Village%20centre%2C%20Dossenheim",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Adventsmarkt+Dossenheim&dates=20261205%2F20261207&details=%22Dossenheimer+Weihnachtstrubel%22%3A+the+village+Christmas+market+on+the+town+hall+square%0Aofficial+name%3A+Dossenheimer+Weihnachtstrubel%0AHours%3A+Sat+from+14%3A00%2C+Sun+from+13%3A00%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.dossenheim.de%2Ffreizeit-erlebnis%2Fveranstaltungskalender%2F829%2Fdossenheimer-weihnachtstrubel&location=Rathausplatz+1%2C+69221+Dossenheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rathausplatz%201%2C%2069221%20Dossenheim",
  "priceValue": 0
 }
